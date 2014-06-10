@@ -1,0 +1,49 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+@font-face { font-family: "Gentium"; font-style: normal; font-weight: normal;
+            src: url(GenBasR.ttf) }
+
+@font-face { font-family: "Gentium"; font-style: italic; font-weight: normal;
+            src: url(GenBasI.ttf) }
+
+@font-face { font-family: "Gentium"; font-style: normal; font-weight: bold;
+            src: url(GenBasB.ttf) }
+
+body, block {
+	font-family: Gentium;
+}
+
+hw {
+	font-size: 144%;
+	font-weight: bold;
+	color: maroon;
+}
+
+colo {
+	color: maroon;
+}
+
+colo:before, sn:before {
+	content:"\A"; white-space:pre;
+}
+
+block+hw:before {
+	content:"\A\A"; white-space:pre;
+}
+
+blockquote {
+  font-size: 78%;
+	line-height: 1.6;
+	margin: 5px 15px;
+}
+
+au {
+	margin-left: 20%;
+}
+
+u {
+	font-variant: small-caps;
+	underline: none;
+	text-decoration: none;
+}

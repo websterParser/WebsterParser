@@ -1,0 +1,604 @@
+                 WEBSTER FONTS
+                 =============
+
+          Fonts for the Webster 1913 Dictionary.
+          For version 0.50
+          Last edit May 5, 2001
+          ______________________________________
+ (This file contains some extended ASCII characters, and should be
+transmitted in binary mode)
+---------------------------------------------------------------------- 
+
+    This file describes a modified font for use in visualizing the
+text of the 1913 "Webster's Revised Unabridged Dictionary" (W1913),
+usable for the DOS operating system of IBM-compatible personal computers.
+The electronic version of that dictionary and this font were prepared by
+MICRA, Inc., Plainfield NJ, and are copyrighted (C) 1996 by MICRA, Inc.
+For details of permissions and restrictions on using these files, see
+the accompanying file "readme.web".
+    The special characters used in the electronic version of the Webster
+1913 are required for visualizing unusual characters used in the
+etymology and pronunciation fields of the dictionary, in a form
+comparable to the way they appear in the original.  Since there are
+more than 256 characters used in that dictionary, not all can be
+represented by single-byte codes, and are instead represented by
+SGML-style "short-form" symbols.  (rather than the "entity" format
+"&xx;"  The ampersand is used frequently, and we prefer to leave
+the "<" as the only "escape" character) of the type <x/ where x
+is a specific code for the symbol in the dictionary.
+See the "Short Form" section below for details about such characters.
+Note that the symbols used here are in some cases abbreviations
+(for compactness) of the ISO 8879 recommended symbols.  If necessary,
+the table below allows simple replacement by alternate encodings.
+    This symbol font can be loaded in IBM-compatible (x86) computers
+running the DOS operating system by using the "font.bat" command file
+in the "utils" directory.  The fonts files for 8x14 and 8x16 fonts are
+"web14.fnt" and "web16.fnt" respectively.
+    For those loading the Webster onto some machine other than an
+IBM-compatible running DOS, it will be necessary to provide a
+translation table, to convert these characters into a code that
+can be handled by that computer.  For this reason, I attach an
+"explanation" for each character, for those who cannot view
+the original DOS font.
+    The DOS-loadable font does not contain all of the characters needed
+to depict the etymologies or the pronunciations.  In addition to an
+absence of several characters used in the pronunciations, no Greek letters are
+included.  The Greek words appearing in the etymologies,
+when they are included, will be typed in a
+roman-letter transcription (See section on Greek transcription, below).
+Only a very few Greek words have been thus transcribed as of the
+present version (version 0.41).
+    Wherever the typists did not know the character to use, they
+usually inserted a reverse-video question mark (decimal 176).
+This appears in full-ASCII versions as <?/.  This mark was used both for
+characters in non-ASCII fonts, and for unreadable characters (i.e.,
+characters smeared in the original or distorted in the copies available
+to the typists. The type in the original was in many places smeared and
+illegible at the left and right page margins; occasionally, small
+parts of words were blotted out by plain white space).
+    A character table for the high-order characters appears below.
+Under that is a list and description of most of the special characters
+used in the Webster files.
+     Note that there are yet some characters used in the etymologies,
+and some other symbols, which are not in this list.  For example, the
+vowels with a double dot *underneath*, e.g. a (as in all) have no representation
+in this character set, and, where explicitly entered in the dictionary,
+are represented by <xdd/ where "x" is the letter, as in "<add/".
+
+ITALICS
+-------
+   In most places, italic font is represented by the tags <it>...</it>
+surrounding the italic text, or by some other tag which also implies
+italic font.  In the pronunciations, however, where italicized vowels 
+are used among non-italic and other special characters to indicate
+pronunciation, the special codes <ait/, <eit/, <iit/, <oit/, <uit/, 
+are also used to indicate the italicized vowel.
+
+DIACRITICS
+-------------
+     The European grave and acute accents are represented by the
+standard (IBM PC) high-order codes.  Other characters with diacritics
+are represented by special "entity" codes, and in some cases also
+are found in this special WEB1913 font, described below.
+     Vowels with a circle above (as in Swedish) are coded <xring/
+(x with a ring, or "degrees" mark over it); vowels with tilde over them
+are represented by <xtil/, where "x" is the vowel, as in <etil/ (<atil/
+also has code 238); letters with a dot above are represented by <xdot/
+-- letter with a dot below are represented by <xsdot/ ("subdot");
+vowels with the semi-long mark (a macron with a short perpendicular
+vertical stroke attached above) are represented by <xsl/; the
+circumflex vowels have codes on this list, but may also be represented
+as <xcir/; vowels with macrons above are <xmac/ (including <oomac/,
+the "oo" with an unbroken macron above the two letters, <aemac/ = the
+ligature ae with a macron [also 214 = \'d6], and <oemac/ the ligature
+oe with a macron [also 215 = \'d7]); vowels with umlauts or a crescent
+(breve) above have codes in this list, but may also be represented by
+<xum/ and <xcr/ respectively.  There is an occasional hacek or caron mark
+(an inverted circumflex) in the original; such letters are coded <xcar/.
+The o with a caron has code 213, but no others are in this font list.
+The diaeresis is treated typographically as identical to the umlaut.
+   A special modification, used only for poetry (see entry "saturnian verse"
+under "saturnian") is a vowel with a macron, in which the macron is lighter
+than the usual macron, signifying a stressed syllable which has a short
+vowel sound.  This is represented by <xsmac/ ("short mac").
+   Another special character used in pronunciations is an "n" with an underline (like
+a macron, but below the letter), used to represent the "ng" sound.  This is coded
+<nsm/ ("n sub-macron").  The ligated th used in pronunciations to depict the
+"th" sound of "the" is coded as <th/.
+    NOTE: the letter combinations "fi" and "fl" are invariably printed as the
+ligatures &filig; and &fllig;, but these ligatures are not marked as such
+in this transcription, and the two letters are left as individuals.
+
+SPECIAL SYMBOLS
+   The dagger <dag/, double dagger <ddag/, and paragraph mark <para/ are rarely used.
+    The double prime, or "seconds" of a degree is sometimes represented by
+a double "light accent" (code 183 = \'b7).  In other places, and in later
+versions, it is represented by <sec/ = hex a9, in the webfont.
+   The symbols "greater than" <gt/ and "less than" are encountered only
+once, but are distinguished from the right- and left-angle brackets
+(> and <) because of possible typographical differences in some fonts.
+   The schwa is symbolized by <schwa/.  It is not used in the 
+pronunciations, but is mentioned as a symbol.
+   The right-pointing arrow is <rarr/, consistent with ISO 8879.
+
+----------------------------------
+Table 1     
+----------------------------------
+Numbers
+ÐÐÐÐÐÐÐ                   Hex codes
+1       
+11                    (12 is a hard page break, 13 CR, 14 sect break)
+21    
+31   !"#  $%&'(         
+121 yz{|}  ~€‚         79-7d 7e-82
+131 ƒ„…†‡  ˆ‰Š‹Œ         83-87 88-8c
+141 Ž‘  ’“”•–         8d-91 92-96
+151 —˜™š›  œžŸ          97-9b 9c-a0
+161 ¡¢£¤¥  ¦§¨©ª         a1-a5 a6-aa
+171 «¬­®¯  °±²³´         ab-af b0-b4
+181 µ¶·¸¹  º»¼½¾         b5-b9 ba-be
+191 ¿ÀÁÂÃ  ÄÅÆÇÈ         bf-c3 c4-c8
+201 ÉÊËÌÍ  ÎÏÐÑÒ         c9-cd ce-d2
+211 ÓÔÕÖ×  ØÙÚÛÜ         d3-d7 d8-dc
+221 ÝÞßàá  âãäåæ         dd-e1 e2-e6
+231 çèéêë  ìíîïð         e7-eb ec-f0
+241 ñòóôõ  ö÷øùú         f1-f5 f6-fa
+251 ûüýþÿ                fb-ff
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Below is a complete list of the symbols used in the Webster ("webfont") 
+which are encoded in the special font listed above, together with
+corresponding symbols in ISO 8879 and Tex coding.  Much of this table was
+prepared by Rik Faith, to whom we express our appreciation.
+    The "nearest ASCII" equivalents are given for those who want to
+display the data as best one can in 7-bit simple ASCII symbols without
+using the "entity" symbols.
+=========================================================================
+----------------------------------
+Table 2     
+----------------------------------
+
+Comments: 
+  (1) The symbol in the "entity" column is the SGML-like symbol used in
+      the present Webster files; the symbol in the "ISO 8879" column is
+      the symbol for the same character given in "The user's guide to
+      ISO 8879" by Smith and Stutely.
+  (2) An asterisk "*" in the "entity" column means that this symbol and 
+code value is not used in any form in the Webster 1913 electronic version.
+  (3)  If no asterisk is in the "entity" column, and no other symbol is 
+there, this means that in the Webster, only the hexadecimal representation
+was used (e.g. for \'d8, \'bd, and  \'b8).
+  (4) \'b6 and \'b7, the heavy and light "accents", are never above a
+letter (these are not diacritical marks), but in-between letters, as the
+stress accent used in the headwords and pronunciations.  The accent
+*follows* the syllable accented.  The light accent \'b7 is also used as
+the "prime" in mathematical expressions (e.g. a\'b7 = "a prime"), or as
+ "minutes" in degrees-minutes-seconds, and when doubled (\'b7\'b7)
+serves as "double prime" in mathematical expressions, and as "seconds"
+in degrees-minutes-seconds.  The character \'a9 (<sec/ or &Prime;) is
+also used to represent the double prime.
+  (5) Although the semilong vowels are in the table (e.g. the "asl" 
+= "a semilong", most of the entries in the ASCII version dictionary
+use the <xsl/ symbol coding.  If you know of any printers' names for
+these, do let me know.
+  (6)  For some reason, the a breve and u breve have ISO codes (in the
+Latin-2 table), but the other vowels don't, in the Smith & Stutely book.
+Is this a mistake?
+  (7) The symbol <nsc/ is used for "N small capitals", used in
+pronunciations to represent the soun fo the nasal N in French words.
+  (8) A weak accent (when not in pronunciations) is symbolized by <prime/, the "minutes" (of a degree) symbol.  A strong accent is symbolized by <bprime/ ("bold prime", not an ISO entity).
+  (9) If you find any exceptions to these usage assertions, please
+let me know.
+----------------------------------------------------------------------------------------
+     webfont       ISO 8879    latin1/ascii    TeX    nearest     description
+------------------                                     ASCII
+oct dec hex entity             oct dec hex
+--------------------------------------------------------------------------------
+025  21  15  *                                   \S       *     section symbol
+
+074  60  3c          lt         074  60  3c     $<$       <     less than
+076  62  3e          gt         076  62  3e     $>$       >     greater than
+
+200 128  80 <Cced/   Ccedil     307 199  c7     \c{C}     C     C cedilla
+201 129  81 <uum/    uuml       374 252  fc     \"u       ue    u umlaut (diaeresis)
+202 130  82 <eacute/ eacute     351 233  e9     \'e       e     e acute
+203 131  83 <acir/   acirc      342 226  e2     \^a       a     a circumflex
+204 132  84 <aum/    auml       344 228  e4     \"a       ae    a umlaut (diaeresis)
+205 133  85 <agrave/ agrave     340 224  e0     \`a       a     a grave
+206 134  86 <aring/  aring      345 229  e5     \aa       a     a ring above
+207 135  87 <cced/   ccedil     347 231  e7     \c{c}     c     c cedilla
+210 136  88 <ecir/   ecirc      352 234  ea     \^e       e     e circumflex
+211 137  89 <eum/    euml       353 235  eb     \"e       e     e umlaut (diaeresis)
+212 138  8a <egrave/ egrave     350 232  e8     \`e       e     e grave
+213 139  8b <ium/    iuml       357 239  ef     \"i       i     i umlaut (diaeresis)
+214 140  8c <icir/   icirc      356 238  ee     \^i       i     i circumflex
+215 141  8d <igrave/ igrave     354 236  ec     \`i       i     i grave
+216 142  8e <Aum/    Auml                                 A     A umlaut
+217 143  8f          Aring                                A     A ring above
+
+220 144  90 <Eacute/ Eacute     311 201  c9     \'E       e      E acute
+221 145  91 <ae/     aelig      346 230  e6     \ae       ae     ligature ae
+222 146  92 <AE/     AElig      306 198  c6     \AE       AE     ligature AE
+223 147  93 <ocir/   ocirc      364 244  f4     \^o       o      o circumflex
+224 148  94 <oum/    ouml       366 246  f6     \"o       oe     o umlaut (diaeresis)
+225 149  95 <ograve/ ograve     362 242  f2     \`o       o      o grave
+226 150  96 <ucir/   ucirc      373 251  fb     \^u       u      u circumflex
+227 151  97 <ugrave/ ugrave     371 249  f9     \`u       u      u grave
+230 152  98 <yum/    yuml                                 y      y umlaut
+231 153  99 <Oum/    Ouml                                 O      O umlaut
+232 154  9a <Uum/    Uuml       334 220  dc     \"U       U      U umlaut (diaeresis)
+233 155  9b
+234 156  9c <pound/  pound      243 163  a3     \pounds   *      pound sign (British)
+235 157  9d  *
+236 158  9e  *
+237 159  9f  *
+240 160  a0 <aacute/ aacute     341 225  e1     \'a        a     a acute
+241 161  a1 <iacute/ iacute     355 237  ed     \'i        i     i acute
+242 162  a2 <oacute/ oacute     363 243  f3     \'o        o     o acute
+243 163  a3 <uacute/ uacute     372 250  fa     \'u        u     u acute
+244 164  a4 <ntil/   ntilde     361 241  f1     \~n        ny    n tilde
+245 165  a5 <Ntil/   Ntilde                                NY    N tilde
+246 166  a6 <frac23/                      $\frac{2}{3}$    2/3   two-thirds
+247 167  a7 <frac13/                      $\frac{1}{3}$    1/3   one-third
+250 168  a8  *
+251 169  a9 <sec/    Prime                                       seconds (of degree or time)
+                                                                    Also, inches or double prime
+252 170  aa  *
+253 171  ab <frac12/            275 189  bd  $\frac{1}{2}$  1/2  one-half
+254 172  ac <frac14/            274 188  bc  $\frac{1}{4}$  1/4  one-quarter
+255 173  ad  *
+256 174  ae  *
+257 175  af  *
+260 176  b0 <?/                                              (?)  Place-holder
+                                            for unknown or illegible character.
+261 177  b1  *
+262 178  b2  *
+263 179  b3  *
+264 180  b4  *                                $\updownarrow$  *   verticle arrow
+265 181  b5 <hand/                                            *   pointing hand
+                                                                 (printer's "fist")
+266 182  b6 <bprime/                           \"{}          ''   bold accent 
+                                                             (used in pronunciations)
+267 183  b7 <prime/  prime      264  180  b4     \'{}          '   light accent 
+                                                            (used in pronunciations)
+                                                            also minutes (of arc or time)
+270 184  b8 <rdquo/ rdquo                       ''            "   close double quote
+271 185  b9  *
+272 186  ba  *                                  $\parallel$   ||   verticle double bar (l)
+273 187  bb  *
+274 188  bc <sect/  sect                        \S             *    section mark
+275 189  bd <ldquo/ ldquo                        ``            "    open double quotes
+276 190  be <amac/  amacr                       \=a           a    a macron
+277 191  bf <lsquo/ lsquo                       `             `    left single quote
+
+300 192  c0 <nsm/                                             ng   "n sub-macron"
+301 193  c1 <sharp/ sharp                       $\sharp$      #      musical sharp
+302 194  c2 <flat/  flat                        $\flat$       *     musical flat
+303 195  c3  *                                  --            --    long dash (en-dash? )
+304 196  c4  *                                  $-$            -    horizontal line
+305 197  c5 <th/ (part 1)                                           first part of th ligature
+                                                                   see 231 = e7 for part 2
+306 198  c6 <imac/  imacr                       \=i            i    i macron
+307 199  c7 <emac/  emacr                       \=e            e    e macron
+310 200  c8 <dsdot/                                            d    Sanskrit/Tamil d dot 
+311 201  c9 <nsdot/                                            n    Sanskrit/Tamil n dot
+312 202  ca <tsdot/                                            t    Sanskrit/Tamil t dot
+313 203  cb <ecr/                               \u{e}          e    e breve
+314 204  cc <icr/                               \u{i}          i    i breve
+315 205  cd  *
+316 206  ce <ocr/                               \u{o}          o    o breve
+317 207  cf  -                                  --             -    short dash
+
+320 208  d0  --      mdash                      ---            --   long (em) dash
+321 209  d1 <OE/     OElig                      \OE            OE   OE ligature
+322 210  d2 <oe/     oelig                      \oe            oe   oe ligature
+323 211  d3 <omac/   omacr                      \=o            o    o macron
+324 212  d4 <umac/   umacr                      \=u            u    u macron
+325 213  d5 <ocar/                              \v{o}          o    o hacek
+326 214  d6 <aemac/                             \=\ae          ae   ae ligature macron
+327 215  d7 <oemac/                             \=\oe          oe   oe ligature macron
+330 216  d8          par                        $\parallel$    ||   double vertical
+                                                                    bar(s)
+331 217  d9  *
+332 218  da  *
+333 219  db  *
+334 220  dc <ucr/   ubreve                      \u{u}           u  u breve
+335 221  dd <acr/   abreve                      \u{a}           a  a breve
+336 222  de <cre/   ssmile                      \u{}            ~  crescent
+                                           (like a breve, but vertically centered --
+                                            represents the short accent in poetic meter)
+337 223  df <ymac/                              \=y             y   y macron
+
+340 224  e0  <asl/                                              a   a "semilong"
+                                          (has a macron above with a short vertical
+                                            bar on top the center of the macron)
+                                           Used in pronunciations.
+341 225  e1  <esl/                                                   e "semilong"
+342 226  e2  <isl/                                                   i "semilong"
+343 227  e3  <osl/                                                   o "semilong"
+344 228  e4  <usl/                                                   u "semilong"
+345 229  e5  <adot/                                             a    a with dot above
+346 230  e6  *                                                  mu  small Greek mu
+347 231  e7  <th/ (part 2)                                          second part of th ligature
+                                                                     see 197 = c5 for part 1
+350 232  e8  *
+351 233  e9  *
+352 234  ea  *
+353 235  eb <edh/   edh        360 240 f0                       th  small eth
+354 236  ec  *
+355 237  ed <thorn/ thorn      376 254 fe                       th  small thorn
+356 238  ee <atil/  atilde                      \~a              a   a tilde
+357 239  ef <ndot/                                               n   n with dot above
+
+360 240  f0 <rsdot/                             \d{r}            r   r with a dot below
+361 241  f1   *
+362 242  f2   *
+363 243  f3   *
+364 244  f4 <yogh/                                               y   small yogh
+365 245  f5 <mdash/ mdash                       ---              --  em dash
+366 246  f6 <divide/ divide    367 247 f7       $\div$           /   division sign
+367 247  f7         ap                          $\approx$        ~=  "double tilde"
+370 248  f8 <deg/   deg        260 176 b0       ${}^\circ$       *    degree sign
+371 249  f9 <middot/                            $\bullet$        *    bold middle dot
+372 250  fa   *                267 183 b7       $\cdot$          *    light middle dot
+373 251  fb <root/  radic                       $\surd$          *    root sign
+374 252  fc   *
+375 253  fd   *
+376 254  fe   *
+377 255  ff   *
+
+----------------------------------
+Table 3     
+----------------------------------
+
+====================================================================
+The table below gives some additional information about some of the 
+more commonly used entities
+-------------------------------------------------------------------
+Frequently used:
+decimal  hex    char  definition
+   21                  section symbol -- another section also at 197
+                       (so that 21 can be used as a normal control
+                         character)
+  126            ~     used by typists as a place-holder in word
+                         combinations where an uncapitalized headword
+                         should be.
+  128    80      €     <Cced/ c cedilla (uppercase)
+  129    81           <uum/ u umlaut
+  130    82      ‚     e acute
+  131    83      ƒ     a circumflex
+  132    84      „     <aum/ a umlaut
+  133    85      …     a grave
+  134    86      †     <aring/ a with "ring" (circle) above (Swedish!)
+  135    87      ‡     <cced/ c cedilla
+  136 - 144            standard European set for IBM
+  136    88      ˆ     <ecir/ e circumflex
+  137    89      ‰     <eum/ e umlaut (or e with dieresis above)
+  138    8a      Š     e grave
+  145    91      ‘     <ae/ = "ae" fused ligature
+  146    92      ’     <AE/ = upper-case "ae" fused ligature
+  147    93      “     <ocir/ o circumflex
+  148    94      ”     <oum/ o "umlaut", used mostly in "co”peration,
+                        Zo”l." and in pronunciations
+  164    a4      ¤     <ntil/ Spanish "enye"
+  166    a6      ¦     <frac23/ two-thirds (fraction)
+  167    a7      §     <frac13/ one-third (fraction)
+  169    a9      ©     <sec/  seconds of degree or time, or double-prime
+  171    ab      «     <frac12/ one-half, as in the original IBM set
+  172    ac      ¬     <frac14/ one-fourth (fraction)
+  176    b0      °     <?/ = (reverse-video question mark), used
+                        to represent an uncodable or illegible character
+  180    b4      ´     long verticle double-headed arrow (a reference mark)
+  181    b5      µ     <hand/ = (the typographer's "fist")
+                        Appearing as a "pointing hand" character
+                       (for explanatory notes)
+  182    b6      ¶    bold accent in headwords
+                       replaced in full ASCII version by double quote = "
+  183    b7      ·     light accent in headwords
+                       replaced within headwords in the full ASCII version
+                       by an open-single-quote (` = ASCII 96, not the same
+                       as 191, \'bf).   This mark is used also
+                       for minutes of a degree, and for "prime"
+                       to modify variables in mathematical expressions.
+                         -- two of these in sequence represent seconds
+                        of a degree, or double prime.  The seconds
+                        symbol is also represented by <sec/ (hex a9).
+  184    b8      ¸     close double quotes (used with 189 [= \'bd], open quote)
+  186    ba      º     verticle double bar - represents the symbol used
+                       in the printed dictionary before a headword to
+                       signify that the word was adopted without
+                       anglicization from a foreign language
+                       but in the full-ASCII version this function
+                        uses \'d8 -- see 216
+  188    bc      ¼     <sect/ section mark
+                       - alternate to 21 (a control character)
+  189    bd      ½     open double quotes (used with 184, close quote)
+  190    be      ¾     <amac/ a macron
+  191    bf      ¿     <lsquo/ "left single quote"
+                        single open quote mark (not same as ASCII 96)
+  192    c0      À     <nsm/ "n sub-macron", an n with a macron below --
+                        represents the "ng" sound in pronunciations
+  193    c1      Á     <sharp/ sharp - music notation
+  194    c2      Â     <flat/  flat  - music notation
+  195    c3      Ã     long dash, one pixel removed from left
+                       will fuse with left long dash, char 208
+  196    c4      Ä     graphic horizontal line
+  195+208        ÃÐ     combination for a very long dash.  In the
+                        original typing, the dash char 208 was used
+                        for both non-breaking hyphen (in hyphenated
+                        words), and for the em-dash used as an
+                        introductory mark for various segments.
+                        The em-dash should be distinguished from
+                        the hyphen, but that conversion hasn't yet
+                        been done.
+                         In the full ASCII version, a double hypen
+                        "--" represent the m-dash
+  197    c5      Å     <th/ (part 1) first of a pair of characters
+     197+231 = Åç        used to represent the th ligature --
+                         <th/ represents the "th" sound of "mother"
+                       see 231 (e7) for part 2
+  198    c6      Æ     <imac/ = i macron
+  199    c7      Ç     <emac/ = e macron
+  200    c8      È     <dsdot/ Sanskrit/Tamil d with dot underneath
+  201    c9      É     <nsdot/ Sanskrit/Tamil n with dot underneath
+  202    ca      Ê     <tsdot/ Sanskrit/Tamil t with dot underneath
+  203    cb      Ë     <ecr/ = e with crescent (breve) above.  Used
+                        - in some etymologies and pronunciation
+  204    cc      Ì     <icr/ = i with crescent (breve) above - used
+                        - in some etymologies and pronunciation
+  206    ce      Î     <ocr/ = o with crescent (breve) above - used
+                        - in some etymologies and pronunciation
+  207    cf      Ï     short dash, used in hyphenated words, and in
+                         breaking syllables where no accent is used. But
+                         sometimes the typists used the normal hyphen [45],
+                         or the long dash (decimal 208) for that purpose.
+                         The normal hyphen is the same length as the long
+                         dash, but one pixel higher in the character box.
+                         # In headwords, in the full ASCII version, this
+                         short dash is represented by the asterisk "*".
+  208    d0      Ð     <mdash/ = represents the long dash, used for the em 
+                         dash which often precedes certain sections within a
+                         definition, and which separates some sections,
+                         such as wordforms or collocations within a
+                         collocation segment.  This is replaced in the
+                         full ASCII version by a double hyphen, "--".
+  210    d2      Ò     <oe/ = "oe" fused ligature
+  211    d3      Ó     <omac/ = o macron
+  212    d4      Ô     <umac/ = u macron
+  213    d5      Õ     <ocar/ o with caron (hacek) (inverted circumflex) above
+  214    d6      Ö     <aemac/ = "ae" ligature with a macron
+  215    d7      ×     <oemac/ = "oe" ligature with a macron
+  216    d8      Ø     <par/ double vertical bar (short length; the long
+                       length is the graphics character 186)
+                       This precedes words marked with a double vertical bar in
+                       the original dictionary, signifying that the word was
+                       adopted directly into English without modification of
+                       the spelling.
+  220    dc      Ü     <ucr/ = u with crescent above - used in some etymologies
+  221    dd      Ý     <acr/ = a with crescent above - used in some etymologies
+  222    de      Þ     <cre/ = "crescent", an upward-curving crescent
+                        used as a poetic meter mark
+  223    df      ß     <ymac/ = y macron (used in Anglo-Saxon?) 
+  229    e5      å     <adot/ = a with a dot above (for pronunciations)
+  231    e7      ç     <th/ (part 2) second of a two-character combination
+     197+231 = Åç        used to represent the th ligature in pronunciations
+                         <th/ represents the "th" sound of "mother"
+  235    eb      ë     <edh/ = Old English and Icelandic "edh", (or "eth")
+                        like a Greek delta with a hatch mark
+                        through the ascender. Used to represent the
+                        Anglo-Saxon/Icelandic/Gothic character,
+                        in etymologies, pronounced like "th"
+  237    ed      í     <thorn/ "thorn", an Old English and Icelandic
+                        character, appears like a "p" with an extended
+                        ascender.
+                        Used to represent the
+                        Anglo-Saxon/Icelandic/Gothic character,
+                        in etymologies, pronounced like "th"
+                        in "thorn" and also as in "brother"
+  238    ee      î     <atil/ a with tilde above - in some etymologies
+  244    f4      ô     <yogh/ like a script "3" or "z". Used in Old English
+                       etymologies, analogous to "y"
+  247    f7      ÷     double tilde ("approximately equals").
+                       used by typists as a place-holder in word
+                         combinations where the capitalized headword
+                         should be.
+  248    f8      ø     <deg/ degrees (temperature or angle).  Note: some
+                          typists used a superscript "o" to signify
+                          degrees.  This must be corrected!
+  249    f9      ù     middle dot (bold)
+  250    fa      ú     middle dot (light)
+  251    fb      û     <root/ "root" sign used in etymologies, as in original
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+======================================
+   Greek transcription
+=====================================
+Greek letters are represented:
+   (capitals represent capital letters; lower-case represent lower-case)
+   #Note that "h" in transliterations is used individually, as eta, and
+   also in the combination "ch" (chi).  Conversions to other codings
+   must first convert "ch" before converting "h", or at least verify
+   that an "h" to be converted has no preceding "c".  "c" is not
+   otherwise used, so there is no ambiguity.  Also, "ps" always
+   represents a psi; it could in theory occur as a pi-sigma
+   combination, but it doesn't.  Occasionally, "th" was entered instead
+   of "q" to represent theta; these should be checked to verify that
+   they do not represent tau-eta, and converted to "q".
+
+(1) characters individually:
+  By the short-form notation <alpha/, <beta/, <gamma/, <lambda/ etc.
+  Capitalized letters are <ALPHA/, etc.
+(2) in words:
+ By inclusion within the markers <grk></grk>, using the following
+  roman-letter equivalents for the Greek letters:
+   Accents:
+     (a) aspirants -- used in front of the letter modified, which is
+usually in *front* of words beginning in vowels.  Of two types:
+     ' (apostrophe) for the left-curving apirant (spiritus lenis)
+     " (double quote) for the right-curving aspirant (spiritus asper)
+       (when the aspirant is on a letter inside a word, it is placed
+          in front of the letter it modifies.)
+      (the left-curving aspirant is also used over rho, which is
+        then usually transliterated "rh".  The " in such cases is
+        placed in front of the r (for rho) which it modifies).
+     (b) normal accent (appearing as an acute accent in the original):
+          `  (left open quote, ASCII ) -- placed after accented vowel
+     (b) grave accent (appearing as an grave accent in the original):
+          ~  (tilde, ASCII ) -- placed after accented vowel.  This is
+          rarely seen, as in <grk>to~ pa^n</grk> at "universe" or
+          <grk>ta~ gewrgika`</grk> (at "Georgic").
+     (c) curving accent (appearing as a rounded circumflex):
+          ^  (circumflex) -- placed after accented vowel
+     (d) "iota" subscript (ogonek)-- a comma placed after the vowel
+               having the subscript
+     (e) diaeresis:
+         the double dot found occasionally over the iota is
+         represented by a colon immediately after the iota,
+         as the i-diaeresis in <grk>Farisai:ko`s</grk> (at "pharisaic").
+
+     Where a letter has two accents, both are placed *after* the vowel
+     Letters with an aspirant and an accent have the
+         aspirant before the letter, and the accent after it.
+     ------------------------
+
+
+The capitalized Greek letters are represented by the capitalized
+   versions of the letters shown here.
+-----------------------------------------
+  Greek letter    transliteration
+  ------------    ---------------
+    alpha           a
+    beta            b
+    gamma           g
+    delta           d
+    epsilon         e
+    zeta            z
+    eta             h
+    theta           q  (th was used in some earier sections, but was
+                         changed due to potential confusion with the
+                         tau+eta combination, as in <grk>lyth`rios</grk>
+                         (at "lyterian")  or  <grk>poihth`s</grk>
+                         (at "maker") )
+    iota            i
+    kappa           k
+    lambda          l
+    mu              m
+    nu              n
+    xi              x
+    omicron         o
+    pi              p
+    rho             r
+    sigma           s   (end form not distinguished here from middle
+                         form within words, but when isolated, use <sigmat/
+                         ("terminal sigma") for the end form)
+    tau             t
+    upsilon         y    (Used for both "u" and "y" pronunciations)
+    phi             f
+    chi             ch  (c is always followed by h, so the h component
+                            is not confusable with eta)
+    psi             ps  (theoretically confusable with pi-sigma, but that
+                            combination seems never to occur)
+    omega           w
+
+ (Roman j, v, u are unused)
+

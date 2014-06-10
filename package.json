@@ -1,0 +1,17 @@
+{
+  "name": "websterParser",
+  "version": "0.0.1",
+  "description": "Parses the Webster Unabridged Dictionary from Project Guttenberg into a more usable format",
+  "main": "index.js",
+  "author": "Leo Koppelkamm",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "commander": "^2.2.0",
+    "node-dir": "^0.1.5",
+    "ent": "^2.0.0",
+    "unorm": "^1.3.3",
+    "async": "^0.9.0",
+    "puid": "^0.5.4"
+  }
+}
