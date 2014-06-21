@@ -10,39 +10,44 @@
 @font-face { font-family: "Gentium"; font-style: normal; font-weight: bold;
             src: url(GenBasB.ttf) }
 
-body, block {
+body, .block {
 	font-family: Gentium;
 }
 
-hw {
+div {
+	display: inline;
+}
+
+.hw {
 	font-size: 144%;
 	font-weight: bold;
 	color: maroon;
 }
 
-colo {
+.colo {
 	color: maroon;
 }
 
-colo:before, sn:before {
+.colo:before, .sn:before {
 	content:"\A"; white-space:pre;
 }
 
-block+hw:before {
+.block+.hw:before {
 	content:"\A\A"; white-space:pre;
 }
 
-blockquote {
+.blockquote {
   font-size: 78%;
 	line-height: 1.6;
 	margin: 5px 15px;
+	display: block;
 }
 
-au {
+.au {
 	margin-left: 20%;
 }
 
-u {
+.u {
 	font-variant: small-caps;
 	underline: none;
 	text-decoration: none;

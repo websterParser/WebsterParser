@@ -313,6 +313,41 @@ function postProcessDictionary() {
       var children = $(this).children();
     });
 
+    // Change tag types
+    $('*').each(function () {
+      var that = $(this);
+      var tagName = that[0].name, newTagName;
+      switch (tagName) {
+        case 'hw':
+          newTagName = 'h2';
+          break;
+        case 'br':
+        case 'i':
+        case 'b':
+        case 'p':
+        case 'sup':
+        case 'sub':
+        case 'a':
+          newTagName = tagName;
+          break;
+        default:
+          newTagName = 'div';
+          break;
+      }
+      if (newTagName != tagName) {
+        that[0].name = newTagName;
+        that.addClass(tagName);
+      }
+    });
+
+    $('i div, h2 div').each(function () {
+      $(this)[0].name = 'span';
+    });
+    $('i h2').each(function () {
+      $(this).parent()[0].name = 'h2'
+      $(this)[0].name = 'i';
+    });
+
     dictionary[entry] = $.root().html();
 
     if (i%1000 === 0) {
@@ -320,6 +355,7 @@ function postProcessDictionary() {
     }
     i++;
   }
+
 }
 
 
@@ -334,10 +370,10 @@ function buildXML() {
     var withHyphen = entry.replace(/[\*′ˊ\|∥‐]/g,'').trim();
     var noHyphen = withHyphen.replace(/[-]/g,'');
 
-    xml += '\n<d:entry id="' + ids.generate() + '" d:title="' + noHyphen + '">\n';
+    xml += '\n<d:entry id="A' + ids.generate() + '" d:title="' + noHyphen + '">\n';
     xml += buildIndex(entry, withHyphen, noHyphen);
     // Cheerio mangles our <br> tags, fix them here
-    xml += dictionary[entry].replace(/<br>/ig, '<br/>');
+    xml += '<div>' + dictionary[entry].replace(/<br>/ig, '<br/>') + '</div>';
     xml += '\n</d:entry>\n';
   }
 
@@ -355,5 +391,5 @@ function buildXML() {
 }
 
 //jsonToXML();
-//prelim();
-processFiles();
+prelim();
+//processFiles();
