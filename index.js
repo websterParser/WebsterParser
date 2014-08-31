@@ -8,123 +8,464 @@ var async = require('async');
 var puid = require('puid');
 
 var dictionary = {};
+var index = {};
 var files = [];
 
 
-// The text has a number of custom entities added.
-var regexEntities = [];
-var customEntities = {
-  // Misspellings first
-  '&(\\w)cit;':    '&$1circ;',
-  '&(\\w)ct;':     '&$1circ;',
-  '&(\\w)cr;':     '&$1circ;',
-  '&(\\w)cr\\*;':  '&$1circ;',
-  '&(\\w)nac;':    '&$1macr;',
-  '&(\\w)mc;':     '&$1macr;',
-  '&(\\w)tl;':     '&$1tilde;',
-  '&(\\w)al;':     '&$1sl;',
-  '&(\\w)slc;':    '&$1sl;',
-  '&(\\w)dor;':    '&$1dot;',
-  '&(\\w)sot;':    '&$1dot;',
-  '&(\\w)sd;':     '&$1sdot;',
-  '&(\\w\\w)mc;':  '&$1mac;',
-  '&(\\w\\w)mcr;': '&$1mac;',
-  '&til;':         '&etilde;',
-  '&cr;':          '&ecirc;',
-  '&iques;':       '&iquest;',
-  '&aemacr;':      '&aelig;x035E;',
-
-  // Proper
-  '&(\\w)circ;':   '$1&#x0302;',
-  '&(\\w)tilde;':  '$1&#x0303;',
-  '&(\\w)macr;':   '$1&#x0304;',
-  '&(\\w)breve;':  '$1&#x0306;',
-  '&(\\w)dot;':    '$1&#x0307;',
-  '&(\\w)sdot;':   '$1&#x0323;',
-  '&(\\w)dd;':     '$1&#x0324;',
-  '&(\\w)sm;':     '$1&#x0331;',
-
-  // Double length marks
-  '&(\\w\\w)cr;':  '$1&#x035D;',
-  '&(\\w\\w)mac;': '$1&#x035E;',
-
-  // Semilong (macron with vertical bar on top)
-  '&(\\w)sl;':     '$1&#x0304;&#x030d;',
-
-  // Some special charater
-  '&pause;':       '&#x1d110;',
-  '&yogh;':        '&#541;',
-  '&Eth;':         '&#x00D0;',
-  '&thlig;':       'th',
-  '&fist;':        '&#9758;',
-  '&hand;':        '&#9758;',
-  '&asterism;':    '&#8258;',
-
+var entities = {
+  "pound":  "£",
+  "frac23": "⅔",
+  "frac13": "⅓",
+  "frac12": "½",
+  "frac14": "¼",
+  "?":      "�",   /* Place-holder for unknown or illegible character. */
+  "hand":   "☞",   /* pointing hand (printer's "fist") */
+  "fist":   "☞",   /* pointing hand (printer's "fist") */
+  "asterism": "⁂",
+  "sect":   "§",
+  "sharp":  "♯",
+  "flat":   "♭",
+  "th":     "th",
+  "OE":     "Œ",
+  "oe":     "œ",
+  "ae":     "æ",
+  "AE":     "Æ",
+  "aemac":  "ǣ",
+  "edh":    "ð",
+  "Eth":    "Ð",
+  "thorn":  "þ",
+  "yogh":   "ȝ",
+  "deg":    "°",
+  "middot": "•",
+  "root":   "√",
   // Asper (see wiki/rough breathing)
-  '&asper;':       '&#x02BD;',
-  '&spasp;':       '&#x02BD;',
+  'asper': 'ʽ',
 
-  // Uppercase greek letters (&GAMMA; to &Gamma;)
-  '&([A-Z])([A-Z]+?);': function (v,a,b) {
-    return '&' + a + b.toLowerCase() + ';';
-  },
+ /* Greek alphabet */
+  "alpha":    "α",
+  "beta":     "β",
+  "gamma":    "γ",
+  "delta":    "δ",
+  "epsilon":  "ε",
+  "zeta":     "ζ",
+  "eta":      "η",
+  "theta":    "θ",
+  "iota":     "ι",
+  "kappa":    "κ",
+  "lambda":   "λ",
+  "mu":       "μ",
+  "nu":       "ν",
+  "xi":       "ξ",
+  "omicron":  "ο",
+  "pi":       "π",
+  "rho":      "ρ",
+  "sigma":    "σ",
+  "sigmat":   "ς",
+  "tau":      "τ",
+  "upsilon":  "υ",
+  "phi":      "φ",
+  "chi":      "χ",
+  "psi":      "ψ",
+  "omega":    "ω",
+  "digamma":  "ϝ",
+  "ALPHA":    "Α",
+  "BETA":     "Β",
+  "GAMMA":    "Γ",
+  "DELTA":    "Δ",
+  "EPSILON":  "Ε",
+  "ZETA":     "Ζ",
+  "ETA":      "Η",
+  "THETA":    "Θ",
+  "IOTA":     "Ι",
+  "KAPPA":    "Κ",
+  "LAMBDA":   "Λ",
+  "MU":       "Μ",
+  "NU":       "Ν",
+  "XI":       "Ξ",
+  "OMICRON":  "Ο",
+  "PI":       "Π",
+  "RHO":      "Ρ",
+  "SIGMA":    "Σ",
+  "TAU":      "Τ",
+  "UPSILON":  "Υ",
+  "PHI":      "Φ",
+  "CHI":      "Χ",
+  "PSI":      "Ψ",
+  "OMEGA":    "Ω",
 
-  // Fractions (in the form of frac1x2500)
-  '&frac[t]*(\\d+?)x(\\d+?);': function (v,a,b) {
-    return '<sup>' + a + '</sup>' + '&frasl;' + '<sub>' + b + '</sub>';
-  },
+ /* Accents */
+  "prime":    "´",
+  "bprime":   "˝",
+  "mdash":    "—",
+  "divide":   "÷",
 
-  // Beautify dashes
-  ' -- ':          '&mdash;',
-  ' --- ':         '&mdash;',
+ /* Quotes */
+  "lsquo":    "‘",
+  "ldquo":    "“",
+  "rdquo":    "”",
 
-  // Note with only one unkown character
-  '\\s\\(&\\?;\\)':'',
+  "dagger":   "†",
+  "dag":      "†",
+  "Dagger":   "‡",
+  "ddag":     "‡",
+  "para":     "§",
+  "gt":       ">",
+  "lt":       "<",
+  "rarr":     "→",
+  "larr":     "←",
+  "schwa":    "ə",
+  "pause":    "𝄐",
 
-  // Marker for unknown letters
-  '&\\?;':         '&#xFFFD;',
-
-  // Remove comments
-  '<!.*?!>'       :'',
-
-  // Move whitespace inside tags
-  // Twice
-  '</(\\w+?)>(\\s+)': '$2</$1>',
-  '</(\\w+?)>(\\s*)': '$2</$1>',
-
-  // Rename some tags (col is a selfclosing tag in html)
-  '<col>':          '<colo>',
-  '</col>':         '</colo>',
-
-  // Close <br> for xml compat
-  '<br>':           '<br/>',
-  '<BR>':           '<br/>',
-
-  // Rename gt, lt to preserve for later
-  '&gt;':           '&#gt;',
-  '&lt;':           '&#lt;',
-
-  // Pronunciation hyphen
-  '(\\S)\\*(\\S)':  '$1&#x2010;$2',
+  "br":       "\n",
+  "and":      "and",
+  "or":       "or",
+  "sec":      "˝"
 };
 
-function compileRegexs() {
-  for (var search in customEntities) {
-    regexEntities.push({
-      regex: new RegExp(search, 'g'),
-      replace: customEntities[search]
-    });
-  }
+var accents = {
+  // Proper
+  'cir':    '&#x0302;',
+  'circ':   '&#x0302;',
+  'til':    '&#x0303;',
+  'mac':    '&#x0304;',
+  'breve':  '&#x0306;',
+  'dot':    '&#x0307;',
+  'sdot':   '&#x0323;',
+  'dd':     '&#x0324;',
+  'sm':     '&#x0331;',
+  'cr':     '&#x0306;',
+  'um':     '&#x0308;',
+  'acute':  '&#x0301;',
+  'grave':  '&#x0300;',
+  'ring':   '&#x030A;',
+  'ced':    '&#x0327;',
+
+  // Semilong (macron with vertical bar on top)
+  'sl':     '&#x0304;&#x030d;',
+
+  // Italic
+  'it':   '',
+  'IT':   '',
+};
+
+var doubleAccents = {
+  // Double length marks
+  'cr':  '&#x035D;',
+  'mac': '&#x035E;',
+};
+
+
+var greek = {
+  "'A": "Ἀ",
+  "'A:": "ᾈ",
+  "'A^": "Ἆ",
+  "'A`": "Ἄ",
+  "'A~": "Ἂ",
+  "'E": "Ἐ",
+  "'E`": "Ἔ",
+  "'E~": "Ἒ",
+  "'H": "Ἠ",
+  "'H:": "ᾘ",
+  "'H^": "Ἦ",
+  "'H`": "Ἤ",
+  "'H~": "Ἢ",
+  "'I": "Ἰ",
+  "'I^": "Ἶ",
+  "'I`": "Ἴ",
+  "'I~": "Ἲ",
+  "'O": "Ὀ",
+  "'O`": "Ὄ",
+  "'O~": "Ὂ",
+  "'W": "Ὠ",
+  "'W:": "ᾨ",
+  "'W^": "Ὦ",
+  "'W`": "Ὤ",
+  "'W~": "Ὢ",
+  "'`O": "Ὄ",
+  "'a": "ἀ",
+  "'a:": "ᾀ",
+  "'a^": "ἆ",
+  "'a^:": "ᾆ",
+  "'a`": "ἄ",
+  "'a`:": "ᾄ",
+  "'a~": "ἂ",
+  "'a~:": "ᾂ",
+  "'e": "ἐ",
+  "'e`": "ἔ",
+  "'e~": "ἒ",
+  "'h": "ἠ",
+  "'h:": "ᾐ",
+  "'h^": "ἦ",
+  "'h^:": "ᾖ",
+  "'h`": "῎η",
+  "'h`:": "ᾔ",
+  "'h~": "ἢ",
+  "'h~:": "ᾒ",
+  "'i": "ἰ",
+  "'i^": "ἶ",
+  "'i`": "ἴ",
+  "'i~": "ἲ",
+  "'o": "ὀ",
+  "'o`": "ὄ",
+  "'o~": "ὂ",
+  "'r": "ῤ",
+  "'u": "ὐ",
+  "'u^": "ὖ",
+  "'u`": "ὔ",
+  "'u~": "ὒ",
+  "'w": "ὠ",
+  "'w:": "ᾠ",
+  "'w^": "ὦ",
+  "'w^:": "ᾦ",
+  "'w`": "ὤ",
+  "'w`:": "ᾤ",
+  "'w~": "ὢ",
+  "'w~:": "ᾢ",
+  "'y": "ὐ",
+  "'y^": "ὖ",
+  "'y`": "ὔ",
+  "'y~": "ὒ",
+  "A": "Α",
+  "A:": "ᾼ",
+  "A`": "Ά",
+  "A~": "Ἁ",
+  "B": "Β",
+  "CH": "Χ",
+  "Ch": "Χ",
+  "D": "Δ",
+  "E": "Ε",
+  "E`": "Έ",
+  "E~": "Ἑ",
+  "F": "Φ",
+  "G": "Γ",
+  "H": "Η",
+  "H:": "ῌ",
+  "H`": "Ή",
+  "H~": "Ἡ",
+  "I": "Ι",
+  "I`": "Ί",
+  "I~": "Ἱ",
+  "K": "Κ",
+  "L": "Λ",
+  "M": "Μ",
+  "N": "Ν",
+  "O": "Ο",
+  "O`": "Ό",
+  "O~": "Ὁ",
+  "P": "Π",
+  "PS": "Ψ",
+  "Ps": "Ψ",
+  "Q": "Θ",
+  "R": "Ρ",
+  "S": "Σ",
+  "T": "Τ",
+  "U": "Υ",
+  "U`": "Ύ",
+  "U~": "Ὑ",
+  "W": "Ω",
+  "W:": "ῼ",
+  "W`": "Ώ",
+  "W~": "Ὡ",
+  "X": "Ξ",
+  "Y": "Υ",
+  "Y`": "Ύ",
+  "Y~": "Ὑ",
+  "Z": "Ζ",
+  "\"A": "Ὰ",
+  "\"A:": "ᾉ",
+  "\"A^": "Ἇ",
+  "\"A^:": "ᾏ",
+  "\"A`": "Ἅ",
+  "\"A`:": "ᾍ",
+  "\"A~": "Ἃ",
+  "\"A~:": "ᾋ",
+  "\"E": "Ὲ",
+  "\"E`": "Ἕ",
+  "\"E~": "Ἓ",
+  "\"H": "Ὴ",
+  "\"H:": "ᾙ",
+  "\"H^": "Ἧ",
+  "\"H^:": "ᾟ",
+  "\"H`": "Ἥ",
+  "\"H`:": "ᾝ",
+  "\"H~": "Ἣ",
+  "\"H~:": "ᾛ",
+  "\"I": "Ὶ",
+  "\"I^": "Ἷ",
+  "\"I`": "Ἵ",
+  "\"I~": "Ἳ",
+  "\"O": "Ὸ",
+  "\"O`": "Ὅ",
+  "\"O~": "Ὃ",
+  "\"R": "Ῥ",
+  "\"U": "Ὺ",
+  "\"U^": "Ὗ",
+  "\"U`": "Ὕ",
+  "\"U~": "Ὓ",
+  "\"W": "Ὼ",
+  "\"W:": "ᾩ",
+  "\"W^": "Ὧ",
+  "\"W^:": "ᾯ",
+  "\"W`": "Ὥ",
+  "\"W`:": "ᾭ",
+  "\"W~": "Ὣ",
+  "\"W~:": "ᾫ",
+  "\"Y": "Ὺ",
+  "\"Y^": "Ὗ",
+  "\"Y`": "Ὕ",
+  "\"Y~": "Ὓ",
+  "\"a": "ἁ",
+  "\"a:": "ᾁ",
+  "\"a^": "ἇ",
+  "\"a^:": "ᾇ",
+  "\"a`": "ἄ",
+  "\"a`:": "ᾅ",
+  "\"a~": "ἂ",
+  "\"a~:": "ᾃ",
+  "\"e": "ἑ",
+  "\"e`": "ἕ",
+  "\"e~": "ἓ",
+  "\"h": "ἡ",
+  "\"h:": "ᾑ",
+  "\"h^": "ἧ",
+  "\"h^:": "ᾗ",
+  "\"h`": "ἤ",
+  "\"h`:": "ᾕ",
+  "\"h~": "ἣ",
+  "\"h~:": "ᾓ",
+  "\"i": "ἱ",
+  "\"i^": "ἷ",
+  "\"i`": "ἵ",
+  "\"i~": "ἳ",
+  "\"o": "ὁ",
+  "\"o`": "ὅ",
+  "\"o~": "ὃ",
+  "\"r": "ῥ",
+  "\"u": "ὑ",
+  "\"u^": "ὗ",
+  "\"u`": "ὕ",
+  "\"u~": "ὓ",
+  "\"w": "ὡ",
+  "\"w:": "ᾡ",
+  "\"w^": "ὣ",
+  "\"w^:": "ᾧ",
+  "\"w`": "ὥ",
+  "\"w`:": "ᾥ",
+  "\"w~:": "ᾣ",
+  "\"y": "ὑ",
+  "\"y^": "ὗ",
+  "\"y`": "ὕ",
+  "\"y~": "ὓ",
+  "a": "α",
+  "a:": "ᾳ",
+  "a^": "ᾶ",
+  "a^:": "ᾷ",
+  "a`": "ά",
+  "a`:": "ᾴ",
+  "a~": "ὰ",
+  "a~:": "ᾲ",
+  "b": "β",
+  "ch": "χ",
+  "d": "δ",
+  "e": "ε",
+  "e`": "έ",
+  "e~": "ὲ",
+  "f": "φ",
+  "g": "γ",
+  "h": "η",
+  "h:": "ῃ",
+  "h^": "ῆ",
+  "h^:": "ῇ",
+  "h`": "ή",
+  "h`:": "ῄ",
+  "h~": "ὴ",
+  "h~:": "ῂ",
+  "i": "ι",
+  "i:": "ϊ",
+  "i:^": "ῗ",
+  "i:`": "ῒ",
+  "i^": "ῖ",
+  "i^:": "ῗ",
+  "i`": "ί",
+  "i`:": "ῒ",
+  "i~": "ὶ",
+  "k": "κ",
+  "l": "λ",
+  "m": "μ",
+  "n": "ν",
+  "o": "ο",
+  "o`": "ό",
+  "o~": "ὸ",
+  "p": "π",
+  "ps": "ψ",
+  "q": "θ",
+  "r": "ρ",
+  "s": "σ",
+  "t": "τ",
+  "u": "υ",
+  "u:": "ϋ",
+  "u:^": "ῧ",
+  "u:`": "ΰ",
+  "u:~": "ῢ",
+  "u^": "ῦ",
+  "u^:": "ῧ",
+  "u`": "ύ",
+  "u`:": "ΰ",
+  "u~": "ὺ",
+  "u~:": "ῢ",
+  "w": "ω",
+  "w:": "ῳ",
+  "w^": "ῶ",
+  "w^:": "ῷ",
+  "w`": "ώ",
+  "w`:": "ῴ",
+  "w~": "ὼ",
+  "w~:": "ῲ",
+  "x": "ξ",
+  "y": "υ",
+  "y:": "ϋ",
+  "y:^": "ῧ",
+  "y:`": "ΰ",
+  "y:~": "ῢ",
+  "y^": "ῦ",
+  "y^:": "ῧ",
+  "y`": "ύ",
+  "y`:": "ΰ",
+  "y~": "ὺ",
+  "y~:": "ῢ",
+  "z": "ζ",
+};
+
+// Filter unique
+function unique(value, index, self) {
+  return self.indexOf(value) === index;
 }
 
+// Search the text for entities
 function replaceEntities(string) {
-  regexEntities.forEach(function (item) {
-    string = string.replace(item.regex, item.replace);
+
+  var pattern = /<([\?\w]+?)\//g;
+
+  var unknown = [];
+
+  string = string.replace(pattern, function(match, text){
+    // Check our dictionary objects
+    if (entities.hasOwnProperty(text)) {
+      return entities[text];
+    } else if (accents.hasOwnProperty(text.substring(1))) {
+      return text.substring(0,1) + accents[text.substring(1)];
+    } else if (doubleAccents.hasOwnProperty(text.substring(2))) {
+      return text.substring(0,2) + accents[text.substring(2)];
+    } else {
+      unknown.push(text);
+      return match;
+    }
   });
-  string = ent.decode(string);
-  string = unorm.nfkc(string);
-  string = string.replace(/&#gt;/g, '&gt;');
-  string = string.replace(/&#lt;/g, '&lt;');
+
+  unknown = unknown.filter(unique);
+
+  console.log("Unknown entities:", unknown);
+
   return string;
 }
 
@@ -143,10 +484,8 @@ function stripComments(file) {
 }
 
 function processFiles() {
-  compileRegexs();
-
   dir.readFiles('srcFiles', {
-    match: /.txt$/
+    match: /TEST$/
     }, function(err, content, next) {
         if (err) throw err;
         files.push(content);
@@ -219,8 +558,6 @@ function parseFiles(cb) {
 
 
 function parseFile(file) {
-  file = stripComments(file);
-
   file = replaceEntities(file);
 
   var curEntryName = 'NOTHING';
@@ -233,6 +570,21 @@ function parseFile(file) {
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
   $('p').each(function (i) {
+    var ent = $(this).find('ent');
+    if (ent.length) {
+      curEntryName = ent.first().text();
+
+      if (!index[curEntryName]) {
+        index[curEntryName] = [];
+      }
+
+      ent.each(function () {
+        index[curEntryName].push($(this).text());
+      });
+
+      ent.remove();
+    }
+
     var hw = $(this).find('hw');
     if (hw.length) {
       hw.each(function () {
@@ -245,16 +597,13 @@ function parseFile(file) {
         text = text.replace(/\|\|/g, '');
         $(this).html(text);
       });
-
-      curEntryName = hw.first().text();
-
     }
+
     if (!dictionary[curEntryName]) {
       dictionary[curEntryName] = '';
     }
 
     var text = $(this).html();
-    text = text.replace(/\r\n/g,' ');
 
     dictionary[curEntryName] += text;
 
@@ -343,6 +692,7 @@ function postProcessDictionary() {
     $('i div, h2 div').each(function () {
       $(this)[0].name = 'span';
     });
+
     $('i h2').each(function () {
       $(this).parent()[0].name = 'h2'
       $(this)[0].name = 'i';
@@ -367,11 +717,9 @@ function buildXML() {
             'xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n';
 
   for (var entry in dictionary) {
-    var withHyphen = entry.replace(/[\*′ˊ\|∥‐]/g,'').trim();
-    var noHyphen = withHyphen.replace(/[-]/g,'');
+    xml += '\n<d:entry id="A' + ids.generate() + '" d:title="' + entry + '">\n';
+    xml += buildIndex(entry);
 
-    xml += '\n<d:entry id="A' + ids.generate() + '" d:title="' + noHyphen + '">\n';
-    xml += buildIndex(entry, withHyphen, noHyphen);
     // Cheerio mangles our <br> tags, fix them here
     xml += '<div>' + dictionary[entry].replace(/<br>/ig, '<br/>') + '</div>';
     xml += '\n</d:entry>\n';
@@ -381,15 +729,19 @@ function buildXML() {
 
   return xml;
 
-  function buildIndex(entry, withHyphen, noHyphen) {
-    var result = '<d:index d:value="' + noHyphen + '" d:title="' + noHyphen + '"/>\n';
-    if (withHyphen != noHyphen) {
-        result += '<d:index d:value="' + withHyphen + '" d:title="' + withHyphen + '"/>\n';
-    }
+  function buildIndex(entry) {
+    var result = '';
+
+    index[entry] = index[entry].filter(unique);
+
+    index[entry].forEach(function (index) {
+      result += '<d:index d:value="' + index + '" d:title="' + index + '"/>\n';
+    });
+
     return result;
   }
 }
 
 //jsonToXML();
-prelim();
-//processFiles();
+//prelim();
+processFiles();
