@@ -1,4 +1,4 @@
-<-- This file is part 18 of the GNU version of
+<!-- This file is part 18 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -147,7 +147,7 @@
 <p><note><hand/ The common American rabbit (<spn>Lepus sylvatica</spn>) is similar but smaller. See <er>Cottontail</er>, and <cref>Jack rabbit</cref>, under 2d <er>Jack</er>. The larger species of Lepus are commonly called <xex>hares</xex>. See <er>Hare</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Angora rabbit</b></col> <fld>(Zool.)</fld>, <cd>a variety of the domestic rabbit having long, soft fur.</cd> -- <col><b>Rabbit burrow</b></col>, <cd>a hole in the earth made by rabbits for shelter and habitation.</cd> -- <col><b>Rabbit fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The northern chimaera (<spn>Chimaera monstrosa</spn>)</cd>. <sd>(b)</sd> <cd>Any one of several species of plectognath fishes, as the bur fish, and puffer. The term is also locally applied to other fishes.</cd> -- <col><b>Rabbits' ears</b></col>. <fld>(Bot.)</fld> <cd>See <er>Cyclamen</er>.</cd><-- a type of antenna with two long narrow metal prongs, usually arranged so as to remeniscent of erect rabbit's ears.  --> -- <col><b>Rabbit warren</b></col>, <cd>a piece of ground appropriated to the breeding and preservation of rabbits.</cd> <au>Wright.</au> -- <col><b>Rock rabbit</b></col>. <sd>(a)</sd> <fld>(Zool.)</fld> <cd>See <er>Daman</er>, and <er>Klipdas</er>.</cd> <sd>(b)</sd> <cd>the <er>pika</er>.</cd> -- <col><b>Welsh rabbit</b></col>, <cd>a dish of which the chief constituents are melted cheese over toasted bread, flavored in various ways, as with ale, beer, milk, or spices. The name is popularly said to be a corruption of <altname>Welsh rare bit</altname>, but it is probably merely a humorous designation; -- also called <altname>Welsh rarebit</altname>.</cd></cs><br/
+<p><cs><col><b>Angora rabbit</b></col> <fld>(Zool.)</fld>, <cd>a variety of the domestic rabbit having long, soft fur.</cd> -- <col><b>Rabbit burrow</b></col>, <cd>a hole in the earth made by rabbits for shelter and habitation.</cd> -- <col><b>Rabbit fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The northern chimaera (<spn>Chimaera monstrosa</spn>)</cd>. <sd>(b)</sd> <cd>Any one of several species of plectognath fishes, as the bur fish, and puffer. The term is also locally applied to other fishes.</cd> -- <col><b>Rabbits' ears</b></col>. <fld>(Bot.)</fld> <cd>See <er>Cyclamen</er>.</cd><!-- a type of antenna with two long narrow metal prongs, usually arranged so as to remeniscent of erect rabbit's ears.  --> -- <col><b>Rabbit warren</b></col>, <cd>a piece of ground appropriated to the breeding and preservation of rabbits.</cd> <au>Wright.</au> -- <col><b>Rock rabbit</b></col>. <sd>(a)</sd> <fld>(Zool.)</fld> <cd>See <er>Daman</er>, and <er>Klipdas</er>.</cd> <sd>(b)</sd> <cd>the <er>pika</er>.</cd> -- <col><b>Welsh rabbit</b></col>, <cd>a dish of which the chief constituents are melted cheese over toasted bread, flavored in various ways, as with ale, beer, milk, or spices. The name is popularly said to be a corruption of <altname>Welsh rare bit</altname>, but it is probably merely a humorous designation; -- also called <altname>Welsh rarebit</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>rabbit</ent><br/
@@ -301,7 +301,7 @@ Of winds that ruin ships.</q> <rj><qau>Chapman.</qau></rj><br/
 <hw>Race</hw> <pr>(r<amac/s)</pr>, <pos>v. t.</pos> <def>To raze.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1182 pr=vmg --></p>
+<p><!-- p. 1182 pr=vmg --></p>
 
 <p><ent>Race</ent><br/
 <hw>Race</hw> <pr>(r<amac/s)</pr>, <pos>n.</pos> <ety>[OF. <ets>ra<ium/z</ets>, L. <ets>radix</ets>, <ets>-icis</ets>. See <er>Radix</er>.]</ety> <def>A root.</def> <ldquo/A <xex>race</xex> or two of ginger.<rdquo/  <rj><au>Shak.</au></rj><br/
@@ -759,7 +759,7 @@ That shall be <qex>racked</qex> even to the uttermost.</q> <rj><qau>Shak.</qau><
 <p><sn>2.</sn> <def>One who exacts rack-rent.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1183 pr=vmg --></p>
+<p><!-- p. 1183 pr=vmg --></p>
 
 <p><ent>Racktail</ent><br/
 <hw>Rack"tail`</hw> <pr>(r<acr/k"t<amac/l`)</pr>, <pos>n.</pos> <fld>(Horol.)</fld> <def>An arm attached to a swinging notched arc or rack, to let off the striking mechanism of a repeating clock.</def><br/
@@ -1250,7 +1250,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 <hw>ra`di*og"ra*phy</hw> <pr>(r<amac/`d<icr/*<ocr/g"r<adot/*f<ycr/)</pr>, <pos>n.</pos> <def>Art or process of making radiographs, radiograms, or autoradiograms.</def> -- <wordforms><wf>ra`di*o*graph"ic</wf> <pr>(r<amac/`d<icr/*<osl/*gr<acr/f"<icr/k)</pr>, <wf>ra`di*o*graph"ic*al</wf> <pr>(r<amac/`d<icr/*<osl/*gr<acr/f"<icr/*k<ait/l)</pr>, <pos>a.</pos> -- <wf>Ra`di*o*graph"ic*al*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><-- p. 1184 pr=vmg --></p>
+<p><!-- p. 1184 pr=vmg --></p>
 
 <p><ent>Radiolaria</ent><br/
 \'d8<hw>Ra`di*o*la"ri*a</hw> <pr>(r<amac/`d<icr/*<osl/*l<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Radioli</er>.]</ety> <fld>(Zool.)</fld> <def>Order of rhizopods, usually having a siliceous skeleton, or shell, and sometimes radiating spicules. The pseudopodia project from the body like rays. It includes the polycystines. See <er>Polycystina</er>.</def><br/
@@ -1812,7 +1812,7 @@ Of brazen chariots <qex>raged</qex>; dire was the noise.</q> <rj><qau>Milton.</q
 <mhw>{ <hw>Ra*guled"</hw> <pr>(r<adot/*g<umac/ld")</pr>, <hw>Rag*guled"</hw> <pr>(r<acr/g*g<umac/ld")</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>raguer</ets> to chafe, fret, rub, or E. <ets>rag</ets>.]</ety> <fld>(Her.)</fld> <def>Notched in regular diagonal breaks; -- said of a line, or a bearing having such an edge.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1185 pr=vmg --></p>
+<p><!-- p. 1185 pr=vmg --></p>
 
 <p><ent>Ragweed</ent><br/
 <hw>Rag"weed`</hw> <pr>(r<acr/g"w<emac/d`)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A common American composite weed (<spn>Ambrosia artemisiaefolia</spn>) with finely divided leaves; hogweed.</def><br/
@@ -2178,7 +2178,7 @@ In parts remote, to <qex>raise</qex> the Tuscan swains.</q> <rj><qau>Dryden.</qa
 <p><sd>(c)</sd> <def>To cause to grow; to procure to be produced, bred, or propagated; to grow; <as>as, to <ex>raise</ex> corn, barley, hops, etc.; to<ex>raise</ex> cattle</as>.</def>  <ldquo/He <xex>raised</xex> sheep.<rdquo/  <ldquo/He <xex>raised</xex> wheat where none grew before.<rdquo/  <rj><au>Johnson's Dict.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1186 pr=vmg --></p>
+<p><!-- p. 1186 pr=vmg --></p>
 
 <p><note><hand/ In some parts of the United States, notably in the Southern States, <xex>raise</xex> is also commonly applied to the rearing or bringing up of children.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -2223,7 +2223,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>6.</sn> <fld>(Law)</fld> <def>To create or constitute; <as>as, to <ex>raise</ex> a use, that is, to create it</as>.</def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To raise a blockade</b></col> <fld>(Mil.)</fld>, <cd>to remove or break up a blockade, either by withdrawing the ships or forces employed in enforcing it, or by driving them away or dispersing them.</cd> -- <mcol><col><b>To raise a check</b></col>, <col><b>note</b></col>, <col><b>bill of exchange</b></col></mcol>, <cd>etc., to increase fraudulently its nominal value by changing the writing, figures, or printing in which the sum payable is specified.</cd><-- or money order --> -- <col><b>To raise a siege</b></col>, <cd>to relinquish an attempt to take a place by besieging it, or to cause the attempt to be relinquished.</cd> -- <col><b>To raise steam</b></col>, <cd>to produce steam of a required pressure.</cd> -- <col><b>To raise the wind</b></col>, <cd>to procure ready money by some temporary expedient.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To raise Cain</b></col>, <it>or</it> <col><b>To raise the devil</b></col></mcol>, <cd>to cause a great disturbance; to make great trouble.</cd> <mark>[Slang]</mark></cs><br/
+<p><cs><col><b>To raise a blockade</b></col> <fld>(Mil.)</fld>, <cd>to remove or break up a blockade, either by withdrawing the ships or forces employed in enforcing it, or by driving them away or dispersing them.</cd> -- <mcol><col><b>To raise a check</b></col>, <col><b>note</b></col>, <col><b>bill of exchange</b></col></mcol>, <cd>etc., to increase fraudulently its nominal value by changing the writing, figures, or printing in which the sum payable is specified.</cd><!-- or money order --> -- <col><b>To raise a siege</b></col>, <cd>to relinquish an attempt to take a place by besieging it, or to cause the attempt to be relinquished.</cd> -- <col><b>To raise steam</b></col>, <cd>to produce steam of a required pressure.</cd> -- <col><b>To raise the wind</b></col>, <cd>to procure ready money by some temporary expedient.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To raise Cain</b></col>, <it>or</it> <col><b>To raise the devil</b></col></mcol>, <cd>to cause a great disturbance; to make great trouble.</cd> <mark>[Slang]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- To lift; exalt; elevate; erect; originate; cause; produce; grow; heighten; aggravate; excite.</syn><br/
@@ -2257,7 +2257,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Rais"ing</hw> <pr>(r<amac/z"<icr/ng)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of lifting, setting up, elevating, exalting, producing, or restoring to life.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Specifically, the operation or work of setting up the frame of a building; <as>as, to help at a <ex>raising</ex></as>.</def> <mark>[U.S.]</mark><-- e.g., barn raising --><br/
+<p><sn>2.</sn> <def>Specifically, the operation or work of setting up the frame of a building; <as>as, to help at a <ex>raising</ex></as>.</def> <mark>[U.S.]</mark><!-- e.g., barn raising --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>The operation of embossing sheet metal, or of forming it into cup-shaped or hollow articles, by hammering, stamping, or spinning.</def><br/
@@ -2695,7 +2695,7 @@ Which gay Corinna <qex>rallied</qex> with disdain.</q> <rj><qau>Gay.</qau></rj><
 \'d8<hw>Ra*men"ta</hw> <pr>(r<adot/*m<ecr/n"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[L., scrapings.]</ety> <fld>(Bot.)</fld> <def>Thin brownish chaffy scales upon the leaves or young shoots of some plants, especially upon the petioles and leaves of ferns.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1187 pr=vmg --></p>
+<p><!-- p. 1187 pr=vmg --></p>
 
 <p><ent>Ramentaceous</ent><br/
 <hw>Ram`en*ta"ceous</hw> <pr>(r<acr/m`<ecr/n*t<amac/"sh<ucr/s)</pr>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Covered with ramenta.</def><br/
@@ -3212,7 +3212,7 @@ Finds mark the archer little meant!</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 <p><cs><col><b>at random</b></col> <cd>in a manner so that all possible results have an equal probability of occurrence; for processes, each possible result is counted separately although the same type of result may occur more than once .</cd> -- <col><b>Random courses</b></col> <fld>(Masonry)</fld>, <cd>courses of stone of unequal thickness.</cd> -- <col><b>Random shot</b></col>, <cd>a shot not directed or aimed toward any particular object, or a shot with the muzzle of the gun much elevated.</cd> -- <col><b>Random work</b></col> <fld>(Masonry)</fld>, <cd>stonework consisting of stones of unequal sizes fitted together, but not in courses nor always with flat beds.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1188 pr=vmg --></p>
+<p><!-- p. 1188 pr=vmg --></p>
 
 <p><ent>Randomize</ent><br/
 <hw>Ran"dom*ize</hw>, <pos>v. t.</pos> <def>To arrange or rearrange so that there is no predetermined order; to make random; to select by a random process; to assign (members of a group) into subgroups by a random process.</def><br/
@@ -3478,7 +3478,7 @@ In <qex>ranks</qex> and squadrons and right form of war.</q> <rj><qau>Shak.</qau
 <p><sn>6.</sn> <def>Elevated grade or standing; high degree; high social position; distinction; eminence; <as>as, a man of <ex>rank</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rank and file</b></col>. <sd>(a)</sd> <fld>(Mil.)</fld> <cd>The whole body of common soldiers, including also corporals. In a more extended sense, it includes sergeants also, excepting the noncommissioned staff.</cd><-- analogously, the lowest ranking members of any organization --> <sd>(b)</sd> <cd>See under 1st <er>File</er>.</cd> -- <col><b>The ranks</b></col>, <cd>the order or grade of common soldiers; <as>as, to reduce a noncommissioned officer to <ex>the ranks</ex></as>.</cd> -- <col><b>To fill the ranks</b></col>, <cd>to supply the whole number, or a competent number.</cd> -- <col><b>To take rank of</b></col>, <cd>to have precedence over, or to have the right of taking a higher place than.</cd></cs><-- <col><b>pull rank</b></col>, to insist on one's own prerogative or plan of action, by right of a higher rank than that of one suggesting a different plan --><br/
+<p><cs><col><b>Rank and file</b></col>. <sd>(a)</sd> <fld>(Mil.)</fld> <cd>The whole body of common soldiers, including also corporals. In a more extended sense, it includes sergeants also, excepting the noncommissioned staff.</cd><!-- analogously, the lowest ranking members of any organization --> <sd>(b)</sd> <cd>See under 1st <er>File</er>.</cd> -- <col><b>The ranks</b></col>, <cd>the order or grade of common soldiers; <as>as, to reduce a noncommissioned officer to <ex>the ranks</ex></as>.</cd> -- <col><b>To fill the ranks</b></col>, <cd>to supply the whole number, or a competent number.</cd> -- <col><b>To take rank of</b></col>, <cd>to have precedence over, or to have the right of taking a higher place than.</cd></cs><!-- <col><b>pull rank</b></col>, to insist on one's own prerogative or plan of action, by right of a higher rank than that of one suggesting a different plan --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rank</ent><br/
@@ -3687,7 +3687,7 @@ Shall not be free from <qex>ransack</qex>.</q> <rj><qau>J. Webster.</qau></rj><b
 <hw>Ra*nun"cu*lus</hw> <pr>(r<adot/*n<ucr/<nsm/"k<usl/*l<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Ranunculuses</plw> <pr>(r<adot/*n<ucr/<nsm/"k<usl/*l<ucr/s*<ecr/z)</pr>, L. <plw>Ranunculi</plw> <pr>(-l<imac/)</pr>.</plu> <ety>[L., a little frog, a medicinal plant, perhaps crowfoot, dim. of <ets>rana</ets> a frog; cf. <ets>raccare</ets> to roar.]</ety> <fld>(Bot.)</fld> <def>A genus of herbs, mostly with yellow flowers, including crowfoot, buttercups, and the cultivated ranunculi (<spn>Ranunculus Asiaticus</spn>, <spn>Ranunculus aconitifolius</spn>, etc.) in which the flowers are double and of various colors.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1189 pr=vmg --></p>
+<p><!-- p. 1189 pr=vmg --></p>
 
 <p><ent>Ranz des vaches</ent><br/
 \'d8<hw>Ranz" des` vaches"</hw> <pr>(r<aum/Ns" d<asl/` v<adot/sh")</pr>. <ety>[F., the ranks or rows of cows, the name being given from the fact that the cattle, when answering the musical call of their keeper, move towards him in a row, preceded by those wearing bells.]</ety> <def>The name for numerous simple, but very irregular, melodies of the Swiss mountaineers, blown on a long tube called the <xex>Alpine horn</xex>, and sometimes sung.</def><br/
@@ -3830,14 +3830,14 @@ The whirring chariot.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rape</ent><br/
-<hw>Rape</hw>, <pos>n.</pos> <ety>[Akin to <ets>rap</ets> to snatch, but confused with L. <ets>rapere</ets>. See <er>Rap</er> to snatch.]</ety> <sn>1.</sn> <def>The act of seizing and carrying away by force; violent seizure; robbery.</def><-- [Rare] --><br/
+<hw>Rape</hw>, <pos>n.</pos> <ety>[Akin to <ets>rap</ets> to snatch, but confused with L. <ets>rapere</ets>. See <er>Rap</er> to snatch.]</ety> <sn>1.</sn> <def>The act of seizing and carrying away by force; violent seizure; robbery.</def><!-- [Rare] --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And ruined orphans of thy <qex>rapes</qex> complain.</q> <rj><qau>Sandys.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Sexual connection with a woman without her consent. See <cref>Age of consent</cref>, under <er>Consent</er>, <pos>n.</pos></def>
-<-- (b) Any sexual intercourse forced on a person, whether male or female (also called forcible rape, or sexual assault, and sometimes, as a euphemism, criminal assault); Any sexual intercourse performed with a person who is under the age of consent, whether male or female, is <cref>statutory rape</cref>. --><br/
+<!-- (b) Any sexual intercourse forced on a person, whether male or female (also called forcible rape, or sexual assault, and sometimes, as a euphemism, criminal assault); Any sexual intercourse performed with a person who is under the age of consent, whether male or female, is <cref>statutory rape</cref>. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>That which is snatched away.</def> <mark>[Obs.]</mark><br/
@@ -4271,7 +4271,7 @@ Turned by a gentle fire, and roasted <qex>rare</qex>.</q> <rj><qau>Dryden.</qau>
 <hw>Rar"i*ty</hw> <pr>(r<acr/r"<icr/*t<ycr/; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rarities</plw> <pr>(r<acr/r"<icr/*t<icr/z)</pr>.</plu> <ety>[L. <ets>raritas</ets>: cf. F. <ets>raret<eacute/</ets>. See <er>Rare</er>.]</ety> <sn>1.</sn> <def>The quality or state of being rare; rareness; thinness; <as>as, the <ex>rarity</ex> (contrasted with the <ex>density</ex>) of gases</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1190 pr=vmg --></p>
+<p><!-- p. 1190 pr=vmg --></p>
 
 <p><sn>2.</sn> <def>That which is rare; an uncommon thing; a thing valued for its scarcity.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -4698,13 +4698,13 @@ No honor's got by such a maim.</q> <rj><qau>Hudibras.</qau></rj><br/
 <p><cs><col><b>Ratchet brace</b></col> <fld>(Mech.)</fld>, <cd>a boring brace, having a ratchet wheel and pawl for rotating the tool by back and forth movements of the brace handle.</cd> -- <col><b>Ratchet drill</b></col>, <cd>a portable machine for working a drill by hand, consisting of a hand lever carrying at one end a drill holder which is revolved by means of a ratchet wheel and pawl, by swinging the lever back and forth.</cd> -- <col><b>Ratchet wheel</b></col> <fld>(Mach.)</fld>, <cd>a circular wheel having teeth, usually angular, with which a reciprocating pawl engages to turn the wheel forward, or a stationary pawl to hold it from turning backward.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- illustr. Ratchet wheel and ilustr. of ratchet drill --><br/
+<p><!-- illustr. Ratchet wheel and ilustr. of ratchet drill --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In the cut, the moving pawl <xex>c</xex> slides over the teeth in one direction, but in returning, draws the wheel with it, while the pawl <xex>d</xex> prevents it from turning in the contrary direction.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1191 pr=vmg --></p>
+<p><!-- p. 1191 pr=vmg --></p>
 
 <p><ent>Rate</ent><br/
 <hw>Rate</hw> <pr>(r<amac/t)</pr>, <pos>v. t. & i.</pos> <ety>[Perh. fr. E. <ets>rate</ets>, v. t., to value at a certain rate, to estimate, but more prob. fr. Sw. <ets>rata</ets> to find fault, to blame, to despise, to hold cheap; cf. Icel. <ets>hrat</ets> refuse, <ets>hrati</ets> rubbish.]</ety> <def>To chide with vehemence; to scold; to censure violently; to berate.</def>  <rj><au>Spenser.</au></rj><br/
@@ -5004,7 +5004,7 @@ The art itself is nature.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Rational horizon</b></col>. <fld>(Astron.)</fld> <cd>See <er>Horizon</er>, 2 <sd>(b)</sd>.</cd> -- <col><b>Rational quantity</b></col> <fld>(Alg.)</fld>, <cd>one that can be expressed without the use of a radical sign, or in exact parts of unity; -- opposed to <contr>irrational</contr> or <contr>radical quantity</contr>.</cd> -- <col><b>Rational symptom</b></col> <fld>(Med.)</fld>, <cd>one elicited by the statements of the patient himself and not as the result of a physical examination.</cd></cs>
-<-- rational drug design. --><br/
+<!-- rational drug design. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Sane; sound; intelligent; reasonable; sensible; wise; discreet; judicious.</syn>  -- <usage><er>Rational</er>, <er>reasonable</er>. <xex>Rational</xex> has reference to reason as a faculty of the mind, and is opposed to <xex>ir</xex>rational; <as>as, a <ex>rational</ex> being, a <ex>rational</ex> state of mind, <ex>rational</ex> views, etc.</as> In these cases the speculative reason is more particularly, referred to. <xex>Reasonable</xex> has reference to the exercise of this faculty for practical purposes, and means, governed or directed by reason; <as>as, <ex>reasonable</ex> desires or plans; a <ex>reasonable</ex> charge; a <ex>reasonable</ex> prospect of success</as>.</usage><br/
@@ -5182,7 +5182,7 @@ Attractive, human, <qex>rational</qex>, love still.</q> <rj><qau>Milton.</qau></
 Or the car <qex>rattling</qex> o'er the stony street.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1192 pr=vmg --></p>
+<p><!-- p. 1192 pr=vmg --></p>
 
 <p><sn>2.</sn> <def>To drive or ride briskly, so as to make a clattering; <as>as, we <ex>rattled</ex> along for a couple of miles</as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -5489,7 +5489,7 @@ They <qex>ravel</qex> more, still less resolved.</q> <rj><qau>Milton.</qau></rj>
 <hw>Ra"ven</hw>, <pos>a.</pos> <def>Of the color of the raven; jet black; <as>as, <ex>raven</ex> curls; <ex>raven</ex> darkness.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- raven-haired --><br/
+<p><!-- raven-haired --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raven</ent><br/
@@ -5570,7 +5570,7 @@ They <qex>ravel</qex> more, still less resolved.</q> <rj><qau>Milton.</qau></rj>
 
 <p><q>Though Nature, red in tooth and claw<br/
 With <qex>ravine</qex>, shrieked against his creed.</q> <rj><qau>Tennyson.</qau></rj>
-<-- famous quote from In memoriam, 56, st. 4 --><br/
+<!-- famous quote from In memoriam, 56, st. 4 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ravine</ent><br/
@@ -5645,7 +5645,7 @@ Attracted by thy beauty still to gaze.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Rav"is*sant</hw> <pr>(r<acr/v"<icr/s*s<acr/nt)</pr>, <pos>a.</pos> <ety>[F.]</ety> <fld>(Her.)</fld> <def>In a half-raised position, as if about to spring on prey.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1193 pr=vmg --></p>
+<p><!-- p. 1193 pr=vmg --></p>
 
 <p><ent>Raw</ent><br/
 <hw>Raw</hw> <pr>(r<add/)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Rawer</adjf> <pr>(r<add/"<etil/r)</pr>; <pos>superl.</pos> <adjf>Rawest</adjf>.]</amorph> <ety>[AS. <ets>hre<aacute/w</ets>; akin to D. <ets>raauw</ets>, LG. <ets>rau</ets>, G. <ets>roh</ets>, OHG. <ets>r<omac/</ets>, Icel. <ets>hr<amac/r</ets>, Dan. <ets>raa</ets>, Sw. <ets>r<aring/</ets>, L. <ets>crudus</ets>, Gr. <grk>kre`as</grk> flesh, Skr. <ets>kravis</ets> raw flesh. <root/18.  Cf. <er>Crude</er>, <er>Cruel</er>.]</ety> <sn>1.</sn> <def>Not altered from its natural state; not prepared by the action of heat; <as>as, <ex>raw</ex> sienna</as>;</def> <specif>specifically,</specif> <def>not cooked; not changed by heat to a state suitable for eating; not done; <as>as, <ex>raw</ex> meat</as>.</def><br/
@@ -5841,7 +5841,7 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A tusk of a wild boar.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Razor fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small Mediterranean fish (<spn>Coryphaena novacula</spn>), prized for the table</cd>. <sd>(b)</sd> <cd>The razor shell.</cd> -- <col><b>Razor grass</b></col> <fld>(Bot.)</fld>, <cd>a West Indian plant (<spn>Scleria scindens</spn>), the triangular stem and the leaves of which are edged with minute sharp teeth.</cd> -- <col><b>Razor grinder</b></col> <fld>(Zool.)</fld>, <cd>the European goat-sucker.</cd> -- <col><b>Razor shell</b></col> <fld>(Zool.)</fld>, <cd>any marine bivalve shell belonging to <gen>Solen</gen> and allied genera, especially <spn>Solen ensis</spn> (or <spn>Ensatella ensis</spn>), and <spn>Solen Americana</spn>, which have a long, narrow, somewhat curved shell, resembling a razor handle in shape. Called also <altname>razor clam</altname>, <altname>razor fish</altname>, <altname>knife handle</altname>.</cd> -- <col><b>Razor stone</b></col>. <cd>Same as <er>Novaculite</er>.</cd> -- <mcol><col><b>Razor strap</b></col>, or <col><b>razor strop</b></col></mcol>, <cd>a strap or strop used in sharpening razors.</cd></cs><-- ##?? safety razor; disposable razor; electric razor --><br/
+<p><cs><col><b>Razor fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small Mediterranean fish (<spn>Coryphaena novacula</spn>), prized for the table</cd>. <sd>(b)</sd> <cd>The razor shell.</cd> -- <col><b>Razor grass</b></col> <fld>(Bot.)</fld>, <cd>a West Indian plant (<spn>Scleria scindens</spn>), the triangular stem and the leaves of which are edged with minute sharp teeth.</cd> -- <col><b>Razor grinder</b></col> <fld>(Zool.)</fld>, <cd>the European goat-sucker.</cd> -- <col><b>Razor shell</b></col> <fld>(Zool.)</fld>, <cd>any marine bivalve shell belonging to <gen>Solen</gen> and allied genera, especially <spn>Solen ensis</spn> (or <spn>Ensatella ensis</spn>), and <spn>Solen Americana</spn>, which have a long, narrow, somewhat curved shell, resembling a razor handle in shape. Called also <altname>razor clam</altname>, <altname>razor fish</altname>, <altname>knife handle</altname>.</cd> -- <col><b>Razor stone</b></col>. <cd>Same as <er>Novaculite</er>.</cd> -- <mcol><col><b>Razor strap</b></col>, or <col><b>razor strop</b></col></mcol>, <cd>a strap or strop used in sharpening razors.</cd></cs><!-- ##?? safety razor; disposable razor; electric razor --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Razorable</ent><br/
@@ -6076,7 +6076,7 @@ Than to suspicion.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Re*act"</hw> <pr>(r<esl/*<acr/kt")</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To return an impulse or impression; to resist the action of another body by an opposite force; <as>as, every body <ex>reacts</ex> on the body that impels it from its natural state</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1194 pr=vmg --></p>
+<p><!-- p. 1194 pr=vmg --></p>
 
 <p><sn>2.</sn> <def>To act upon each other; to exercise a reciprocal or a reverse effect, as two or more chemical agents; to act in opposition.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -6523,7 +6523,7 @@ Before mine eyes all <qex>real</qex>, as the dream<br/
 Had lively shadowed.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>True; genuine; not artificial, counterfeit, or factitious; often opposed to <contr>ostensible</contr>; <as>as, the <ex>real</ex> reason; <ex>real</ex> Madeira wine; <ex>real</ex> ginger.</as></def><-- split reason from objects. --><br/
+<p><sn>2.</sn> <def>True; genuine; not artificial, counterfeit, or factitious; often opposed to <contr>ostensible</contr>; <as>as, the <ex>real</ex> reason; <ex>real</ex> Madeira wine; <ex>real</ex> ginger.</as></def><!-- split reason from objects. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Whose perfection far excelled<br/
@@ -6555,7 +6555,7 @@ Contracts the danger of an <qex>actual</qex> fault.</q> <rj><qau>Dryden.</qau></
 <p><q>Our simple ideas are all <qex>real</qex>; all agree to the <qex>reality</qex> of things.</q> <rj><qau>Locke.</qau></rj></usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1195 pr=vmg --></p>
+<p><!-- p. 1195 pr=vmg --></p>
 
 <p><ent>Real</ent><br/
 <hw>Re"al</hw> <pr>(r<emac/"<ait/l)</pr>, <pos>n.</pos> <def>A realist.</def> <mark>[Obs.]</mark>  <rj><au>Burton.</au></rj><br/
@@ -6751,7 +6751,7 @@ Contracts the danger of an <qex>actual</qex> fault.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ream</ent><br/
-<hw>Ream</hw>, <pos>n.</pos> <ety>[OE. <ets>reme</ets>, OF. <ets>rayme</ets>, F. <ets>rame</ets> (cf. Sp. <ets>resma</ets>), fr. Ar. <ets>rizma</ets> a bundle, especially of paper.]</ety> <def>A bundle, package, or quantity of paper, usually consisting of twenty quires or 480 sheets.</def><-- now 500 --><br/
+<hw>Ream</hw>, <pos>n.</pos> <ety>[OE. <ets>reme</ets>, OF. <ets>rayme</ets>, F. <ets>rame</ets> (cf. Sp. <ets>resma</ets>), fr. Ar. <ets>rizma</ets> a bundle, especially of paper.]</ety> <def>A bundle, package, or quantity of paper, usually consisting of twenty quires or 480 sheets.</def><!-- now 500 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Printer's ream</b></col>, <cd>twenty-one and a half quires. <mark>[Eng.]</mark> A common practice is now to count five hundred sheets to the <xex>ream</xex>.</cd>  <au>Knight.</au></cs><br/
@@ -7080,7 +7080,7 @@ And <qex>rear</qex> him up to virtue.</q> <rj><qau>Southern.</qau></rj><br/
 <p><q>The sense perceives; the understanding, in its own peculiar operation, conceives; the <qex>reason</qex>, or rationalized understanding, comprehends.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1196 pr=vmg --></p>
+<p><!-- p. 1196 pr=vmg --></p>
 
 <p><sn>3.</sn> <def>Due exercise of the reasoning faculty; accordance with, or that which is accordant with and ratified by, the mind rightly exercised; right intellectual judgment; clear and fair deductions from true principles; that which is dictated or supported by the common sense of mankind; right conduct; right; propriety; justice.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -7670,7 +7670,7 @@ Nor to <qex>rebuke</qex> the rich offender feared.</q> <rj><qau>Dryden.</qau></r
 <p><syn><b>Syn.</b> -- To reprove; chide; check; chasten; restrain; silence. See <er>Reprove</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1197 pr=vmg --></p>
+<p><!-- p. 1197 pr=vmg --></p>
 
 <p><ent>Rebuke</ent><br/
 <hw>Re*buke"</hw> <pr>(r<esl/*b<umac/k")</pr>, <pos>n.</pos> <sn>1.</sn> <def>A direct and pointed reproof; a reprimand; also, chastisement; punishment.</def><br/
@@ -8193,7 +8193,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The apex of the flower stalk, from which the organs of the flower grow, or into which they are inserted. See <xex>Illust.</xex> of <er>Flower</er>, and <er>Ovary</er>.</def> <sd>(b)</sd> <def>The dilated apex of a pedicel which serves as a common support to a head of flowers.</def> <sd>(c)</sd> <def>An intercellular cavity containing oil or resin or other matters.</def> <sd>(d)</sd> <def>A special branch which bears the fructification in many cryptogamous plants.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1198 pr=vmg --></p>
+<p><!-- p. 1198 pr=vmg --></p>
 
 <p><ent>Receptacular</ent><br/
 <hw>Rec`ep*tac"u*lar</hw> <pr>(r<ecr/s`<ecr/p*t<acr/k"<usl/*l<etil/r)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>r<eacute/ceptaculaire</ets>.]</ety> <fld>(Bot.)</fld> <def>Pertaining to the receptacle, or growing on it; <as>as, the <ex>receptacular</ex> chaff or scales in the sunflower</as>.</def><br/
@@ -8680,7 +8680,7 @@ Than ever did the adviser.</q> <rj><qau>Burns.</qau></rj><br/
 <p><q>What <qex>recks</qex> it them?</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1199 pr=vmg --></p>
+<p><!-- p. 1199 pr=vmg --></p>
 
 <p><ent>Reck</ent><br/
 <hw>Reck</hw> <pr>(r<ecr/k)</pr>, <pos>v. i.</pos> <def>To make account; to take heed; to care; to mind; -- often followed by <xex>of</xex>.</def> <mark>[Archaic]</mark><br/
@@ -9202,7 +9202,7 @@ Then <qex>recollected</qex> stood.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Rec"ol*lect</hw> <pr>(r<ecr/k"<ocr/l*l<ecr/kt)</pr>, <pos>n.</pos> <ety>[See <er>Recollet</er>.]</ety> <fld>(Eccl.)</fld> <def>A friar of the Strict Observance, -- an order of Franciscans.</def> <altsp>[Written also <asp>Recollet</asp>.]</altsp>  <rj><au>Addis & Arnold.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1200 --></p>
+<p><!-- p. 1200 --></p>
 
 <p><ent>Recollection</ent><br/
 <hw>Rec`ol*lec"tion</hw> <pr>(r?k`?l*l?k"sh?n)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/collection</ets>.]</ety> <sn>1.</sn> <def>The act of recollecting, or recalling to the memory; the operation by which objects are recalled to the memory, or ideas revived in the mind; reminiscence; remembrance.</def><br/
@@ -9739,7 +9739,7 @@ Due distance <qex>reconciles</qex> to form and grace.</q> <rj><qau>Pope.</qau></
 <p><sn>5.</sn> <def>That which has been, or might be, recorded; the known facts in the course, progress, or duration of anything, as in the life of a public man; <as>as, a politician with a good or a bad <ex>record</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1201 --></p>
+<p><!-- p. 1201 --></p>
 
 <p><sn>6.</sn> <def>That which has been publicly achieved in any kind of competitive sport as recorded in some authoritative manner, as the time made by a winning horse in a race.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -10243,7 +10243,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 <hw>Rec"ti*fi`a*ble</hw> <pr>(r?k"t?*f?`?*b'l)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Capable of being rectified; <as>as, a <ex>rectifiable</ex> mistake</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1202 --></p>
+<p><!-- p. 1202 --></p>
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>Admitting, as a curve, of the construction of a straight line equal in length to any definite portion of the curve.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -10269,7 +10269,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 <hw>Rec"ti*fi`er</hw> <pr>(r?k"t?*f?`?r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, rectifies.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Specifically: <sd>(a)</sd> <fld>(Naut.)</fld> An instrument used for determining and rectifying the variations of the compass on board ship. <sd>(b)</sd> <fld>(Chem.)</fld> A rectificator.</def><-- (Elec.) A device to convert alternating current to direct current. --><br/
+<p><sn>2.</sn> <def>Specifically: <sd>(a)</sd> <fld>(Naut.)</fld> An instrument used for determining and rectifying the variations of the compass on board ship. <sd>(b)</sd> <fld>(Chem.)</fld> A rectificator.</def><!-- (Elec.) A device to convert alternating current to direct current. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectify</ent><br/
@@ -10288,7 +10288,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 <p><sn>3.</sn> <fld>(Com.)</fld> <def>To produce ( as factitious gin or brandy) by redistilling low wines or ardent spirits (whisky, rum, etc.), flavoring substances, etc., being added.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- (Elec.) To convert (alternating current) to direct current. --><br/
+<p><!-- (Elec.) To convert (alternating current) to direct current. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To rectify a globe</b></col>, <cd>to adjust it in order to prepare for the solution of a proposed problem.</cd></cs><br/
@@ -10575,7 +10575,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 <hw>Re*cur"sion</hw> <pr>(-sh?n)</pr>, <pos>n.</pos> <ety>[L. <ets>recursio</ets>. See <er>Recur</er>.]</ety> <def>The act of recurring; return.</def> <mark>[Obs.]</mark>  <rj><au>Boyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- (Math.) The calculation of a mathematical expression (or a quantity) by repeating an operation on another expression which was derived by application of the same operation, on an expression which itself was the result of similar repeated applications of that same operation on prior results.  The series of operations is terminated by specifying an initial or terminal condition.<br/
+<p><!-- (Math.) The calculation of a mathematical expression (or a quantity) by repeating an operation on another expression which was derived by application of the same operation, on an expression which itself was the result of similar repeated applications of that same operation on prior results.  The series of operations is terminated by specifying an initial or terminal condition.<br/
 [<source>1913 Webster</source>]</p>
 
 <p>  (Computers) A programming technique in which a function calls itself as a subfunction.  Such calls may be repeated in series to arbitrary depth, provided that a terminating condition is given so that the final (deepest) call will return a value (rather than continue to recurse), which then permits the next higher call to return a value, and so forth, until the original call returns a value to the calling program. --><br/
@@ -10688,7 +10688,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 <p><note><hand/ <xex>Red</xex> is often used in the formation of self-explaining compounds; as, <xex>red</xex>-breasted, <xex>red</xex>-cheeked, <xex>red</xex>-faced, <xex>red</xex>-haired, <xex>red</xex>-headed, <xex>red-</xex>skinned, <xex>red</xex>-tailed, <xex>red-</xex>topped, <xex>red-</xex>whiskered, <xex>red</xex>-coasted.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Red admiral</b></col> <fld>(Zool.)</fld>, <cd>a beautiful butterfly (<spn>Vanessa Atalanta</spn>) common in both Europe and America. The front wings are crossed by a broad orange red band. The larva feeds on nettles. Called also <altname>Atalanta butterfly</altname>, and <altname>nettle butterfly</altname>.</cd> -- <col><b>Red ant</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A very small ant (<spn>Myrmica molesta</spn>) which often infests houses</cd>. <sd>(b)</sd> <cd>A larger reddish ant (<spn>Formica sanguinea</spn>), native of Europe and America. It is one of the slave-making species.</cd> -- <col><b>Red antimony</b></col> <fld>(Min.)</fld>, <cd>kermesite. See <cref>Kermes mineral</cref> <sd>(b)</sd>, under <er>Kermes</er>.</cd> -- <col><b>Red ash</b></col> <fld>(Bot.)</fld>, <cd>an American tree (<spn>Fraxinus pubescens</spn>), smaller than the white ash, and less valuable for timber.</cd> <au>Cray.</au> -- <col><b>Red bass</b></col>. <fld>(Zool.)</fld> <cd>See <er>Redfish</er> <sd>(d)</sd>.</cd> -- <col><b>Red bay</b></col> <fld>(Bot.)</fld>, <cd>a tree (<spn>Persea Caroliniensis</spn>) having the heartwood red, found in swamps in the Southern United States.</cd> -- <col><b>Red beard</b></col> <fld>(Zool.)</fld>, <cd>a bright red sponge (<spn>Microciona prolifera</spn>), common on oyster shells and stones.</cd> <mark>[Local, U.S.]</mark> -- <col><b>Red birch</b></col> <fld>(Bot.)</fld>, <cd>a species of birch (<spn>Betula nigra</spn>) having reddish brown bark, and compact, light-colored wood.</cd> <au>Gray.</au> -- <col><b>Red blindness</b></col>. <fld>(Med.)</fld> <cd>See <er>Daltonism</er>.</cd> -- <col><b>Red book</b></col>, <cd>a book containing the names of all the persons in the service of the state.</cd> <mark>[Eng.]</mark> -- <col><b>Red book of the Exchequer</b></col>, <cd>an ancient record in which are registered the names of all that held lands <xex>per baroniam</xex> in the time of Henry II.</cd> <au>Brande & C.</au> -- <col><b>Red brass</b></col>, <cd>an alloy containing eight parts of copper and three of zinc.</cd> -- <col><b>Red bug</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A very small mite which in Florida attacks man, and produces great irritation by its bites</cd>. <sd>(b)</sd> <cd>A red hemipterous insect of the genus <gen>Pyrrhocoris</gen>, especially the European species (<spn>Pyrrhocoris apterus</spn>), which is bright scarlet and lives in clusters on tree trunks.</cd> <sd>(c)</sd> <cd>See <cref>Cotton stainder</cref>, under <er>Cotton</er>.</cd> -- <col><b>Red cedar</b></col>. <fld>(Bot.)</fld> <cd>An evergreen North American tree (<spn>Juniperus Virginiana</spn>) having a fragrant red-colored heartwood.</cd> <sd>(b)</sd> <cd>A tree of India and Australia (<spn>Cedrela Toona</spn>) having fragrant reddish wood; -- called also <altname>toon tree</altname> in India.</cd> <-- p. 1203 --> -- <col><b>Red chalk</b></col>. <cd>See under <er>Chalk</er>.</cd> -- <col><b>Red copper</b></col> <fld>(Min.)</fld>, <cd>red oxide of copper; cuprite.</cd> -- <col><b>Red coral</b></col> <fld>(Zool.)</fld>, <cd>the precious coral (<spn>Corallium rubrum</spn>). See <xex>Illusts.</xex> of <er>Coral</er> and <er>Gorgonlacea</er>.</cd> -- <col><b>Red cross</b></col>. <cd>The cross of St. George, the national emblem of the English.</cd> <sd>(b)</sd> <cd>The Geneva cross. See <cref>Geneva convention</cref>, and <cref>Geneva cross</cref>, under <er>Geneva</er>.</cd> -- <col><b>Red currant</b></col>. <fld>(Bot.)</fld> <cd>See <er>Currant</er>.</cd> -- <col><b>Red deer</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common stag (<spn>Cervus elaphus</spn>), native of the forests of the temperate parts of Europe and Asia.  It is very similar to the American elk, or wapiti.</cd> <sd>(b)</sd> <cd>The Virginia deer. See <er>Deer</er>.</cd> -- <col><b>Red duck</b></col> <fld>(Zool.)</fld>, <cd>a European reddish brown duck (<spn>Fuligula nyroca</spn>); -- called also <altname>ferruginous duck</altname>.</cd> -- <col><b>Red ebony</b></col>. <fld>(Bot.)</fld> <cd>See <er>Grenadillo</er>.</cd> -- <col><b>Red empress</b></col> <fld>(Zool.)</fld>, <cd>a butterfly. See <er>Tortoise shell</er>.</cd> -- <col><b>Red fir</b></col> <fld>(Bot.)</fld>, <cd>a coniferous tree (<spn>Pseudotsuga Douglasii</spn>) found from British Columbia to Texas, and highly valued for its durable timber. The name is sometimes given to other coniferous trees, as the Norway spruce and the American <spn>Abies magnifica</spn> and <spn>Abies nobilis</spn>.</cd> -- <col><b>Red fire</b></col>. <fld>(Pyrotech.)</fld> <cd>See <cref>Blue fire</cref>, under <er>Fire</er>.</cd> -- <col><b>Red flag</b></col>. <cd>See under <er>Flag</er>.</cd> -- <col><b>Red fox</b></col> <fld>(Zool.)</fld>, <cd>the common American fox (<spn>Vulpes fulvus</spn>), which is usually reddish in color.</cd> -- <col><b>Red grouse</b></col> <fld>(Zool.)</fld>, <cd>the Scotch grouse, or ptarmigan. See under <er>Ptarmigan</er>.</cd> -- <mcol><col><b>Red gum</b></col>, <it>or</it> <col><b>Red gum-tree</b></col></mcol> <fld>(Bot.)</fld>, <cd>a name given to eight Australian species of <spn>Eucalyptus</spn> (<spn>Eucalyptus amygdalina</spn>, <spn>resinifera</spn>, etc.) which yield a reddish gum resin. See <er>Eucalyptus</er>.</cd> -- <col><b>Red hand</b></col> <fld>(Her.)</fld>, <cd>a left hand appaum<eacute/, fingers erect, borne on an escutcheon, being the mark of a baronet of the United Kingdom of Great Britain and Ireland; -- called also <cref>Badge of Ulster</cref>.</cd> -- <col><b>Red herring</b></col>, <cd>the common herring dried and smoked.</cd><-- Fig. something that merely distracts attention from the basic issue; esp. something irrelevant to the issue at hand, or something which is not true or does not exist. --> -- <col><b>Red horse</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any large American red fresh-water sucker, especially <spn>Moxostoma macrolepidotum</spn> and allied species</cd>. <sd>(b)</sd> <cd>See the Note under <er>Drumfish</er>. -- <col><b>Red lead</b></col>. <sd>(Chem)</sd> See under <er>Lead</er>, and <er>Minium</er>.</cd> -- <col><b>Red-lead ore</b></col>. <fld>(Min.)</fld> <cd>Same as <er>Crocoite</er>.</cd> -- <col><b>Red liquor</b></col> <fld>(Dyeing)</fld>, <cd>a solution consisting essentially of aluminium acetate, used as a mordant in the fixation of dyestuffs on vegetable fiber; -- so called because used originally for red dyestuffs.  Called also <altname>red mordant</altname>.</cd> -- <col><b>Red maggot</b></col> <fld>(Zool.)</fld>, <cd>the larva of the wheat midge.</cd> -- <col><b>Red manganese</b></col>. <fld>(Min.)</fld> <cd>Same as <er>Rhodochrosite</er>.</cd> -- <col><b>Red man</b></col>, <cd>one of the American Indians; -- so called from his color.</cd> -- <col><b>Red maple</b></col> <fld>(Bot.)</fld>, <cd>a species of maple (<spn>Acer rubrum</spn>). See <er>Maple</er>.</cd> -- <col><b>Red mite</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Red spider</cref>, below.</cd> -- <col><b>Red mulberry</b></col> <fld>(Bot.)</fld>, <cd>an American mulberry of a dark purple color (<spn>Morus rubra</spn>).</cd> -- <col><b>Red mullet</b></col> <fld>(Zool.)</fld>, <cd>the surmullet. See <er>Mullet</er>.</cd> -- <col><b>Red ocher</b></col> <fld>(Min.)</fld>, <cd>a soft earthy variety of hematite, of a reddish color.</cd> -- <col><b>Red perch</b></col> <fld>(Zool.)</fld>, <cd>the rosefish.</cd> -- <col><b>Red phosphorus</b></col>. <fld>(Chem.)</fld> <cd>See under <er>Phosphorus</er>.</cd> -- <col><b>Red pine</b></col> <fld>(Bot.)</fld>, <cd>an American species of pine (<spn>Pinus resinosa</spn>); -- so named from its reddish bark.</cd> -- <col><b>Red precipitate</b></col>. <cd>See under <er>Precipitate</er>.</cd> -- <col><b>Red Republican</b></col> <fld>(European Politics)</fld>, <cd>originally, one who maintained extreme republican doctrines in <country>France</country>, -- because a red liberty cap was the badge of the party; an extreme radical in social reform.</cd> <mark>[Cant]</mark> -- <col><b>Red ribbon</b></col>, <cd>the ribbon of the Order of the Bath in England.</cd> -- <col><b>Red sanders</b></col>. <fld>(Bot.)</fld> <cd>See <er>Sanders</er>.</cd> -- <col><b>Red sandstone</b></col>. <fld>(Geol.)</fld> <cd>See under <er>Sandstone</er>.</cd> -- <col><b>Red scale</b></col> <fld>(Zool.)</fld>, <cd>a scale insect (<spn>Aspidiotus aurantii</spn>) very injurious to the orange tree in <state>California</state> and <country>Australia</country>.</cd> -- <col><b>Red silver</b></col> <fld>(Min.)</fld>, <cd>an ore of silver, of a ruby-red or reddish black color. It includes <stype>proustite</stype>, or light red silver, and <stype>pyrargyrite</stype>, or dark red silver.</cd> -- <col><b>Red snapper</b></col> <fld>(Zool.)</fld>, <cd>a large fish (<spn>Lutjanus aya</spn> syn. <spn>Lutjanus Blackfordii</spn>) abundant in the <geog>Gulf of Mexico</geog> and about the <state>Florida</state> reefs.</cd> -- <col><b>Red snow</b></col>, <cd>snow colored by a mocroscopic unicellular alga (<spn>Protococcus nivalis</spn>) which produces large patches of scarlet on the snows of arctic or mountainous regions.</cd> -- <col><b>Red softening</b></col> <fld>(Med.)</fld> <cd>a form of cerebral softening in which the affected parts are red, -- a condition due either to infarction or inflammation.</cd> -- <col><b>Red spider</b></col> <fld>(Zool.)</fld>, <cd>a very small web-spinning mite (<spn>Tetranychus telarius</spn>) which infests, and often destroys, plants of various kinds, especially those cultivated in houses and conservatories.  It feeds mostly on the under side of the leaves, and causes them to turn yellow and die.  The adult insects are usually pale red.  Called also <altname>red mite</altname>.</cd> -- <col><b>Red squirrel</b></col> <fld>(Zool.)</fld>, <cd>the chickaree.</cd> -- <col><b>Red tape</b></col>, <sd>(a)</sd> <cd>the tape used in public offices for tying up documents, etc.</cd>  <specif>Hence,</specif> <sd>(b)</sd> <cd>official formality and delay; excessive bureaucratic paperwork.</cd> -- <col><b>Red underwing</b></col> <fld>(Zool.)</fld>, <cd>any species of noctuid moths belonging to <gen>Catacola</gen> and allied genera.  The numerous species are mostly large and handsomely colored.  The under wings are commonly banded with bright red or orange.</cd> -- <col><b>Red water</b></col>, <cd>a disease in cattle, so called from an appearance like blood in the urine.</cd></cs><br/
+<p><cs><col><b>Red admiral</b></col> <fld>(Zool.)</fld>, <cd>a beautiful butterfly (<spn>Vanessa Atalanta</spn>) common in both Europe and America. The front wings are crossed by a broad orange red band. The larva feeds on nettles. Called also <altname>Atalanta butterfly</altname>, and <altname>nettle butterfly</altname>.</cd> -- <col><b>Red ant</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A very small ant (<spn>Myrmica molesta</spn>) which often infests houses</cd>. <sd>(b)</sd> <cd>A larger reddish ant (<spn>Formica sanguinea</spn>), native of Europe and America. It is one of the slave-making species.</cd> -- <col><b>Red antimony</b></col> <fld>(Min.)</fld>, <cd>kermesite. See <cref>Kermes mineral</cref> <sd>(b)</sd>, under <er>Kermes</er>.</cd> -- <col><b>Red ash</b></col> <fld>(Bot.)</fld>, <cd>an American tree (<spn>Fraxinus pubescens</spn>), smaller than the white ash, and less valuable for timber.</cd> <au>Cray.</au> -- <col><b>Red bass</b></col>. <fld>(Zool.)</fld> <cd>See <er>Redfish</er> <sd>(d)</sd>.</cd> -- <col><b>Red bay</b></col> <fld>(Bot.)</fld>, <cd>a tree (<spn>Persea Caroliniensis</spn>) having the heartwood red, found in swamps in the Southern United States.</cd> -- <col><b>Red beard</b></col> <fld>(Zool.)</fld>, <cd>a bright red sponge (<spn>Microciona prolifera</spn>), common on oyster shells and stones.</cd> <mark>[Local, U.S.]</mark> -- <col><b>Red birch</b></col> <fld>(Bot.)</fld>, <cd>a species of birch (<spn>Betula nigra</spn>) having reddish brown bark, and compact, light-colored wood.</cd> <au>Gray.</au> -- <col><b>Red blindness</b></col>. <fld>(Med.)</fld> <cd>See <er>Daltonism</er>.</cd> -- <col><b>Red book</b></col>, <cd>a book containing the names of all the persons in the service of the state.</cd> <mark>[Eng.]</mark> -- <col><b>Red book of the Exchequer</b></col>, <cd>an ancient record in which are registered the names of all that held lands <xex>per baroniam</xex> in the time of Henry II.</cd> <au>Brande & C.</au> -- <col><b>Red brass</b></col>, <cd>an alloy containing eight parts of copper and three of zinc.</cd> -- <col><b>Red bug</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A very small mite which in Florida attacks man, and produces great irritation by its bites</cd>. <sd>(b)</sd> <cd>A red hemipterous insect of the genus <gen>Pyrrhocoris</gen>, especially the European species (<spn>Pyrrhocoris apterus</spn>), which is bright scarlet and lives in clusters on tree trunks.</cd> <sd>(c)</sd> <cd>See <cref>Cotton stainder</cref>, under <er>Cotton</er>.</cd> -- <col><b>Red cedar</b></col>. <fld>(Bot.)</fld> <cd>An evergreen North American tree (<spn>Juniperus Virginiana</spn>) having a fragrant red-colored heartwood.</cd> <sd>(b)</sd> <cd>A tree of India and Australia (<spn>Cedrela Toona</spn>) having fragrant reddish wood; -- called also <altname>toon tree</altname> in India.</cd> <!-- p. 1203 --> -- <col><b>Red chalk</b></col>. <cd>See under <er>Chalk</er>.</cd> -- <col><b>Red copper</b></col> <fld>(Min.)</fld>, <cd>red oxide of copper; cuprite.</cd> -- <col><b>Red coral</b></col> <fld>(Zool.)</fld>, <cd>the precious coral (<spn>Corallium rubrum</spn>). See <xex>Illusts.</xex> of <er>Coral</er> and <er>Gorgonlacea</er>.</cd> -- <col><b>Red cross</b></col>. <cd>The cross of St. George, the national emblem of the English.</cd> <sd>(b)</sd> <cd>The Geneva cross. See <cref>Geneva convention</cref>, and <cref>Geneva cross</cref>, under <er>Geneva</er>.</cd> -- <col><b>Red currant</b></col>. <fld>(Bot.)</fld> <cd>See <er>Currant</er>.</cd> -- <col><b>Red deer</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common stag (<spn>Cervus elaphus</spn>), native of the forests of the temperate parts of Europe and Asia.  It is very similar to the American elk, or wapiti.</cd> <sd>(b)</sd> <cd>The Virginia deer. See <er>Deer</er>.</cd> -- <col><b>Red duck</b></col> <fld>(Zool.)</fld>, <cd>a European reddish brown duck (<spn>Fuligula nyroca</spn>); -- called also <altname>ferruginous duck</altname>.</cd> -- <col><b>Red ebony</b></col>. <fld>(Bot.)</fld> <cd>See <er>Grenadillo</er>.</cd> -- <col><b>Red empress</b></col> <fld>(Zool.)</fld>, <cd>a butterfly. See <er>Tortoise shell</er>.</cd> -- <col><b>Red fir</b></col> <fld>(Bot.)</fld>, <cd>a coniferous tree (<spn>Pseudotsuga Douglasii</spn>) found from British Columbia to Texas, and highly valued for its durable timber. The name is sometimes given to other coniferous trees, as the Norway spruce and the American <spn>Abies magnifica</spn> and <spn>Abies nobilis</spn>.</cd> -- <col><b>Red fire</b></col>. <fld>(Pyrotech.)</fld> <cd>See <cref>Blue fire</cref>, under <er>Fire</er>.</cd> -- <col><b>Red flag</b></col>. <cd>See under <er>Flag</er>.</cd> -- <col><b>Red fox</b></col> <fld>(Zool.)</fld>, <cd>the common American fox (<spn>Vulpes fulvus</spn>), which is usually reddish in color.</cd> -- <col><b>Red grouse</b></col> <fld>(Zool.)</fld>, <cd>the Scotch grouse, or ptarmigan. See under <er>Ptarmigan</er>.</cd> -- <mcol><col><b>Red gum</b></col>, <it>or</it> <col><b>Red gum-tree</b></col></mcol> <fld>(Bot.)</fld>, <cd>a name given to eight Australian species of <spn>Eucalyptus</spn> (<spn>Eucalyptus amygdalina</spn>, <spn>resinifera</spn>, etc.) which yield a reddish gum resin. See <er>Eucalyptus</er>.</cd> -- <col><b>Red hand</b></col> <fld>(Her.)</fld>, <cd>a left hand appaum<eacute/, fingers erect, borne on an escutcheon, being the mark of a baronet of the United Kingdom of Great Britain and Ireland; -- called also <cref>Badge of Ulster</cref>.</cd> -- <col><b>Red herring</b></col>, <cd>the common herring dried and smoked.</cd><!-- Fig. something that merely distracts attention from the basic issue; esp. something irrelevant to the issue at hand, or something which is not true or does not exist. --> -- <col><b>Red horse</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any large American red fresh-water sucker, especially <spn>Moxostoma macrolepidotum</spn> and allied species</cd>. <sd>(b)</sd> <cd>See the Note under <er>Drumfish</er>. -- <col><b>Red lead</b></col>. <sd>(Chem)</sd> See under <er>Lead</er>, and <er>Minium</er>.</cd> -- <col><b>Red-lead ore</b></col>. <fld>(Min.)</fld> <cd>Same as <er>Crocoite</er>.</cd> -- <col><b>Red liquor</b></col> <fld>(Dyeing)</fld>, <cd>a solution consisting essentially of aluminium acetate, used as a mordant in the fixation of dyestuffs on vegetable fiber; -- so called because used originally for red dyestuffs.  Called also <altname>red mordant</altname>.</cd> -- <col><b>Red maggot</b></col> <fld>(Zool.)</fld>, <cd>the larva of the wheat midge.</cd> -- <col><b>Red manganese</b></col>. <fld>(Min.)</fld> <cd>Same as <er>Rhodochrosite</er>.</cd> -- <col><b>Red man</b></col>, <cd>one of the American Indians; -- so called from his color.</cd> -- <col><b>Red maple</b></col> <fld>(Bot.)</fld>, <cd>a species of maple (<spn>Acer rubrum</spn>). See <er>Maple</er>.</cd> -- <col><b>Red mite</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Red spider</cref>, below.</cd> -- <col><b>Red mulberry</b></col> <fld>(Bot.)</fld>, <cd>an American mulberry of a dark purple color (<spn>Morus rubra</spn>).</cd> -- <col><b>Red mullet</b></col> <fld>(Zool.)</fld>, <cd>the surmullet. See <er>Mullet</er>.</cd> -- <col><b>Red ocher</b></col> <fld>(Min.)</fld>, <cd>a soft earthy variety of hematite, of a reddish color.</cd> -- <col><b>Red perch</b></col> <fld>(Zool.)</fld>, <cd>the rosefish.</cd> -- <col><b>Red phosphorus</b></col>. <fld>(Chem.)</fld> <cd>See under <er>Phosphorus</er>.</cd> -- <col><b>Red pine</b></col> <fld>(Bot.)</fld>, <cd>an American species of pine (<spn>Pinus resinosa</spn>); -- so named from its reddish bark.</cd> -- <col><b>Red precipitate</b></col>. <cd>See under <er>Precipitate</er>.</cd> -- <col><b>Red Republican</b></col> <fld>(European Politics)</fld>, <cd>originally, one who maintained extreme republican doctrines in <country>France</country>, -- because a red liberty cap was the badge of the party; an extreme radical in social reform.</cd> <mark>[Cant]</mark> -- <col><b>Red ribbon</b></col>, <cd>the ribbon of the Order of the Bath in England.</cd> -- <col><b>Red sanders</b></col>. <fld>(Bot.)</fld> <cd>See <er>Sanders</er>.</cd> -- <col><b>Red sandstone</b></col>. <fld>(Geol.)</fld> <cd>See under <er>Sandstone</er>.</cd> -- <col><b>Red scale</b></col> <fld>(Zool.)</fld>, <cd>a scale insect (<spn>Aspidiotus aurantii</spn>) very injurious to the orange tree in <state>California</state> and <country>Australia</country>.</cd> -- <col><b>Red silver</b></col> <fld>(Min.)</fld>, <cd>an ore of silver, of a ruby-red or reddish black color. It includes <stype>proustite</stype>, or light red silver, and <stype>pyrargyrite</stype>, or dark red silver.</cd> -- <col><b>Red snapper</b></col> <fld>(Zool.)</fld>, <cd>a large fish (<spn>Lutjanus aya</spn> syn. <spn>Lutjanus Blackfordii</spn>) abundant in the <geog>Gulf of Mexico</geog> and about the <state>Florida</state> reefs.</cd> -- <col><b>Red snow</b></col>, <cd>snow colored by a mocroscopic unicellular alga (<spn>Protococcus nivalis</spn>) which produces large patches of scarlet on the snows of arctic or mountainous regions.</cd> -- <col><b>Red softening</b></col> <fld>(Med.)</fld> <cd>a form of cerebral softening in which the affected parts are red, -- a condition due either to infarction or inflammation.</cd> -- <col><b>Red spider</b></col> <fld>(Zool.)</fld>, <cd>a very small web-spinning mite (<spn>Tetranychus telarius</spn>) which infests, and often destroys, plants of various kinds, especially those cultivated in houses and conservatories.  It feeds mostly on the under side of the leaves, and causes them to turn yellow and die.  The adult insects are usually pale red.  Called also <altname>red mite</altname>.</cd> -- <col><b>Red squirrel</b></col> <fld>(Zool.)</fld>, <cd>the chickaree.</cd> -- <col><b>Red tape</b></col>, <sd>(a)</sd> <cd>the tape used in public offices for tying up documents, etc.</cd>  <specif>Hence,</specif> <sd>(b)</sd> <cd>official formality and delay; excessive bureaucratic paperwork.</cd> -- <col><b>Red underwing</b></col> <fld>(Zool.)</fld>, <cd>any species of noctuid moths belonging to <gen>Catacola</gen> and allied genera.  The numerous species are mostly large and handsomely colored.  The under wings are commonly banded with bright red or orange.</cd> -- <col><b>Red water</b></col>, <cd>a disease in cattle, so called from an appearance like blood in the urine.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Red</ent><br/
@@ -10704,7 +10704,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 <p><sn>4.</sn> <pluf>pl.</pluf> <fld>(Med.)</fld> <def>The menses.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 5. Informal name for a Communist. --><br/
+<p><!-- 5. Informal name for a Communist. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>English red</b></col>, <cd>a pigment prepared by the Dutch, similar to Indian red.</cd> -- <col><b>Hypericum red</b></col>, <cd>a red resinous dyestuff extracted from Hypericum.</cd> -- <col><b>Indian red</b></col>. <cd>See under <er>Indian</er>, and <er>Almagra</er>.</cd></cs><br/
@@ -11084,12 +11084,12 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>A name of rust on grain. See <er>Rust</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1204 --></p>
+<p><!-- p. 1204 --></p>
 
 <p><ent>Red-handed</ent><br/
 <ent>Red-hand</ent><br/
 <mhw>{ <hw>Red"-hand`</hw> <pr>(r?d"h?nd`)</pr>, <hw>Red"-hand`ed</hw> <pr>(-h?nd`?d)</pr>, }</mhw> <pos>a. <or/ adv.</pos> <def>Having hands red with blood; in the very act, as if with red or bloody hands; -- said of a person taken in the act of homicide; hence, fresh from the commission of crime; <as>as, he was taken <ex>red-hand</ex> or <ex>red-handed</ex></as>.</def>
-<-- usu. caught red-handed --><br/
+<!-- usu. caught red-handed --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redhead</ent><br/
@@ -11288,7 +11288,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 Doubly <qex>redoubled</qex> strokes upon the foe.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- v. t. 2. (Contract bridge) To bid a redouble.<br/
+<p><!-- v. t. 2. (Contract bridge) To bid a redouble.<br/
 [<source>1913 Webster</source>]</p>
 
 <p>   <pos>n.</pos> An optional bid made by the side currently holding the highest bid for the contract, after the opposing side has doubled.  This bid increases the score for successfully making the contract, and increases the penalties for failing.  The score or penalty depends on the number of tricks over or under the contract, according to a defined schedule, and depending on the vulnerability of the side attempting the contract. --><br/
@@ -11574,7 +11574,7 @@ Their foe to misery beneath their fears.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>To bring to terms; to humble; to conquer; to subdue; to capture; <as>as, to <ex>reduce</ex> a province or a fort</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1205 --></p>
+<p><!-- p. 1205 --></p>
 
 <p><sn>4.</sn> <def>To bring to a certain state or condition by grinding, pounding, kneading, rubbing, etc.; <as>as, to <ex>reduce</ex> a substance to powder, or to a pasty mass; to <ex>reduce</ex> fruit, wood, or paper rags, to pulp.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -11952,7 +11952,7 @@ Of Hermes.</q> <rj><qau>Milton.</qau></rj><br/
 <p><cs><col><b>To reef the paddles</b></col>, <cd>to move the floats of a paddle wheel toward its center so that they will not dip so deeply.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1206 --></p>
+<p><!-- p. 1206 --></p>
 
 <p><ent>Reef-band</ent><br/
 <hw>Reef"-band`</hw> <pr>(r<emac/f"b<acr/nd`)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A piece of canvas sewed across a sail to strengthen it in the part where the eyelet holes for reefing are made.</def>  <rj><au>Totten.</au></rj><br/
@@ -12573,7 +12573,7 @@ The earth regard as of that whole a part.</q> <rj><qau>Blackmore.</qau></rj><br/
 <hw>Re*fer"ment</hw> <pr>(r?*f?r"m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of referring; reference.</def>  <rj><au>Laud.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1207 --></p>
+<p><!-- p. 1207 --></p>
 
 <p><ent>Re-ferment</ent><br/
 <hw>Re`-fer*ment"</hw> <pr>(r<?/`f<?/r*m<?/nt")</pr>, <pos>v. t. & i.</pos> <def>To ferment, or cause to ferment, again.</def>  <rj><au>Blackmore.</au></rj><br/
@@ -13097,7 +13097,7 @@ Shall with a fierce <qex>reflux</qex> on me redound.</q> <rj><qau>Milton.</qau><
 <p><q>Satire lashes vice into <qex>reformation</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1208 --></p>
+<p><!-- p. 1208 --></p>
 
 <p><sn>2.</sn> <def>Specifically <fld>(Eccl. Hist.)</fld>, the important religious movement commenced by Luther early in the sixteenth century, which resulted in the formation of the various Protestant churches.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -13441,10 +13441,10 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Refrigerator</ent><br/
-<hw>Re*frig"er*a`tor</hw> <pr>(-?`t?r)</pr>, <pos>n.</pos> <def>That which refrigerates or makes cold; that which keeps cool.</def> Specifically: <sd>(a)</sd> <def>A box or room for keeping food or other articles cool, usually by means of ice.</def><-- now by a mechanical cooling mechanism. --> <sd>(b)</sd> <def>An apparatus for rapidly cooling heated liquids or vapors, connected with a still, etc.</def><br/
+<hw>Re*frig"er*a`tor</hw> <pr>(-?`t?r)</pr>, <pos>n.</pos> <def>That which refrigerates or makes cold; that which keeps cool.</def> Specifically: <sd>(a)</sd> <def>A box or room for keeping food or other articles cool, usually by means of ice.</def><!-- now by a mechanical cooling mechanism. --> <sd>(b)</sd> <def>An apparatus for rapidly cooling heated liquids or vapors, connected with a still, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Refrigerator car</b></col> <fld>(Railroad)</fld>, <cd>a freight car constructed as a refrigerator, for the transportation of fresh meats, fish, etc., in a temperature kept cool by ice.</cd></cs><-- or by mechanical refrigeration --><br/
+<p><cs><col><b>Refrigerator car</b></col> <fld>(Railroad)</fld>, <cd>a freight car constructed as a refrigerator, for the transportation of fresh meats, fish, etc., in a temperature kept cool by ice.</cd></cs><!-- or by mechanical refrigeration --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Refrigeratory</ent><br/
@@ -13501,7 +13501,7 @@ Find place or <qex>refuge</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The Lord also will be a <qex>refuge</qex> for the oppressed.</q> <rj><qau>Ps. ix. 9.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1209 --></p>
+<p><!-- p. 1209 --></p>
 
 <p><sn>3.</sn> <def>An expedient to secure protection or defense; a device or contrivance.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -14030,7 +14030,7 @@ Doth with a twofold vigor lift me up.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Theol.)</fld> <def>Born anew; become Christian; renovated in heart; changed from a natural to a spiritual state.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1210 --></p>
+<p><!-- p. 1210 --></p>
 
 <p><ent>Regenerate</ent><br/
 <hw>Re*gen"er*ate</hw> <pr>(r?*j?n"?r*?t)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To generate or produce anew; to reproduce; to give new life, strength, or vigor to.</def><br/
@@ -14484,7 +14484,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Tides at highest mark <qex>regorge</qex> the flood.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1211 --></p>
+<p><!-- p. 1211 --></p>
 
 <p><ent>Regrade</ent><br/
 <hw>Re*grade"</hw> <pr>(r?*gr?d")</pr>, <pos>v. i.</pos> <ety>[L. <ets>re-</ets> re- + <ets>gradi</ets> to go.  Cf. <er>Regrede</er>. ]</ety> <def>To retire; to go back.</def> <mark>[Obs.]</mark>  <rj><au>W. Hales.</au></rj><br/
@@ -14676,7 +14676,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 <p><sn>7.</sn> <fld>(Crystallog.)</fld> <def>Same as <er>Isometric</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Regular polygon</b></col> <fld>(Geom.)</fld>, <cd>a plane polygon which is both equilateral and equiangular.</cd> -- <col><b>Regular polyhedron</b></col> <fld>(Geom.)</fld>, <cd>a polyhedron whose faces are equal regular polygons. There are five regular polyhedrons, -- the tetrahedron, the hexahedron, or cube, the octahedron, the dodecahedron, and the icosahedron.</cd> -- <col><b>Regular sales</b></col> <fld>(Stock Exchange)</fld>, <cd>sales of stock deliverable on the day after the transaction.</cd> -- <col><b>Regular troops</b></col>, <cd>troops of a standing or permanent army; -- opposed to <xex>militia</xex>.</cd></cs><-- or opposed to reserves --><br/
+<p><cs><col><b>Regular polygon</b></col> <fld>(Geom.)</fld>, <cd>a plane polygon which is both equilateral and equiangular.</cd> -- <col><b>Regular polyhedron</b></col> <fld>(Geom.)</fld>, <cd>a polyhedron whose faces are equal regular polygons. There are five regular polyhedrons, -- the tetrahedron, the hexahedron, or cube, the octahedron, the dodecahedron, and the icosahedron.</cd> -- <col><b>Regular sales</b></col> <fld>(Stock Exchange)</fld>, <cd>sales of stock deliverable on the day after the transaction.</cd> -- <col><b>Regular troops</b></col>, <cd>troops of a standing or permanent army; -- opposed to <xex>militia</xex>.</cd></cs><!-- or opposed to reserves --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Normal; orderly; methodical. See <er>Normal</er>.</syn><br/
@@ -14959,7 +14959,7 @@ Of heaven, of ocean, and deep hell beneath.</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>3.</sn> <def>The time during which a king, queen, or emperor possesses the supreme authority; <as>as, it happened in the <ex>reign</ex> of Elizabeth</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1212 --></p>
+<p><!-- p. 1212 --></p>
 
 <p><ent>Reign</ent><br/
 <hw>Reign</hw> <pr>(r?n)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Reigned</conjf> <pr>(r?nd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Reigning</conjf>.]</vmorph> <ety>[OE.  <ets>regnen</ets>, <ets>reinen</ets>, OF. <ets>regner</ets>, F. <ets>r<eacute/gner</ets>, fr. L. <ets>regnare</ets>, fr. regnum. See <er>Reign</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To possess or exercise sovereign power or authority; to exercise government, as a king or emperor;; to hold supreme power; to rule.</def>  <rj><au>Chaucer.</au></rj><br/
@@ -15589,7 +15589,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>2.</sn> <def>Specifically <fld>(Arch.)</fld>, to fill up the joints of, as stones in buildings when the mortar has been dislodged by age and the action of the weather.</def>  <rj><au>Gwilt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1213 --></p>
+<p><!-- p. 1213 --></p>
 
 <p><ent>Rejolt</ent><br/
 <hw>Re*jolt"</hw> <pr>(r?-j?lt")</pr>, <pos>n.</pos> <def>A reacting jolt or shock; a rebound or recoil.</def> <mark>[R.]</mark><br/
@@ -16131,7 +16131,7 @@ My sighs and tears, and will not once <qex>relent</qex>?</q> <rj><qau>Shak.</qau
 <p><sn>3.</sn> <def>To mollify ; to cause to be less harsh or severe.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1214 --></p>
+<p><!-- p. 1214 --></p>
 
 <p><ent>Relent</ent><br/
 <hw>Re*lent"</hw> <pr>(r?-l?nt")</pr>, <pos>n.</pos> <def>Stay; stop; delay.</def> <mark>[Obs.]</mark><br/
@@ -16596,7 +16596,7 @@ The sun, that looks upon his worshiper.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Same as <er>Induviae</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1215 --></p>
+<p><!-- p. 1215 --></p>
 
 <p><ent>Reliquian</ent><br/
 <hw>Re*liq"ui*an</hw> <pr>(r<esl/*l<icr/k"w<icr/*<ait/n)</pr>, <pos>a.</pos> <def>Of or pertaining to a relic or relics; of the nature of a relic.</def> <mark>[R.]</mark><br/
@@ -17171,7 +17171,7 @@ And something over to <qex>remember</qex> me by.</q> <rj><qau>Shak.</qau></rj><b
 <p><q><qex>Remember</qex> what I warn thee; shun to taste.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1216 --></p>
+<p><!-- p. 1216 --></p>
 
 <p><sn>3.</sn> <def>To put in mind; to remind; -- also used reflexively and impersonally.</def> <mark>[Obs.]</mark> <ldquo/<xex>Remembering</xex> them the trith of what they themselves known.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -17197,7 +17197,7 @@ And something over to <qex>remember</qex> me by.</q> <rj><qau>Shak.</qau></rj><b
 
 <p><ent>Rememberable</ent><br/
 <hw>Re*mem"ber*a*ble</hw> <pr>(-?-b'l)</pr>, <pos>a.</pos> <def>Capable or worthy of being remembered.</def> -- <wordforms><wf>Re*mem"ber*a*bly</wf>, <pos>adv.</pos></wordforms>
-<-- = memorable --><br/
+<!-- = memorable --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The whole vale of Keswick is so <qex>rememberable</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
@@ -17685,7 +17685,7 @@ Than let him be so lost.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Re*mon"stra*tive</hw> <pr>(r?*m?n"str?*t?v)</pr>, <pos>a.</pos> <def>Having the character of a remonstrance; expressing remonstrance.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1217 --></p>
+<p><!-- p. 1217 --></p>
 
 <p><ent>Remonstrator</ent><br/
 <hw>Re*mon"stra*tor</hw> <pr>(r?*m?n"str?*t?r)</pr>, <pos>n.</pos> <def>One who remonstrates; a remonsrant.</def>  <rj><au>Bp. Burnet.</au></rj><br/
@@ -18181,7 +18181,7 @@ That lived amongst men.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>An account given; a statement.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1218 --></p>
+<p><!-- p. 1218 --></p>
 
 <p><ent>Renderable</ent><br/
 <hw>Ren"der*a*ble</hw> <pr>(r?n"d?r-?-b'l)</pr>, <pos>a.</pos> <def>Capable of being rendered.</def><br/
@@ -18648,7 +18648,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rent</ent><br/
-<hw>Rent</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Rented</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Renting</conjf>.]</vmorph> <ety>[F. <ets>renter</ets>. See <er>Rent</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To grant the possession and enjoyment of, for a rent; to lease; <as>as, the owwner of an estate or house <ex>rents</ex> it</as>.</def><-- = rent out; to let --><br/
+<hw>Rent</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Rented</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Renting</conjf>.]</vmorph> <ety>[F. <ets>renter</ets>. See <er>Rent</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To grant the possession and enjoyment of, for a rent; to lease; <as>as, the owwner of an estate or house <ex>rents</ex> it</as>.</def><!-- = rent out; to let --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To take and hold under an agreement to pay rent; <as>as, the tennant <ex>rents</ex> an estate of the owner</as>.</def><br/
@@ -18710,7 +18710,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Renouncement; disownment; disavowal; disavowment; disclaimer; rejection; abjuration; recantation; denial; abandonment; relinquishment.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1219 --></p>
+<p><!-- p. 1219 --></p>
 
 <p><ent>Renunciatory</ent><br/
 <hw>Re*nun"ci*a*to*ry</hw> <pr>(r?-n?n"sh?-?-t?-r?)</pr>, <pos>a.</pos> <ety>[Cf. LL. <ets>renuntiatorius</ets>.]</ety> <def>Pertaining to renunciation; containing or declaring a renunciation; <as>as, <ex>renunciatory</ex> vows</as>.</def><br/
@@ -19148,14 +19148,14 @@ Us to abolish.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repeater</ent><br/
-<hw>Re*peat"er</hw> <pr>(-?r)</pr>, <pos>n.</pos> <def>One who, or that which, repeats.</def> Specifically: <sd>(a)</sd> <def>A watch with a striking apparatus which, upon pressure of a spring, will indicate the time, usually in hours and quarters.</def> <sd>(b)</sd> <def>A repeating firearm.</def> <sd>(c)</sd> <fld>(Teleg.)</fld> <def>An instrument for resending a telegraphic message automatically at an intermediate point.</def><-- or a telephone signal --> <sd>(d)</sd> <def>A person who votes more than once at an election.</def> <mark>[U.S.]</mark> <sd>(e)</sd> <def>See <cref>Circulating decimal</cref>, under <er>Decimal</er>.</def> <sd>(f)</sd> <fld>(Naut.)</fld> <def>A pennant used to indicate that a certain flag in a hoist of signal is duplicated.</def>  <rj><au>Ham. Nav. Encyc.</au></rj><br/
+<hw>Re*peat"er</hw> <pr>(-?r)</pr>, <pos>n.</pos> <def>One who, or that which, repeats.</def> Specifically: <sd>(a)</sd> <def>A watch with a striking apparatus which, upon pressure of a spring, will indicate the time, usually in hours and quarters.</def> <sd>(b)</sd> <def>A repeating firearm.</def> <sd>(c)</sd> <fld>(Teleg.)</fld> <def>An instrument for resending a telegraphic message automatically at an intermediate point.</def><!-- or a telephone signal --> <sd>(d)</sd> <def>A person who votes more than once at an election.</def> <mark>[U.S.]</mark> <sd>(e)</sd> <def>See <cref>Circulating decimal</cref>, under <er>Decimal</er>.</def> <sd>(f)</sd> <fld>(Naut.)</fld> <def>A pennant used to indicate that a certain flag in a hoist of signal is duplicated.</def>  <rj><au>Ham. Nav. Encyc.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repeating</ent><br/
 <hw>Re*peat"ing</hw>, <pos>a.</pos> <def>Doing the same thing over again; accomplishing a given result many times in succession; <as>as, a <ex>repeating</ex> firearm; a <ex>repeating</ex> watch</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Repeating circle</b></col>. <cd>See the Note under <er>Circle</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Repeating decimal</b></col> <fld>(Arith.)</fld>, <cd>a circulating decimal. See under <er>Decimal</er>.</cd> -- <col><b>Repeating firearm</b></col>, <cd>a firearm that may be discharged many times in quick succession</cd>; especially: <sd>(a)</sd> <cd>A form of firearm so constructed that by the action of the mechanism the charges are successively introduced from a chamber containing them into the breech of the barrel, and fired.</cd> <sd>(b)</sd> <cd>A form in which the charges are held in, and discharged from, a revolving chamber at the breech of the barrel. See <er>Revolver</er>, and <cref>Magazine gun</cref>, under <er>Magazine</er>.</cd><-- also called automatic weapon --> -- <col><b>Repeating instruments</b></col> <fld>(Astron. & Surv.)</fld>, <cd>instruments for observing angles, as a circle, theodolite, etc., so constructed that the angle may be measured several times in succession, and different, but successive and contiguous, portions of the graduated limb, before reading off the aggregate result, which aggregate, divided by the number of measurements, gives the angle, freed in a measure from errors of eccentricity and graduation.</cd> -- <col><b>Repeating watch</b></col>. <cd>See <er>Repeater</er> <sd>(a)</sd></cd></cs><br/
+<p><cs><col><b>Repeating circle</b></col>. <cd>See the Note under <er>Circle</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Repeating decimal</b></col> <fld>(Arith.)</fld>, <cd>a circulating decimal. See under <er>Decimal</er>.</cd> -- <col><b>Repeating firearm</b></col>, <cd>a firearm that may be discharged many times in quick succession</cd>; especially: <sd>(a)</sd> <cd>A form of firearm so constructed that by the action of the mechanism the charges are successively introduced from a chamber containing them into the breech of the barrel, and fired.</cd> <sd>(b)</sd> <cd>A form in which the charges are held in, and discharged from, a revolving chamber at the breech of the barrel. See <er>Revolver</er>, and <cref>Magazine gun</cref>, under <er>Magazine</er>.</cd><!-- also called automatic weapon --> -- <col><b>Repeating instruments</b></col> <fld>(Astron. & Surv.)</fld>, <cd>instruments for observing angles, as a circle, theodolite, etc., so constructed that the angle may be measured several times in succession, and different, but successive and contiguous, portions of the graduated limb, before reading off the aggregate result, which aggregate, divided by the number of measurements, gives the angle, freed in a measure from errors of eccentricity and graduation.</cd> -- <col><b>Repeating watch</b></col>. <cd>See <er>Repeater</er> <sd>(a)</sd></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repedation</ent><br/
@@ -19242,7 +19242,7 @@ With pity; of that pity then <qex>repents</qex>.</q> <rj><qau>Dryden.</qau></rj>
 <p><q>I do <qex>repent</qex> it from my very soul.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1220 --></p>
+<p><!-- p. 1220 --></p>
 
 <p><sn>2.</sn> <def>To feel regret or sorrow; -- used reflexively.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -19799,7 +19799,7 @@ To give me hearing what I shall <qex>reply</qex>.</q> <rj><qau>Shak.</qau></rj><
 <p><sn>2.</sn> <def>To furnish in writing an account of a speech, the proceedings at a meeting, the particulars of an occurrence, etc., for publication.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1221 --></p>
+<p><!-- p. 1221 --></p>
 
 <p><sn>3.</sn> <def>To present one's self, as to a superior officer, or to one to whom service is due, and to be in readiness for orders or to do service; also, to give information, as of one's address, condition, etc.; <as>as, the officer <ex>reported</ex> to the general for duty; to <ex>report</ex> weekly by letter.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -19835,7 +19835,7 @@ To give me hearing what I shall <qex>reply</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reporter</ent><br/
-<hw>Re*port"er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>One who reports.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>An officer or person who makes authorized statements of law proceedings and decisions, or of legislative debates.</def> <sd>(b)</sd> <def>One who reports speeches, the proceedings of public meetings, news, etc., for the newspapers.</def><-- ##?? add other media --><br/
+<hw>Re*port"er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>One who reports.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>An officer or person who makes authorized statements of law proceedings and decisions, or of legislative debates.</def> <sd>(b)</sd> <def>One who reports speeches, the proceedings of public meetings, news, etc., for the newspapers.</def><!-- ##?? add other media --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of our tales judge and <qex>reportour</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -20276,7 +20276,7 @@ Thou couldst <qex>repress</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Company, thought it may <qex>reprieve</qex> a man from his melaneholy yet can not secure him from his conscience.</q> <rj><qau>South.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1222 --></p>
+<p><!-- p. 1222 --></p>
 
 <p><ent>Reprieve</ent><br/
 <hw>Re*prieve"</hw> <pr>(r?-pr?v")</pr>, <pos>n.</pos> <sn>1.</sn> <def>A temporary suspension of the execution of a sentence, especially of a sentence of death.</def><br/
@@ -20780,7 +20780,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Republic of letters</b></col>, <cd>The collective body of literary or learned men.</cd></cs>
-<-- Democratic republic, a term much used by countries with a Communist system of government. --><br/
+<!-- Democratic republic, a term much used by countries with a Communist system of government. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Republican</ent><br/
@@ -20796,7 +20796,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 <p><cs><col><b>Republican party</b></col>. <fld>(U.S. Politics)</fld> <sd>(a)</sd> <cd>An earlier name of the Democratic party when it was opposed to the Federal party. Thomas Jefferson was its great leader.</cd> <sd>(b)</sd> <cd>One of the existing great parties. It was organized in 1856 by a combination of voters from other parties for the purpose of opposing the extension of slavery, and in 1860 it elected Abraham Lincoln president.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1223 --></p>
+<p><!-- p. 1223 --></p>
 
 <p><ent>Republican</ent><br/
 <hw>Re*pub"lic*an</hw> <pr>(r?-p?b"l?-k<it>a</it>n)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who favors or prefers a republican form of government.</def><br/
@@ -21294,7 +21294,7 @@ What you <qex>require</qex> of him?</q> <rj><qau>Shak.</qau></rj><br/
 Nor ill <qex>requital</qex> can efface their love.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1224 --></p>
+<p><!-- p. 1224 --></p>
 
 <p><syn><b>Syn.</b> -- Compensation; recompense; remuneration; reward; satisfaction; payment; retribution; retaliation; reprisal; punishment.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -21851,7 +21851,7 @@ Or exercise their spite in human woe?</q> <rj><qau>Dryden.</qau></rj><br/
 <p><cs><col><b>Mental reservation</b></col>, <cd>the withholding, or failing to disclose, something that affects a statement, promise, etc., and which, if disclosed, would materially change its import.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1225 --></p>
+<p><!-- p. 1225 --></p>
 
 <p><ent>Reservative</ent><br/
 <hw>Re*serv"a*tive</hw> <pr>(r?-z?rv"?-t?v)</pr>, <pos>a.</pos> <def>Tending to reserve or keep; keeping; reserving.</def><br/
@@ -22373,7 +22373,7 @@ Sincere, though prudent; constant, yet <qex>resigned</qex>.</q> <rj><qau>Pope.</
 <hw>Res"in*ate</hw> <pr>(r<ecr/z"<icr/n*<asl/t)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>Any one of the salts the resinic acids.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1226 --></p>
+<p><!-- p. 1226 --></p>
 
 <p><ent>Resinic</ent><br/
 <hw>Re*sin"ic</hw> <pr>(r<esl/*z<icr/n"<icr/k)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or obtained from, resin; <as>as, the <ex>resinic</ex> acids</as>.</def><br/
@@ -22885,7 +22885,7 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 <p><q>The inheritance of the son never <qex>resorted</qex> to the mother, or to any of her ancestors.</q> <rj><qau>Sir M. Hale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1227 --></p>
+<p><!-- p. 1227 --></p>
 
 <p><sn>3.</sn> <def>To have recourse; to apply; to one's self for help, relief, or advantage.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -23416,7 +23416,7 @@ To the instruments divine <qex>respondence</qex> meet.</q> <rj><qau>Spenser.</qa
 <hw>Re*spond"ent</hw>, <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/pondant</ets>.]</ety> <def>One who responds. It corresponds in general to <xex>defendant</xex>.</def> Specifically: <sd>(a)</sd> <fld>(Law)</fld> <def>One who answers in certain suits or proceedings, generally those which are not according to the course of the common law, as in equity and admiralty causes, in petitions for partition, and the like; -- distinquished from <xex>appellant</xex>.</def> <sd>(b)</sd> <def>One who maintains a thesis in reply, and whose province it is to refute objections, or overthrow arguments; -- distinguished from <xex>opponent</xex>.</def>  <rj><au>I. Watts.  </au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1228 --></p>
+<p><!-- p. 1228 --></p>
 
 <p><ent>Respondentia</ent><br/
 \'d8<hw>Re`spon*den"ti*a</hw> <pr>(r?`sp?n*d?n"sh?*?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Respondence</er>.]</ety> <fld>(Commercial Law)</fld> <def>A loan upon goods laden on board a ship. It differs from <xex>bottomry</xex>, which is a loan on the ship itself.</def>  <rj><au>Bouvier.</au></rj><br/
@@ -23953,7 +23953,7 @@ Hunger, with sweet <qex>restorative</qex> delight.</q> <rj><qau>Milton.</qau></r
 <p><q>He shall <qex>restore</qex> five oxen for an ox, and four sheep for a sheep.</q> <rj><qau>Ex. xxii. 1.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1229 --></p>
+<p><!-- p. 1229 --></p>
 
 <p><sn>5.</sn> <def>To make good; to make amends for.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -24485,7 +24485,7 @@ Unalterably firm his love entire.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>The act of a client by which he engages a lawyer or counselor to manage his cause.</def> <sd>(b)</sd> <def>The act of withholding what one has in his hands by virtue of some right.</def> <sd>(c)</sd> <def>A fee paid to engage a lawyer or counselor to maintain a cause, or to prevent his being employed by the opposing party in the case; -- called also <altname>retaining fee</altname>.</def>  <rj><au>Bouvier.</au>  <au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1230 --></p>
+<p><!-- p. 1230 --></p>
 
 <p><sn>5.</sn> <def>The act of keeping dependents, or the state of being in dependence.</def>  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -24632,7 +24632,7 @@ Unalterably firm his love entire.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retecious</ent><br/
-<hw>Re*te"cious</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>rete</ets> a net.]</ety> <def>Resembling network; retiform.</def><-- sic. --><br/
+<hw>Re*te"cious</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>rete</ets> a net.]</ety> <def>Resembling network; retiform.</def><!-- sic. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retection</ent><br/
@@ -24974,7 +24974,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 And never doth <qex>retire</qex> his golden ray.</q> <rj><qau>Sir J. Davies.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1231 --></p>
+<p><!-- p. 1231 --></p>
 
 <p><sn>2.</sn> <def>To withdraw from circulation, or from the market; to take up and pay; <as>as, to <ex>retire</ex> bonds; to <ex>retire</ex> a note.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -25440,7 +25440,7 @@ The bodies they forsook, and wish to live.</q> <rj><qau>Dryden</qau></rj><br/
 <p><q>To <qex>retrieve</qex> them from their cold, trivial conceits.</q> <rj><qau>Berkeley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1232 --></p>
+<p><!-- p. 1232 --></p>
 
 <p><sn>3.</sn> <def>To remedy the evil consequence of, to repair, as a loss or damadge.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -25911,7 +25911,7 @@ Of thrice three times the value of this bond.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Re`u*nite"</hw> <pr>(?)</pr>, <pos>v. t. & i.</pos> <def>To unite again; to join after separation or variance.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1233 --></p>
+<p><!-- p. 1233 --></p>
 
 <p><ent>Reunitedly</ent><br/
 <hw>Re`u*nit"ed*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In a reunited manner.</def><br/
@@ -26392,7 +26392,7 @@ And none so poor <qex>to do</qex> him <qex>reverence</qex>.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><q>There are infinite <qex>reveries</qex> and numberless extravagancies pass through both [wise and foolish minds].</q> <rj><qau>Addison.</qau></rj>
-<-- sic. left out a "which"? --><br/
+<!-- sic. left out a "which"? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Revers</ent><br/
@@ -26427,7 +26427,7 @@ With many a windy storm <qex>reverse</qex>.</q> <rj><qau>Gower.</qau></rj><br/
 <p><cs><col><b>Reverse bearing</b></col> <fld>(Surv.)</fld>, <cd>the bearing of a back station as observed from the station next in advance.</cd> -- <col><b>Reverse curve</b></col> <fld>(Railways)</fld>, <cd>a curve like the letter <universbold>S</universbold>, formed of two curves bending in opposite directions.</cd> -- <col><b>Reverse fire</b></col> <fld>(Mil.)</fld>, <cd>a fire in the rear.</cd> -- <col><b>Reverse operation</b></col> <fld>(Math.)</fld>, <cd>an operation the steps of which are taken in a contrary order to that in which the same or similar steps are taken in another operation considered as <xex>direct</xex>; an operation in which that is sought which in another operation is given, and that given which in the other is sought; as, finding the length of a pendulum from its time of vibration is the <xex>reverse operation</xex> to finding the time of vibration from the length.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1234 --></p>
+<p><!-- p. 1234 --></p>
 
 <p><ent>Reverse</ent><br/
 <hw>Re*verse"</hw> <pr>(r<esl/*v<etil/rs")</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>revers</ets>. See <er>Reverse</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>That which appears or is presented when anything, as a lance, a line, a course of conduct, etc., is reverted or turned contrary to its natural direction.</def><br/
@@ -26920,7 +26920,7 @@ Did thus <qex>revest</qex> and decked with due habiliments.</q> <rj><qau>Spenser
 <mhw>{ <hw>Re*vi"sion*al</hw> <pr>(?)</pr>, <hw>Re*vi"sion*a*ry</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Of or pertaining to revision; revisory.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1235 --></p>
+<p><!-- p. 1235 --></p>
 
 <p><ent>Revisit</ent><br/
 <hw>Re*vis"it</hw> <pr>(?)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To visit again.</def>  <rj><au>Milton.</au></rj><br/
@@ -27376,7 +27376,7 @@ The law and prophets.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Re*wake""</hw> <pr>(?)</pr>, <pos>v. t. & i.</pos> <def>To wake again.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1236 --></p>
+<p><!-- p. 1236 --></p>
 
 <p><ent>Reward</ent><br/
 <hw>Re*ward"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Rewarded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Rewarding</conjf>.]</vmorph> <ety>[OF. <ets>rewarder</ets>, another form of <ets>regarder</ets>, of German origin. The original sense is, to look at, regard, hence, to regard as worthy, give a reward to. See <er>Ward</er>, <er>Regard</er>.]</ety> <def>To give in return, whether good or evil; -- commonly in a good sense; to requite; to recompense; to repay; to compensate.</def><br/
@@ -27825,7 +27825,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 \'d8<hw>Rhe"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Rhesus</ets>, a proper name, Gr. <?/<?/<?/.]</ety> <fld>(Zool.)</fld> <def>A monkey; the bhunder.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1237 --></p>
+<p><!-- p. 1237 --></p>
 
 <p><ent>Rhetian</ent><br/
 <hw>Rhe"ti*an</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>Rhaetius</ets>, <ets>Raetius</ets>: cf. F. <ets>rh<eacute/tien</ets>.]</ety> <def>Pertaining to the ancient Rhaeti, or Rhaetians, or to Rhaetia, their country; <as>as, the <ex>Rhetian</ex> Alps, now the country of Tyrol and the Grisons</as>.</def><br/
@@ -28199,7 +28199,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Rhiz"o*stome</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of the Rhizostomata.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1238 --></p>
+<p><!-- p. 1238 --></p>
 
 <p><ent>Rhizotaxis</ent><br/
 \'d8<hw>Rhi`zo*tax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/<?/<?/ a root + <?/<?/<?/ arrangement.]</ety> <fld>(Bot.)</fld> <def>The arrangement of the roots of plants.</def><br/
@@ -28282,7 +28282,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Rhomb</ent><br/
 <hw>Rhomb</hw> <pr>(r<ocr/mb <it>or</it> r<ocr/m; 277)</pr>, <pos>n.</pos> <ety>[L. <ets>rhombus</ets>, Gr. <grk>"ro`mbos</grk> rhomb, a spinning top, magic wheel, fr. <grk>"re`mbein</grk> to turn or whirl round, perhaps akin to E. <ets>wrench</ets>: cf. F. <ets>rhombe</ets>.  Cf. <er>Rhombus</er>, <er>Rhumb</er>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld> <def>An equilateral parallelogram, or quadrilateral figure whose sides are equal and the opposite sides parallel.  The angles may be unequal, two being obtuse and two acute, as in the cut, or the angles may be equal, in which case it is usually called a <stype>square</stype>.</def>
-<-- Illustr. of Rhomb. --><br/
+<!-- Illustr. of Rhomb. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>A rhombohedron.</def><br/
@@ -28556,7 +28556,7 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 <p><sn>4.</sn> <def>The harmonious flow of vocal sounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1239 --></p>
+<p><!-- p. 1239 --></p>
 
 <p><ent>Rhythmer</ent><br/
 <hw>Rhyth"mer</hw> <pr>(r<icr/th"m<etil/r <it>or</it> r<icr/<th/"-)</pr>, <pos>n.</pos> <def>One who writes in rhythm, esp. in poetic rhythm or meter.</def> <mark>[R.]</mark><br/
@@ -28659,7 +28659,7 @@ I worked my <qex>rhythmic</qex> thought.</q> <rj><qau>Mrs. Browning.</qau></rj><
 <p><sn>2.</sn> <def>To inclose, as with ribs, and protect; to shut in.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 3. To kid; to poke fun at. --><br/
+<p><!-- 3. To kid; to poke fun at. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>It [lead] were too gross<br/
@@ -28948,7 +28948,7 @@ Showers on her kings barbaric pearl and gold.</q> <rj><qau>Milton.</qau></rj><br
 <p><syn><b>Syn.</b> -- Wealth; opulence; affluence; wealthiness; richness; plenty; abundance.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1240 --></p>
+<p><!-- p. 1240 --></p>
 
 <p><ent>Richesse</ent><br/
 <hw>Rich"esse</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Riches</er>.]</ety> <def>Wealth; riches. See the Note under <er>Riches</er>.</def> <mark>[Obs.]</mark><br/
@@ -29033,7 +29033,7 @@ Showers on her kings barbaric pearl and gold.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Rickets</ent><br/
 <hw>Rick"ets</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Of uncertain origin; but cf. AS. <ets>wrigian</ets> to bend, D. <ets>wrikken</ets> to shake, E.  <ets>wriggle</ets>.]</ety> <fld>(Med.)</fld> <def>A disease which affects children, and which is characterized by a bulky head, crooked spine and limbs, depressed ribs, enlarged and spongy articular epiphyses, tumid abdomen, and short stature, together with clear and often premature mental faculties. The essential cause of the disease appears to be the nondeposition of earthy salts in the osteoid tissues. Children afflicted with this malady stand and walk unsteadily. Called also <altname>rachitis</altname>.</def>
-<-- also, infantile or juvenile osteomalacia.  Deficient calcification of bone causing skeletal abnormalities. It is caused by vitamin D deficiency. --><br/
+<!-- also, infantile or juvenile osteomalacia.  Deficient calcification of bone causing skeletal abnormalities. It is caused by vitamin D deficiency. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rickety</ent><br/
@@ -29271,7 +29271,7 @@ Mine errands on the Scottish side.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To ride a hobby</b></col>, <cd>to have some favorite occupation or subject of talk.</cd> -- <col><b>To ride and tie</b></col>, <cd>to take turn with another in labor and rest; -- from the expedient adopted by two persons with one horse, one of whom <xex>rides</xex> the animal a certain distance, and then <xex>ties</xex> him for the use of the other, who is coming up on foot.</cd> <au>Fielding.</au> -- <col><b>To ride down</b></col>. <sd>(a)</sd> <cd>To ride over; to trample down in riding; to overthrow by riding against; <as>as, <ex>to ride down</ex> an enemy</as></cd>. <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To bear down, as on a halyard when hoisting a sail.</cd> -- <col><b>To ride out</b></col> <fld>(Naut.)</fld>, <cd>to keep safe afloat during (a storm) while riding at anchor or when hove to on the open sea; <as>as, <ex>to ride out</ex> the gale</as>.</cd></cs>
-<-- <col><b>to ride the lightning</b></col>, (Colloq.) <cd>to be executed by electrocution in an electric chair.</cd> --><br/
+<!-- <col><b>to ride the lightning</b></col>, (Colloq.) <cd>to be executed by electrocution in an electric chair.</cd> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ride</ent><br/
@@ -29470,7 +29470,7 @@ Yet touched and shamed by <qex>ridicule</qex> alone.</q> <rj><qau>Pope.</qau></r
 <p><syn><b>Syn.</b> -- To deride; banter; rally; burlesque; mock; satirize; lampoon. See <er>Deride</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1241 --></p>
+<p><!-- p. 1241 --></p>
 
 <p><ent>Ridicule</ent><br/
 <hw>Rid"i*cule</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F.]</ety> <def>Ridiculous.</def> <mark>[Obs.]</mark><br/
@@ -29938,7 +29938,7 @@ Down in the water, a long reef of gold.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><cs><col><b>Right honorable</b></col>, <cd>a title given in England to peers and peeresses, to the eldest sons and all daughters of such peers as have rank above viscounts, and to all privy councilors; also, to certain civic officers, as the lord mayor of London, of York, and of Dublin.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1242 --></p>
+<p><!-- p. 1242 --></p>
 
 <p><note><hand/ <xex>Right</xex> is used in composition with other adverbs, as up<xex>right</xex>, down<xex>right</xex>, forth<xex>right</xex>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -30457,7 +30457,7 @@ With <qex>rigorous hands</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ri"ly</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Roily.</def> <mark>[Prov. Eng. & Colloq. U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1243 --></p>
+<p><!-- p. 1243 --></p>
 
 <p><ent>Rim</ent><br/
 <hw>Rim</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[As. <ets>rima</ets>, <ets>reoma</ets>, edge; cf. W. <ets>rhim</ets>, <ets>rhimp</ets>, a rim, edge, boundary, termination, Armor, <ets>rim</ets>.  Cf. <er>Rind</er>.]</ety> <sn>1.</sn> <def>The border, edge, or margin of a thing, usually of something circular or curving; <as>as, the <ex>rim</ex> of a kettle or basin</as>.</def><br/
@@ -30905,7 +30905,7 @@ Whereof the ewe not bites.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ringworm</ent><br/
-<hw>Ring"worm"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A contagious affection of the skin due to the presence of a vegetable parasite, and forming ring-shaped discolored patches covered with vesicles or powdery scales. It occurs either on the body, the face, or the scalp.  Different varieties are distinguished as <spn>Tinea circinata</spn>, <spn>Tinea tonsurans</spn>, etc., but all are caused by the same parasite (a species of <spn>Trichophyton</spn>).</def><-- a fungal infection --><br/
+<hw>Ring"worm"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A contagious affection of the skin due to the presence of a vegetable parasite, and forming ring-shaped discolored patches covered with vesicles or powdery scales. It occurs either on the body, the face, or the scalp.  Different varieties are distinguished as <spn>Tinea circinata</spn>, <spn>Tinea tonsurans</spn>, etc., but all are caused by the same parasite (a species of <spn>Trichophyton</spn>).</def><!-- a fungal infection --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rink</ent><br/
@@ -30938,7 +30938,7 @@ Whereof the ewe not bites.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Rins"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, rinses.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1244 --></p>
+<p><!-- p. 1244 --></p>
 
 <p><ent>Riot</ent><br/
 <hw>Ri"ot</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>riote</ets>, of uncertain origin; cf. OD. <ets>revot</ets>, <ets>ravot</ets>.]</ety> <sn>1.</sn> <def>Wanton or unrestrained behavior; uproar; tumult.</def><br/
@@ -31158,7 +31158,7 @@ To Cowley scarce did <qex>ripeness</qex> give.</q> <rj><qau>Denham.</qau></rj><b
 
 <p><ent>Ripidolite</ent><br/
 <hw>Ri*pid"o*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/<?/<?/. <?/<?/<?/. fan + <ets>-lite</ets>.]</ety> <fld>(Min.)</fld> <def>A translucent mineral of a green color and micaceous structure, belonging to the chlorite group; a hydrous silicate of alumina, magnesia, and iron; -- called also <altname>clinochlore</altname>.</def>
-<-- sic. note use of "alumina", not "aluminia".  Spelling must have been changing about 1890 --><br/
+<!-- sic. note use of "alumina", not "aluminia".  Spelling must have been changing about 1890 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ripienist</ent><br/
@@ -31524,7 +31524,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Ludicrous; laughable; amusing; ridiculous -- <er>Risible</er>, <er>Ludicrous</er>, <er>Ridiculous</er>.</syn> <usage> <xex>Risible</xex> differs from <xex>ludicrous</xex> as species from genus; <xex>ludicrous</xex> expressing that which is playful and sportive; <xex>risible</xex>, that which may excite laughter. <xex>Risible</xex> differs from <xex>ridiculous</xex>, as the latter implies something contemptuous, and <xex>risible</xex> does not.</usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1245 --></p>
+<p><!-- p. 1245 --></p>
 
 <p>--<wordforms><wf>Ris"i*ble*ness</wf><pr>(#)</pr>, <pos>n.</pos> -- <wf>Ris"i*bly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -31882,7 +31882,7 @@ The <qex>rivals</qex> of my watch, bid them make haste.</q> <rj><qau>Shak.</qau>
 <p><cs><col><b>Butt riveting</b></col>, <cd>riveting in which the ends or edges of plates form a butt joint, and are fastened together by being riveted to a narrow strip which covers the joint.</cd> -- <col><b>Chain riveting</b></col>, <cd>riveting in which the rivets, in two or more rows along the seam, are set one behind the other.</cd> -- <col><b>Crossed riveting</b></col>, <cd>riveting in which the rivets in one row are set opposite the spaces between the rivets in the next row.</cd> -- <col><b>Double riveting</b></col>, <cd>in lap riveting, two rows of rivets along the seam; in butt riveting, four rows, two on each side of the joint.</cd> -- <col><b>Lap riveting</b></col>, <cd>riveting in which the ends or edges of plates overlap and are riveted together.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- riveting, adj.  causing to be fixed or immobilized, usu. figurative; as, riveting debate. --><br/
+<p><!-- riveting, adj.  causing to be fixed or immobilized, usu. figurative; as, riveting debate. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riviere</ent><br/
@@ -31975,7 +31975,7 @@ He sought them.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <ety>[Possibly akin to Icel. <ets>rei<edh/i</ets> the rigging of a ship, E. <ets>ready</ets>.]</ety> <def>A place where ships may ride at anchor at some distance from the shore; a roadstead; -- often in the plural; <as>as, Hampton <ex>Roads</ex></as>.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1246 --></p>
+<p><!-- p. 1246 --></p>
 
 <p><q>Now strike your saile, ye jolly mariners,<br/
 For we be come unto a quiet <qex>rode</qex> [road].</q> <rj><qau>Spenser.</qau></rj><br/
@@ -32236,7 +32236,7 @@ They are <qex>upon the road</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><q>A fat swan loved he best of any <qex>roost</qex> [roast].</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To rule the roast</b></col>, <cd>to be at the head of affairs.</cd> <ldquo/The new-made duke that <xex>rules the roast</xex>.<rdquo/</cs><-- = to rule the roost! -->  <rj><au>Shak.</au></rj><br/
+<p><cs><col><b>To rule the roast</b></col>, <cd>to be at the head of affairs.</cd> <ldquo/The new-made duke that <xex>rules the roast</xex>.<rdquo/</cs><!-- = to rule the roost! -->  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roast</ent><br/
@@ -32433,7 +32433,7 @@ When judges steal themselves.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ro*bust"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>robustus</ets> oaken, hard, strong, fr. <ets>robur</ets> strength, a very hard kind of oak; cf. Skr. <ets>rabhas</ets> violence: cf. F. <ets>robuste</ets>.]</ety> <sn>1.</sn> <def>Evincing strength; indicating vigorous health; strong; sinewy; muscular; vigorous; sound; <as>as, a <ex>robust</ex> body; <ex>robust</ex> youth; <ex>robust</ex> health</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1247 --></p>
+<p><!-- p. 1247 --></p>
 
 <p><sn>2.</sn> <def>Violent; rough; rude.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -32632,7 +32632,7 @@ Supplants their footsteps.</q> <rj><qau>J. Philips .</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Rocker arm</b></col> <fld>(Mach.)</fld>, <cd>an arm borne by a rock shaft.</cd></cs>
-<-- <col><b>To be off one's rocker</b></col>, <cd>to be insane.</cd> --><br/
+<!-- <col><b>To be off one's rocker</b></col>, <cd>to be insane.</cd> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rockered</ent><br/
@@ -32739,7 +32739,7 @@ Supplants their footsteps.</q> <rj><qau>J. Philips .</qau></rj><br/
 <hw>Rock"weed`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>Any coarse seaweed growing on sea-washed rocks, especially Fucus.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1248 --></p>
+<p><!-- p. 1248 --></p>
 
 <p><ent>Rockwood</ent><br/
 <hw>Rock"wood`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>Ligniform asbestus; also, fossil wood.</def><br/
@@ -33174,7 +33174,7 @@ The dull and factious nobles of the Greeks.</q> <rj><qau>Shak.</qau></rj><br/
 The beauty of these florins new and bright.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 11. To rob, usu. a person unable to resist, as an unconscious, drunk, or sleeping person, by removing valuables on his person; as, to roll a drunk. --><br/
+<p><!-- 11. To rob, usu. a person unable to resist, as an unconscious, drunk, or sleeping person, by removing valuables on his person; as, to roll a drunk. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To roll one's self</b></col>, <cd>to wallow.</cd> -- <col><b>To roll the eye</b></col>, <cd>to direct its axis hither and thither in quick succession.</cd> -- <col><b>To roll one's r's</b></col>, <cd>to utter the letter <xex>r</xex> with a trill.</cd> <mark>[Colloq.]</mark></cs><br/
@@ -33249,7 +33249,7 @@ The beauty of these florins new and bright.</q> <rj><qau>Chaucer.</qau></rj><br/
 The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1249 --></p>
+<p><!-- p. 1249 --></p>
 
 <p><sd>(b)</sd> <def>Hence, an official or public document; a register; a record; also, a catalogue; a list.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -33329,7 +33329,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 <p><sn>10.</sn> <fld>(Zool.)</fld> <def>Any species of small ground snakes of the family <fam>Tortricidae</fam>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ground roller</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of Madagascar rollers belonging to <gen>Atelornis</gen> and allied genera.  They are nocturnal birds, and feed on the ground.</cd> -- <col><b>Roller bolt</b></col>, <cd>the bar in a carriage to which the traces are attached; a whiffletree.</cd> <mark>[Eng.]</mark> -- <col><b>Roller gin</b></col>, <cd>a cotton gin inn which rolls are used for separating the seeds from the fiber.</cd> -- <col><b>Roller mill</b></col>. <cd>See under <er>Mill</er>.</cd> -- <col><b>Roller skate</b></col>, <cd>a skate which has small wheels in the place of the metallic runner; -- designed for use in skating upon a smooth, hard surface, other than ice.</cd></cs><-- roller blades, a type of roller skate --><br/
+<p><cs><col><b>Ground roller</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of Madagascar rollers belonging to <gen>Atelornis</gen> and allied genera.  They are nocturnal birds, and feed on the ground.</cd> -- <col><b>Roller bolt</b></col>, <cd>the bar in a carriage to which the traces are attached; a whiffletree.</cd> <mark>[Eng.]</mark> -- <col><b>Roller gin</b></col>, <cd>a cotton gin inn which rolls are used for separating the seeds from the fiber.</cd> -- <col><b>Roller mill</b></col>. <cd>See under <er>Mill</er>.</cd> -- <col><b>Roller skate</b></col>, <cd>a skate which has small wheels in the place of the metallic runner; -- designed for use in skating upon a smooth, hard surface, other than ice.</cd></cs><!-- roller blades, a type of roller skate --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roller bearing</ent><br/
@@ -33691,7 +33691,7 @@ Unto my wild <qex>romaunt</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <hw>Romp</hw>, <pos>n.</pos> <sn>1.</sn> <def>A girl who indulges in boisterous play.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1250 --></p>
+<p><!-- p. 1250 --></p>
 
 <p><sn>2.</sn> <def>Rude, boisterous play or frolic; rough sport.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34180,7 +34180,7 @@ O, let me <qex>roost</qex> and nestle there.</q> <rj><qau>Herbert.</qau></rj><br
 <hw>Root</hw>, <pos>n.</pos> <ety>[Icel. <ets>r<omac/t</ets> (for <ets>vr<omac/t</ets>); akin to E. <ets>wort</ets>, and perhaps to <ets>root</ets> to turn up the earth. See <er>Wort</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The underground portion of a plant, whether a true root or a tuber, a bulb or rootstock, as in the potato, the onion, or the sweet flag.</def> <sd>(b)</sd> <def>The descending, and commonly branching, axis of a plant, increasing in length by growth at its extremity only, not divided into joints, leafless and without buds, and having for its offices to fix the plant in the earth, to supply it with moisture and soluble matters, and sometimes to serve as a reservoir of nutriment for future growth. A true root, however, may never reach the ground, but may be attached to a wall, etc., as in the ivy, or may hang loosely in the air, as in some epiphytic orchids.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1251 --></p>
+<p><!-- p. 1251 --></p>
 
 <p><sn>2.</sn> <def>An edible or esculent root, especially of such plants as produce a single root, as the beet, carrot, etc.; <as>as, the <ex>root</ex> crop</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34539,7 +34539,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>8.</sn> <def>A diamond. See <cref>Rose diamond</cref>, below.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Cabbage rose</b></col>, <col><b>China rose</b></col></mcol>, <cd>etc. See under <er>Cabbage</er>, <er>China</er>, etc.</cd> -- <col><b>Corn rose</b></col> <fld>(Bot.)</fld> <cd>See <cref>Corn poppy</cref>, under <er>Corn</er>.</cd> -- <col><b>Infantile rose</b></col> <fld>(Med.)</fld>, <cd>a variety of roseola.</cd> -- <col><b>Jamaica rose</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Jamaica</er>.</cd> -- <col><b>Rose acacia</b></col> <fld>(Bot.)</fld>, <cd>a low American leguminous shrub (<spn>Robinia hispida</spn>) with handsome clusters of rose-colored blossoms.</cd> -- <col><b>Rose aniline</b></col>. <fld>(Chem.)</fld> <cd>Same as <er>Rosaniline</er>.</cd> -- <col><b>Rose apple</b></col> <fld>(Bot.)</fld>, <cd>the fruit of the tropical myrtaceous tree <spn>Eugenia Jambos</spn>. It is an edible berry an inch or more in diameter, and is said to have a very strong roselike perfume.</cd> -- <col><b>Rose beetle</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small yellowish or buff longlegged beetle (<spn>Macrodactylus subspinosus</spn>), which eats the leaves of various plants, and is often very injurious to rosebushes, apple trees, grapevines, etc. Called also <altname>rose bug</altname>, and <altname>rose chafer</altname>.</cd> <sd>(b)</sd> <cd>The European chafer.</cd> -- <col><b>Rose bug</b></col>. <fld>(Zool.)</fld> <cd>same as <cref>Rose beetle</cref>, <cref>Rose chafer</cref>.</cd> -- <col><b>Rose burner</b></col>, <cd>a kind of gas-burner producing a rose-shaped flame.</cd> -- <col><b>Rose camphor</b></col> <fld>(Chem.)</fld>, <cd>a solid odorless substance which separates from rose oil.</cd> -- <col><b>Rose campion</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Campion</er>.</cd> -- <col><b>Rose catarrh</b></col> <fld>(Med.)</fld>, <cd>rose cold.</cd> -- <col><b>Rose chafer</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A common European beetle (<spn>Cetonia aurata</spn>) which is often very injurious to rosebushes; -- called also <altname>rose beetle</altname>, and <altname>rose fly</altname>. <sd>(b)</sd> The rose beetle <sd>(a)</sd>.</cd> -- <col><b>Rose cold</b></col> <fld>(Med.)</fld>, <cd>a variety of hay fever, sometimes attributed to the inhalation of the effluvia of roses. See <cref>Hay fever</cref>, under <er>Hay</er>.</cd> -- <col><b>Rose color</b></col>, <cd>the color of a rose; pink; hence, a beautiful hue or appearance; fancied beauty, attractiveness, or promise.</cd> <-- p. 1252 --> -- <mcol><col><b>Rose de Pompadour</b></col>, <col><b>Rose du Barry</b></col></mcol>, <cd>names succesively given to a delicate rose color used on S<egrave/vres porcelain.</cd> -- <col><b>Rose diamond</b></col>, <cd>a diamond, one side of which is flat, and the other cut into twenty-four triangular facets in two ranges which form a convex face pointed at the top.  Cf. <er>Brilliant</er>, <pos>n.</pos></cd> -- <col><b>Rose ear</b></col>. <cd>See under <er>Ear</er>.</cd> -- <col><b>Rose elder</b></col> <fld>(Bot.)</fld>, <cd>the Guelder-rose.</cd> -- <col><b>Rose engine</b></col>, <cd>a machine, or an appendage to a turning lathe, by which a surface or wood, metal, etc., is engraved with a variety of curved lines.</cd> <au>Craig.</au> -- <col><b>Rose family</b></col> <fld>(Bot.)</fld> <cd>the <spn>Roseceae</spn>.</cd> See <er>Rosaceous</er>. -- <col><b>Rose fever</b></col> <fld>(Med.)</fld>, <cd>rose cold.</cd> -- <col><b>Rose fly</b></col> <fld>(Zool.)</fld>, <cd>a rose betle, or rose chafer.</cd> -- <col><b>Rose gall</b></col> <fld>(Zool.)</fld>, <cd>any gall found on rosebushes.</cd> See <er>Bedeguar</er>. -- <col><b>Rose knot</b></col>, <cd>a ribbon, or other pliade band plaited so as to resemble a rose; a rosette.</cd> -- <mcol><col><b>Rose lake</b></col>, <col><b>Rose madder</b></col></mcol>, <cd>a rich tint prepared from lac and madder precipitated on an earthy basis.</cd> <au>Fairholt.</au> -- <col><b>Rose mallow</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A name of several malvaceous plants of the genus <gen>Hibiscus</gen>, with large rose-colored flowers.</cd> <sd>(b)</sd> <cd>the hollyhock</cd>. -- <col><b>Rose nail</b></col>, <cd>a nail with a convex, faceted head.</cd> -- <col><b>Rose noble</b></col>, <cd>an ancient English gold coin, stamped with the figure of a rose, first struck in the reign of Edward III., and current at 6s. 8d.</cd> <au>Sir W. Scott.</au> -- <col><b>Rose of China</b></col>. <fld>(Bot.)</fld> <cd>See <cref>China rose</cref> <sd>(b)</sd>, under <er>China</er>.</cd> -- <col><b>Rose of Jericho</b></col> <fld>(Bot.)</fld>, <cd>a Syrian cruciferous plant (<spn>Anastatica Hierochuntica</spn>) which rolls up when dry, and expands again when moistened; -- called also <altname>resurrection plant</altname>.</cd> -- <col><b>Rose of Sharon</b></col> <fld>(Bot.)</fld>, <cd>an ornamental malvaceous shrub (<spn>Hibiscus Syriacus</spn>). In the Bible the name is used for some flower not yet identified, perhaps a Narcissus, or possibly the great lotus flower.</cd> -- <col><b>Rose oil</b></col> <fld>(Chem.)</fld>, <cd>the yellow essential oil extracted from various species of rose blossoms, and forming the chief part of attar of roses.</cd> -- <col><b>Rose pink</b></col>, <cd>a pigment of a rose color, made by dyeing chalk or whiting with a decoction of Brazil wood and alum; also, the color of the pigment.</cd> -- <col><b>Rose quartz</b></col> <fld>(Min.)</fld>, <cd>a variety of quartz which is rose-red.</cd> -- <col><b>Rose rash</b></col>. <fld>(Med.)</fld> <cd>Same as <er>Roseola</er>.</cd> -- <col><b>Rose slug</b></col> <fld>(Zool.)</fld>, <cd>the small green larva of a black sawfly (<spn>Selandria rosae</spn>).  These larvae feed in groups on the parenchyma of the leaves of rosebushes, and are often abundant and very destructive.</cd> -- <col><b>Rose window</b></col> <fld>(Arch.)</fld>, <cd>a circular window filled with ornamental tracery. Called also <altname>Catherine wheel</altname>, and <altname>marigold window</altname>.  Cf. <cref>wheel window</cref>, under <er>Wheel</er>.</cd> -- <col><b>Summer rose</b></col> <fld>(Med.)</fld>, <cd>a variety of roseola. See <er>Roseola</er>.</cd> -- <col><b>Under the rose</b></col> <ety>[a translation of L. <ets>sub rosa</ets>]</ety>, <cd>in secret; privately; in a manner that forbids disclosure; -- the rose being among the ancients the symbol of secrecy, and hung up at entertainments as a token that nothing there said was to be divulged.</cd> -- <col><b>Wars of the Roses</b></col> <fld>(Eng. Hist.)</fld>, <cd>feuds between the Houses of York and Lancaster, the <xex>white rose</xex> being the badge of the House of York, and the <xex>red rose</xex> of the House of Lancaster.</cd></cs><br/
+<p><cs><mcol><col><b>Cabbage rose</b></col>, <col><b>China rose</b></col></mcol>, <cd>etc. See under <er>Cabbage</er>, <er>China</er>, etc.</cd> -- <col><b>Corn rose</b></col> <fld>(Bot.)</fld> <cd>See <cref>Corn poppy</cref>, under <er>Corn</er>.</cd> -- <col><b>Infantile rose</b></col> <fld>(Med.)</fld>, <cd>a variety of roseola.</cd> -- <col><b>Jamaica rose</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Jamaica</er>.</cd> -- <col><b>Rose acacia</b></col> <fld>(Bot.)</fld>, <cd>a low American leguminous shrub (<spn>Robinia hispida</spn>) with handsome clusters of rose-colored blossoms.</cd> -- <col><b>Rose aniline</b></col>. <fld>(Chem.)</fld> <cd>Same as <er>Rosaniline</er>.</cd> -- <col><b>Rose apple</b></col> <fld>(Bot.)</fld>, <cd>the fruit of the tropical myrtaceous tree <spn>Eugenia Jambos</spn>. It is an edible berry an inch or more in diameter, and is said to have a very strong roselike perfume.</cd> -- <col><b>Rose beetle</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small yellowish or buff longlegged beetle (<spn>Macrodactylus subspinosus</spn>), which eats the leaves of various plants, and is often very injurious to rosebushes, apple trees, grapevines, etc. Called also <altname>rose bug</altname>, and <altname>rose chafer</altname>.</cd> <sd>(b)</sd> <cd>The European chafer.</cd> -- <col><b>Rose bug</b></col>. <fld>(Zool.)</fld> <cd>same as <cref>Rose beetle</cref>, <cref>Rose chafer</cref>.</cd> -- <col><b>Rose burner</b></col>, <cd>a kind of gas-burner producing a rose-shaped flame.</cd> -- <col><b>Rose camphor</b></col> <fld>(Chem.)</fld>, <cd>a solid odorless substance which separates from rose oil.</cd> -- <col><b>Rose campion</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Campion</er>.</cd> -- <col><b>Rose catarrh</b></col> <fld>(Med.)</fld>, <cd>rose cold.</cd> -- <col><b>Rose chafer</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A common European beetle (<spn>Cetonia aurata</spn>) which is often very injurious to rosebushes; -- called also <altname>rose beetle</altname>, and <altname>rose fly</altname>. <sd>(b)</sd> The rose beetle <sd>(a)</sd>.</cd> -- <col><b>Rose cold</b></col> <fld>(Med.)</fld>, <cd>a variety of hay fever, sometimes attributed to the inhalation of the effluvia of roses. See <cref>Hay fever</cref>, under <er>Hay</er>.</cd> -- <col><b>Rose color</b></col>, <cd>the color of a rose; pink; hence, a beautiful hue or appearance; fancied beauty, attractiveness, or promise.</cd> <!-- p. 1252 --> -- <mcol><col><b>Rose de Pompadour</b></col>, <col><b>Rose du Barry</b></col></mcol>, <cd>names succesively given to a delicate rose color used on S<egrave/vres porcelain.</cd> -- <col><b>Rose diamond</b></col>, <cd>a diamond, one side of which is flat, and the other cut into twenty-four triangular facets in two ranges which form a convex face pointed at the top.  Cf. <er>Brilliant</er>, <pos>n.</pos></cd> -- <col><b>Rose ear</b></col>. <cd>See under <er>Ear</er>.</cd> -- <col><b>Rose elder</b></col> <fld>(Bot.)</fld>, <cd>the Guelder-rose.</cd> -- <col><b>Rose engine</b></col>, <cd>a machine, or an appendage to a turning lathe, by which a surface or wood, metal, etc., is engraved with a variety of curved lines.</cd> <au>Craig.</au> -- <col><b>Rose family</b></col> <fld>(Bot.)</fld> <cd>the <spn>Roseceae</spn>.</cd> See <er>Rosaceous</er>. -- <col><b>Rose fever</b></col> <fld>(Med.)</fld>, <cd>rose cold.</cd> -- <col><b>Rose fly</b></col> <fld>(Zool.)</fld>, <cd>a rose betle, or rose chafer.</cd> -- <col><b>Rose gall</b></col> <fld>(Zool.)</fld>, <cd>any gall found on rosebushes.</cd> See <er>Bedeguar</er>. -- <col><b>Rose knot</b></col>, <cd>a ribbon, or other pliade band plaited so as to resemble a rose; a rosette.</cd> -- <mcol><col><b>Rose lake</b></col>, <col><b>Rose madder</b></col></mcol>, <cd>a rich tint prepared from lac and madder precipitated on an earthy basis.</cd> <au>Fairholt.</au> -- <col><b>Rose mallow</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A name of several malvaceous plants of the genus <gen>Hibiscus</gen>, with large rose-colored flowers.</cd> <sd>(b)</sd> <cd>the hollyhock</cd>. -- <col><b>Rose nail</b></col>, <cd>a nail with a convex, faceted head.</cd> -- <col><b>Rose noble</b></col>, <cd>an ancient English gold coin, stamped with the figure of a rose, first struck in the reign of Edward III., and current at 6s. 8d.</cd> <au>Sir W. Scott.</au> -- <col><b>Rose of China</b></col>. <fld>(Bot.)</fld> <cd>See <cref>China rose</cref> <sd>(b)</sd>, under <er>China</er>.</cd> -- <col><b>Rose of Jericho</b></col> <fld>(Bot.)</fld>, <cd>a Syrian cruciferous plant (<spn>Anastatica Hierochuntica</spn>) which rolls up when dry, and expands again when moistened; -- called also <altname>resurrection plant</altname>.</cd> -- <col><b>Rose of Sharon</b></col> <fld>(Bot.)</fld>, <cd>an ornamental malvaceous shrub (<spn>Hibiscus Syriacus</spn>). In the Bible the name is used for some flower not yet identified, perhaps a Narcissus, or possibly the great lotus flower.</cd> -- <col><b>Rose oil</b></col> <fld>(Chem.)</fld>, <cd>the yellow essential oil extracted from various species of rose blossoms, and forming the chief part of attar of roses.</cd> -- <col><b>Rose pink</b></col>, <cd>a pigment of a rose color, made by dyeing chalk or whiting with a decoction of Brazil wood and alum; also, the color of the pigment.</cd> -- <col><b>Rose quartz</b></col> <fld>(Min.)</fld>, <cd>a variety of quartz which is rose-red.</cd> -- <col><b>Rose rash</b></col>. <fld>(Med.)</fld> <cd>Same as <er>Roseola</er>.</cd> -- <col><b>Rose slug</b></col> <fld>(Zool.)</fld>, <cd>the small green larva of a black sawfly (<spn>Selandria rosae</spn>).  These larvae feed in groups on the parenchyma of the leaves of rosebushes, and are often abundant and very destructive.</cd> -- <col><b>Rose window</b></col> <fld>(Arch.)</fld>, <cd>a circular window filled with ornamental tracery. Called also <altname>Catherine wheel</altname>, and <altname>marigold window</altname>.  Cf. <cref>wheel window</cref>, under <er>Wheel</er>.</cd> -- <col><b>Summer rose</b></col> <fld>(Med.)</fld>, <cd>a variety of roseola. See <er>Roseola</er>.</cd> -- <col><b>Under the rose</b></col> <ety>[a translation of L. <ets>sub rosa</ets>]</ety>, <cd>in secret; privately; in a manner that forbids disclosure; -- the rose being among the ancients the symbol of secrecy, and hung up at entertainments as a token that nothing there said was to be divulged.</cd> -- <col><b>Wars of the Roses</b></col> <fld>(Eng. Hist.)</fld>, <cd>feuds between the Houses of York and Lancaster, the <xex>white rose</xex> being the badge of the House of York, and the <xex>red rose</xex> of the House of Lancaster.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rose</ent><br/
@@ -34896,7 +34896,7 @@ And wholesome dew called <qex>rosmarine</qex>.</q> <rj><qau>B. Jonson.</qau></rj
 <hw>Ros"trum</hw> <pr>(-tr<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Rostra</plw> <pr>(#)</pr>, E. <plw>Rostrums</plw> <pr>(#)</pr>.</plu> <ety>[L., beak, ship's beak, fr. <ets>rodere</ets>, <ets>rosum</ets>, to gnaw. See <er>Rodent</er>.]</ety> <sn>1.</sn> <def>The beak or head of a ship.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1253 --></p>
+<p><!-- p. 1253 --></p>
 
 <p><sn>2.</sn> <pluf>pl.</pluf> (<er>Rostra</er>) <fld>(Rom. Antiq.)</fld> <def>The Beaks; the stage or platform in the forum where orations, pleadings, funeral harangues, etc., were delivered; -- so called because after the Latin war, it was adorned with the beaks of captured vessels; later, applied also to other platforms erected in Rome for the use of public orators.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -35131,7 +35131,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 
 <p><ent>Rote</ent><br/
 <hw>Rote</hw>, <pos>v. i.</pos> <def>To go out by rotation or succession; to rotate.</def> <mark>[Obs.]</mark>
-<-- = rotate out? -->  <rj><au>Z. Grey.</au></rj><br/
+<!-- = rotate out? -->  <rj><au>Z. Grey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotella</ent><br/
@@ -35337,7 +35337,7 @@ Than that it <qex>roty</qex> all the remenant.</q> <rj><qau>Chaucer.</qau></rj><
 <hw>Rouge" drag`on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., literally, red dragon.]</ety> <fld>(Her.)</fld> <def>One of the four pursuivants of the English college of arms.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1254 --></p>
+<p><!-- p. 1254 --></p>
 
 <p><ent>Rough</ent><br/
 <hw>Rough</hw> <pr>(?)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Rougher</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Roughest</adjf>.]</amorph> <ety>[OE. <ets>rou<?/</ets>, <ets>rou</ets>, <ets>row</ets>, <ets>rugh</ets>, <ets>ruh</ets>, AS. <ets>r<?/h</ets>; akin to LG. <ets>rug</ets>, D. <ets>rug</ets>, D. <ets>ruig</ets>, <ets>ruw</ets>, OHG. <ets>r<?/h</ets>, G. <ets>rauh</ets>, <ets>rauch</ets>; cf. Lith. <ets>raukas</ets> wrinkle, <ets>rukti</ets> to wrinkle. <root/ 18.  Cf. <er>Rug</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>Having inequalities, small ridges, or points, on the surface; not smooth or plain; <as>as, a <ex>rough</ex> board; a <ex>rough</ex> stone; <ex>rough</ex> cloth</as>.</def> Specifically: <sd>(a)</sd> <def>Not level; having a broken surface; uneven; -- said of a piece of land, or of a road.</def> <ldquo/Rough, uneven ways.<rdquo/  <rj><au>Shak.</au></rj><br/
@@ -35388,7 +35388,7 @@ Than that it <qex>roty</qex> all the remenant.</q> <rj><qau>Chaucer.</qau></rj><
 <p><sd>(f)</sd> <def>Hastily or carelessly done; wanting finish; incomplete; <as>as, a <ex>rough</ex> estimate; a <ex>rough</ex> draught</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rough diamond</b></col>, <cd>an uncut diamond; hence, colloquially, a person of intrinsic worth under a rude exterior.</cd><-- = diamond in the rough --> -- <col><b>Rough and ready</b></col>. <sd>(a)</sd> <cd>Acting with offhand promptness and efficiency</cd>. <ldquo/The <xex>rough and ready</xex> understanding.<rdquo/  <rj><au>Lowell.</au></rj><br/
+<p><cs><col><b>Rough diamond</b></col>, <cd>an uncut diamond; hence, colloquially, a person of intrinsic worth under a rude exterior.</cd><!-- = diamond in the rough --> -- <col><b>Rough and ready</b></col>. <sd>(a)</sd> <cd>Acting with offhand promptness and efficiency</cd>. <ldquo/The <xex>rough and ready</xex> understanding.<rdquo/  <rj><au>Lowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(b)</sd> <def>Produced offhand.</def> <ldquo/Some <xex>rough and ready</xex> theory.<rdquo/  <rj><au>Tylor.</au></rj>
@@ -35553,7 +35553,7 @@ Than that it <qex>roty</qex> all the remenant.</q> <rj><qau>Chaucer.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To ride roughshod</b></col>, <cd>to pursue a course regardless of the pain or distress it may cause others.</cd></cs>
-<-- usu. with "over" --><br/
+<!-- usu. with "over" --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roughstrings</ent><br/
@@ -35808,7 +35808,7 @@ In a light fantastic <qex>round</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p>-- <col><b>Round of beef</b></col>, <cd>the part of the thigh below the aitchbone, or between the rump and the leg.</cd> See <xex>Illust.</xex> of <er>beef</er>. -- <col><b>Round steak</b></col>, <cd>a beefsteak cut from the round.</cd> -- <col><b>Sculpture in the round</b></col>, <cd>sculpture giving the full form, as of man; statuary, distinguished from relief.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1255 --></p>
+<p><!-- p. 1255 --></p>
 
 <p><ent>Round</ent><br/
 <hw>Round</hw>, <pos>adv.</pos> <sn>1.</sn> <def>On all sides; around.</def><br/
@@ -35882,7 +35882,7 @@ Is <qex>rounded</qex> with a sleep.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <def>To make full, smooth, and flowing; <as>as, to <ex>round</ex> periods in writing</as>.</def>  <rj><au>Swift.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To round in</b></col> <fld>(Naut.)</fld> <cd>To haul up; usually, to haul the slack of (a rope) through its leading block, or to haul up (a tackle which hangs loose) by its fall.</cd> <au>Totten.</au> <sd>(b)</sd> <cd>To collect together (cattle) by riding around them, as on cattle ranches<-- round up --></cd>. <mark>[Western U.S.]</mark></cs><br/
+<p><cs><col><b>To round in</b></col> <fld>(Naut.)</fld> <cd>To haul up; usually, to haul the slack of (a rope) through its leading block, or to haul up (a tackle which hangs loose) by its fall.</cd> <au>Totten.</au> <sd>(b)</sd> <cd>To collect together (cattle) by riding around them, as on cattle ranches<!-- round up --></cd>. <mark>[Western U.S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Round</ent><br/
@@ -35896,7 +35896,7 @@ Is <qex>rounded</qex> with a sleep.</q> <rj><qau>Shak.</qau></rj><br/
 From whence clear memory may begin.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To go round, as a guard.</def> <mark>[Poetic]</mark><-- = make the rounds --><br/
+<p><sn>2.</sn> <def>To go round, as a guard.</def> <mark>[Poetic]</mark><!-- = make the rounds --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They . . . nightly <qex>rounding</qex> walk.</q> <rj><qau>Milton.</qau></rj><br/
@@ -36268,7 +36268,7 @@ And make this noisy <qex>rout</qex>.<rdquo/</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To rout out</b></col> <sd>(a)</sd> <cd>To turn up to view, as if by rooting; to discover; to find</cd>. <sd>(b)</sd> <cd>To turn out by force or compulsion; as, <xex>to rout</xex> people <xex>out</xex> of bed.</cd> <mark>[Colloq.]</mark></cs>
-<-- = to root out, roust out of? --><br/
+<!-- = to root out, roust out of? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rout</ent><br/
@@ -36388,7 +36388,7 @@ Dispersed in <qex>rout</qex>, betook them all to fly.</q> <rj><qau>Daniel.</qau>
 \'d8<hw>Roux</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. beurre <ets>roux</ets> brown butter.]</ety> <fld>(Cookery)</fld> <def>A thickening, made of flour, for soups and gravies.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1256 --></p>
+<p><!-- p. 1256 --></p>
 
 <p><ent>Rove</ent><br/
 <hw>Rove</hw> <pr>(r<omac/v)</pr>, <pos>v. t.</pos> <ety>[perhaps fr. or akin to <ets>reeve</ets>.]</ety> <sn>1.</sn> <def>To draw through an eye or aperture.</def><br/
@@ -36899,7 +36899,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 \'d8<hw>Ru*bai*yat"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Rubai</singw> <pr>(<?/)</pr></sing>. <ety>[Ar. <ets>rub<amac/'iy<amac/h</ets> quatrian, pl. of <ets>rub<amac/'iy</ets> having four radicals, fr. <ets>rub<amac/'</ets> four.]</ety> <def>Quatrians; <as>as, the <ex>Rubaiyat</ex> of <person>Omar Khayyam</person></as>. Sometimes in <pluf>pl.</pluf> construed as <pos>sing.</pos>, a poem in such stanzas.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><-- p. 1257 --></p>
+<p><!-- p. 1257 --></p>
 
 <p><ent>Rubato</ent><br/
 \'d8<hw>Ru*ba"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <def>Robbed; borrowed.</def><br/
@@ -37142,10 +37142,10 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ruble</ent><br/
-<hw>Ru"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Russ. <ets>ruble</ets>.]</ety> <def>The unit of monetary value in Russia. <-- and, 1917-1992, in the Soviet Union --> It is divided into 100 copecks, and in the gold coin of the realm (as in the five and ten ruble pieces) is worth about 77 cents. The silver ruble is a coin worth about 60 cents.</def> <altsp>[Written also <asp>rouble</asp>.]</altsp><-- After the severe inflation of 1992-1996, the ruble is now exchanged at 5000 rubles to the dollar.  The Kopeck is no longer minted or used in trade, the smallest coin (1996) being the ruble. --><br/
+<hw>Ru"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Russ. <ets>ruble</ets>.]</ety> <def>The unit of monetary value in Russia. <!-- and, 1917-1992, in the Soviet Union --> It is divided into 100 copecks, and in the gold coin of the realm (as in the five and ten ruble pieces) is worth about 77 cents. The silver ruble is a coin worth about 60 cents.</def> <altsp>[Written also <asp>rouble</asp>.]</altsp><!-- After the severe inflation of 1992-1996, the ruble is now exchanged at 5000 rubles to the dollar.  The Kopeck is no longer minted or used in trade, the smallest coin (1996) being the ruble. --><br/
 [<source>1913 Webster</source>]</p>
 
-<-- ##?? rubout -->
+<!-- ##?? rubout -->
 
 <p><ent>Rubric</ent><br/
 <hw>Ru"bric</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>rubriche</ets>, OF. <ets>rubriche</ets>, F. <ets>rubrique</ets> ( cf. it. <ets>rubrica</ets>), fr. L. <ets>rubrica</ets> red earth for coloring, red chalk, the title of a law (because written in red), fr. <ets>ruber</ets> red. See <er>red</er>.]</ety> <def>That part of any work in the early manuscripts and typography which was colored red, to distinguish it from other portions.</def> Hence, specifically: <sd>(a)</sd> <def>A titlepage, or part of it, especially that giving the date and place of printing; also, the initial letters, etc., when printed in red.</def> <sd>(b)</sd> <fld>(Law books)</fld> <def>The title of a statute; -- so called as being anciently written in red letters.</def> <au>Bell.</au> <sd>(c)</sd> <fld>(Liturgies)</fld> <def>The directions and rules for the conduct of service, formerly written or printed in red; hence, also, an ecclesiastical or episcopal injunction; -- usually in the plural.</def><br/
@@ -37160,7 +37160,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Nay, as a duty, it had no place or rubric in human conceptions before Christianity.</q> <rj><qau>De Quincey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- category, class, classification
+<p><!-- category, class, classification
   under the rubric of, (See def. (b)) in the category of --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -37213,7 +37213,7 @@ Or plaistered posts, with claps, in capitals?</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Besides the true or <xex>Oriental ruby</xex> above defined, there are the <xex>balas ruby</xex>, or <xex>ruby spinel</xex>, a red variety of spinel, and the <xex>rock</xex> ruby, a red variety of garnet.</note>
-<-- artificially produced variants are used in jewelry and in lasers. --><br/
+<!-- artificially produced variants are used in jewelry and in lasers. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of <qex>rubies</qex>, sapphires, and pearles white.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -37339,7 +37339,7 @@ Or plaistered posts, with claps, in capitals?</q> <rj><qau>Pope.</qau></rj><br/
 <hw>Rud"der</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A riddle or sieve.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1258 --></p>
+<p><!-- p. 1258 --></p>
 
 <p><ent>Rudder</ent><br/
 <hw>Rud"der</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>rother</ets>, AS. <ets>r<omac/<edh/er</ets> a paddle; akin to D. <ets>roer</ets> rudder, oar, G. <ets>ruder</ets>, OHG.  <ets>roadar</ets>, Sw. <ets>roder</ets>, <ets>ror</ets>, Dan. <ets>roer</ets>, <ets>ror</ets>. <root/ 8. See <er>Row</er> to propel with an oar, and cf. <er>Rother</er>. ]</ety> <sn>1.</sn> <fld>(Naut.)</fld> <def>The mechanical appliance by means of which a vessel is guided or steered when in motion. It is a broad and flat blade made of wood or iron, with a long shank, and is fastened in an upright position, usually by one edge, to the sternpost of the vessel in such a way that it can be turned from side to side in the water by means of a tiller, wheel, or other attachment.</def><br/
@@ -37453,7 +37453,7 @@ All meanly wrapt in the <qex>rude</qex> manger lies.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(b)</sd> <def>Of untaught manners; unpolished; of low rank; uncivil; clownish; ignorant; raw; unskillful; -- said of persons, or of conduct, skill, and the like.</def> <ldquo/Mine ancestors were <xex>rude</xex>.<rdquo/
-<-- impolite. -->  <rj><au>Chaucer.</au></rj><br/
+<!-- impolite. -->  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He was but <qex>rude</qex> in the profession of arms.</q> <rj><qau>Sir H. Wotton.</qau></rj><br/
@@ -37772,7 +37772,7 @@ Soft on the paper <qex>ruff</qex> its leaves I spread.</q> <rj><qau>Pope.</qau><
 <p><q>His <qex>ruffin</qex> rainment all was stained with blood.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1259 --></p>
+<p><!-- p. 1259 --></p>
 
 <p><ent>Ruffle</ent><br/
 <hw>Ruf"fle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ruffled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Ruffling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[From <er>Ruff</er> a plaited collar, a drum beat, a tumult: cf. OD. <ets>ruyffelen</ets> to wrinkle.]</ety> <sn>1.</sn> <def>To make into a ruff; to draw or contract into puckers, plaits, or folds; to wrinkle.</def><br/
@@ -38282,7 +38282,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Rule"-mon`ger</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A stickler for rules; a slave of rules</def> <mark>[R.]</mark>  <rj><au>Hare.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1260 --></p>
+<p><!-- p. 1260 --></p>
 
 <p><ent>Ruler</ent><br/
 <hw>Rul"er</hw> <pr>(r<udd/l"<etil/r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who rules; one who exercises sway or authority; a governor.</def><br/
@@ -38294,7 +38294,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>A prince and <qex>ruler</qex> of the land.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A straight or curved strip of wood, metal, etc., with a smooth edge, used for guiding a pen or pencil in drawing lines.  Cf. <er>Rule</er>, <pos>n.</pos>, 7 <sd>(a)</sd><-- usu. marked with graduations so that it can be used to measure distances -->.</def><br/
+<p><sn>2.</sn> <def>A straight or curved strip of wood, metal, etc., with a smooth edge, used for guiding a pen or pencil in drawing lines.  Cf. <er>Rule</er>, <pos>n.</pos>, 7 <sd>(a)</sd><!-- usu. marked with graduations so that it can be used to measure distances -->.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Parallel ruler</b></col>. <cd>See under <er>Parallel</er>.</cd></cs><br/
@@ -38360,7 +38360,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>To <qex>rumble</qex> gently down with murmur soft.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><--3.  to engage in a fight, usu. between street gangs.--><br/
+<p><!--3.  to engage in a fight, usu. between street gangs.--><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumble</ent><br/
@@ -38388,7 +38388,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>A rotating cask or box in which small articles are smoothed or polished by friction against each other.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- <col><b>rumble seat</b></col>, <cd>a seat in the rear of an automobile, outside the passenger cabin, which folds out from the body.</cd> --><br/
+<p><!-- <col><b>rumble seat</b></col>, <cd>a seat in the rear of an automobile, outside the passenger cabin, which folds out from the body.</cd> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumble</ent><br/
@@ -38416,7 +38416,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumen</ent><br/
-\'d8<hw>Ru"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rumen</ets>, <ets>- inis</ets>, the throat.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The first stomach of ruminants; the paunch; the fardingbag. See <xex>Illust.</xex> below. <-- ! PCP --></def><br/
+\'d8<hw>Ru"men</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rumen</ets>, <ets>- inis</ets>, the throat.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The first stomach of ruminants; the paunch; the fardingbag. See <xex>Illust.</xex> below. <!-- ! PCP --></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The cud of a ruminant.</def><br/
@@ -38442,7 +38442,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 \'d8<hw>Ru`mi*nan"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of Artiodactyla having four stomachs. This division includes the camels, deer, antelopes, goats, sheep, neat cattle, and allies.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Letters refer to the Illustration, "Stomach of a ruminant." --><br/
+<p><!-- Letters refer to the Illustration, "Stomach of a ruminant." --><br/
 <note><hand/ The vegetable food, after the first mastication, enters the first stomach (<xex>r</xex>). It afterwards passes into the second (<xex>n</xex>), where it is moistened, and formed into pellets which the animal has the power of bringing back to the mouth to be chewed again, after which it is swallowed into the third stomach (<xex>m</xex>), whence it passes to the fourth (<xex>s</xex>), where it is finally digested.</note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -38569,7 +38569,7 @@ Is <qex>ruminated</qex>, plotted, and set down.</q> <rj><qau>Shak.</qau></rj><br
 <hw>Rum"my</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rummies</plw> <pr>(<?/)</pr>.</plu> <def>One who drinks rum; an habitually intemperate person.</def> <mark>[Low]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Rummy, a game of cards.
+<p><!-- Rummy, a game of cards.
     Gin rummy, a type of rummy.  --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -38610,7 +38610,7 @@ My father 'scaped from out the citadel.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumorer</ent><br/
-<hw>Ru"mor*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A teller of news; especially, one who spreads false reports.</def> <-- = rumor-monger -->  <rj><au>Shak.</au></rj><br/
+<hw>Ru"mor*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A teller of news; especially, one who spreads false reports.</def> <!-- = rumor-monger -->  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumorous</ent><br/
@@ -38743,7 +38743,7 @@ My father 'scaped from out the citadel.</q> <rj><qau>Dryden.</qau></rj><br/
 Each sire impressed, and glaring in his son.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sd>(g)</sd> <def>To go back and forth from place to place; to ply; as, the stage <xex>runs</xex> between the hotel and the station.</def><-- same as (e)? --> <sd>(h)</sd> <def>To make progress; to proceed; to pass.</def><br/
+<p><sd>(g)</sd> <def>To go back and forth from place to place; to ply; as, the stage <xex>runs</xex> between the hotel and the station.</def><!-- same as (e)? --> <sd>(h)</sd> <def>To make progress; to proceed; to pass.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>As fast as our time <qex>runs</qex>, we should be very glad in most part of our lives that it <qex>ran</qex> much faster.</q> <rj><qau>Addison.</qau></rj><br/
@@ -38780,7 +38780,7 @@ So <qex>runs</qex> against all reason.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Neither was he ignorant what report <qex>ran</qex> of himself.</q> <rj><qau>Knolles.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1261 --></p>
+<p><!-- p. 1261 --></p>
 
 <p><sd>(m)</sd> <def>To have growth or development; <as>as, boys and girls <ex>run</ex> up rapidly</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -38818,7 +38818,7 @@ So <qex>runs</qex> against all reason.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Athletics)</fld> <def>To move rapidly by springing steps so that there is an instant in each step when neither foot touches the ground; -- so distinguished from <xex>walking</xex> in athletic competition.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>As things run</b></col>, <cd>according to the usual order, conditions, quality, etc.; on the average; without selection or specification.</cd> -- <col><b>To let run</b></col> <fld>(Naut.)</fld>, <cd>to allow to pass or move freely; to slacken or loosen.</cd> -- <col><b>To run after</b></col>, <cd>to pursue or follow; to search for; to endeavor to find or obtain; <as>as, <ex>to run after</ex> similes</as>.</cd> <au>Locke.</au> -- <col><b>To run away</b></col>, <cd>to flee; to escape; to elope; to run without control or guidance.</cd> -- <col><b>To run away with</b></col>. <sd>(a)</sd> <cd>To convey away hurriedly; to accompany in escape or elopement.</cd> <sd>(b)</sd> <cd>To drag rapidly and with violence; <as>as, a horse <ex>runs away with</ex> a carriage</as>.</cd> -- <col><b>To run down</b></col>. <sd>(a)</sd> <cd>To cease to work or operate on account of the exhaustion of the motive power; -- said of clocks, watches, etc.</cd><-- batteries --> <sd>(b)</sd> <cd>To decline in condition; <as>as, <ex>to run down</ex> in health</as>.</cd> -- <col><b>To run down a coast</b></col>, <cd>to sail along it.</cd> -- <col><b>To run for an office</b></col>, <cd>to stand as a candidate for an office.</cd> -- <mcol><col><b>To run in</b></col> <it>or</it> <col><b>To run into</b></col></mcol>. <sd>(a)</sd> <cd>To enter; to step in</cd>. <sd>(b)</sd> <cd>To come in collision with.</cd> -- <col><b>To run into</b></col> <cd>To meet, by chance; <as>as, I <ex>ran into</ex> my brother at the grocery store</as>.</cd> -- <col><b>To run in trust</b></col>, <cd>to run in debt; to get credit.</cd> <mark>[Obs.]</mark> -- <col><b>To run in with</b></col>. <sd>(a)</sd> <cd>To close; to comply; to agree with.</cd> <mark>[R.]</mark> <au>T. Baker.</au> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To make toward; to near; to sail close to; as, <xex>to run in with</xex> the land.</cd> -- <mcol><col><b>To run mad</b></col>, <col><b>To run mad after</b></col> <it>or</it> <col><b>To run mad on</b></col></mcol>. <cd>See under <er>Mad</er>.</cd> -- <col><b>To run on</b></col>. <sd>(a)</sd> <cd>To be continued; as, their accounts had <xex>run on</xex> for a year or two without a settlement.</cd> <sd>(b)</sd> <cd>To talk incessantly</cd>. <sd>(c)</sd> <cd>To continue a course</cd>. <sd>(d)</sd> <cd>To press with jokes or ridicule; to abuse with sarcasm; to bear hard on</cd>. <sd>(e)</sd> <fld>(Print.)</fld> <cd>To be continued in the same lines, without making a break or beginning a new paragraph</cd>. -- <col><b>To run out</b></col>. <sd>(a)</sd> <cd>To come to an end; to expire; <as>as, the lease <ex>runs out</ex> at Michaelmas</as>.</cd> <sd>(b)</sd> <cd>To extend; to spread</cd>. <ldquo/Insectile animals . . . <xex>run</xex> all <xex>out</xex> into legs.<rdquo/ <au>Hammond.</au> <sd>(c)</sd> <cd>To expatiate; as, <xex>to run out</xex> into beautiful digressions.</cd> <sd>(d)</sd> <cd>To be wasted or exhausted; to become poor; to become extinct; as, an estate managed without economy will soon <xex>run out</xex>.</cd><br/
+<p><cs><col><b>As things run</b></col>, <cd>according to the usual order, conditions, quality, etc.; on the average; without selection or specification.</cd> -- <col><b>To let run</b></col> <fld>(Naut.)</fld>, <cd>to allow to pass or move freely; to slacken or loosen.</cd> -- <col><b>To run after</b></col>, <cd>to pursue or follow; to search for; to endeavor to find or obtain; <as>as, <ex>to run after</ex> similes</as>.</cd> <au>Locke.</au> -- <col><b>To run away</b></col>, <cd>to flee; to escape; to elope; to run without control or guidance.</cd> -- <col><b>To run away with</b></col>. <sd>(a)</sd> <cd>To convey away hurriedly; to accompany in escape or elopement.</cd> <sd>(b)</sd> <cd>To drag rapidly and with violence; <as>as, a horse <ex>runs away with</ex> a carriage</as>.</cd> -- <col><b>To run down</b></col>. <sd>(a)</sd> <cd>To cease to work or operate on account of the exhaustion of the motive power; -- said of clocks, watches, etc.</cd><!-- batteries --> <sd>(b)</sd> <cd>To decline in condition; <as>as, <ex>to run down</ex> in health</as>.</cd> -- <col><b>To run down a coast</b></col>, <cd>to sail along it.</cd> -- <col><b>To run for an office</b></col>, <cd>to stand as a candidate for an office.</cd> -- <mcol><col><b>To run in</b></col> <it>or</it> <col><b>To run into</b></col></mcol>. <sd>(a)</sd> <cd>To enter; to step in</cd>. <sd>(b)</sd> <cd>To come in collision with.</cd> -- <col><b>To run into</b></col> <cd>To meet, by chance; <as>as, I <ex>ran into</ex> my brother at the grocery store</as>.</cd> -- <col><b>To run in trust</b></col>, <cd>to run in debt; to get credit.</cd> <mark>[Obs.]</mark> -- <col><b>To run in with</b></col>. <sd>(a)</sd> <cd>To close; to comply; to agree with.</cd> <mark>[R.]</mark> <au>T. Baker.</au> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To make toward; to near; to sail close to; as, <xex>to run in with</xex> the land.</cd> -- <mcol><col><b>To run mad</b></col>, <col><b>To run mad after</b></col> <it>or</it> <col><b>To run mad on</b></col></mcol>. <cd>See under <er>Mad</er>.</cd> -- <col><b>To run on</b></col>. <sd>(a)</sd> <cd>To be continued; as, their accounts had <xex>run on</xex> for a year or two without a settlement.</cd> <sd>(b)</sd> <cd>To talk incessantly</cd>. <sd>(c)</sd> <cd>To continue a course</cd>. <sd>(d)</sd> <cd>To press with jokes or ridicule; to abuse with sarcasm; to bear hard on</cd>. <sd>(e)</sd> <fld>(Print.)</fld> <cd>To be continued in the same lines, without making a break or beginning a new paragraph</cd>. -- <col><b>To run out</b></col>. <sd>(a)</sd> <cd>To come to an end; to expire; <as>as, the lease <ex>runs out</ex> at Michaelmas</as>.</cd> <sd>(b)</sd> <cd>To extend; to spread</cd>. <ldquo/Insectile animals . . . <xex>run</xex> all <xex>out</xex> into legs.<rdquo/ <au>Hammond.</au> <sd>(c)</sd> <cd>To expatiate; as, <xex>to run out</xex> into beautiful digressions.</cd> <sd>(d)</sd> <cd>To be wasted or exhausted; to become poor; to become extinct; as, an estate managed without economy will soon <xex>run out</xex>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And had her stock been less, no doubt<br/
@@ -38926,7 +38926,7 @@ Which all the while <qex>ran</qex> blood, great Caesar fell.</q> <rj><qau>Shak.<
 <p><sn>18.</sn> <fld>(Golf)</fld> <def>To strike (the ball) in such a way as to cause it to run along the ground, as when approaching a hole.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>To run a blockade</b></col>, <cd>to get to, or away from, a blockaded port in safety.</cd> -- <col><b>To run down</b></col>. <sd>(a)</sd> <fld>(Hunting)</fld> <cd>To chase till the object pursued is captured or exhausted; <as>as, <ex>to run down</ex> a stag</as></cd>. <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To run against and sink, as a vessel</cd>. <sd>(c)</sd> <cd>To crush; to overthrow; to overbear</cd>. <ldquo/Religion is <xex>run down</xex> by the license of these times.<rdquo/ <au>Berkeley.</au> <sd>(d)</sd> <cd>To disparage; to traduce.</cd> <au>F. W. Newman.</au> -- <col><b>To run hard</b></col>. <sd>(a)</sd> <cd>To press in competition; <as>as, <ex>to run</ex> one <ex>hard</ex> in a race</as>.</cd> <sd>(b)</sd> <cd>To urge or press importunately</cd>. <sd>(c)</sd> <cd>To banter severely.</cd> -- <col><b>To run into the ground</b></col>, <cd>to carry to an absurd extreme; to overdo.</cd> <mark>[Slang, U.S.]</mark><-- also, to operate a machine (as a car) without maintenance, until it malfunctions or becomes useless -->  -- <col><b>To run off</b></col>, <cd>to cause to flow away, as a charge of molten metal from a furnace.</cd> -- <col><b>To run on</b></col> <fld>(Print.)</fld>, <cd>to carry on or continue, as the type for a new sentence, without making a break or commencing a new paragraph.</cd> -- <col><b>To run out</b></col>. <sd>(a)</sd> <cd>To thrust or push out; to extend.</cd> <sd>(b)</sd> <cd>To waste; to exhaust; <as>as, <ex>to run out</ex> an estate</as>.</cd> <sd>(c)</sd> <fld>(Baseball)</fld> <cd>To put out while running between two bases.  Also called <col><b>to run out</b></col>.</cd> -- <mcol><col><b>To run the chances</b></col> <it>or</it>  <col><b>To run one's chances</b></col></mcol>, <cd>to encounter all the risks of a certain course.</cd> -- <col><b>To run through</b></col>, <cd>to transfix; to pierce, as with a sword.</cd>  <ldquo/[He] was <xex>run through</xex> the body by the man who had asked his advice.<rdquo/ <au>Addison.</au> -- <col><b>To run up</b></col>. <sd>(a)</sd> <cd>To thrust up, as anything long and slender.</cd> <sd>(b)</sd> <cd>To increase; to enlarge by additions, as an account</cd>.<-- e.g. to incur a debt, as to <ex>run up</ex> a bill --> <sd>(c)</sd> <cd>To erect hastily, as a building</cd>.</cs><br/
+<p><cs><col><b>To run a blockade</b></col>, <cd>to get to, or away from, a blockaded port in safety.</cd> -- <col><b>To run down</b></col>. <sd>(a)</sd> <fld>(Hunting)</fld> <cd>To chase till the object pursued is captured or exhausted; <as>as, <ex>to run down</ex> a stag</as></cd>. <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To run against and sink, as a vessel</cd>. <sd>(c)</sd> <cd>To crush; to overthrow; to overbear</cd>. <ldquo/Religion is <xex>run down</xex> by the license of these times.<rdquo/ <au>Berkeley.</au> <sd>(d)</sd> <cd>To disparage; to traduce.</cd> <au>F. W. Newman.</au> -- <col><b>To run hard</b></col>. <sd>(a)</sd> <cd>To press in competition; <as>as, <ex>to run</ex> one <ex>hard</ex> in a race</as>.</cd> <sd>(b)</sd> <cd>To urge or press importunately</cd>. <sd>(c)</sd> <cd>To banter severely.</cd> -- <col><b>To run into the ground</b></col>, <cd>to carry to an absurd extreme; to overdo.</cd> <mark>[Slang, U.S.]</mark><!-- also, to operate a machine (as a car) without maintenance, until it malfunctions or becomes useless -->  -- <col><b>To run off</b></col>, <cd>to cause to flow away, as a charge of molten metal from a furnace.</cd> -- <col><b>To run on</b></col> <fld>(Print.)</fld>, <cd>to carry on or continue, as the type for a new sentence, without making a break or commencing a new paragraph.</cd> -- <col><b>To run out</b></col>. <sd>(a)</sd> <cd>To thrust or push out; to extend.</cd> <sd>(b)</sd> <cd>To waste; to exhaust; <as>as, <ex>to run out</ex> an estate</as>.</cd> <sd>(c)</sd> <fld>(Baseball)</fld> <cd>To put out while running between two bases.  Also called <col><b>to run out</b></col>.</cd> -- <mcol><col><b>To run the chances</b></col> <it>or</it>  <col><b>To run one's chances</b></col></mcol>, <cd>to encounter all the risks of a certain course.</cd> -- <col><b>To run through</b></col>, <cd>to transfix; to pierce, as with a sword.</cd>  <ldquo/[He] was <xex>run through</xex> the body by the man who had asked his advice.<rdquo/ <au>Addison.</au> -- <col><b>To run up</b></col>. <sd>(a)</sd> <cd>To thrust up, as anything long and slender.</cd> <sd>(b)</sd> <cd>To increase; to enlarge by additions, as an account</cd>.<!-- e.g. to incur a debt, as to <ex>run up</ex> a bill --> <sd>(c)</sd> <cd>To erect hastily, as a building</cd>.</cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Run</ent><br/
@@ -39065,7 +39065,7 @@ Which all the while <qex>ran</qex> blood, great Caesar fell.</q> <rj><qau>Shak.<
 <p><sn>2.</sn> <def>Accomplished by running away or elopement, or during flight; <as>as, a <ex>runaway</ex> marriage</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- <sn>3.</sn> <sd>(a)</sd> <def>Won by a long lead; <as>as, a <ex>runaway</ex> victory</as>.</def> <sd>(b)</sd> <def>Very successful; accomplishing success quickly; <as>as, a <ex>runaway</ex> bestseller</as>.</def> --> <br/
+<p><!-- <sn>3.</sn> <sd>(a)</sd> <def>Won by a long lead; <as>as, a <ex>runaway</ex> victory</as>.</def> <sd>(b)</sd> <def>Very successful; accomplishing success quickly; <as>as, a <ex>runaway</ex> bestseller</as>.</def> --> <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Runcation</ent><br/
@@ -39204,7 +39204,7 @@ As on the warrior's sword.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>8.</sn> <fld>(Naut.)</fld> <def>A rope rove through a block and used to increase the mechanical power of a tackle.</def>  <rj><au>Totten.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1262 --></p>
+<p><!-- p. 1262 --></p>
 
 <p><sn>9.</sn> <def>One of the pieces on which a sled or sleigh slides; also the part or blade of a skate which slides on the ice.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -39250,7 +39250,7 @@ As on the warrior's sword.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Med.)</fld> <def>Discharging pus; <as>as, a <ex>running</ex> sore</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Running block</b></col> <fld>(Mech.)</fld>, <cd>a block in an arrangement of pulleys which rises or sinks with the weight which is raised or lowered.</cd> -- <col><b>Running board</b></col>, <cd>a narrow platform extending along the side of a locomotive.</cd><-- or automobile(pre-1960) --> -- <col><b>Running bowsprit</b></col> <fld>(Naut.)</fld> <cd>Same as <cref>Reefing bowsprit</cref>.</cd> -- <col><b>Running days</b></col> <fld>(Com.)</fld>, <cd>the consecutive days occupied on a voyage under a charter party, including Sundays and not limited to the working days.</cd> <au>Simmonds.</au> -- <col><b>Running fire</b></col>, <cd>a constant fire of musketry or cannon.</cd> -- <col><b>Running gear</b></col>, <cd>the wheels and axles of a vehicle, and their attachments, in distinction from the body; all the working parts of a locomotive or other machine, in distinction from the framework.</cd> -- <col><b>Running hand</b></col>, <cd>a style of rapid writing in which the letters are usually slanted and the words formed without lifting the pen; -- distinguished from <cref>round hand</cref>.</cd> -- <col><b>Running part</b></col> <fld>(Naut.)</fld>, <cd>that part of a rope that is hauled upon, -- in distinction from the <contr>standing part</contr>.</cd> -- <col><b>Running rigging</b></col> <fld>(Naut.)</fld>, <cd>that part of a ship's rigging or ropes which passes through blocks, etc.; -- in distinction from <contr>standing rigging</contr>. </cd> -- <col><b>Running title</b></col> <fld>(Print.)</fld>, <cd>the title of a book or chapter continued from page to page on the upper margin.</cd><-- it may be different, for conciseness, from the full title on the title page. --></cs><br/
+<p><cs><col><b>Running block</b></col> <fld>(Mech.)</fld>, <cd>a block in an arrangement of pulleys which rises or sinks with the weight which is raised or lowered.</cd> -- <col><b>Running board</b></col>, <cd>a narrow platform extending along the side of a locomotive.</cd><!-- or automobile(pre-1960) --> -- <col><b>Running bowsprit</b></col> <fld>(Naut.)</fld> <cd>Same as <cref>Reefing bowsprit</cref>.</cd> -- <col><b>Running days</b></col> <fld>(Com.)</fld>, <cd>the consecutive days occupied on a voyage under a charter party, including Sundays and not limited to the working days.</cd> <au>Simmonds.</au> -- <col><b>Running fire</b></col>, <cd>a constant fire of musketry or cannon.</cd> -- <col><b>Running gear</b></col>, <cd>the wheels and axles of a vehicle, and their attachments, in distinction from the body; all the working parts of a locomotive or other machine, in distinction from the framework.</cd> -- <col><b>Running hand</b></col>, <cd>a style of rapid writing in which the letters are usually slanted and the words formed without lifting the pen; -- distinguished from <cref>round hand</cref>.</cd> -- <col><b>Running part</b></col> <fld>(Naut.)</fld>, <cd>that part of a rope that is hauled upon, -- in distinction from the <contr>standing part</contr>.</cd> -- <col><b>Running rigging</b></col> <fld>(Naut.)</fld>, <cd>that part of a ship's rigging or ropes which passes through blocks, etc.; -- in distinction from <contr>standing rigging</contr>. </cd> -- <col><b>Running title</b></col> <fld>(Print.)</fld>, <cd>the title of a book or chapter continued from page to page on the upper margin.</cd><!-- it may be different, for conciseness, from the full title on the title page. --></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Running</ent><br/
@@ -39333,7 +39333,7 @@ I'll buy a college for bears, and live among 'em.</q> <rj><qau>Beau. & Fl.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rupert's drop</ent><br/
-<-- no "<pos>n.</pos>" in original?  PCP -->
+<!-- no "<pos>n.</pos>" in original?  PCP -->
 <hw>Ru"pert's drop`</hw> <pr>(?)</pr>. <def>A kind of glass drop with a long tail, made by dropping melted glass into water. It is remarkable for bursting into fragments when the surface is scratched or the tail broken; -- so called from Prince <etsep>Rupert</etsep>, nephew of Charles I., by whom they were first brought to England. Called also <altname>Rupert's ball</altname>, and <altname>glass tear</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -39544,7 +39544,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 <p><sn>3.</sn> <def>A perfect recitation.</def> <mark>[College Cant, U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Football)</fld> <sd>(a)</sd> <def>A rusher; <as>as, the center <ex>rush</ex>, whose place is in the center of the rush line; the end <ex>rush</ex></as>.</def><-- now, lineman. --> <sd>(b)</sd> <def>The act of running with the ball.</def> <-- rushing. --><br/
+<p><sn>4.</sn> <fld>(Football)</fld> <sd>(a)</sd> <def>A rusher; <as>as, the center <ex>rush</ex>, whose place is in the center of the rush line; the end <ex>rush</ex></as>.</def><!-- now, lineman. --> <sd>(b)</sd> <def>The act of running with the ball.</def> <!-- rushing. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bunt rush</b></col> <fld>(Football)</fld>, <cd>a combined rush by main strength.</cd> -- <col><b>Rush line</b></col> <fld>(Football)</fld>, <cd>the line composed of rushers.</cd></cs><br/
@@ -39672,7 +39672,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 <p><cs><col><b>Russia iron</b></col>, <cd>a kind of sheet iron made in <country>Russia</country>, having a lustrous blue-black surface.</cd> -- <col><b>Russia leather</b></col>, <cd>a soft kind of leather, made originally in <country>Russia</country> but now elsewhere, having a peculiar odor from being impregnated with an oil obtained from birch bark. It is much used in bookbinding, on account of its not being subject to mold, and being proof against insects.</cd> -- <col><b>Russia matting</b></col>, <cd>matting manufactured in <country>Russia</country> from the inner bark of the linden (<spn>Tilia Europaea</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1263. --></p>
+<p><!-- p. 1263. --></p>
 
 <p><ent>Russian</ent><br/
 <hw>Rus"sian</hw> <pr>(r<ucr/sh"<ait/n <it>or</it> r<udd/"sh<ait/n; 277)</pr>, <pos>a.</pos> <def>Of or pertaining to Russia, its inhabitants, or language.</def> -- <def2><pos>n.</pos> <def>A native or inhabitant of Russia; the language of Russia.</def></def2></p>
@@ -39701,7 +39701,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 <hw>Rus"si*fy</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Cf. F. <ets>russifier.</ets> See <er>-fy</er>.]</ety> <def>To Russianize; <as>as, to <ex>Russify</ex> conquered tribes</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Russky Pl. Russkies, a Russian [Colloq.] --><br/
+<p><!-- Russky Pl. Russkies, a Russian [Colloq.] --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Russophilist</ent><br/
@@ -39836,7 +39836,7 @@ That teach the <qex>rustic</qex> moralist to die.</q> <rj><qau>Gray.</qau></rj><
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>Rustic work.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<-- headword error in Rusticity.   PCP -->  <-- previous reader's additions at Rustle, Rustler, Rusty, in a Rut, Rutinose, Rytina  need reformatting if used.   I did this for Russian Roulette, but not others.  PCP -->
+<!-- headword error in Rusticity.   PCP -->  <!-- previous reader's additions at Rustle, Rustler, Rusty, in a Rut, Rutinose, Rytina  need reformatting if used.   I did this for Russian Roulette, but not others.  PCP -->
 
 <p><ent>Rusticity</ent><br/
 <hw>Rus*tic"ity</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rusticitas</ets>: cf. F. <ets>rusticit<eacute/</ets>.]</ety> <def>The quality or state of being rustic; rustic manners; rudeness; simplicity; artlessness.</def><br/
@@ -39891,7 +39891,7 @@ That teach the <qex>rustic</qex> moralist to die.</q> <rj><qau>Gray.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rustler</ent><br/
-<hw>Rus"tler</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, rustles.</def> <-- esp. cattle rustler --><br/
+<hw>Rus"tler</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, rustles.</def> <!-- esp. cattle rustler --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A bovine animal that can care for itself in any circumstances; also, an alert, energetic, driving person.</def> <mark>[Slang, Western U.S.]</mark><br/
@@ -39905,7 +39905,7 @@ That teach the <qex>rustic</qex> moralist to die.</q> <rj><qau>Gray.</qau></rj><
 <hw>Rust"y</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[AS. <ets>rustig</ets>.]</ety> <amorph>[<pos>Compar.</pos> <adjf>Rustier</adjf> <pr>(<?/)</pr>; <pos>superl.</pos> <adjf>Rustiest.</adjf>]</amorph> <sn>1.</sn> <def>Covered or affected with rust; <as>as, a <ex>rusty</ex> knife or sword; <ex>rusty</ex> wheat</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Impaired by inaction, disuse, or neglect.</def> <-- less skillful than when in continued practise --><br/
+<p><sn>2.</sn> <def>Impaired by inaction, disuse, or neglect.</def> <!-- less skillful than when in continued practise --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>[Hector,] in this dull and long-continued truce,<br/
@@ -39949,7 +39949,7 @@ Is <qex>rusty</qex> grown.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Rut</hw>, <pos>n.</pos> <ety>[variant of <ets>route</ets>.]</ety> <def>A track worn by a wheel or by habitual passage of anything; a groove in which anything runs. Also used figuratively.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- (Fig.) Habitual, unvarying activity -- usually used in the phrase <it>in a rut</it>. --><br/
+<p><!-- (Fig.) Habitual, unvarying activity -- usually used in the phrase <it>in a rut</it>. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rut</ent><br/
@@ -40147,9 +40147,9 @@ Never defied men braver.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 \'d8<hw>Ryt"i*na</hw> <pr>(r<icr/t"<icr/*n<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ryti`s</grk> a wrinkle.]</ety> <fld>(Zool.)</fld> <def>A genus of large edentulous sirenians, allied to the dugong and manatee, including but one species (<spn>Rytina Stelleri</spn>); -- called also <altname>Steller's sea cow</altname>, <altname>stellerine</altname> and <altname>steller</altname>.</def> <altsp>[Written also <asp>Rhytina</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ It is now extinct, but was formerly abundant at Bering's Island, near Bering's Straits.  It was twenty-five feet or more in length, with a thick, blackish, naked skin.  The last were killed in 1768 for their oil and flesh.</note><-- another man-made extinction --><br/
+<p><note><hand/ It is now extinct, but was formerly abundant at Bering's Island, near Bering's Straits.  It was twenty-five feet or more in length, with a thick, blackish, naked skin.  The last were killed in 1768 for their oil and flesh.</note><!-- another man-made extinction --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Bottom of page 1263.  "S" begins at the top of page 1264 --><br/
+<p><!-- Bottom of page 1263.  "S" begins at the top of page 1264 --><br/
 [<source>1913 Webster</source>]</p>
 

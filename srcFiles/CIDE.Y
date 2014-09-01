@@ -1,4 +1,4 @@
-<-- This file is part 25 of the GNU version of
+<!-- This file is part 25 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -290,7 +290,7 @@ From knocking their heads against hot <qex>Yankee-Doodles</qex>.</q> <rj><qau>Mo
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yaourt</ent><br/
-\'d8<hw>Yaourt</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>yoghurt</ets>.]</ety> <def>A fermented drink, or milk beer, made by the Turks.</def><-- now usually yoghurt--><br/
+\'d8<hw>Yaourt</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>yoghurt</ets>.]</ety> <def>A fermented drink, or milk beer, made by the Turks.</def><!-- now usually yoghurt--><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yap</ent><br/
@@ -305,7 +305,7 @@ From knocking their heads against hot <qex>Yankee-Doodles</qex>.</q> <rj><qau>Mo
 <hw>Ya"pock</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[Probably from the river <ets>Oyapok</ets>, between French Guiana and Brazil.]</ety> <fld>(Zool.)</fld> <def>A South American aquatic opossum (<spn>Chironectes variegatus</spn>) found in Guiana and Brazil. Its hind feet are webbed, and its fore feet do not have an opposable thumb for climbing. Called also <altname>water opossum</altname>.</def>  <altsp>[Written also <asp>yapack</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1673 --><br/
+<p><!-- p. 1673 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yapon</ent><br/
@@ -774,7 +774,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Eng. Law)</fld> <def>A book containing annual reports of cases adjudged in the courts of England.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1674 --><br/
+<p><!-- p. 1674 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The <xex>Yearbooks</xex> are the oldest English reports extant, beginning with the reign of Edward II., and ending with the reign of Henry VIII. They were published annually, and derive their name from that fact. They consist of eleven parts, or volumes, are written in Law French, and extend over nearly two hundred years. There are, however, several hiatuses, or chasms, in the series.</note>  <rj><au>Kent.</au>  <au>Bouvier.</au></rj><br/
@@ -904,7 +904,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj><br/
 Alike the Armada's pride, or spoils of Trafalgar.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 3. <def>A form of fungus which grows as individual rounded cells, rather than in a mycelium, and reproduces by budding; esp. members of the orders <ord>Endomycetales</ord> and <ord>Moniliales</ord>.  Some fungi may grow both as a yeast or as a mycelium, depending on the conditions of growth.</def>  --><br/
+<p><!-- 3. <def>A form of fungus which grows as individual rounded cells, rather than in a mycelium, and reproduces by budding; esp. members of the orders <ord>Endomycetales</ord> and <ord>Moniliales</ord>.  Some fungi may grow both as a yeast or as a mycelium, depending on the conditions of growth.</def>  --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Yeast cake</b></col>, <cd>a mealy cake impregnated with the live germs of the yeast plant, and used as a conveniently transportable substitute for yeast.</cd> -- <col><b>Yeast plant</b></col> <fld>(Bot.)</fld>, <cd>the vegetable organism, or fungus, of which beer yeast consists. The yeast plant is composed of simple cells, or granules, about one three-thousandth of an inch in diameter, often united into filaments which reproduce by budding, and under certain circumstances by the formation of spores. The name is extended to other ferments of the same genus.  See <er>Saccharomyces</er>.</cd> -- <col><b>Yeast powder</b></col>, <cd>a baling powder, -- used instead of yeast in leavening bread.</cd></cs><br/
@@ -1159,7 +1159,7 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 <hw>Yel"low*wood`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The wood of any one of several different kinds of trees; also, any one of the trees themselves. Among the trees so called are the <spn>Cladrastis tinctoria</spn>, an American leguminous tree; the several species of prickly ash (<gen>Xanthoxylum</gen>); the Australian <spn>Flindersia Oxleyana</spn>, a tree related to the mahogany; certain South African species of <gen>Podocarpus</gen>, trees related to the yew; the East Indian <spn>Podocarpus latifolia</spn>; and the true satinwood (<spn>Chloroxylon Swietenia</spn>).  All these Old World trees furnish valuable timber.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1675 --><br/
+<p><!-- p. 1675 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellowwort</ent><br/
@@ -1438,7 +1438,7 @@ The way to dusty death.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Yesteryear</ent><br/
 <hw>Yes"ter*year`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The year last past; last year.</def>
-<-- now also used to mean in olden days, not just last year. --><br/
+<!-- now also used to mean in olden days, not just last year. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yestreen</ent><br/
@@ -1734,7 +1734,7 @@ The thistle springs, to which the lily <qex>yields</qex>?</q> <rj><qau>Pope.</qa
 <hw>yin and yang</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chinese philosophy)</fld> <def>the two fundamental principles, one negative, dark, passive, cold, wet, and feminine (yin) and the other (yang) positive, bright, active, dry, hot and masculine.  The interactions and balance of these forces in people and nature influence their behavior and fate.</def> <au>[RHUD]</au><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 1676  --><br/
+<p><!-- p. 1676  --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yis</ent><br/
@@ -2322,7 +2322,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 <p><q>It is fit to read the best authors to <qex>youth</qex> first.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1677 --><br/
+<p><!-- p. 1677 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Youthful</ent><br/
@@ -2446,7 +2446,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Ytterbium is associated with other rare elements, and probably has not been prepared in a pure state.</note>
-<-- purified before 1960 --><br/
+<!-- purified before 1960 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yttria</ent><br/
@@ -2469,7 +2469,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 <hw>Yt"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Ytter</ets>by, in Sweden.  See <er>Erbium</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element of the boron-aluminium group, found in gadolinite and other rare minerals, and extracted as a dark gray powder.  Symbol <it>Y</it>.  Atomic number 39.  Atomic weight, 88.9.</def>  <altsp>[Written also <asp>ittrium</asp>.]</altsp><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><note><hand/ Associated with yttrium are certain rare elements, as erbium, ytterbium, samarium, etc., which are separated in a pure state with great difficulty. They are studied by means of their spark or phosphorescent spectra. Yttrium is now regarded as probably not a simple element, but as a mixture of several substances.</note><-- yttrium has been isolated as a pure element. --><br/
+<p><note><hand/ Associated with yttrium are certain rare elements, as erbium, ytterbium, samarium, etc., which are separated in a pure state with great difficulty. They are studied by means of their spark or phosphorescent spectra. Yttrium is now regarded as probably not a simple element, but as a mixture of several substances.</note><!-- yttrium has been isolated as a pure element. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yttro-cerite</ent><br/

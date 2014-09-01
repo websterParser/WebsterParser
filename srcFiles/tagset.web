@@ -467,7 +467,7 @@ In the table below, font size comparatives are relative to the plain font.
 -------------------------------------------------------------------------
 Tag           Font         Meaning and Description
 -------------------------------------------------------------------------
-<--    -->    *            Comment, not a tag.  These segments should be
+<!--    -->    *            Comment, not a tag.  These segments should be
                            deleted from the written or printed text.  Page
                            numbers of the original text are indicated within
                            such comments; these may be left in, if desired.

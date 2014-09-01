@@ -1,4 +1,4 @@
-<-- This file is part 10 of the GNU version of
+<!-- This file is part 10 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -188,7 +188,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>10.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A flag, containing only the union, without the fly, usually hoisted on a jack staff at the bowsprit cap; -- called also <altname>union jack</altname>. The American <xex>jack</xex> is a small blue flag, with a star for each State.</def> <sd>(b)</sd> <def>A bar of iron athwart ships at a topgallant masthead, to support a royal mast, and give spread to the royal shrouds; -- called also <altname>jack crosstree</altname>.</def>  <rj><au>R. H. Dana, Jr.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 795 --></p>
+<p><!-- p. 795 --></p>
 
 <p><sn>11.</sn> <def>The knave of a suit of playing cards.</def></p>
 
@@ -207,7 +207,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><note><hand/ <xex>Jack</xex> is used adjectively in various senses. It sometimes designates something <xex>cut short</xex> or <xex>diminished in size</xex>; as, a <xex>jack</xex> timber; a <xex>jack</xex> rafter; a <xex>jack</xex> arch, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jack arch</b></col>, <cd>an arch of the thickness of one brick.</cd> -- <col><b>Jack back</b></col> <fld>(Brewing & Malt Vinegar Manuf.)</fld>, <cd>a cistern which receives the wort. See under 1st <er>Back</er>.</cd> -- <col><b>Jack block</b></col> <fld>(Naut.)</fld>, <cd>a block fixed in the topgallant or royal rigging, used for raising and lowering light masts and spars.</cd> -- <col><b>Jack boots</b></col>, <cd>boots reaching above the knee; -- worn in the 17 century by soldiers; afterwards by fishermen, etc.</cd><-- see jack-booted --> -- <col><b>Jack crosstree</b></col>. <fld>(Naut.)</fld> <cd>See 10, <it>b</it>, above.</cd> -- <col><b>Jack curlew</b></col> <fld>(Zool.)</fld>, <cd>the whimbrel.</cd> -- <col><b>Jack frame</b></col>. <fld>(Cotton Spinning)</fld> <cd>See 4 <sd>(g)</sd>, above.</cd> -- <col><b>Jack Frost</b></col>, <cd>frost or cold weather personified as a mischievous person.</cd> -- <col><b>Jack hare</b></col>, <cd>a male hare.</cd> <au>Cowper.</au> -- <col><b>Jack lamp</b></col>, <cd>a lamp for still hunting and camp use. See def. 4 <sd>(n.)</sd>, above.</cd> -- <col><b>Jack plane</b></col>, <cd>a joiner's plane used for coarse work.</cd> -- <col><b>Jack post</b></col>, <cd>one of the posts which support the crank shaft of a deep-well-boring apparatus.</cd> -- <col><b>Jack pot</b></col> <fld>(Poker Playing)</fld>, <cd>the name given to the stakes, contributions to which are made by each player successively, till such a hand is turned as shall take the <ldquo/pot,<rdquo/ which is the sum total of all the bets.  See also <er>jackpot</er>.</cd> -- <col><b>Jack rabbit</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of large American hares, having very large ears and long legs. The California species (<spn>Lepus Californicus</spn>), and that of Texas and New Mexico (<spn>Lepus callotis</spn>), have the tail black above, and the ears black at the tip. They do not become white in winter. The more northern prairie hare (<spn>Lepus campestris</spn>) has the upper side of the tail white, and in winter its fur becomes nearly white.</cd> -- <col><b>Jack rafter</b></col> <fld>(Arch.)</fld>, <cd>in England, one of the shorter rafters used in constructing a hip or valley roof; in the United States, any secondary roof timber, as the common rafters resting on purlins in a trussed roof; also, one of the pieces simulating extended rafters, used under the eaves in some styles of building.</cd> -- <col><b>Jack salmon</b></col> <fld>(Zool.)</fld>, <cd>the wall-eyed pike, or glasseye.</cd> -- <col><b>Jack sauce</b></col>, <cd>an impudent fellow.</cd> <mark>[Colloq. & Obs.]</mark> -- <col><b>Jack shaft</b></col> <fld>(Mach.)</fld>, <cd>the first intermediate shaft, in a factory or mill, which receives power, through belts or gearing, from a prime mover, and transmits it, by the same means, to other intermediate shafts or to a line shaft.</cd> -- <col><b>Jack sinker</b></col> <fld>(Knitting Mach.)</fld>, <cd>a thin iron plate operated by the jack to depress the loop of thread between two needles.</cd> -- <col><b>Jack snipe</b></col>. <fld>(Zool.)</fld> <cd>See in the Vocabulary.</cd> -- <col><b>Jack staff</b></col> <fld>(Naut.)</fld>, <cd>a staff fixed on the bowsprit cap, upon which the jack is hoisted.</cd> -- <col><b>Jack timber</b></col> <fld>(Arch.)</fld>, <cd>any timber, as a rafter, rib, or studding, which, being intercepted, is shorter than the others.</cd> -- <col><b>Jack towel</b></col>, <cd>a towel hung on a roller for common use.</cd> -- <col><b>Jack truss</b></col> <fld>(Arch.)</fld>, <cd>in a hip roof, a minor truss used where the roof has not its full section.</cd> -- <col><b>Jack tree</b></col>. <fld>(Bot.)</fld> <cd>See 1st <er>Jack</er>, <pos>n.</pos></cd> -- <col><b>Jack yard</b></col> <fld>(Naut.)</fld>, <cd>a short spar to extend a topsail beyond the gaff.</cd></cs><br/
+<p><cs><col><b>Jack arch</b></col>, <cd>an arch of the thickness of one brick.</cd> -- <col><b>Jack back</b></col> <fld>(Brewing & Malt Vinegar Manuf.)</fld>, <cd>a cistern which receives the wort. See under 1st <er>Back</er>.</cd> -- <col><b>Jack block</b></col> <fld>(Naut.)</fld>, <cd>a block fixed in the topgallant or royal rigging, used for raising and lowering light masts and spars.</cd> -- <col><b>Jack boots</b></col>, <cd>boots reaching above the knee; -- worn in the 17 century by soldiers; afterwards by fishermen, etc.</cd><!-- see jack-booted --> -- <col><b>Jack crosstree</b></col>. <fld>(Naut.)</fld> <cd>See 10, <it>b</it>, above.</cd> -- <col><b>Jack curlew</b></col> <fld>(Zool.)</fld>, <cd>the whimbrel.</cd> -- <col><b>Jack frame</b></col>. <fld>(Cotton Spinning)</fld> <cd>See 4 <sd>(g)</sd>, above.</cd> -- <col><b>Jack Frost</b></col>, <cd>frost or cold weather personified as a mischievous person.</cd> -- <col><b>Jack hare</b></col>, <cd>a male hare.</cd> <au>Cowper.</au> -- <col><b>Jack lamp</b></col>, <cd>a lamp for still hunting and camp use. See def. 4 <sd>(n.)</sd>, above.</cd> -- <col><b>Jack plane</b></col>, <cd>a joiner's plane used for coarse work.</cd> -- <col><b>Jack post</b></col>, <cd>one of the posts which support the crank shaft of a deep-well-boring apparatus.</cd> -- <col><b>Jack pot</b></col> <fld>(Poker Playing)</fld>, <cd>the name given to the stakes, contributions to which are made by each player successively, till such a hand is turned as shall take the <ldquo/pot,<rdquo/ which is the sum total of all the bets.  See also <er>jackpot</er>.</cd> -- <col><b>Jack rabbit</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of large American hares, having very large ears and long legs. The California species (<spn>Lepus Californicus</spn>), and that of Texas and New Mexico (<spn>Lepus callotis</spn>), have the tail black above, and the ears black at the tip. They do not become white in winter. The more northern prairie hare (<spn>Lepus campestris</spn>) has the upper side of the tail white, and in winter its fur becomes nearly white.</cd> -- <col><b>Jack rafter</b></col> <fld>(Arch.)</fld>, <cd>in England, one of the shorter rafters used in constructing a hip or valley roof; in the United States, any secondary roof timber, as the common rafters resting on purlins in a trussed roof; also, one of the pieces simulating extended rafters, used under the eaves in some styles of building.</cd> -- <col><b>Jack salmon</b></col> <fld>(Zool.)</fld>, <cd>the wall-eyed pike, or glasseye.</cd> -- <col><b>Jack sauce</b></col>, <cd>an impudent fellow.</cd> <mark>[Colloq. & Obs.]</mark> -- <col><b>Jack shaft</b></col> <fld>(Mach.)</fld>, <cd>the first intermediate shaft, in a factory or mill, which receives power, through belts or gearing, from a prime mover, and transmits it, by the same means, to other intermediate shafts or to a line shaft.</cd> -- <col><b>Jack sinker</b></col> <fld>(Knitting Mach.)</fld>, <cd>a thin iron plate operated by the jack to depress the loop of thread between two needles.</cd> -- <col><b>Jack snipe</b></col>. <fld>(Zool.)</fld> <cd>See in the Vocabulary.</cd> -- <col><b>Jack staff</b></col> <fld>(Naut.)</fld>, <cd>a staff fixed on the bowsprit cap, upon which the jack is hoisted.</cd> -- <col><b>Jack timber</b></col> <fld>(Arch.)</fld>, <cd>any timber, as a rafter, rib, or studding, which, being intercepted, is shorter than the others.</cd> -- <col><b>Jack towel</b></col>, <cd>a towel hung on a roller for common use.</cd> -- <col><b>Jack truss</b></col> <fld>(Arch.)</fld>, <cd>in a hip roof, a minor truss used where the roof has not its full section.</cd> -- <col><b>Jack tree</b></col>. <fld>(Bot.)</fld> <cd>See 1st <er>Jack</er>, <pos>n.</pos></cd> -- <col><b>Jack yard</b></col> <fld>(Naut.)</fld>, <cd>a short spar to extend a topsail beyond the gaff.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Blue jack</b></col>, <cd>blue vitriol; sulphate of copper.</cd> -- <col><b>Hydraulic jack</b></col>, <cd>a jack used for lifting, pulling, or forcing, consisting of a compact portable hydrostatic press, with its pump and a reservoir containing a supply of liquid, as oil.</cd> -- <col><b>Jack-at-a-pinch</b></col>. <sd>(a)</sd> <cd>One called upon to take the place of another in an emergency</cd>. <sd>(b)</sd> <cd>An itinerant parson who conducts an occasional service for a fee.</cd> -- <col><b>Jack-at-all-trades</b></col>, <cd>one who can turn his hand to any kind of work.</cd> -- <col><b>Jack-by-the-hedge</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Erysimum</gen> (<spn>Erysimum alliaria</spn>, or <spn>Alliaria officinalis</spn>), which grows under hedges. It bears a white flower and has a taste not unlike garlic. Called also, in England, <altname>sauce-alone</altname>.</cd> <au>Eng. Cyc.</au> --  <col><b>Jack-in-office</b></col>, <cd>an insolent fellow in authority.</cd> <au>Wolcott.</au> -- <col><b>Jack-in-the-bush</b></col> <fld>(Bot.)</fld>, <cd>a tropical shrub with red fruit (<spn>Cordia Cylindrostachya</spn>).</cd> -- <col><b>Jack-in-the-green</b></col>, <cd>a chimney sweep inclosed in a framework of boughs, carried in Mayday processions.</cd> -- <col><b>Jack-of-the-buttery</b></col> <fld>(Bot.)</fld>, <cd>the stonecrop (<spn>Sedum acre</spn>).</cd> -- <col><b>Jack-of-the-clock</b></col>, <cd>a figure, usually of a man, on old clocks, which struck the time on the bell.</cd> -- <col><b>Jack-on-both-sides</b></col>, <cd>one who is or tries to be neutral.</cd> -- <col><b>Jack-out-of-office</b></col>, <cd>one who has been in office and is turned out.</cd> <au>Shak.</au> -- <col><b>Jack the Giant Killer</b></col>, <cd>the hero of a well-known nursery story.</cd> -- <col><b>Yellow Jack</b></col> <fld>(Naut.)</fld>, <cd>the yellow fever; also, the quarantine flag. See <cref>Yellow flag</cref>, under <er>Flag</er>.</cd></cs><br/
@@ -232,7 +232,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Jack</ent><br/
 <hw>Jack</hw>, <pos>v. t.</pos> <def>To move or lift, as a house, by means of a jack or jacks. See 2d <er>Jack</er>, <pos>n.</pos>, 5.</def>
-<-- = jack up --><br/
+<!-- = jack up --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jack-a-dandy</ent><br/
@@ -609,7 +609,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <hw>Jac"tan*cy</hw> <pr>(j<acr/k"t<ait/n*s<ycr/)</pr>, <pos>n.</pos> <ety>[L. <ets>jactantia</ets>, fr. <ets>jactans</ets>, p. pr. of <ets>jactare</ets> to throw, boast, freq. fr. <ets>jacere</ets> to throw; cf. F. <ets>jactance</ets>.]</ety> <def>A boasting; a bragging.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 796 --></p>
+<p><!-- p. 796 --></p>
 
 <p><ent>Jactation</ent><br/
 <hw>Jac*ta"tion</hw> <pr>(j<acr/k*t<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>jactatio</ets>, fr. <ets>jactare</ets>: af. F. <ets>jactation</ets>. See <er>Jactancy</er>.]</ety> <def>A throwing or tossing of the body; a shaking or agitation.</def>  <rj><au>Sir. W. Temple.</au></rj><br/
@@ -1207,7 +1207,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <syn><b>Syn. --</b> jamjar.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 797 --></p>
+<p><!-- p. 797 --></p>
 
 <p><ent>Jan</ent><br/
 <hw>Jan</hw> <pr>(j<acr/n)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <fld>(Moham. Myth.)</fld> <def>One of an intermediate order between angels and men.</def><br/
@@ -1759,7 +1759,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Blue jaundice</b></col>. <cd>See <er>Cyanopathy</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 798 --></p>
+<p><!-- p. 798 --></p>
 
 <p><ent>Jaundice</ent><br/
 <hw>Jaun"dice</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To affect with jaundice; to color by prejudice or envy; to prejudice.</def><br/
@@ -1882,7 +1882,7 @@ Launched by the vigor of a Roman arm?</q> <rj><qau>Addison.</qau></rj><br/
 <syn><b>Syn. --</b> lip.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jaw bit</b></col> <fld>(Railroad)</fld>, <cd>a bar across the jaws of a pedestal underneath an axle box.</cd> -- <col><b>Jaw breaker</b></col>, <cd>a word difficult to pronounce.</cd> <mark>[Obs.]</mark><-- also, a piece of hard candy --> -- <col><b>Jaw rope</b></col> <fld>(Naut.)</fld>, <cd>a rope which holds the jaws of a gaff to the mast.</cd> -- <col><b>Jaw tooth</b></col>, <cd>a molar or grinder; a back tooth.</cd></cs><br/
+<p><cs><col><b>Jaw bit</b></col> <fld>(Railroad)</fld>, <cd>a bar across the jaws of a pedestal underneath an axle box.</cd> -- <col><b>Jaw breaker</b></col>, <cd>a word difficult to pronounce.</cd> <mark>[Obs.]</mark><!-- also, a piece of hard candy --> -- <col><b>Jaw rope</b></col> <fld>(Naut.)</fld>, <cd>a rope which holds the jaws of a gaff to the mast.</cd> -- <col><b>Jaw tooth</b></col>, <cd>a molar or grinder; a back tooth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jaw</ent><br/
@@ -2311,7 +2311,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <hw>Jen"kins</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A name of contempt for a flatterer of persons high in social or official life; <as>as, the <ex>Jenkins</ex> employed by a newspaper</as>.</def> <mark>[Colloq. Eng. & U.S.]</mark>  <rj><au>G. W. Curtis.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 799 --></p>
+<p><!-- p. 799 --></p>
 
 <p><ent>Jennet</ent><br/
 <hw>Jen"net</hw> <pr>(j<ecr/n"n<ecr/t)</pr>, <pos>n.</pos> <ety>[F. <ets>genet</ets>, Sp. <ets>jinete</ets>, orig., a mounted soldier, Ar. <ets>zen<amac/ta</ets> a tribe of Barbary celebrated for its cavalry.]</ety> <def>A small Spanish horse; a genet.</def><br/
@@ -2888,7 +2888,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <hw>jet-setting</hw> <pos>n.</pos> <def>frequent international travel for pleasure, as contrasted with business.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 800 --></p>
+<p><!-- p. 800 --></p>
 
 <p><ent>Jetteau</ent><br/
 <hw>Jet"teau</hw> <pr>(j<ecr/t"t<osl/)</pr>, <pos>n.</pos> <def>See <er>Jet d'eau</er>.</def> <mark>[R.]</mark>  <rj><au>Addison.</au></rj><br/
@@ -3104,7 +3104,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 11 <colf>Ab</colf> . . . . . . . . 30
 12 <colf>Elul</colf> . . . . . . ..29</p>
 
-<p><-- note the use of double quotes here as "ditto" marks, which will
+<p><!-- note the use of double quotes here as "ditto" marks, which will
  throw off automatic quote matching!! --></p>
 
 <p><sc>Jewish Year</sc>       <sc>a. d.</sc><br/
@@ -3669,7 +3669,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><sn>4.</sn> <def>Any affair or event which affects one, whether fortunately or unfortunately.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 801 --></p>
+<p><!-- p. 801 --></p>
 
 <p><sn>5.</sn> <def>A situation or opportunity of work; <as>as, he lost his <ex>job</ex></as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -3696,7 +3696,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><sn>2.</sn> <def>To thrust in, as a pointed instrument.</def>  <rj><au>Moxon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To do or cause to be done by separate portions or lots; to sublet (work); <as>as, to <ex>job</ex> a contract</as>.</def><-- = job out --><br/
+<p><sn>3.</sn> <def>To do or cause to be done by separate portions or lots; to sublet (work); <as>as, to <ex>job</ex> a contract</as>.</def><!-- = job out --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Com.)</fld> <def>To buy and sell, as a broker; to purchase of importers or manufacturers for the purpose of selling to retailers; <as>as, to <ex>job</ex> goods</as>.</def><br/
@@ -4282,7 +4282,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Coursing joint</b></col> <fld>(Masonry)</fld>, <cd>the mortar joint between two courses of bricks or stones.</cd> -- <mcol><col><b>Fish joint</b></col>, <col><b>Miter joint</b></col>, <col><b>Universal joint</b></col></mcol>, etc. <cd>See under <er>Fish</er>, <er>Miter</er>, etc.</cd> -- <col><b>Joint bolt</b></col>, <cd>a bolt for fastening two pieces, as of wood, one endwise to the other, having a nut embedded in one of the pieces.</cd> -- <col><b>Joint chair</b></col> <fld>(Railroad)</fld>, <cd>the chair that supports the ends of abutting rails.</cd> -- <col><b>Joint coupling</b></col>, <cd>a universal joint for coupling shafting. See under <er>Universal</er>.</cd> -- <col><b>Joint hinge</b></col>, <cd>a hinge having long leaves; a strap hinge.</cd> -- <col><b>Joint splice</b></col>, <cd>a re<eum/nforce at a joint, to sustain the parts in their true relation.</cd> -- <col><b>Joint stool</b></col>. <sd>(a)</sd> <cd>A stool consisting of jointed parts; a folding stool.</cd> <au>Shak.</au> <sd>(b)</sd> <cd>A block for supporting the end of a piece at a joint; a joint chair.</cd> -- <col><b>Out of joint</b></col>, <cd>out of place; dislocated, as when the head of a bone slips from its socket; hence, not working well together; disordered.</cd> <ldquo/The time is <xex>out of joint</xex>.<rdquo/ <au>Shak.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 802 --></p>
+<p><!-- p. 802 --></p>
 
 <p><ent>Joint</ent><br/
 <hw>Joint</hw> <pr>(joint)</pr>, <pos>a.</pos> <ety>[F., <ets>p. p.</ets> of <ets>joindre</ets>. See <er>Join</er>.]</ety><br/
@@ -4830,7 +4830,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>1.</sn> <def>A diary; an account of daily transactions and events.</def> <specif>Specifically:</specif> <sd>(a)</sd> <fld>(Bookkeeping)</fld> <def>A book of accounts, in which is entered a condensed and grouped statement of the daily transactions.</def> <sd>(b)</sd> <fld>(Naut.)</fld> <def>A daily register of the ship's course and distance, the winds, weather, incidents of the voyage, etc.</def>  <sd>(c)</sd> <fld>(Legislature)</fld> <def>The record of daily proceedings, kept by the clerk.</def> <sd>(d)</sd> <def>A newspaper published daily;</def> <specif>by extension</specif>, <def>a weekly newspaper or any periodical publication, giving an account of passing events, the proceedings and memoirs of societies, etc.; a periodical; a magazine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 803 --></p>
+<p><!-- p. 803 --></p>
 
 <p><sn>2.</sn> <def>That which has occurred in a day; a day's work or travel; a day's journey.</def> <mark>[Obs. & R.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5398,7 +5398,7 @@ They were <qex>Judaizing</qex> doctors, who taught the observation of the Mosaic
 <hw>Jud"dock</hw> <pr>(j<ucr/d"d<ocr/k)</pr>, <pos>n.</pos> <ety>[For <ets>judcock</ets>; <ets>jud</ets> (equiv. to Prov. E. <ets>gid</ets> a jacksnipe, W. <ets>giach</ets> snipe) + <ets>cock</ets>.]</ety> <fld>(Zool.)</fld> <def>See <er>Jacksnipe</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 804 --></p>
+<p><!-- p. 804 --></p>
 
 <p><ent>Judean</ent><br/
 <hw>Ju*de"an</hw> <pr>(j<usl/*d<emac/"<ait/n)</pr>, <pos>a.</pos> <ety>[L. <ets>Judaeus</ets>. See <er>Jew</er>.]</ety> <def>Of or pertaining to Judea.</def> -- <def2><pos>n.</pos> <def>A native of Judea; a Jew.</def></def2><br/
@@ -5933,7 +5933,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 \'d8<hw>Ju"gum</hw> <pr>(j<umac/"g<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Juga</plw> <pr>(j<umac/"g<adot/)</pr>, E. <plw>Jugums</plw> <pr>(#)</pr>.</plu> <ety>[L., a yoke, ridge.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>One of the ridges commonly found on the fruit of umbelliferous plants.</def> <sd>(b)</sd> <def>A pair of the opposite leaflets of a pinnate plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 805 --></p>
+<p><!-- p. 805 --></p>
 
 <p><ent>Juice</ent><br/
 <hw>Juice</hw> <pr>(j<umac/s)</pr>, <pos>n.</pos> <ety>[OE. <ets>juse</ets>, F. <ets>jus</ets> broth, gravy, juice, L. <ets>jus</ets>; akin to Skr. <ets>y<umac/sha</ets>.]</ety> <def>The characteristic fluid of any vegetable or animal substance; the sap or part which can be expressed from fruit, etc.; the fluid part which separates from meat in cooking.</def><br/
@@ -6561,7 +6561,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <syn><b>Syn. --</b> genus <gen>Juniperus</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 806 --></p>
+<p><!-- p. 806 --></p>
 
 <p><ent>Junk</ent><br/
 <hw>Junk</hw> <pr>(j<ucr/<nsm/k)</pr>, <pos>n.</pos> <def>A fragment of any solid substance; a thick piece. See <er>Chunk</er>.</def> <mark>[Colloq.]</mark>  <rj><au>Lowell.</au></rj><br/
@@ -7057,7 +7057,7 @@ To our own lips.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>Agreeableness to right; equity; justness; <as>as, the <ex>justice</ex> of a claim</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 807 --></p>
+<p><!-- p. 807 --></p>
 
 <p><sn>5.</sn> <def>A person duly commissioned to hold courts, or to try and decide controversies and administer justice.</def><br/
 [<source>1913 Webster</source>]</p>

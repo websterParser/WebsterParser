@@ -1,4 +1,4 @@
-<-- This file is part 17 of the GNU version of
+<!-- This file is part 17 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -17,7 +17,7 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 1171 --></p>
+<p><!-- p. 1171 --></p>
 
 <p><centered><point26>Q.</point26></centered><br/
 [<source>1913 Webster</source>]</p>
@@ -382,7 +382,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <hw>Quad`ri*cos"tate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Quadri-</ets> + <ets>costate</ets>.]</ety> <def>Having four ribs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1172 --></p>
+<p><!-- p. 1172 --></p>
 
 <p><ent>Quadridentate</ent><br/
 <hw>Quad`ri*den"tate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Quadri-</ets> + <ets>dentate</ets>.]</ety> <def>Having four teeth; <as>as, a <ex>quadridentate</ex> leaf</as>.</def><br/
@@ -445,7 +445,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Complete quadrilateral</b></col> <fld>(Geom.)</fld>, <cd>the figure made up of the six straight lines that can be drawn through four points, <it>A</it>, <it>B</it>, <it>C</it>, <it>I</it>, the lines being supposed to be produced indefinitely.</cd></cs>
-<-- reference is to a figure of a complete quadrilateral. --><br/
+<!-- reference is to a figure of a complete quadrilateral. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrilateralness</ent><br/
@@ -772,7 +772,7 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 <p><cs><col><b>Bustard quail</b></col> <fld>(Zool.)</fld>, <cd>a small Asiatic quail-like bird of the genus <gen>Turnix</gen>, as <spn>Turnix taigoor</spn>, a black-breasted species, and the hill <ex>bustard quail</ex> (<spn>Turnix ocellatus</spn>). See <er>Turnix</er>.</cd> -- <col><b>Button quail</b></col> <fld>(Zool.)</fld>, <cd>one of several small Asiatic species of Turnix, as <spn>Turnix Sykesii</spn>, which is said to be the smallest game bird of India.</cd> -- <col><b>Mountain quail</b></col>. <cd>See under <er>Mountain</er>.</cd> -- <col><b>Quail call</b></col>, <cd>a call or pipe for alluring quails into a net or within range.</cd> -- <col><b>Quail dove</b></col> <fld>(Zool.)</fld>, <cd>any one of several American ground pigeons belonging to <gen>Geotrygon</gen> and allied genera.</cd> -- <col><b>Quail hawk</b></col> <fld>(Zool.)</fld>, <cd>the New Zealand sparrow hawk (<spn>Hieracidea Nov<ae/-Hollandi<ae/</spn>).</cd> -- <col><b>Quail pipe</b></col>. <cd>See <cref>Quail call</cref>, above.</cd> -- <col><b>Quail snipe</b></col> <fld>(Zool.)</fld>, <cd>the dowitcher, or red-breasted snipe; -- called also <altname>robin snipe</altname>, and <altname>brown snipe</altname>.</cd> -- <col><b>Sea quail</b></col> <fld>(Zool.)</fld>, <cd>the turnstone.</cd> <mark>[Local, U. S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1173 --></p>
+<p><!-- p. 1173 --></p>
 
 <p><ent>Quaily</ent><br/
 <hw>Quail"y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Quail</er> the bird.]</ety> <fld>(Zool.)</fld> <def>The upland plover.</def> <mark>[Canadian]</mark><br/
@@ -899,7 +899,7 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 <hw>Quak"ing</hw>, <def><pos>a. & n.</pos> from <er>Quake</er>, <pos>v.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quaking aspen</b></col> <fld>(Bot.)</fld>, <cd>an American species of poplar (<spn>Populus tremuloides</spn>), the leaves of which tremble in the lightest breeze. It much resembles the European aspen. See <er>Aspen</er>.</cd><-- #err in original written "Quaking asp"! --> -- <col><b>Quaking bog</b></col>, <cd>a bog of forming peat so saturated with water that it shakes when trodden upon.</cd> -- <col><b>Quaking grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>One of several grasses of the genus <gen>Briza</gen>, having slender-stalked and pendulous ovate spikelets, which quake and rattle in the wind.  <spn>Briza maxima</spn> is the large quaking grass; <spn>Briza media</spn> and <spn>Briza minor</spn> are the smaller kinds.</cd> <sd>(b)</sd> <cd>Rattlesnake grass (<spn>Glyceria Canadensis</spn>).</cd></cs><br/
+<p><cs><col><b>Quaking aspen</b></col> <fld>(Bot.)</fld>, <cd>an American species of poplar (<spn>Populus tremuloides</spn>), the leaves of which tremble in the lightest breeze. It much resembles the European aspen. See <er>Aspen</er>.</cd><!-- #err in original written "Quaking asp"! --> -- <col><b>Quaking bog</b></col>, <cd>a bog of forming peat so saturated with water that it shakes when trodden upon.</cd> -- <col><b>Quaking grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>One of several grasses of the genus <gen>Briza</gen>, having slender-stalked and pendulous ovate spikelets, which quake and rattle in the wind.  <spn>Briza maxima</spn> is the large quaking grass; <spn>Briza media</spn> and <spn>Briza minor</spn> are the smaller kinds.</cd> <sd>(b)</sd> <cd>Rattlesnake grass (<spn>Glyceria Canadensis</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quakingly</ent><br/
@@ -1164,7 +1164,7 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <p><cs><col><b>Quantity of estate</b></col> <fld>(Law)</fld>, <cd>its time of continuance, or degree of interest, as in fee, for life, or for years.</cd> <au>Wharton (Law Dict. )</au> -- <col><b>Quantity of matter</b></col>, <cd>in a body, its mass, as determined by its weight, or by its momentum under a given velocity.</cd> -- <col><b>Quantity of motion</b></col> <fld>(Mech.)</fld>, <cd>in a body, the relative amount of its motion, as measured by its momentum, varying as the product of mass and velocity.</cd> -- <col><b>Known quantities</b></col> <fld>(Math.)</fld>, <cd>quantities whose values are given.</cd> -- <col><b>Unknown quantities</b></col> <fld>(Math.)</fld>, <cd>quantities whose values are sought.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1174 --></p>
+<p><!-- p. 1174 --></p>
 
 <p><ent>Quantivalence</ent><br/
 <hw>Quan*tiv"a*lence</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quant</ets>us how much + E. <ets>valence</ets>.]</ety> <fld>(Chem.)</fld> <def>Valence.</def> <mark>[Archaic]</mark><br/
@@ -1451,7 +1451,7 @@ Each <qex>quarter</qex>, to descry the distant foe.</q> <rj><qau>Milton.</qau></
 <p><sd>(l)</sd> <def>A division of a town, city, or county; a particular district; a locality; <as>as, the Latin <ex>quarter</ex> in Paris</as>.</def> <sd>(m)</sd> <fld>(Arch.)</fld> <def>A small upright timber post, used in partitions; -- in the United States more commonly called <altname>stud</altname>.</def> <sd>(n)</sd> <fld>(Naut.)</fld> <def>The fourth part of the distance from one point of the compass to another, being the fourth part of 11<deg/ 15<prime/, that is, about 2<deg/ 49<prime/; -- called also <altname>quarter point</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- (o) One fourth of a dollar, i. e. twenty five cents.  Also, the twenty-five cent piece.  Also called a quarter dollar, and two bits --><br/
+<p><!-- (o) One fourth of a dollar, i. e. twenty five cents.  Also, the twenty-five cent piece.  Also called a quarter dollar, and two bits --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Proper station; specific place; assigned position; special location.</def><br/
@@ -1477,7 +1477,7 @@ The cumbrous elements.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Friendship; amity; concord.</def> <mark>[Obs.]</mark> <xex>To keep quarter</xex>, to keep one's proper place, and so be on good terms with another. <mark>[Obs.]</mark>
-<-- ## abnormal format. Shold be a collocataion. --><br/
+<!-- ## abnormal format. Shold be a collocataion. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>In <qex>quarter</qex>, and in terms like bride and groom.</q> <rj><qau>Shak.</qau></rj><br/
@@ -1493,7 +1493,7 @@ The cumbrous elements.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Quar"ter</hw> <pr>(kw<aum/r"t<etil/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Quartered</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Quartering</conjf>.]</vmorph> <sn>1.</sn> <def>To divide into four equal parts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1175 --></p>
+<p><!-- p. 1175 --></p>
 
 <p><sn>2.</sn> <def>To divide; to separate into parts or regions.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -1998,7 +1998,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 <hw>Quea"si*ness</hw>, <pos>n.</pos> <def>The state of being queasy; nausea; qualmishness; squeamishness.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1176 --></p>
+<p><!-- p. 1176 --></p>
 
 <p><ent>Queasy</ent><br/
 <hw>Quea"sy</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Icel. <ets>kweisa</ets> pain; cf. Norw. <ets>kveis</ets> sickness after a debauch.]</ety> <sn>1.</sn> <def>Sick at the stomach; affected with nausea; inclined to vomit; qualmish.</def><br/
@@ -2049,10 +2049,10 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 <p><sn>6.</sn> <def>A playing card bearing the picture of a queen; <as>as, the <ex>queen</ex> of spades</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 7. <def>A male homosexual, esp. one who is effeminate or dresses in women's clothing.</def> <mark>Sometimes pejorative.</mark> --><br/
+<p><!-- 7. <def>A male homosexual, esp. one who is effeminate or dresses in women's clothing.</def> <mark>Sometimes pejorative.</mark> --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Queen apple</b></col>. <ety>[Cf. OE. <ets>quyne aple</ets> quince apple.]</ety> <cd>A kind of apple; a queening.</cd> <ldquo/<xex>Queen apples</xex> and red cherries.<rdquo/ <au>Spenser.</au> -- <col><b>Queen bee</b></col> <fld>(Zool.)</fld>, <cd>a female bee, especially the female of the honeybee. See <er>Honeybee</er>.</cd><-- the fully developed female in a colony of bees, ants, or termites which lays eggs.  Usually there is only one in a colony; the queen is often somewhat larger than other bees, and is specially fed to develop her egg-laying capacity. (b) (Fig.) A woman who feels and acts as though she is of special importance.  Usu. pejorative. --> -- <col><b>Queen conch</b></col> <fld>(Zool.)</fld>, <cd>a very large West Indian cameo conch (<spn>Cassis cameo</spn>). It is much used for making cameos.</cd> -- <col><b>Queen consort</b></col>, <cd>the wife of a reigning king.</cd> <au>Blackstone.</au> -- <col><b>Queen dowager</b></col>, <cd>the widow of a king.</cd> -- <col><b>Queen gold</b></col>, <cd>formerly a revenue of the queen consort of England, arising from gifts, fines, etc.</cd> -- <col><b>Queen mother</b></col>, <cd>a queen dowager who is also mother of the reigning king or queen.</cd> -- <col><b>Queen of May</b></col>. <cd>See <cref>May queen</cref>, under <er>May</er>.</cd> -- <col><b>Queen of the meadow</b></col> <fld>(Bot.)</fld>, <cd>a European herbaceous plant (<spn>Spir<ae/a Ulmaria</spn>). See <er>Meadowsweet</er>.</cd> -- <col><b>Queen of the prairie</b></col> <fld>(Bot.)</fld>, <cd>an American herb (<spn>Spir<ae/a lobata</spn>) with ample clusters of pale pink flowers.</cd> -- <col><b>Queen pigeon</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of very large and handsome crested ground pigeons of the genus <gen>Goura</gen>, native of New Guinea and the adjacent islands. They are mostly pale blue, or ash-blue, marked with white, and have a large occipital crest of spatulate feathers. Called also <altname>crowned pigeon</altname>, <altname>goura</altname>, and <altname>Victoria pigeon</altname>.</cd> -- <mcol><col><b>Queen regent</b></col>, <it>or</it> <col><b>Queen regnant</b></col></mcol>, <cd>a queen reigning in her own right.</cd> -- <col><b>Queen's Bench</b></col>. <cd>See <er>King's Bench</er>.</cd> -- <mcol><col><b>Queen's counsel</b></col>, <col><b>Queen's evidence</b></col></mcol>. <cd>See <cref>King's counsel</cref>, <cref>King's evidence</cref>, under <er>King</er>.</cd> -- <col><b>Queen's delight</b></col> <fld>(Bot.)</fld>, <cd>an American plant (<spn>Stillinqia sylvatica</spn>) of the Spurge family, having an herbaceous stem and a perennial woody root.</cd> -- <col><b>Queen's metal</b></col> <fld>(Metal.)</fld>, <cd>an alloy somewhat resembling pewter or britannia, and consisting essentially of tin with a slight admixture of antimony, bismuth, and lead or copper.</cd> -- <col><b>Queen's pigeon</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Queen pigeon</cref>, above.</cd> -- <col><b>Queen's ware</b></col>, <cd>glazed English earthenware of a cream color.</cd> -- <col><b>Queen's yellow</b></col> <fld>(Old Chem.)</fld>, <cd>a heavy yellow powder consisting of a basic mercuric sulphate; -- formerly called <altname>turpetum minerale</altname>, or <altname>Turbith's mineral</altname>.</cd></cs><br/
+<p><cs><col><b>Queen apple</b></col>. <ety>[Cf. OE. <ets>quyne aple</ets> quince apple.]</ety> <cd>A kind of apple; a queening.</cd> <ldquo/<xex>Queen apples</xex> and red cherries.<rdquo/ <au>Spenser.</au> -- <col><b>Queen bee</b></col> <fld>(Zool.)</fld>, <cd>a female bee, especially the female of the honeybee. See <er>Honeybee</er>.</cd><!-- the fully developed female in a colony of bees, ants, or termites which lays eggs.  Usually there is only one in a colony; the queen is often somewhat larger than other bees, and is specially fed to develop her egg-laying capacity. (b) (Fig.) A woman who feels and acts as though she is of special importance.  Usu. pejorative. --> -- <col><b>Queen conch</b></col> <fld>(Zool.)</fld>, <cd>a very large West Indian cameo conch (<spn>Cassis cameo</spn>). It is much used for making cameos.</cd> -- <col><b>Queen consort</b></col>, <cd>the wife of a reigning king.</cd> <au>Blackstone.</au> -- <col><b>Queen dowager</b></col>, <cd>the widow of a king.</cd> -- <col><b>Queen gold</b></col>, <cd>formerly a revenue of the queen consort of England, arising from gifts, fines, etc.</cd> -- <col><b>Queen mother</b></col>, <cd>a queen dowager who is also mother of the reigning king or queen.</cd> -- <col><b>Queen of May</b></col>. <cd>See <cref>May queen</cref>, under <er>May</er>.</cd> -- <col><b>Queen of the meadow</b></col> <fld>(Bot.)</fld>, <cd>a European herbaceous plant (<spn>Spir<ae/a Ulmaria</spn>). See <er>Meadowsweet</er>.</cd> -- <col><b>Queen of the prairie</b></col> <fld>(Bot.)</fld>, <cd>an American herb (<spn>Spir<ae/a lobata</spn>) with ample clusters of pale pink flowers.</cd> -- <col><b>Queen pigeon</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of very large and handsome crested ground pigeons of the genus <gen>Goura</gen>, native of New Guinea and the adjacent islands. They are mostly pale blue, or ash-blue, marked with white, and have a large occipital crest of spatulate feathers. Called also <altname>crowned pigeon</altname>, <altname>goura</altname>, and <altname>Victoria pigeon</altname>.</cd> -- <mcol><col><b>Queen regent</b></col>, <it>or</it> <col><b>Queen regnant</b></col></mcol>, <cd>a queen reigning in her own right.</cd> -- <col><b>Queen's Bench</b></col>. <cd>See <er>King's Bench</er>.</cd> -- <mcol><col><b>Queen's counsel</b></col>, <col><b>Queen's evidence</b></col></mcol>. <cd>See <cref>King's counsel</cref>, <cref>King's evidence</cref>, under <er>King</er>.</cd> -- <col><b>Queen's delight</b></col> <fld>(Bot.)</fld>, <cd>an American plant (<spn>Stillinqia sylvatica</spn>) of the Spurge family, having an herbaceous stem and a perennial woody root.</cd> -- <col><b>Queen's metal</b></col> <fld>(Metal.)</fld>, <cd>an alloy somewhat resembling pewter or britannia, and consisting essentially of tin with a slight admixture of antimony, bismuth, and lead or copper.</cd> -- <col><b>Queen's pigeon</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Queen pigeon</cref>, above.</cd> -- <col><b>Queen's ware</b></col>, <cd>glazed English earthenware of a cream color.</cd> -- <col><b>Queen's yellow</b></col> <fld>(Old Chem.)</fld>, <cd>a heavy yellow powder consisting of a basic mercuric sulphate; -- formerly called <altname>turpetum minerale</altname>, or <altname>Turbith's mineral</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Queen</ent><br/
@@ -2441,10 +2441,10 @@ She will not <qex>quench</qex>!</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Que*sal"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The long-tailed, or resplendent, trogon (<spn>Pharomachus mocinno</spn>, formerly <spn>Trogon resplendens</spn>), native of Southern Mexico and Central America. Called also <altname>quetzal</altname>, and <altname>golden trogon</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The male is remarkable for the brilliant metallic green and gold colors of his plumage, and for his extremely long plumes, which often exceed three feet in length.</note><-- The feathers were valued as part of the dress of Inca kings. Now usu. called quetzal. --><br/
+<p><note><hand/ The male is remarkable for the brilliant metallic green and gold colors of his plumage, and for his extremely long plumes, which often exceed three feet in length.</note><!-- The feathers were valued as part of the dress of Inca kings. Now usu. called quetzal. --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1177 --></p>
+<p><!-- p. 1177 --></p>
 
 <p><ent>Quest</ent><br/
 <hw>Quest</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>queste</ets>, F. <ets>qu<ecir/te</ets>, fr. L. <ets>quaerere</ets>, <ets>quaesitum</ets>, to seek for, to ask.  Cf. <er>Query</er>, <er>Question</er>.]</ety> <sn>1.</sn> <def>The act of seeking, or looking after anything; attempt to find or obtain; search; pursuit; <as>as, to rove in <ex>quest</ex> of game, of a lost child, of property, etc.</as></def><br/
@@ -2935,7 +2935,7 @@ With fiery <qex>quickness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Life hath <qex>quicksands</qex>, -- Life hath snares!</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1178 --></p>
+<p><!-- p. 1178 --></p>
 
 <p><ent>Quick-scented</ent><br/
 <hw>Quick"-scent`ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Acute of smell.</def><br/
@@ -3393,10 +3393,10 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quindecone</ent><br/
-<hw>Quin*dec"one</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quindecim</ets> fifteen.]</ety> <fld>(Chem.)</fld> <def>An unsaturated hydrocarbon, <chform>C15H26</chform>, of the valylene series, produced artificially as an oily liquid.</def> <altsp>[Written also <asp>quindekone</asp>.]</altsp><-- now quindecene??--><br/
+<hw>Quin*dec"one</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quindecim</ets> fifteen.]</ety> <fld>(Chem.)</fld> <def>An unsaturated hydrocarbon, <chform>C15H26</chform>, of the valylene series, produced artificially as an oily liquid.</def> <altsp>[Written also <asp>quindekone</asp>.]</altsp><!-- now quindecene??--><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1179 --></p>
+<p><!-- p. 1179 --></p>
 
 <p><ent>Quindecylic</ent><br/
 <hw>Quin`de*cyl"ic</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quindecim</ets> fifteen + <ets>-yl</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or designating, an acid of the fatty acid series, containing fifteen atoms of carbon; called also <altname>pentadecylic</altname> acid.</def><br/
@@ -3485,7 +3485,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Quinone</ent><br/
 <hw>Qui"none</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Quin</ets>ine + ket<ets>one</ets>.]</ety> <fld>(Chem.)</fld> <def>A crystalline substance, <chform>C6H4O2</chform> (called also <altname>benzoketone</altname>), first obtained by the oxidation of quinic acid and regarded as a double ketone; also, by extension, any one of the series of which quinone proper is the type.</def> <altsp>[Written also <asp>chinone</asp>, <asp>kinone</asp>.]</altsp>
-<-- and benzoquinone. --><br/
+<!-- and benzoquinone. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinovic</ent><br/
@@ -3694,7 +3694,7 @@ Sprung from the deep.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Quintile</ent><br/
 <hw>Quin"tile</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>quintil aspect</ets>, fr. L. <ets>quintus</ets> the fifth.]</ety> <fld>(Astron.)</fld> <def>The aspect of planets when separated the fifth part of the zodiac, or 72<deg/.</def>
-<-- sic.  not separated "by" -->  <rj><au>Hutton.</au></rj><br/
+<!-- sic.  not separated "by" -->  <rj><au>Hutton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quintilllion</ent><br/
@@ -3813,7 +3813,7 @@ But all his merry <qex>quips</qex> are o'er.</q> <rj><qau>Tennyson.</qau></rj><b
 <hw>Quire</hw>, <pos>v. i.</pos> <def>To sing in concert.</def> <mark>[R.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1180 --></p>
+<p><!-- p. 1180 --></p>
 
 <p><ent>Quire</ent><br/
 <hw>Quire</hw> <pr>(kw<imac/r)</pr>, <pos>n.</pos> <ety>[OE. <ets>quaer</ets>, <ets>quair</ets>, OF. <ets>quayer</ets>, <ets>cayer</ets>, <ets>ca<ium/er</ets>, F. <ets>cahier</ets>, a book of loose sheets, a quarter of a quire, LL. <ets>quaternus</ets>, <ets>quaternum</ets>, sheets of paper packed together, properly, four together, fr. L. <ets>quaterni</ets> four each, by fours, <ets>quattuor</ets> four.  See <er>Four</er> and cf. <er>Cahier</er>.]</ety> <def>A collection of twenty-four sheets of paper of the same size and quality, unfolded or having a single fold; one twentieth of a ream.</def><br/
@@ -4257,7 +4257,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 <p><note><hand/ In stone, the quoins consist of blocks larger than those used in the rest of the building, and cut to dimension. In brickwork, quoins consist of groups or masses of brick laid together, and in a certain imitation of quoins of stone.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- ### the various "subdefs" here require the introductory part definition to be complete -->
+<p><!-- ### the various "subdefs" here require the introductory part definition to be complete -->
 <sn>2.</sn> <def>A wedgelike piece of stone, wood, metal, or other material, used for various purposes;</def> <specif>as:</specif> <sd>(a)</sd> <fld>(Masonry)</fld> <def>To support and steady a stone.</def> <sd>(b)</sd> <fld>(Gun.)</fld> <def>To support the breech of a cannon.</def> <sd>(c)</sd> <fld>(Print.)</fld> <def>To wedge or lock up a form within a chase.</def> <sd>(d)</sd> <fld>(Naut.)</fld> <def>To prevent casks from rolling.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -4337,7 +4337,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 <p><sn>2.</sn> <def>That which is quoted or cited; a part of a book or writing named, repeated, or adduced as evidence or illustration.</def>  <rj><au>Locke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1181 --></p>
+<p><!-- p. 1181 --></p>
 
 <p><sn>3.</sn> <fld>(Com.)</fld> <def>The naming or publishing of the current price of stocks, bonds, or any commodity; also, the price named.</def></p>
 
@@ -4435,4 +4435,4 @@ With mended morals, <qex>quotha</qex>, -- fine new lives !</q> <rj><qau>Mrs. Bro
 <hw>Qu*ran"</hw> <pr>(k<usdot/*r<aum/n")</pr>, <pos>n.</pos> <def>See <er>Koran</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<-- Q ends and R begins in the middle of page 1181 -->
+<!-- Q ends and R begins in the middle of page 1181 -->

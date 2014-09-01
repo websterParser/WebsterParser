@@ -1,4 +1,4 @@
-<-- This file is part 7 of the GNU version of
+<!-- This file is part 7 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -254,7 +254,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 <hw>Gade</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Cod the fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small British fish (<spn>Motella argenteola</spn>) of the Cod family.</def> <sd>(b)</sd> <def>A pike, so called at Moray Firth; -- called also <altname>gead</altname>.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 607 --></p>
+<p><!-- p. 607 --></p>
 
 <p><ent>Gadre</ent><br/
 <ent>Gadere</ent><br/
@@ -426,7 +426,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A speech or phrase interpolated offhand by an actor on the stage in his part as written, usually consisting of some seasonable or local allusion.</def> <mark>[Slang]</mark>
-<-- 4. a remark or act causing laughter.
+<!-- 4. a remark or act causing laughter.
     5. A prank. --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -749,7 +749,7 @@ Be drained.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Gait"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gu<ecir/tre</ets>, cf. Armor. <ets>gweltren</ets>; or perh. of German origin, and akin to E. <ets>wear</ets>, v.]</ety> <sn>1.</sn> <def>A covering of cloth or leather for the ankle and instep, or for the whole leg from the knee to the instep, fitting down upon the shoe.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 608 --></p>
+<p><!-- p. 608 --></p>
 
 <p><sn>2.</sn> <def>A kind of shoe, consisting of cloth, and covering the ankle.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -812,7 +812,7 @@ Be drained.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galactose</ent><br/
-<hw>Ga*lac"tose</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A white, crystalline sugar, <chform>C6H12O6</chform>, isomeric with dextrose, obtained by the decomposition of milk sugar, and also from certain gums. When oxidized it forms mucic acid. Called also <altname>lactose</altname> (though it is not lactose proper).</def><-- lactose is a dimeric form of galactose, converted to galactose by acid or enzymatic activity (beta-galactosidase) --><br/
+<hw>Ga*lac"tose</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A white, crystalline sugar, <chform>C6H12O6</chform>, isomeric with dextrose, obtained by the decomposition of milk sugar, and also from certain gums. When oxidized it forms mucic acid. Called also <altname>lactose</altname> (though it is not lactose proper).</def><!-- lactose is a dimeric form of galactose, converted to galactose by acid or enzymatic activity (beta-galactosidase) --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Galage</ent><br/
@@ -896,7 +896,7 @@ From their soft wings.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The ladies, laughing heartily, were fast getting into what, in New England, is sometimes called a <qex>gale</qex>.</q> <rj><qau>Brooke (Eastford).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Topgallant gale</b></col> <fld>(Naut.)</fld>, <cd>one in which a ship may carry her topgallant sails.</cd></cs><-- add: gale warning --><br/
+<p><cs><col><b>Topgallant gale</b></col> <fld>(Naut.)</fld>, <cd>one in which a ship may carry her topgallant sails.</cd></cs><!-- add: gale warning --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gale</ent><br/
@@ -1178,7 +1178,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Gal"lant*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being gallant.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 609 --></p>
+<p><!-- p. 609 --></p>
 
 <p><ent>Gallantry</ent><br/
 <hw>Gal"lant*ry</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gallantries</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>galanterie</ets>.]</ety> <sn>1.</sn> <def>Splendor of appearance; ostentatious finery.</def> <mark>[Archaic]</mark><br/
@@ -1510,7 +1510,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>But <qex>gallop</qex> lively down the western hill.</q> <rj><qau>Donne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 610 --></p>
+<p><!-- p. 610 --></p>
 
 <p><sn>2.</sn> <def>To ride a horse at a gallop.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -1879,7 +1879,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Gambit</ent><br/
 <hw>Gam"bit</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gambit</ets>, cf. It. <ets>gambitto</ets> gambit, a tripping up. See <er>Gambol</er>, <pos>n.</pos>]</ety> <fld>(Chess Playing)</fld> <def>A mode of opening the game, in which a pawn is sacrificed to gain an attacking position.</def>
-<-- Hence, Fig. any stratagem; in conversation, a remark, often prepared in advance, calculated to provoke discussion, amuse, or make a point = a conversational gambit --> <br/
+<!-- Hence, Fig. any stratagem; in conversation, a remark, often prepared in advance, calculated to provoke discussion, amuse, or make a point = a conversational gambit --> <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gamble</ent><br/
@@ -2009,7 +2009,7 @@ Kings would not play at.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><cs><col><b>Game bag</b></col>, <cd>a sportsman's bag for carrying small game captured; also, the whole quantity of game taken.</cd> -- <col><b>Game bird</b></col>, <cd>any bird commonly shot for food, esp. grouse, partridges, quails, pheasants, wild turkeys, and the shore or wading birds, such as plovers, snipe, woodcock, curlew, and sandpipers. The term is sometimes arbitrarily restricted to birds hunted by sportsmen, with dogs and guns.</cd> -- <col><b>Game egg</b></col>, <cd>an egg producing a gamecock.</cd> -- <col><b>Game laws</b></col>, <cd>laws regulating the seasons and manner of taking game for food or for sport.</cd> -- <col><b>Game preserver</b></col>, <cd>a land owner who regulates the killing of game on his estate with a view to its increase.</cd> <mark>[Eng.]</mark> -- <col><b>To be game</b></col>. <sd>(a)</sd> <cd>To show a brave, unyielding spirit.</cd> <sd>(b)</sd> <cd>To be victor in a game.</cd> <mark>[Colloq.]</mark> -- <col><b>To die game</b></col>, <cd>to maintain a bold, unyielding spirit to the last; to die fighting.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 611 --></p>
+<p><!-- p. 611 --></p>
 
 <p><ent>Game</ent><br/
 <hw>Game</hw> <pr>(g<amac/m)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gamed</conjf> <pr>(g<amac/md)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gaming</conjf>.]</vmorph> <ety>[OE. <ets>gamen</ets>, <ets>game<?/en</ets>, to rejoice, AS. <ets>gamenian</ets> to play. See <er>Game</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To rejoice; to be pleased; -- often used, in Old English, impersonally with dative.</def> <mark>[Obs.]</mark><br/
@@ -2475,7 +2475,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ganja</ent><br/
-<hw>Gan"ja</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>g<amac/njh<amac/</ets>.]</ety> <def>The dried hemp plant, used in India for smoking. It is extremely narcotic and intoxicating.</def><-- marijuana, hashish --><br/
+<hw>Gan"ja</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>g<amac/njh<amac/</ets>.]</ety> <def>The dried hemp plant, used in India for smoking. It is extremely narcotic and intoxicating.</def><!-- marijuana, hashish --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gannet</ent><br/
@@ -2547,7 +2547,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 <hw>Gant"line`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A line rigged to a mast; -- used in hoisting rigging; a girtline.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 612 --></p>
+<p><!-- p. 612 --></p>
 
 <p><ent>Gantlope</ent><br/
 <hw>Gant"lope`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gantlet</er>.</def> <mark>[Obs.]</mark><br/
@@ -3016,7 +3016,7 @@ The pleasant <qex>garden</qex> of great Italy.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A wreath of chaplet made of branches, flowers, or feathers, and sometimes of precious stones, to be worn on the head like a crown; a coronal; a wreath.</def>  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 613 --></p>
+<p><!-- p. 613 --></p>
 
 <p><sn>3.</sn> <def>The top; the thing most prized.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -3370,10 +3370,10 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><note><hand/ <xex>Gas</xex> is often used adjectively or in combination; as, <xex>gas</xex> fitter or <xex>gas</xex>fitter; <xex>gas</xex> meter or <xex>gas</xex>-meter, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Air gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing air through some volatile hydrocarbon, as the lighter petroleums. The air is so saturated with combustible vapor as to be a convenient illuminating and heating agent.</cd> -- <col><b>Gas battery</b></col> <fld>(Elec.)</fld>, <cd>a form of voltaic battery, in which gases, especially hydrogen and oxygen, are the active agents.</cd> -- <mcol><col><b>Gas carbon</b></col>, <col><b>Gas coke</b></col></mcol>, <cd>etc. See under <er>Carbon</er>, <er>Coke</er>, etc.</cd> -- <col><b>Gas coal</b></col>, <cd>a bituminous or hydrogenous coal yielding a high percentage of volatile matters, and therefore available for the manufacture of illuminating gas.</cd> <au>R. W. Raymond.</au> -- <col><b>Gas engine</b></col>, <cd>an engine in which the motion of the piston is produced by the combustion or sudden production or expansion of gas; -- especially, an engine in which an explosive mixture of gas and air is forced into the working cylinder and ignited there by a gas flame or an electric spark.</cd><-- = internal combustion engine --> -- <col><b>Gas fitter</b></col>, <cd>one who lays pipes and puts up fixtures for gas.</cd> -- <col><b>Gas fitting</b></col>. <sd>(a)</sd> <cd>The occupation of a gas fitter.</cd> <sd>(b)</sd> <pluf>pl.</pluf> <cd>The appliances needed for the introduction of gas into a building, as meters, pipes, burners, etc.</cd> -- <col><b>Gas fixture</b></col>, <cd>a device for conveying illuminating or combustible gas from the pipe to the gas-burner, consisting of an appendage of cast, wrought, or drawn metal, with tubes upon which the burners, keys, etc., are adjusted.</cd> -- <col><b>Gas generator</b></col>, <cd>an apparatus in which gas is evolved</cd>; as: <sd>(a)</sd> <cd>a retort in which volatile hydrocarbons are evolved by heat</cd>; <sd>(b)</sd> <cd>a machine in which air is saturated with the vapor of liquid hydrocarbon; a carburetor</cd>; <sd>(c)</sd> <cd>a machine for the production of carbonic acid gas, for a<eum/rating water, bread, etc.</cd> <au>Knight.</au> -- <col><b>Gas jet</b></col>, <cd>a flame of illuminating gas.</cd> -- <col><b>Gas machine</b></col>, <cd>an apparatus for carbureting air for use as illuminating gas.</cd> -- <col><b>Gas meter</b></col>, <cd>an instrument for recording the quantity of gas consumed in a given time, at a particular place.</cd> -- <col><b>Gas retort</b></col>, <cd>a retort which contains the coal and other materials, and in which the gas is generated, in the manufacture of gas.</cd> -- <col><b>Gas stove</b></col>, <cd>a stove for cooking or other purposes, heated by gas.</cd> -- <col><b>Gas tar</b></col>, <cd>coal tar.</cd> -- <col><b>Gas trap</b></col>, <cd>a drain trap; a sewer trap. See 4th <er>Trap</er>, 5.</cd> -- <col><b>Gas washer</b></col> <fld>(Gas Works)</fld>, <cd>an apparatus within which gas from the condenser is brought in contact with a falling stream of water, to precipitate the tar remaining in it.</cd> <au>Knight.</au> -- <col><b>Gas water</b></col>, <cd>water through which gas has been passed for purification; -- called also <altname>gas liquor</altname> and <altname>ammoniacal water</altname>, and used for the manufacture of sal ammoniac, carbonate of ammonia, and Prussian blue.</cd> <au>Tomlinson.</au> -- <col><b>Gas well</b></col>, <cd>a deep boring, from which natural gas is discharged.</cd> <au>Raymond.</au> -- <col><b>Gas works</b></col>, <cd>a manufactory of gas, with all the machinery and appurtenances; a place where gas is generated for lighting cities.</cd> -- <col><b>Laughing gas</b></col>. <cd>See under <er>Laughing</er>.</cd> -- <col><b>Marsh gas</b></col> <fld>(Chem.)</fld>, <cd>a light, combustible, gaseous hydrocarbon, <chform>CH4</chform>, produced artificially by the dry distillation of many organic substances, and occurring as a natural product of decomposition in stagnant pools, whence its name. It is an abundant ingredient of ordinary illuminating gas, and is the first member of the paraffin series. Called also <altname>methane</altname>, and in coal mines, <altname>fire damp</altname>.</cd> -- <col><b>Natural gas</b></col>, <cd>gas obtained from wells, etc., in Pennsylvania, Ohio, and elsewhere, and largely used for fuel and illuminating purposes. It is chiefly derived from the Coal Measures.</cd> -- <col><b>Olefiant gas</b></col> <fld>(Chem.)</fld>. <cd>See <er>Ethylene</er>.</cd> -- <col><b>Water gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing steam over glowing coals, whereby there results a mixture of hydrogen and carbon monoxide. This gives a gas of intense heating power, but destitute of light-giving properties, and which is charged by passing through some volatile hydrocarbon, as gasoline.<-- = <altname>synthesis gas</altname> --></cd></cs><br/
+<p><cs><col><b>Air gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing air through some volatile hydrocarbon, as the lighter petroleums. The air is so saturated with combustible vapor as to be a convenient illuminating and heating agent.</cd> -- <col><b>Gas battery</b></col> <fld>(Elec.)</fld>, <cd>a form of voltaic battery, in which gases, especially hydrogen and oxygen, are the active agents.</cd> -- <mcol><col><b>Gas carbon</b></col>, <col><b>Gas coke</b></col></mcol>, <cd>etc. See under <er>Carbon</er>, <er>Coke</er>, etc.</cd> -- <col><b>Gas coal</b></col>, <cd>a bituminous or hydrogenous coal yielding a high percentage of volatile matters, and therefore available for the manufacture of illuminating gas.</cd> <au>R. W. Raymond.</au> -- <col><b>Gas engine</b></col>, <cd>an engine in which the motion of the piston is produced by the combustion or sudden production or expansion of gas; -- especially, an engine in which an explosive mixture of gas and air is forced into the working cylinder and ignited there by a gas flame or an electric spark.</cd><!-- = internal combustion engine --> -- <col><b>Gas fitter</b></col>, <cd>one who lays pipes and puts up fixtures for gas.</cd> -- <col><b>Gas fitting</b></col>. <sd>(a)</sd> <cd>The occupation of a gas fitter.</cd> <sd>(b)</sd> <pluf>pl.</pluf> <cd>The appliances needed for the introduction of gas into a building, as meters, pipes, burners, etc.</cd> -- <col><b>Gas fixture</b></col>, <cd>a device for conveying illuminating or combustible gas from the pipe to the gas-burner, consisting of an appendage of cast, wrought, or drawn metal, with tubes upon which the burners, keys, etc., are adjusted.</cd> -- <col><b>Gas generator</b></col>, <cd>an apparatus in which gas is evolved</cd>; as: <sd>(a)</sd> <cd>a retort in which volatile hydrocarbons are evolved by heat</cd>; <sd>(b)</sd> <cd>a machine in which air is saturated with the vapor of liquid hydrocarbon; a carburetor</cd>; <sd>(c)</sd> <cd>a machine for the production of carbonic acid gas, for a<eum/rating water, bread, etc.</cd> <au>Knight.</au> -- <col><b>Gas jet</b></col>, <cd>a flame of illuminating gas.</cd> -- <col><b>Gas machine</b></col>, <cd>an apparatus for carbureting air for use as illuminating gas.</cd> -- <col><b>Gas meter</b></col>, <cd>an instrument for recording the quantity of gas consumed in a given time, at a particular place.</cd> -- <col><b>Gas retort</b></col>, <cd>a retort which contains the coal and other materials, and in which the gas is generated, in the manufacture of gas.</cd> -- <col><b>Gas stove</b></col>, <cd>a stove for cooking or other purposes, heated by gas.</cd> -- <col><b>Gas tar</b></col>, <cd>coal tar.</cd> -- <col><b>Gas trap</b></col>, <cd>a drain trap; a sewer trap. See 4th <er>Trap</er>, 5.</cd> -- <col><b>Gas washer</b></col> <fld>(Gas Works)</fld>, <cd>an apparatus within which gas from the condenser is brought in contact with a falling stream of water, to precipitate the tar remaining in it.</cd> <au>Knight.</au> -- <col><b>Gas water</b></col>, <cd>water through which gas has been passed for purification; -- called also <altname>gas liquor</altname> and <altname>ammoniacal water</altname>, and used for the manufacture of sal ammoniac, carbonate of ammonia, and Prussian blue.</cd> <au>Tomlinson.</au> -- <col><b>Gas well</b></col>, <cd>a deep boring, from which natural gas is discharged.</cd> <au>Raymond.</au> -- <col><b>Gas works</b></col>, <cd>a manufactory of gas, with all the machinery and appurtenances; a place where gas is generated for lighting cities.</cd> -- <col><b>Laughing gas</b></col>. <cd>See under <er>Laughing</er>.</cd> -- <col><b>Marsh gas</b></col> <fld>(Chem.)</fld>, <cd>a light, combustible, gaseous hydrocarbon, <chform>CH4</chform>, produced artificially by the dry distillation of many organic substances, and occurring as a natural product of decomposition in stagnant pools, whence its name. It is an abundant ingredient of ordinary illuminating gas, and is the first member of the paraffin series. Called also <altname>methane</altname>, and in coal mines, <altname>fire damp</altname>.</cd> -- <col><b>Natural gas</b></col>, <cd>gas obtained from wells, etc., in Pennsylvania, Ohio, and elsewhere, and largely used for fuel and illuminating purposes. It is chiefly derived from the Coal Measures.</cd> -- <col><b>Olefiant gas</b></col> <fld>(Chem.)</fld>. <cd>See <er>Ethylene</er>.</cd> -- <col><b>Water gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing steam over glowing coals, whereby there results a mixture of hydrogen and carbon monoxide. This gives a gas of intense heating power, but destitute of light-giving properties, and which is charged by passing through some volatile hydrocarbon, as gasoline.<!-- = <altname>synthesis gas</altname> --></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 614 --></p>
+<p><!-- p. 614 --></p>
 
 <p><ent>Gas</ent><br/
 <hw>Gas</hw> <pr>(g<acr/s)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gassed</conjf> <pr>(g<acr/st)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gassing</conjf>.]</vmorph> <sn>1.</sn> <fld>(Textiles)</fld> <def>To singe, as in a gas flame, so as to remove loose fibers; <as>as, to <ex>gas</ex> thread</as>.</def><br/
@@ -3849,7 +3849,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 \'d8<hw>Gas"tru*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it></plu> <plw>Gastrul<ae/</plw> <pr>(#)</pr> <ety>[NL., dim. fr. Gr. <?/ the stomach.]</ety> <fld>(Biol.)</fld> <def>An embryonic form having its origin in the invagination or pushing in of the wall of the planula or blastula (the <xex>blastosphere</xex>) on one side, thus giving rise to a double-walled sac, with one opening or mouth (the <xex>blastopore</xex>) which leads into the cavity (the <xex>archenteron</xex>) lined by the inner wall (the <xex>hypoblast</xex>). See <xex>Illust.</xex> under <er>Invagination</er>. In a more general sense, an ideal stage in embryonic development. See <er>Gastr<ae/a</er>.</def> -- <def2><pos>a.</pos> <def>Of or pertaining to a gastrula.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 615 --></p>
+<p><!-- p. 615 --></p>
 
 <p><ent>Gastrulation</ent><br/
 <hw>Gas`tru*la"tion</hw> <pr>(g<acr/s`tr<usdot/*l<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <fld>(Biol.)</fld> <def>The process of invagination, in embryonic development, by which a gastrula is formed.</def><br/
@@ -4352,7 +4352,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><mcol><col><b>Gauge of a carriage</b></col>, <col><b>car</b></col></mcol>, <cd>etc., the distance between the wheels; -- ordinarily called the <altname>track</altname>.</cd> -- <col><b>Gauge cock</b></col>, <cd>a stop cock used as a try cock for ascertaining the height of the water level in a steam boiler.</cd> -- <col><b>Gauge concussion</b></col> <fld>(Railroads)</fld>, <cd>the jar caused by a car-wheel flange striking the edge of the rail.</cd> -- <col><b>Gauge glass</b></col>, <cd>a glass tube for a water gauge.</cd> -- <col><b>Gauge lathe</b></col>, <cd>an automatic lathe for turning a round object having an irregular profile, as a baluster or chair round, to a templet or gauge.</cd> -- <col><b>Gauge point</b></col>, <cd>the diameter of a cylinder whose altitude is one inch, and contents equal to that of a unit of a given measure; -- a term used in gauging casks, etc.</cd> -- <col><b>Gauge rod</b></col>, <cd>a graduated rod, for measuring the capacity of barrels, casks, etc.</cd> -- <col><b>Gauge saw</b></col>, <cd>a handsaw, with a gauge to regulate the depth of cut.</cd> <au>Knight.</au> -- <col><b>Gauge stuff</b></col>, <cd>a stiff and compact plaster, used in making cornices, moldings, etc., by means of a templet.</cd> -- <col><b>Gauge wheel</b></col>, <cd>a wheel at the forward end of a plow beam, to determine the depth of the furrow.</cd> -- <col><b>Joiner's gauge</b></col>, <cd>an instrument used to strike a line parallel to the straight side of a board, etc.</cd> -- <col><b>Printer's gauge</b></col>, <cd>an instrument to regulate the length of the page.</cd> -- <col><b>Rain gauge</b></col>, <cd>an instrument for measuring the quantity of rain at any given place.</cd> -- <mcol><col><b>Salt gauge</b></col>, or <col><b>Brine gauge</b></col></mcol>, <cd>an instrument or contrivance for indicating the degree of saltness of water from its specific gravity, as in the boilers of ocean steamers.</cd> -- <col><b>Sea gauge</b></col>, <cd>an instrument for finding the depth of the sea.</cd> -- <col><b>Siphon gauge</b></col>, <cd>a glass siphon tube, partly filled with mercury, -- used to indicate pressure, as of steam, or the degree of rarefaction produced in the receiver of an air pump or other vacuum; a manometer.</cd> -- <col><b>Sliding gauge</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A templet or pattern for gauging the commonly accepted dimensions or shape of certain parts in general use, as screws, railway-car axles, etc.</cd> <sd>(b)</sd> <cd>A gauge used only for testing other similar gauges, and preserved as a reference, to detect wear of the working gauges.</cd> <sd>(c)</sd> <fld>(Railroads)</fld> <cd>See Note under <er>Gauge</er>, <pos>n.</pos>, 5.</cd> -- <col><b>Star gauge</b></col> <fld>(Ordnance)</fld>, <cd>an instrument for measuring the diameter of the bore of a cannon at any point of its length.</cd> -- <col><b>Steam gauge</b></col>, <cd>an instrument for measuring the pressure of steam, as in a boiler.</cd> -- <col><b>Tide gauge</b></col>, <cd>an instrument for determining the height of the tides.</cd> -- <col><b>Vacuum gauge</b></col>, <cd>a species of barometer for determining the relative elasticities of the vapor in the condenser of a steam engine and the air.</cd> -- <col><b>Water gauge</b></col>. <sd>(a)</sd> <cd>A contrivance for indicating the height of a water surface, as in a steam boiler; as by a gauge cock or glass.</cd> <sd>(b)</sd> <cd>The height of the water in the boiler.</cd> -- <col><b>Wind gauge</b></col>, <cd>an instrument for measuring the force of the wind on any given surface; an anemometer.</cd> -- <col><b>Wire gauge</b></col>, <cd>a gauge for determining the diameter of wire or the thickness of sheet metal; also, a standard of size. See under <er>Wire</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 616 --></p>
+<p><!-- p. 616 --></p>
 
 <p><ent>Gaugeable</ent><br/
 <hw>Gauge"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being gauged.</def><br/
@@ -4753,7 +4753,7 @@ Than that earth should stand at <qex>gaze</qex> like Joshua's moon in Ajalon!</q
 <p><ent>Gazelle</ent><br/
 <hw>Ga*zelle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gazelle</ets>, OF. also, <ets>gazel</ets>; cf. Sp. <ets>gacela</ets>, Pr. <ets>gazella</ets>, It. <ets>gazella</ets>; all fr. Ar. <ets>ghaz<?/l</ets> a wild goat.]</ety> <fld>(Zool.)</fld> <def>One of several small, swift, elegantly formed species of antelope, of the genus <gen>Gazella</gen>, esp. <spn>G. dorcas</spn>; -- called also <altname>algazel</altname>, <altname>corinne</altname>, <altname>korin</altname>, and <altname>kevel</altname>. The gazelles are celebrated for the luster and soft expression of their eyes.</def> <altsp>[Written also <asp>gazel</asp>.]</altsp></p>
 
-<p><-- subtypes -->
+<p><!-- subtypes -->
 <note><hand/ The common species of Northern Africa (<spn>Gazella dorcas</spn>); the Arabian gazelle, or ariel (<spn>G. Arabica</spn>); the mohr of West Africa (<spn>G. mohr</spn>); the Indian (<spn>G. Bennetti</spn>); the <stype>ahu</stype> or Persian (<spn>G. subgutturosa</spn>); and the springbok or tsebe (<spn>G. euchore</spn>) of South Africa, are the best known.</note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -4877,7 +4877,7 @@ Than that earth should stand at <qex>gaze</qex> like Joshua's moon in Ajalon!</q
 <p><cs><col><b>Bever gear</b></col>. <cd>See <er>Bevel gear</er>.</cd> -- <col><b>Core gear</b></col>, <cd>a mortise gear, or its skeleton. See <cref>Mortise wheel</cref>, under <er>Mortise</er>.</cd> -- <col><b>Expansion gear</b></col> <fld>(Steam Engine)</fld>, <cd>the arrangement of parts for cutting off steam at a certain part of the stroke, so as to leave it to act upon the piston expansively; the cut-off. See under <er>Expansion</er>.</cd> -- <col><b>Feed gear</b></col>. <cd>See <cref>Feed motion</cref>, under <er>Feed</er>, <pos>n.</pos></cd> -- <col><b>Gear cutter</b></col>, <cd>a machine or tool for forming the teeth of gear wheels by cutting.</cd> -- <col><b>Gear wheel</b></col>, <cd>any cogwheel.</cd> -- <col><b>Running gear</b></col>. <cd>See under <er>Running</er>.</cd> -- <mcol><col><b>To throw in gear</b></col> <it>or</it> <col><b>To throw out of gear</b></col></mcol> <fld>(Mach.)</fld>, <cd>to connect or disconnect (wheelwork or couplings, etc.); to put in, or out of, working relation.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 617 --></p>
+<p><!-- p. 617 --></p>
 
 <p><ent>Gear</ent><br/
 <hw>Gear</hw> <pr>(g<emac/r)</pr> <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Geared</conjf> <pr>(g<emac/rd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gearing</conjf>.]</vmorph> <sn>1.</sn> <def>To dress; to put gear on; to harness.</def><br/
@@ -5392,7 +5392,7 @@ A swelling knot is raised called a <qex>gem</qex>.</q> <rj><qau>Denham.</qau></r
 <hw>Gem"ma*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>gemmarius</ets>. See <er>Gem</er>.]</ety> <def>Of or pertaining to gems.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 618 --></p>
+<p><!-- p. 618 --></p>
 
 <p><ent>Gemmary</ent><br/
 <hw>Gem"ma*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A receptacle for jewels or gems; a jewel house; jewels or gems, collectively.</def><br/
@@ -5664,7 +5664,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Mil.)</fld> <def>One of the chief military officers of a government or country; the commander of an army, of a body of men not less than a brigade. In European armies, the highest military rank next below field marshal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In the United States the office of <xex>General of the Army</xex> has been created by temporary laws, and has been held only by Generals U. S. Grant, W. T. Sherman, and P. H. Sheridan. <-- = 5-star general. Eisenhower? MacArthur? Pershing? -->Popularly, the title <xex>General</xex> is given to various <xex>general officers</xex>, as General, Lieutenant general, Major general, Brigadier general, Commissary general, etc. See <er>Brigadier general</er>, <er>Lieutenant general</er>, <er>Major general</er>, in the Vocabulary.</note><br/
+<p><note><hand/ In the United States the office of <xex>General of the Army</xex> has been created by temporary laws, and has been held only by Generals U. S. Grant, W. T. Sherman, and P. H. Sheridan. <!-- = 5-star general. Eisenhower? MacArthur? Pershing? -->Popularly, the title <xex>General</xex> is given to various <xex>general officers</xex>, as General, Lieutenant general, Major general, Brigadier general, Commissary general, etc. See <er>Brigadier general</er>, <er>Lieutenant general</er>, <er>Major general</er>, in the Vocabulary.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Mil.)</fld> <def>The roll of the drum which calls the troops together; <as>as, to beat the <ex>general</ex></as>.</def><br/
@@ -5845,7 +5845,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Math.)</fld> <def>To trace out, as a line, figure, or solid, by the motion of a point or a magnitude of inferior order.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 619 --></p>
+<p><!-- p. 619 --></p>
 
 <p><ent>Generation</ent><br/
 <hw>Gen`er*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>generacioun</ets>, F. <ets>g<eacute/n<eacute/ration</ets>, fr.L. <ets>generatio</ets>.]</ety> <sn>1.</sn> <def>The act of generating or begetting; procreation, as of animals.</def><br/
@@ -6310,7 +6310,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><syn><b>Syn.</b> -- <er>Genius</er>, <er>Talent</er>.</syn> <usage> <xex>Genius</xex> implies high and peculiar gifts of nature, impelling the mind to certain favorite kinds of mental effort, and producing new combinations of ideas, imagery, etc.  <xex>Talent</xex> supposes general strength of intellect, with a peculiar aptitude for being molded and directed to specific employments and valuable ends and purposes. <xex>Genius</xex> is connected more or less with the exercise of imagination, and reaches its ends by a kind of intuitive power. <xex>Talent</xex> depends more on high mental training, and a perfect command of all the faculties, memory, judgment, sagacity, etc.  Hence we speak of a <xex>genius</xex> for poetry, painting. etc., and a <xex>talent</xex> for business or diplomacy.  Among English orators, Lord Chatham was distinguished for his <xex>genius</xex>; William Pitt for his pre<eum/minent <xex>talents</xex>, and especially his unrivaled <xex>talent</xex> for debate.</usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 620 --></p>
+<p><!-- p. 620 --></p>
 
 <p><cs><col><b>Genius loci</b></col> <pr>(<?/)</pr> <ety>[L.]</ety>, <cd>the genius or presiding divinity of a place; hence, the pervading spirit of a place or institution, as of a college, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -6615,7 +6615,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Gentle</ent><br/
 <hw>Gent"le</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To make genteel; to raise from the vulgar; to ennoble.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj>
-<-- = gentrify? --><br/
+<!-- = gentrify? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To make smooth, cozy, or agreeable.</def> <mark>[R. or Poet.]</mark><br/
@@ -6826,7 +6826,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <hw>Ge"ode</hw> <pr>(j<emac/"<omac/d)</pr>, <pos>n.</pos> <ety>[F. <ets>g<eacute/ode</ets>, L. <ets>geodes</ets>, fr. Gr. <?/ earthlike; <grk>ge`a</grk>, <grk>gh^</grk>, the earth + <grk>e'i^dos</grk> form.]</ety> <fld>(Min.)</fld> <sd>(a)</sd> <def>A nodule of stone, containing a cavity, lined with crystals or mineral matter.</def> <sd>(b)</sd> <def>The cavity in such a nodule.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 621 --></p>
+<p><!-- p. 621 --></p>
 
 <p><ent>Geodephagous</ent><br/
 <hw>Ge`o*deph"a*gous</hw> <pr>(j<emac/`<osl/*d<ecr/f"<adot/*g<ucr/s)</pr>, <pos>a.</pos> <ety>[Gr. <grk>ge`a</grk>, <grk>gh^</grk>, earth + <grk>'adhfa`gos</grk> eating one's fill; gluttonous.]</ety> <fld>(Zool.)</fld> <def>Living in the earth; -- applied to the ground beetles.</def></p>
@@ -6937,7 +6937,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 
 <p><caption><er>The Geological Series</er>.
 <note><hand/ The science of geology, as treating of the history of the globe, involves a description of the different strata which compose its crust, their order of succession, characteristic forms of animal and vegetable life, etc. The principal subdivisions of geological time, and the most important strata, with their relative positions, are indicated in the following diagram.</note></caption>
-<-- illustration of geological periods, with rock layers, takes one column from top to bottom of the page here --></p>
+<!-- illustration of geological periods, with rock layers, takes one column from top to bottom of the page here --></p>
 
 <p><ent>Geologian</ent><br/
 <ent>Geologer</ent><br/
@@ -7017,7 +7017,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><cs><col><b>Geometrical curve</b></col>. <cd>Same as <cref>Algebraic curve</cref>; -- so called because their different points may be constructed by the operations of elementary geometry.</cd> -- <col><b>Geometric lathe</b></col>, <cd>an instrument for engraving bank notes, etc., with complicated patterns of interlacing lines; -- called also <altname>cycloidal engine</altname>.</cd> -- <col><b>Geometrical pace</b></col>, <cd>a measure of five feet.</cd> -- <col><b>Geometric pen</b></col>, <cd>an instrument for drawing geometric curves, in which the movements of a pen or pencil attached to a revolving arm of adjustable length may be indefinitely varied by changing the toothed wheels which give motion to the arm.</cd> -- <col><b>Geometrical plane</b></col> <fld>(Persp.)</fld>, <cd>the same as <altname>Ground plane</altname> .</cd> -- <mcol><col><b>Geometrical progression</b></col>, <col><b>proportion</b></col>, <col><b>ratio</b></col></mcol>. <cd>See under <er>Progression</er>, <er>Proportion</er> and <er>Ratio</er>.</cd> -- <col><b>Geometrical radius</b></col>, <cd>in gearing, the radius of the pitch circle of a cogwheel.</cd> <au>Knight.</au> -- <col><b>Geometric spider</b></col> <fld>(Zool.)</fld>, <cd>one of many species of spiders, which spin a geometrical web. They mostly belong to <gen>Epeira</gen> and allied genera, as the garden spider. See <er>Garden spider</er>.</cd> -- <col><b>Geometric square</b></col>, <cd>a portable instrument in the form of a square frame for ascertaining distances and heights by measuring angles.</cd> -- <col><b>Geometrical staircase</b></col>, <cd>one in which the stairs are supported by the wall at one end only.</cd> -- <col><b>Geometrical tracery</b></col>, <cd>in architecture and decoration, tracery arranged in geometrical figures.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 622 --></p>
+<p><!-- p. 622 --></p>
 
 <p><ent>Geometrically</ent><br/
 <hw>Ge`o*met"ric*al*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>According to the rules or laws of geometry.</def><br/
@@ -7152,7 +7152,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Of or relating to the reigns of the four Georges, kings of Great Britan; <as>as, the <ex>Georgian</ex> era</as>.</def>
-<-- five? --><br/
+<!-- five? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Georgian</ent><br/
@@ -7461,7 +7461,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 \'d8<hw>Ger*ma"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Germ</er>.]</ety> <fld>(Zool.)</fld> <def>An organ in which the ova are developed in certain Turbellaria.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 623 --></p>
+<p><!-- p. 623 --></p>
 
 <p><ent>Germ cell</ent><br/
 <hw>Germ cell</hw>. <fld>(Biol.)</fld> <def>A cell, of either sex, directly concerned in the production of a new organism.</def><br/
@@ -8013,7 +8013,7 @@ But, in a larger sense, we cannot dedicate -- we cannot consecrate -- we cannot 
 <p><note><hand/ <xex>Geysers</xex> were first known in Iceland, and later in New Zealand. In the Yellowstone region in the United States they are numerous, and some of them very powerful, throwing jets of boiling water and steam to a height of 200 feet. They are grouped in several areas called <xex>geyser basins</xex>. The mineral matter, or <xex>geyserite</xex>, with which geyser water is charged, forms <xex>geyser cones</xex> about the orifice, often of great size and beauty.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 624 --></p>
+<p><!-- p. 624 --></p>
 
 <p><ent>Geyserite</ent><br/
 <hw>Gey"ser*ite</hw> <pr>(g<imac/"z<etil/r*<imac/t <it>or</it>  g<imac/"s<etil/r*<imac/t; 277)</pr>, <pos>n.</pos> <ety>[From <er>Geyser</er>.]</ety> <fld>(Min.)</fld> <def>A loose hydrated form of silica, a variety of opal, deposited in concretionary cauliflowerlike masses, around some hot springs and geysers.</def><br/
@@ -8453,7 +8453,7 @@ All kinds of <qex>gibberish</qex> he had learnt to know.</q> <rj><qau>Drayton.</
 <p><ent>Gibbon</ent><br/
 <hw>Gib"bon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>gibbon</ets>.]</ety> <fld>(Zool.)</fld> <def>Any arboreal ape of the genus <gen>Hylobates</gen>, of which many species and varieties inhabit the East Indies and Southern Asia. They are tailless and without cheek pouches, and have very long arms, adapted for climbing.</def></p>
 
-<p><-- common subtypes -->
+<p><!-- common subtypes -->
 <note><hand/ The white-handed gibbon (<spn>Hylobates lar</spn>), the crowned (<spn>H. pilatus</spn>), the wou-wou or singing gibbon (<spn>H. agilis</spn>), the siamang, and the hoolock. are the most common species.</note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -8649,7 +8649,7 @@ All kinds of <qex>gibberish</qex> he had learnt to know.</q> <rj><qau>Drayton.</
 <p><sn>2.</sn> <fld>(Computers)</fld> <def>An image stored in GIF{1} format, or the file in which the image is stored; <as>as, he sent three GIF's with lovely pictures of his children</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 625 --></p>
+<p><!-- p. 625 --></p>
 
 <p><ent>Giffard injector</ent><br/
 <hw>Gif"fard in*ject"or</hw> <pr>(?)</pr>. <fld>(Mach.)</fld> <def>See under <er>Injector</er>.</def><br/
@@ -9175,7 +9175,7 @@ Lies foul with chewed grass.</q> <rj><qau>Shak.</qau></rj><br/
 <mhw><hw>Gim"mer</hw>, <hw>Gim"mor</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[Cf. <er>Gimmal</er>, <pos>n.</pos>]</ety> <def>A piece of mechanism; mechanical device or contrivance; a gimcrack.</def> <mark>[Obs.]</mark>  <rj><au>Bp. Hall.</au>  <au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 626 --></p>
+<p><!-- p. 626 --></p>
 
 <p><ent>Gimp</ent><br/
 <hw>Gimp</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[W. <ets>gwymp</ets> fair, neat, comely.]</ety> <def>Smart; spruce; trim; nice.</def> <mark>[Obs. or Prov. Eng.]</mark><br/
@@ -9266,7 +9266,7 @@ Lies foul with chewed grass.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Gingerbread</ent><br/
 <hw>Gin"ger*bread`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of plain sweet cake seasoned with ginger, and sometimes made in fanciful shapes.</def> <ldquo/<xex>Gingerbread</xex> that was full fine.<rdquo/  <rj><au>Chaucer.</au></rj></p>
 
-<p><-- 2. gingerbread work, esp. openwork wooden decorations along the edges of roofs and porches in Victorian style wood-frame houses  --><br/
+<p><!-- 2. gingerbread work, esp. openwork wooden decorations along the edges of roofs and porches in Victorian style wood-frame houses  --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Gingerbread tree</b></col> <fld>(Bot.)</fld>, <cd>the doom palm; -- so called from the resemblance of its fruit to gingerbread. See <er>Doom Palm</er>.</cd> -- <col><b>Gingerbread work</b></col>, <cd>ornamentation, in architecture or decoration, of a fantastic, trivial, or tawdry character.</cd></cs><br/
@@ -9712,7 +9712,7 @@ And <qex>girt</qex> thee with the sword.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Girt</hw>, <pos>a.</pos> <fld>(Naut.)</fld> <def>Bound by a cable; -- used of a vessel so moored by two anchors that she swings against one of the cables by force of the current or tide.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 627 --></p>
+<p><!-- p. 627 --></p>
 
 <p><ent>Girt</ent><br/
 <hw>Girt</hw> <pr>(g<etil/rt)</pr>, <pos>n.</pos> <def>Same as <er>Girth</er>.</def><br/
@@ -10138,7 +10138,7 @@ From his true meant design.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Gla"cis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>glacis</ets>; -- so named from its smoothness. See <er>Glacier</er>.]</ety> <def>A gentle slope, or a smooth, gently sloping bank; especially <fld>(Fort.)</fld>, that slope of earth which inclines from the covered way toward the exterior ground or country (see <xex>Illust.</xex> of <er>Ravelin</er>).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 628 --></p>
+<p><!-- p. 628 --></p>
 
 <p><ent>Glad</ent><br/
 <hw>Glad</hw> <pr>(gl<acr/d)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Gladder</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Gladdest</adjf> <pr>(?)</pr>.]</amorph> <ety>[AS. <ets>gl<ae/d</ets> bright, glad; akin to D. <ets>glad</ets> smooth, G. <ets>glatt</ets>, OHG. <ets>glat</ets> smooth, shining, Icel. <ets>gla<edh/r</ets> glad, bright, Dan. & Sw. <ets>glad</ets> glad, Lith. <ets>glodas</ets> smooth, and prob. to L. <ets>glaber</ets>, and E. <ets>glide</ets>.  Cf. <er>Glabrous</er>.]</ety><br/
@@ -10675,7 +10675,7 @@ A lion now he stalks with fiery <qex>glare</qex>.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glare</ent><br/
-<hw>Glare</hw>, <pos>a.</pos> <ety>[See <er>Glary</er>, and <er>Glare</er>, <pos>n.</pos>]</ety> <def>Smooth and bright or translucent; -- used almost exclusively of ice; <as>as, skating on <ex>glare</ex> ice</as>.</def> <mark>[U. S.]</mark><-- used generally of reflections of the sun --><br/
+<hw>Glare</hw>, <pos>a.</pos> <ety>[See <er>Glary</er>, and <er>Glare</er>, <pos>n.</pos>]</ety> <def>Smooth and bright or translucent; -- used almost exclusively of ice; <as>as, skating on <ex>glare</ex> ice</as>.</def> <mark>[U. S.]</mark><!-- used generally of reflections of the sun --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glareolidae</ent><br/
@@ -10684,7 +10684,7 @@ A lion now he stalks with fiery <qex>glare</qex>.</q> <rj><qau>Milton.</qau></rj
 [<source>WordNet 1.5</source>]</p>
 
 
-<p><-- p. 629 --></p>
+<p><!-- p. 629 --></p>
 
 <p><ent>Glareous</ent><br/
 <hw>Glar"e*ous</hw> <pr>(gl<acir/r"<esl/*<ucr/s)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>glaireux</ets>. See <er>Glair</er>.]</ety> <def>Glairy.</def>  <rj><au>John Gregory (1766).</au></rj></p>
@@ -11142,7 +11142,7 @@ His [Satan's] traveled steps.</q> <rj><qau>Milton.</qau></rj><br/
 Swift through the town the warrior bends his way.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 630 --></p>
+<p><!-- p. 630 --></p>
 
 <p><ent>Glean</ent><br/
 <hw>Glean</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gleaned</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gleaning</conjf>.]</vmorph> <ety>[OE. <ets>glenen</ets>, OF. <ets>glener</ets>, <ets>glaner</ets>, F. <ets>glaner</ets>, fr. LL. <ets>glenare</ets>; cf. W. <ets>glan</ets> clean, <ets>glanh<?/u</ets> to clean, purify, or AS. <ets>gelm</ets>, <ets>gilm</ets>, a hand<?/ul.]</ety><br/
@@ -11838,7 +11838,7 @@ A <qex>globe</qex> of fiery seraphim inclosed.</q> <rj><qau>Milton.</qau></rj><b
 <p><cs><col><b>Globe amaranth</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Gomphrena</gen> (<spn>G. globosa</spn>), bearing round heads of variously colored flowers, which long retain color when gathered.</cd> -- <col><b>Globe animalcule</b></col>, <cd>a small, globular, locomotive organism (<spn>Volvox globator</spn>), once throught to be an animal, afterward supposed to be a colony of microscopic alg<ae/.</cd> -- <col><b>Globe of compression</b></col> <fld>(Mil.)</fld>, <cd>a kind of mine producing a wide crater; -- called also <altname>overcharged mine</altname>.</cd> -- <col><b>Globe daisy</b></col> <fld>(Bot.)</fld>, <cd>a plant or flower of the genus <gen>Globularing</gen>, common in Europe. The flowers are minute and form globular heads.</cd> -- <col><b>Globe sight</b></col>, <cd>a form of front sight placed on target rifles.</cd> -- <col><b>Globe slater</b></col> <fld>(Zool.)</fld>, <cd>an isopod crustacean of the genus <gen>Spheroma</gen>.</cd> -- <col><b>Globe thistle</b></col> <fld>(Bot.)</fld>, <cd>a thistlelike plant with the flowers in large globular heads (<spn>Cynara Scolymus</spn>); also, certain species of the related genus <gen>Echinops</gen>.</cd> -- <col><b>Globe valve</b></col>. <sd>(a)</sd> <cd>A ball valve.</cd> <sd>(b)</sd> <cd>A valve inclosed in a globular chamber.</cd> <au>Knight.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 631 --></p>
+<p><!-- p. 631 --></p>
 
 <p><syn><b>Syn.</b> -- <er>Globe</er>, <er>Sphere</er>, <er>Orb</er>, <er>Ball</er>.</syn> <usage> -- <xex>Globe</xex> denotes a round, and usually a solid body; <xex>sphere</xex> is the term applied in astronomy to such a body, or to the concentric spheres or orbs of the old astronomers; <xex>orb</xex> is used, especially in poetry, for globe or sphere, and also for the pathway of a heavenly body; <xex>ball</xex> is applied to the heavenly bodies concieved of as impelled through space.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -12361,7 +12361,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 <p><sn>3.</sn> <def>A false or specious explanation.</def>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 632 --></p>
+<p><!-- p. 632 --></p>
 
 <p><ent>Gloss</ent><br/
 <hw>Gloss</hw> <pr>(gl<ocr/s)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To render clear and evident by comments; to illustrate; to explain; to annotate.</def><br/
@@ -12563,7 +12563,7 @@ He would unriddle in a moment.</q> <rj><qau>Hudibras.</qau></rj><br/
 <p><sn>2.</sn> <def>A boxing glove.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Boxing glove</b></col>. <cd>See under <er>Boxing</er>.</cd> -- <col><b>Glove fight</b></col>, <cd>a pugilistic contest in which the fighters wear boxing gloves.</cd> -- <mcol><col><b>Glove money</b></col> <it>or</it> <col><b>Glove silver</b></col></mcol>. <sd>(a)</sd> <cd>A tip or gratuity to servants, professedly to buy gloves with.</cd> <sd>(b)</sd> <fld>(Eng. Law.)</fld> <cd>A reward given to officers of courts; also, a fee given by the sheriff of a county to the clerk of assize and judge's officers, when there are no offenders to be executed.</cd> -- <col><b>Glove sponge</b></col> <fld>(Zool.)</fld>, <cd>a fine and soft variety of commercial sponges (<spn>Spongia officinalis</spn>).</cd> -- <col><b>To be hand and glove with</b></col>, <cd>to be intimately associated or on good terms with.</cd> <ldquo/<xex>Hand and glove with</xex> traitors.<rdquo/ <au>J. H. Newman.</au> -- <col><b>To handle without gloves</b></col>,<-- with the gloves off, to take the gloves off --> <cd>to treat without reserve or tenderness; to deal roughly with.</cd> <mark>[Colloq.]</mark> -- <col><b>To take up the glove</b></col>, <cd>to accept a challenge or adopt a quarrel.</cd> -- <col><b>To throw down the glove</b></col>, <cd>to challenge to combat.</cd></cs><br/
+<p><cs><col><b>Boxing glove</b></col>. <cd>See under <er>Boxing</er>.</cd> -- <col><b>Glove fight</b></col>, <cd>a pugilistic contest in which the fighters wear boxing gloves.</cd> -- <mcol><col><b>Glove money</b></col> <it>or</it> <col><b>Glove silver</b></col></mcol>. <sd>(a)</sd> <cd>A tip or gratuity to servants, professedly to buy gloves with.</cd> <sd>(b)</sd> <fld>(Eng. Law.)</fld> <cd>A reward given to officers of courts; also, a fee given by the sheriff of a county to the clerk of assize and judge's officers, when there are no offenders to be executed.</cd> -- <col><b>Glove sponge</b></col> <fld>(Zool.)</fld>, <cd>a fine and soft variety of commercial sponges (<spn>Spongia officinalis</spn>).</cd> -- <col><b>To be hand and glove with</b></col>, <cd>to be intimately associated or on good terms with.</cd> <ldquo/<xex>Hand and glove with</xex> traitors.<rdquo/ <au>J. H. Newman.</au> -- <col><b>To handle without gloves</b></col>,<!-- with the gloves off, to take the gloves off --> <cd>to treat without reserve or tenderness; to deal roughly with.</cd> <mark>[Colloq.]</mark> -- <col><b>To take up the glove</b></col>, <cd>to accept a challenge or adopt a quarrel.</cd> -- <col><b>To throw down the glove</b></col>, <cd>to challenge to combat.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glove</ent><br/
@@ -12752,7 +12752,7 @@ The which hath fire in darkness, none in light.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glucinum</ent><br/
-<hw>Glu*ci"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>glucinium</ets>, <ets>glycium</ets>, fr. Gr. <?/, sweet.  Cf. <er>Glycerin</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element, of a silver white color, and low specific gravity (2.1), resembling magnesium. It never occurs naturally in the free state, but is always combined, usually with silica or alumina, or both; as in the minerals phenacite, chrysoberyl, beryl or emerald, euclase, and danalite. It was named from its oxide glucina, which was known long before the element was isolated. Symbol Gl. Atomic weight 9.1. Called also <altname>beryllium</altname>.</def> <altsp>[Formerly written also <asp>glucinium</asp>.]</altsp><-- modern name <altname>Beryllium</altname>, symbol Be --><br/
+<hw>Glu*ci"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>glucinium</ets>, <ets>glycium</ets>, fr. Gr. <?/, sweet.  Cf. <er>Glycerin</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element, of a silver white color, and low specific gravity (2.1), resembling magnesium. It never occurs naturally in the free state, but is always combined, usually with silica or alumina, or both; as in the minerals phenacite, chrysoberyl, beryl or emerald, euclase, and danalite. It was named from its oxide glucina, which was known long before the element was isolated. Symbol Gl. Atomic weight 9.1. Called also <altname>beryllium</altname>.</def> <altsp>[Formerly written also <asp>glucinium</asp>.]</altsp><!-- modern name <altname>Beryllium</altname>, symbol Be --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glucogen</ent><br/
@@ -12777,7 +12777,7 @@ The which hath fire in darkness, none in light.</q> <rj><qau>Shak.</qau></rj><br
 <p><sn>1.</sn> <def>A variety of sugar occurring in nature very abundantly, as in ripe grapes, and in honey, and produced in great quantities from starch, etc., by the action of heat and acids. It is only about half as sweet as cane sugar. Called also <altname>dextrose</altname>, <altname>grape sugar</altname>, <altname>diabetic sugar</altname>, and <altname>starch sugar</altname>. See <er>Dextrose</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Chem.)</fld> <def>Any one of a large class of sugars, isometric with glucose proper, and including levulose, galactose, etc.</def><-- ?Now only one is called glucose -- when did this usage diappear? = hexose--><br/
+<p><sn>2.</sn> <fld>(Chem.)</fld> <def>Any one of a large class of sugars, isometric with glucose proper, and including levulose, galactose, etc.</def><!-- ?Now only one is called glucose -- when did this usage diappear? = hexose--><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>The trade name of a sirup, obtained as an uncrystallizable reside in the manufacture of glucose proper, and containing, in addition to some dextrose or glucose, also maltose, dextrin, etc. It is used as a cheap adulterant of sirups, beers, etc.</def><br/
@@ -12882,7 +12882,7 @@ That <qex>glues</qex> my lips, and will not let me speak.</q> <rj><qau>Shak.</qa
 <hw>Glump</hw> <pr>(gl<ucr/mp)</pr>, <pos>v. i.</pos> <ety>[See <er>Glum</er>.]</ety> <def>To manifest sullenness; to sulk.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 633 --></p>
+<p><!-- p. 633 --></p>
 
 <p><ent>glutted</ent><br/
 <hw>glutted</hw> <pos>adj.</pos> <sn>1.</sn> <def>overfull; filled to excess.</def> <illu>a <ex>glutted</ex> market</illu><br/
@@ -12932,7 +12932,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Plenty, to satiety or repletion; a full supply; hence, often, a supply beyond sufficiency or to loathing; over abundance; <as>as, a <ex>glut</ex> of the market</as>.</def>
-<-- "of", not "on" the market! --><br/
+<!-- "of", not "on" the market! --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A <qex>glut</qex> of those talents which raise men to eminence.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -12963,14 +12963,14 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 <hw>Glu*tam"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Glut</ets>en + <ets>-amic</ets>.]</ety> <fld>(Chem.)</fld> <def>Of or pertaining to gluten.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Glutamic acid</b></col>, <cd>a nitrogenous organic acid obtained from certain albuminoids, as gluten; -- called also <altname>amido-glutaric acid</altname>.</cd></cs><-- one of the natural L-alpha-amino acids found in many proteins <chform>C5H9NO4</chform>. --><br/
+<p><cs><col><b>Glutamic acid</b></col>, <cd>a nitrogenous organic acid obtained from certain albuminoids, as gluten; -- called also <altname>amido-glutaric acid</altname>.</cd></cs><!-- one of the natural L-alpha-amino acids found in many proteins <chform>C5H9NO4</chform>. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glutaric</ent><br/
 <hw>Glu*tar"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Glut</ets>amic + tart<ets>aric</ets>.]</ety> <fld>(Chem.)</fld> <def>Of, pertaining to, or designating, an acid so called; <as>as, <ex>glutaric</ex> ethers</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Glutaric acid</b></col>, <cd>an organic acid obtained as a white crystalline substance, isomeric with pyrotartaric acid; -- called also <altname>normal pyrotartaric acid</altname>.</cd></cs><-- one of the natural L-alpha-amino acids found in many proteins --><br/
+<p><cs><col><b>Glutaric acid</b></col>, <cd>an organic acid obtained as a white crystalline substance, isomeric with pyrotartaric acid; -- called also <altname>normal pyrotartaric acid</altname>.</cd></cs><!-- one of the natural L-alpha-amino acids found in many proteins --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glutazine</ent><br/
@@ -13057,7 +13057,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><cs><col><b>Glutton bird</b></col> <fld>(Zool.)</fld>, <cd>the giant fulmar (<spn>Ossifraga gigantea</spn>); -- called also <altname>Mother Carey's goose</altname>, and <altname>mollymawk</altname>.</cd></cs>
-<-- glutton for punishment = one persistent in an effort in spite of harmful results --><br/
+<!-- glutton for punishment = one persistent in an effort in spite of harmful results --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glutton</ent><br/
@@ -13167,7 +13167,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 
 <p><ent>Glycogen</ent><br/
 <hw>Gly"co*gen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ sweet + <ets>-gen</ets>: cf. F. <ets>glycog<egrave/ne</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A white, amorphous, tasteless substance resembling starch, soluble in water to an opalescent fluid. It is found abundantly in the liver of most animals, and in small quantity in other organs and tissues, particularly in the embryo. It is quickly changed into sugar when boiled with dilute sulphuric or hydrochloric acid, and also by the action of amylolytic ferments.</def>
-<-- polysaccharide, used as a sugar storage substance in animals --><br/
+<!-- polysaccharide, used as a sugar storage substance in animals --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glycogenic</ent><br/
@@ -13179,7 +13179,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glycol</ent><br/
-<hw>Gly"col</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Glycerin</ets> + <ets>-ol</ets>. See <er>Glycerin</er>.]</ety> <fld>(Chem.)</fld> <sd>(a)</sd> <def>A thick, colorless liquid, <chform>C2H4(OH)2</chform>, of a sweetish taste, produced artificially from certain ethylene compounds. It is a diacid alcohol, intermediate between ordinary ethyl alcohol and glycerin.</def> <-- usu. called ethylene glycol --><sd>(b)</sd> <def>Any one of the large class of diacid alcohols, of which glycol proper is the type.<-- diol --></def><br/
+<hw>Gly"col</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Glycerin</ets> + <ets>-ol</ets>. See <er>Glycerin</er>.]</ety> <fld>(Chem.)</fld> <sd>(a)</sd> <def>A thick, colorless liquid, <chform>C2H4(OH)2</chform>, of a sweetish taste, produced artificially from certain ethylene compounds. It is a diacid alcohol, intermediate between ordinary ethyl alcohol and glycerin.</def> <!-- usu. called ethylene glycol --><sd>(b)</sd> <def>Any one of the large class of diacid alcohols, of which glycol proper is the type.<!-- diol --></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glycolic</ent><br/
@@ -13315,7 +13315,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 <hw>Glyp"to*don</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ carved, engraved + <?/, <?/, tooth. See <er>Glyph</er>.]</ety> <fld>(Paleon.)</fld> <def>An extinct South American quaternary mammal, allied to the armadillos. It was as large as an ox, was covered with tessellated scales, and had fluted teeth.</def>  <rj><au>Owen.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 634 --></p>
+<p><!-- p. 634 --></p>
 
 <p><ent>Glyptodont</ent><br/
 <hw>Glyp"to*dont</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Paleon.)</fld> <def>One of a family (<fam>Glyptodontid<ae/</fam>) of extinct South American edentates, of which Glyptodon is the type. About twenty species are known.</def><br/
@@ -13452,7 +13452,7 @@ And felly <qex>gnarre</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gnathostoma</ent><br/
-\'d8<hw>Gna*thos"to*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>gna`qos</grk> the jaw + <?/, <?/, the mouth.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of vertebrates, including all that have distinct jaws, in contrast with the leptocardians and marsipobranchs (<class>Cyclostoma</class>), which lack them.</def> <altsp>[Written also <asp>Gnathostomata</asp>.]</altsp><-- Modern order <ord>Cyclostomata</ord>,
+\'d8<hw>Gna*thos"to*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>gna`qos</grk> the jaw + <?/, <?/, the mouth.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of vertebrates, including all that have distinct jaws, in contrast with the leptocardians and marsipobranchs (<class>Cyclostoma</class>), which lack them.</def> <altsp>[Written also <asp>Gnathostomata</asp>.]</altsp><!-- Modern order <ord>Cyclostomata</ord>,
 containing the lampreys and hagfishes, is now in the class of vertebrates called <class>Agnatha</class>.  The extinct ostracoderms are included in the <class>Agnatha</class>. The lampreys and hagfishes were included in the <class>marsipobranchia</class> in the 1913 dictionary.  They are now classified as an order. --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -13713,7 +13713,7 @@ Will creep in service where it can not <qex>go</qex>.</q> <rj><qau>Shak.</qau></
 <p><note><hand/ <xex>Go</xex>, in this sense, is often used in the present participle with the auxiliary verb <xex>to be</xex>, before an infinitive, to express a future of intention, or to denote design; as, I was <xex>going</xex> to say; I am <xex>going</xex> to begin harvest.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 635 --></p>
+<p><!-- p. 635 --></p>
 
 <p><sn>7.</sn> <def>To proceed by a mental operation; to pass in mind or by an act of the memory or imagination; -- generally with <xex>over</xex> or <xex>through</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -13841,7 +13841,7 @@ That spear wound hath our master sped.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 <p><sn>2.</sn> <def>To bet or wager; <as>as, I'll <ex>go</ex> you a shilling</as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To go halves</b></col>, <cd>to share with another equally.</cd> -- <col><b>To go it</b></col>, <cd>to behave in a wild manner; to be uproarious; to carry on; also, to proceed; to make progress.</cd> <mark>[Colloq.]</mark> -- <col><b>To go it alone</b></col> <fld>(Card Playing)</fld>, <cd>to play a hand without the assistance of one's partner.<-- to do anything without the assistance of one's former associates --></cd> -- <col><b>To go it blind</b></col>. <sd>(a)</sd> <cd>To act in a rash, reckless, or headlong manner.</cd> <mark>[Slang]</mark> <sd>(b)</sd> <fld>(Card Playing)</fld> <cd>To bet without having examined the cards.<-- = to bet in the blind --></cd> -- <col><b>To go one's way</b></col>, <cd>to set forth; to depart.</cd></cs><br/
+<p><cs><col><b>To go halves</b></col>, <cd>to share with another equally.</cd> -- <col><b>To go it</b></col>, <cd>to behave in a wild manner; to be uproarious; to carry on; also, to proceed; to make progress.</cd> <mark>[Colloq.]</mark> -- <col><b>To go it alone</b></col> <fld>(Card Playing)</fld>, <cd>to play a hand without the assistance of one's partner.<!-- to do anything without the assistance of one's former associates --></cd> -- <col><b>To go it blind</b></col>. <sd>(a)</sd> <cd>To act in a rash, reckless, or headlong manner.</cd> <mark>[Slang]</mark> <sd>(b)</sd> <fld>(Card Playing)</fld> <cd>To bet without having examined the cards.<!-- = to bet in the blind --></cd> -- <col><b>To go one's way</b></col>, <cd>to set forth; to depart.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Go</ent><br/
@@ -14170,7 +14170,7 @@ Of <qex>goatish</qex> lust.</q> <rj><qau>Massinger.</qau></rj></p>
 <p><q>To whom the <qex>goblin</qex>, full of wrath, replied.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 636 --></p>
+<p><!-- p. 636 --></p>
 
 <p><ent>Gobline</ent><br/
 <hw>Gob"line`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>One of the ropes or chains serving as stays for the dolphin striker or the bowsprit; -- called also <altname>gobrope</altname> and <altname>gaubline</altname>.</def><br/
@@ -14609,10 +14609,10 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 <p><sn>4.</sn> <def>Figuratively, something precious or pure; <as>as, hearts of <ex>gold</ex></as>.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Age of gold</b></col>. <cd>See <cref>Golden age</cref>, under <er>Golden</er>.</cd> -- <mcol><col><b>Dutch gold</b></col>, <col><b>Fool's gold</b></col>, <col><b>Gold dust</b></col></mcol>, <cd>etc. See under <er>Dutch</er>, <er>Dust</er>, etc.</cd> -- <col><b>Gold amalgam</b></col>, <cd>a mineral, found in Columbia and California, composed of gold and mercury.</cd> -- <col><b>Gold beater</b></col>, <cd>one whose occupation is to beat gold into gold leaf.</cd> -- <col><b>Gold beater's skin</b></col>, <cd>the prepared outside membrane of the large intestine of the ox, used for separating the leaves of metal during the process of gold-beating.</cd> -- <col><b>Gold beetle</b></col> <fld>(Zool.)</fld>, <cd>any small gold-colored beetle of the family <fam>Chrysomelid<ae/</fam>; -- called also <altname>golden beetle</altname>.</cd> -- <col><b>Gold blocking</b></col>, <cd>printing with gold leaf, as upon a book cover, by means of an engraved block.</cd> <au>Knight.</au> -- <col><b>Gold cloth</b></col>. <cd>See <cref>Cloth of gold</cref>, under <er>Cloth</er>.</cd> -- <col><b>Gold Coast</b></col>, <cd>a part of the coast of Guinea, in West Africa.</cd> -- <col><b>Gold cradle</b></col>. <fld>(Mining)</fld> <cd>See <er>Cradle</er>, <pos>n.</pos>, 7.</cd> -- <col><b>Gold diggings</b></col>, <cd>the places, or region, where gold is found by digging in sand and gravel from which it is separated by washing.</cd> -- <col><b>Gold end</b></col>, <cd>a fragment of broken gold or jewelry.</cd> -- <col><b>Gold-end man</b></col>. <sd>(a)</sd> <cd>A buyer of old gold or jewelry.</cd> <sd>(b)</sd> <cd>A goldsmith's apprentice.</cd> <sd>(c)</sd> <cd>An itinerant jeweler.</cd> <ldquo/I know him not: he looks like a <xex>gold-end man</xex>.<rdquo/  <au>B. Jonson.</au> -- <col><b>Gold fever</b></col>, <cd>a popular mania for gold hunting.</cd> -- <col><b>Gold field</b></col>, <cd>a region in which are deposits of gold.</cd> -- <col><b>Gold finder</b></col>. <sd>(a)</sd> <cd>One who finds gold.</cd> <sd>(b)</sd> <cd>One who empties privies.</cd> <mark>[Obs. & Low]</mark> <au>Swift.</au> -- <col><b>Gold flower</b></col>, <cd>a composite plant with dry and persistent yellow radiating involucral scales, the <spn>Helichrysum St<oe/chas</spn> of Southern Europe. There are many South African species of the same genus.</cd> -- <col><b>Gold foil</b></col>, <cd>thin sheets of gold, as used by dentists and others. See <er>Gold leaf</er>.</cd> -- <mcol><col><b>Gold knobs</b></col> <it>or</it> <col><b>Gold knoppes</b></col></mcol> <fld>(Bot.)</fld>, <cd>buttercups.</cd> -- <col><b>Gold lace</b></col>, <cd>a kind of lace, made of gold thread.</cd> -- <col><b>Gold latten</b></col>, <cd>a thin plate of gold or gilded metal.</cd> -- <col><b>Gold leaf</b></col>, <cd>gold beaten into a film of extreme thinness, and used for gilding, etc. It is much thinner than gold foil.</cd> -- <col><b>Gold lode</b></col> <fld>(Mining)</fld>, <cd>a gold vein.</cd> -- <col><b>Gold mine</b></col>, <cd>a place where gold is obtained by mining operations, as distinguished from diggings, where it is extracted by washing.  Cf. <cref>Gold diggings</cref> (above).</cd> -- <col><b>Gold nugget</b></col>, <cd>a lump of gold as found in gold mining or digging; -- called also a <altname>pepito</altname>.</cd> -- <col><b>Gold paint</b></col>. <cd>See <cref>Gold shell</cref>.</cd> -- <mcol><col><b>Gold pheasant</b></col>, <it>or</it> <col><b>Golden pheasant</b></col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Pheasant</er>.</cd> -- <col><b>Gold plate</b></col>, <cd>a general name for vessels, dishes, cups, spoons, etc., made of gold.</cd><-- now usu. referring to objects made of a base metal with a layer of gold on the surface. --> -- <col><b>Gold of pleasure</b></col>. <ety>[Name perhaps translated from Sp. <ets>oro-de-alegria</ets>.]</ety> <fld>(Bot.)</fld> <cd>A plant of the genus <gen>Camelina</gen>, bearing yellow flowers. <spn>C. sativa</spn> is sometimes cultivated for the oil of its seeds.</cd> -- <col><b>Gold shell</b></col>. <sd>(a)</sd> <cd>A composition of powdered gold or gold leaf, ground up with gum water and spread on shells, for artists' use; -- called also <altname>gold paint</altname>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A bivalve shell (<spn>Anomia glabra</spn>) of the Atlantic coast; -- called also <altname>jingle shell</altname> and <altname>silver shell</altname>. See <er>Anomia</er>.</cd> -- <col><b>Gold size</b></col>, <cd>a composition used in applying gold leaf.</cd> -- <col><b>Gold solder</b></col>, <cd>a kind of solder, often containing twelve parts of gold, two of silver, and four of copper.</cd> -- <col><b>Gold stick</b></col>, <cd>the colonel of a regiment of English lifeguards, who attends his sovereign on state occasions; -- so called from the gilt rod presented to him by the sovereign when he receives his commission as colonel of the regiment.</cd> <mark>[Eng.]</mark> -- <col><b>Gold thread</b></col>. <sd>(a)</sd> <cd>A thread formed by twisting flatted gold over a thread of silk, with a wheel and iron bobbins; spun gold.</cd> <au>Ure.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <cd>A small evergreen plant (<spn>Coptis trifolia</spn>), so called from its fibrous yellow roots. It is common in marshy places in the United States.</cd> -- <col><b>Gold tissue</b></col>, <cd>a tissue fabric interwoven with gold thread.</cd> -- <col><b>Gold tooling</b></col>, <cd>the fixing of gold leaf by a hot tool upon book covers, or the ornamental impression so made.</cd> -- <col><b>Gold washings</b></col>, <cd>places where gold found in gravel is separated from lighter material by washing.</cd> -- <col><b>Gold worm</b></col>, <cd>a glowworm.</cd> <mark>[Obs.]</mark> -- <col><b>Jeweler's gold</b></col>, <cd>an alloy containing three parts of gold to one of copper.</cd><-- 18K gold --> -- <col><b>Mosaic gold</b></col>. <cd>See under <er>Mosaic</er>.</cd></cs><br/
+<p><cs><col><b>Age of gold</b></col>. <cd>See <cref>Golden age</cref>, under <er>Golden</er>.</cd> -- <mcol><col><b>Dutch gold</b></col>, <col><b>Fool's gold</b></col>, <col><b>Gold dust</b></col></mcol>, <cd>etc. See under <er>Dutch</er>, <er>Dust</er>, etc.</cd> -- <col><b>Gold amalgam</b></col>, <cd>a mineral, found in Columbia and California, composed of gold and mercury.</cd> -- <col><b>Gold beater</b></col>, <cd>one whose occupation is to beat gold into gold leaf.</cd> -- <col><b>Gold beater's skin</b></col>, <cd>the prepared outside membrane of the large intestine of the ox, used for separating the leaves of metal during the process of gold-beating.</cd> -- <col><b>Gold beetle</b></col> <fld>(Zool.)</fld>, <cd>any small gold-colored beetle of the family <fam>Chrysomelid<ae/</fam>; -- called also <altname>golden beetle</altname>.</cd> -- <col><b>Gold blocking</b></col>, <cd>printing with gold leaf, as upon a book cover, by means of an engraved block.</cd> <au>Knight.</au> -- <col><b>Gold cloth</b></col>. <cd>See <cref>Cloth of gold</cref>, under <er>Cloth</er>.</cd> -- <col><b>Gold Coast</b></col>, <cd>a part of the coast of Guinea, in West Africa.</cd> -- <col><b>Gold cradle</b></col>. <fld>(Mining)</fld> <cd>See <er>Cradle</er>, <pos>n.</pos>, 7.</cd> -- <col><b>Gold diggings</b></col>, <cd>the places, or region, where gold is found by digging in sand and gravel from which it is separated by washing.</cd> -- <col><b>Gold end</b></col>, <cd>a fragment of broken gold or jewelry.</cd> -- <col><b>Gold-end man</b></col>. <sd>(a)</sd> <cd>A buyer of old gold or jewelry.</cd> <sd>(b)</sd> <cd>A goldsmith's apprentice.</cd> <sd>(c)</sd> <cd>An itinerant jeweler.</cd> <ldquo/I know him not: he looks like a <xex>gold-end man</xex>.<rdquo/  <au>B. Jonson.</au> -- <col><b>Gold fever</b></col>, <cd>a popular mania for gold hunting.</cd> -- <col><b>Gold field</b></col>, <cd>a region in which are deposits of gold.</cd> -- <col><b>Gold finder</b></col>. <sd>(a)</sd> <cd>One who finds gold.</cd> <sd>(b)</sd> <cd>One who empties privies.</cd> <mark>[Obs. & Low]</mark> <au>Swift.</au> -- <col><b>Gold flower</b></col>, <cd>a composite plant with dry and persistent yellow radiating involucral scales, the <spn>Helichrysum St<oe/chas</spn> of Southern Europe. There are many South African species of the same genus.</cd> -- <col><b>Gold foil</b></col>, <cd>thin sheets of gold, as used by dentists and others. See <er>Gold leaf</er>.</cd> -- <mcol><col><b>Gold knobs</b></col> <it>or</it> <col><b>Gold knoppes</b></col></mcol> <fld>(Bot.)</fld>, <cd>buttercups.</cd> -- <col><b>Gold lace</b></col>, <cd>a kind of lace, made of gold thread.</cd> -- <col><b>Gold latten</b></col>, <cd>a thin plate of gold or gilded metal.</cd> -- <col><b>Gold leaf</b></col>, <cd>gold beaten into a film of extreme thinness, and used for gilding, etc. It is much thinner than gold foil.</cd> -- <col><b>Gold lode</b></col> <fld>(Mining)</fld>, <cd>a gold vein.</cd> -- <col><b>Gold mine</b></col>, <cd>a place where gold is obtained by mining operations, as distinguished from diggings, where it is extracted by washing.  Cf. <cref>Gold diggings</cref> (above).</cd> -- <col><b>Gold nugget</b></col>, <cd>a lump of gold as found in gold mining or digging; -- called also a <altname>pepito</altname>.</cd> -- <col><b>Gold paint</b></col>. <cd>See <cref>Gold shell</cref>.</cd> -- <mcol><col><b>Gold pheasant</b></col>, <it>or</it> <col><b>Golden pheasant</b></col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Pheasant</er>.</cd> -- <col><b>Gold plate</b></col>, <cd>a general name for vessels, dishes, cups, spoons, etc., made of gold.</cd><!-- now usu. referring to objects made of a base metal with a layer of gold on the surface. --> -- <col><b>Gold of pleasure</b></col>. <ety>[Name perhaps translated from Sp. <ets>oro-de-alegria</ets>.]</ety> <fld>(Bot.)</fld> <cd>A plant of the genus <gen>Camelina</gen>, bearing yellow flowers. <spn>C. sativa</spn> is sometimes cultivated for the oil of its seeds.</cd> -- <col><b>Gold shell</b></col>. <sd>(a)</sd> <cd>A composition of powdered gold or gold leaf, ground up with gum water and spread on shells, for artists' use; -- called also <altname>gold paint</altname>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A bivalve shell (<spn>Anomia glabra</spn>) of the Atlantic coast; -- called also <altname>jingle shell</altname> and <altname>silver shell</altname>. See <er>Anomia</er>.</cd> -- <col><b>Gold size</b></col>, <cd>a composition used in applying gold leaf.</cd> -- <col><b>Gold solder</b></col>, <cd>a kind of solder, often containing twelve parts of gold, two of silver, and four of copper.</cd> -- <col><b>Gold stick</b></col>, <cd>the colonel of a regiment of English lifeguards, who attends his sovereign on state occasions; -- so called from the gilt rod presented to him by the sovereign when he receives his commission as colonel of the regiment.</cd> <mark>[Eng.]</mark> -- <col><b>Gold thread</b></col>. <sd>(a)</sd> <cd>A thread formed by twisting flatted gold over a thread of silk, with a wheel and iron bobbins; spun gold.</cd> <au>Ure.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <cd>A small evergreen plant (<spn>Coptis trifolia</spn>), so called from its fibrous yellow roots. It is common in marshy places in the United States.</cd> -- <col><b>Gold tissue</b></col>, <cd>a tissue fabric interwoven with gold thread.</cd> -- <col><b>Gold tooling</b></col>, <cd>the fixing of gold leaf by a hot tool upon book covers, or the ornamental impression so made.</cd> -- <col><b>Gold washings</b></col>, <cd>places where gold found in gravel is separated from lighter material by washing.</cd> -- <col><b>Gold worm</b></col>, <cd>a glowworm.</cd> <mark>[Obs.]</mark> -- <col><b>Jeweler's gold</b></col>, <cd>an alloy containing three parts of gold to one of copper.</cd><!-- 18K gold --> -- <col><b>Mosaic gold</b></col>. <cd>See under <er>Mosaic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 637 --></p>
+<p><!-- p. 637 --></p>
 
 <p><ent>Gold-beaten</ent><br/
 <hw>Gold"-beat`en</hw> <pr>(g<omac/ld"b<emac/t`'n)</pr>, <pos>a.</pos> <def>Gilded.</def> <mark>[Obs.]</mark><br/
@@ -14983,7 +14983,7 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 638 --></p>
+<p><!-- p. 638 --></p>
 
 <p><ent>Gonfalonier</ent><br/
 <hw>Gon`fa*lon*ier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gonfalonier</ets>: cf. It. <ets>gonfaloniere</ets>.]</ety> <def>He who bears the gonfalon; a standard bearer</def>; as: <sd>(a)</sd> <def>An officer at Rome who bears the standard of the Church.</def> <sd>(b)</sd> <def>The chief magistrate of any one of several republics in medi<ae/veal Italy.</def> <sd>(c)</sd> <def>A Turkish general, and standard keeper.</def><br/
@@ -15421,7 +15421,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Say ye to the <qex>goodman</qex> of the house, . . . Where is the guest-chamber ?</q> <rj><qau>Mark xiv. 14.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 639 --></p>
+<p><!-- p. 639 --></p>
 
 <p><note><hand/ In the early colonial records of New England, the term <xex>goodman</xex> is frequently used as a title of designation, sometimes in a respectful manner, to denote a person whose first name was not known, or when it was not desired to use that name; in this use it was nearly equivalent to <altname>Mr.</altname>  This use was doubtless brought with the first settlers from England.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -15748,7 +15748,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 
 <p><ent>Gorce</ent><br/
 <hw>Gorce</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>gort</ets>, nom. <ets>gorz</ets>, gulf, L. <ets>gurges</ets> whirlpool, gulf, stream. See <er>Gorge</er>.]</ety> <def>A pool of water to keep fish in; a wear.</def> <mark>[Obs.]</mark>
-<-- "wear" here is in the sense of "weir".  But why the less-common word? --><br/
+<!-- "wear" here is in the sense of "weir".  But why the less-common word? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorcock</ent><br/
@@ -15929,7 +15929,7 @@ e spewed up his <qex>gorge</qex>, that all did him detest.</q> <rj><qau>Spenser.
 <p><sn>5.</sn> <fld>(Surg.)</fld> <sd>(a)</sd> <def>A cutting instrument used in lithotomy.</def> <sd>(b)</sd> <def>A grooved instrunent used in performing various operations; -- called also <altname>blunt gorget</altname>.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 640 --></p>
+<p><!-- p. 640 --></p>
 
 <p><sn>6.</sn> <fld>(Zool.)</fld> <def>A crescent-shaped, colored patch on the neck of a bird or mammal.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -16456,7 +16456,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A bookbinder's tool for blind tooling or gilding, having a face which forms a curve.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 641 --></p>
+<p><!-- p. 641 --></p>
 
 <p><sn>3.</sn> <def>An incising tool which cuts forms or blanks for gloves, envelopes, etc. from leather, paper, etc.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -16916,7 +16916,7 @@ With all good <qex>grace</qex> to grace a gentleman.</q> <rj><qau>Shak.</qau></r
 <p><q>I have formerly given the general character of Mr. Addison's style and manner as natural and unaffected, easy and polite, and full of those <qex>graces</qex> which a flowery imagination diffuses over writing.</q> <rj><qau>Blair.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 642 --></p>
+<p><!-- p. 642 --></p>
 
 <p><sn>6.</sn> <def>Beauty, physical, intellectual, or moral; loveliness; commonly, easy elegance of manners; perfection of form.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -17216,7 +17216,7 @@ teachers of every <qex>grade</qex>.</q> <rj><qau>Buckle.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Gradient post</b></col>, <cd>a post or stake indicating by its height or by marks on it the grade of a railroad, highway, or embankment, etc., at that spot.</cd></cs>
-<-- concentration gradient, temperature gradient, pressure gradient, linear gradient --></p>
+<!-- concentration gradient, temperature gradient, pressure gradient, linear gradient --></p>
 
 <p><ent>Gradine</ent><br/
 <ent>Gradin</ent><br/
@@ -17397,7 +17397,7 @@ and subordinate stages.</q> <rj><qau>Tatham.</qau></rj><br/
 <hw>Graf"fer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See Greffier.]</ety> <fld>(Law.)</fld> <def>a notary or scrivener.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 643  --></p>
+<p><!-- p. 643  --></p>
 
 <p><ent>Graffiti</ent><br/
 \'d8<hw>Graf*fi"ti</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[It., pl. of <ets>graffito</ets> scratched]</ety> <sn>1.</sn> <def>Inscriptions, figure drawings, etc., found on the walls of ancient sepulchers or ruins, as in the Catacombs, or at Pompeii.</def><br/
@@ -17778,7 +17778,7 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 <p><q>Gramercy, Mammon, said the gentle knight.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 644 --></p>
+<p><!-- p. 644 --></p>
 
 <p><ent>Graminaceous</ent><br/
 <hw>Gram"i*na"ceous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>gramen</ets>, <ets>graminis</ets>, grass.]</ety> <def>Pertaining to, or resembling, the grasses; gramineous; <as>as, <ex>graminaceous</ex> plants</as>.</def><br/
@@ -17994,7 +17994,7 @@ Favor'd of Heaven so highly, to fall off<br/
 From their Creator.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Grand action</b></col>, <cd>a pianoforte action, used in grand pianos, in which special devices are employed to obtain perfect action of the hammer in striking and leaving the string.</cd> -- <col><b>Grand Army of the Republic</b></col>, <cd>an organized voluntary association of men who served in the Union army or navy during the civil war in the United States. The order has chapters, called <xex>Posts</xex>, throughout the country.</cd><-- the last died before 1990 --> -- <col><b>Grand cross</b></col>. <sd>(a)</sd> <cd>The highest rank of knighthood in the Order of the Bath.</cd> <sd>(b)</sd> <cd>A knight grand cross.</cd> -- <col><b>Grand cordon</b></col>, <cd>the cordon or broad ribbon, identified with the highest grade in certain honorary orders; hence, a person who holds that grade.</cd> -- <col><b>Grand days</b></col> <fld>(Eng. Law)</fld>, <cd>certain days in the terms which are observed as holidays in the inns of court and chancery (Candlemas, Ascension, St. John Baptist's, and All Saints' Days); called also <altname>Dies non juridici</altname>.</cd> -- <col><b>Grand duchess</b></col>. <sd>(a)</sd> <cd>The wife or widow of a grand duke</cd>. <sd>(b)</sd> <cd>A lady having the sovereignty of a duchy in her own right.</cd> <sd>(c)</sd> <cd>In Russia, a daughter of the Czar.</cd> -- <col><b>Grand duke</b></col>. <sd>(a)</sd> <cd>A sovereign duke, inferior in rank to a king; as, the Grand Duke of Tuscany.</cd> <sd>(b)</sd> <cd>In Russia, a son of the Czar.</cd> <sd>(c)</sd> <fld>(Zool.)</fld> <cd>The European great horned owl or eagle owl (<spn>Bubo maximas</spn>).</cd> -- <mcol><col><b>Grand-guard</b></col>, <it>or</it> <col><b>Grandegarde</b></col></mcol>, <cd>a piece of plate armor used in tournaments as an extra protection for the left shoulder and breast.</cd> -- <col><b>Grand juror</b></col>, <cd>a member of a grand jury.</cd> -- <col><b>Grand jury</b></col> <fld>(Law)</fld>, <cd>a jury of not less than twelve men, and not more than twenty-three, whose duty it is, in private session, to examine into accusations against persons charged with crime, and if they see just cause, then to find bills of indictment against them, to be presented to the court; -- called also <altname>grand inquest</altname>.</cd> -- <col><b>Grand juryman</b></col>, <cd>a grand juror.</cd> -- <col><b>Grand larceny</b></col>. <fld>(Law)</fld> <cd>See under <er>Larceny</er>.</cd> -- <col><b>Grand lodge</b></col>, <cd>the chief lodge, or governing body, among Freemasons and other secret orders.</cd> -- <col><b>Grand master</b></col>. <sd>(a)</sd> <cd>The head of one of the military orders of knighthood, as the Templars, Hospitallers, etc.</cd> <sd>(b)</sd> <cd>The head of the order of Freemasons or of Good Templars, etc.</cd><-- (c) The highest rank for a chess player, awarded by a national or international organization of chess players as a result of winning games of chess against other ranked players in chess tournaments officially sanctioned by that chess organization, such as FIDE. By extension, (Figuratively) a person with the highest level of expertise in some field.  Also "grandmaster". --> -- <col><b>Grand paunch</b></col>, <cd>a glutton or gourmand.</cd> <mark>[Obs.]</mark> <au>Holland.</au> -- <col><b>Grand pensionary</b></col>. <cd>See under <er>Pensionary</er>.</cd> -- <col><b>Grand piano</b></col> <fld>(Mus.)</fld>, <cd>a large piano, usually harp-shaped, in which the wires or strings are generally triplicated, increasing the power, and all the mechanism is introduced in the most effective manner, regardless of the size of the instrument.</cd> -- <col><b>Grand relief</b></col> <cd><fld>(Sculp.)</fld>, alto relievo.</cd> -- <col><b>Grand Seignior</b></col>. <cd>See under <er>Seignior</er>.</cd> -- <col><b>Grand stand</b></col>, <cd>the principal stand, or erection for spectators, at a, race course, etc.</cd> -- <col><b>Grand vicar</b></col> <fld>(Eccl.)</fld>, <cd>a principal vicar; an ecclesiastical delegate in France.</cd> -- <col><b>Grand vizier</b></col>. <cd>See under <er>Vizier</er>.</cd></cs></p>
+<p><cs><col><b>Grand action</b></col>, <cd>a pianoforte action, used in grand pianos, in which special devices are employed to obtain perfect action of the hammer in striking and leaving the string.</cd> -- <col><b>Grand Army of the Republic</b></col>, <cd>an organized voluntary association of men who served in the Union army or navy during the civil war in the United States. The order has chapters, called <xex>Posts</xex>, throughout the country.</cd><!-- the last died before 1990 --> -- <col><b>Grand cross</b></col>. <sd>(a)</sd> <cd>The highest rank of knighthood in the Order of the Bath.</cd> <sd>(b)</sd> <cd>A knight grand cross.</cd> -- <col><b>Grand cordon</b></col>, <cd>the cordon or broad ribbon, identified with the highest grade in certain honorary orders; hence, a person who holds that grade.</cd> -- <col><b>Grand days</b></col> <fld>(Eng. Law)</fld>, <cd>certain days in the terms which are observed as holidays in the inns of court and chancery (Candlemas, Ascension, St. John Baptist's, and All Saints' Days); called also <altname>Dies non juridici</altname>.</cd> -- <col><b>Grand duchess</b></col>. <sd>(a)</sd> <cd>The wife or widow of a grand duke</cd>. <sd>(b)</sd> <cd>A lady having the sovereignty of a duchy in her own right.</cd> <sd>(c)</sd> <cd>In Russia, a daughter of the Czar.</cd> -- <col><b>Grand duke</b></col>. <sd>(a)</sd> <cd>A sovereign duke, inferior in rank to a king; as, the Grand Duke of Tuscany.</cd> <sd>(b)</sd> <cd>In Russia, a son of the Czar.</cd> <sd>(c)</sd> <fld>(Zool.)</fld> <cd>The European great horned owl or eagle owl (<spn>Bubo maximas</spn>).</cd> -- <mcol><col><b>Grand-guard</b></col>, <it>or</it> <col><b>Grandegarde</b></col></mcol>, <cd>a piece of plate armor used in tournaments as an extra protection for the left shoulder and breast.</cd> -- <col><b>Grand juror</b></col>, <cd>a member of a grand jury.</cd> -- <col><b>Grand jury</b></col> <fld>(Law)</fld>, <cd>a jury of not less than twelve men, and not more than twenty-three, whose duty it is, in private session, to examine into accusations against persons charged with crime, and if they see just cause, then to find bills of indictment against them, to be presented to the court; -- called also <altname>grand inquest</altname>.</cd> -- <col><b>Grand juryman</b></col>, <cd>a grand juror.</cd> -- <col><b>Grand larceny</b></col>. <fld>(Law)</fld> <cd>See under <er>Larceny</er>.</cd> -- <col><b>Grand lodge</b></col>, <cd>the chief lodge, or governing body, among Freemasons and other secret orders.</cd> -- <col><b>Grand master</b></col>. <sd>(a)</sd> <cd>The head of one of the military orders of knighthood, as the Templars, Hospitallers, etc.</cd> <sd>(b)</sd> <cd>The head of the order of Freemasons or of Good Templars, etc.</cd><!-- (c) The highest rank for a chess player, awarded by a national or international organization of chess players as a result of winning games of chess against other ranked players in chess tournaments officially sanctioned by that chess organization, such as FIDE. By extension, (Figuratively) a person with the highest level of expertise in some field.  Also "grandmaster". --> -- <col><b>Grand paunch</b></col>, <cd>a glutton or gourmand.</cd> <mark>[Obs.]</mark> <au>Holland.</au> -- <col><b>Grand pensionary</b></col>. <cd>See under <er>Pensionary</er>.</cd> -- <col><b>Grand piano</b></col> <fld>(Mus.)</fld>, <cd>a large piano, usually harp-shaped, in which the wires or strings are generally triplicated, increasing the power, and all the mechanism is introduced in the most effective manner, regardless of the size of the instrument.</cd> -- <col><b>Grand relief</b></col> <cd><fld>(Sculp.)</fld>, alto relievo.</cd> -- <col><b>Grand Seignior</b></col>. <cd>See under <er>Seignior</er>.</cd> -- <col><b>Grand stand</b></col>, <cd>the principal stand, or erection for spectators, at a, race course, etc.</cd> -- <col><b>Grand vicar</b></col> <fld>(Eccl.)</fld>, <cd>a principal vicar; an ecclesiastical delegate in France.</cd> -- <col><b>Grand vizier</b></col>. <cd>See under <er>Vizier</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Magnificent; sublime; majestic; dignified; elevated; stately; august; pompous; lofty; eralted; noble.</syn> <usage> -- Grand, Magnificent, Sublime. <xex>Grand</xex>, in reference to objects of taste, is applied to that which expands the mind by a sense of vastness and majesty; <xex>magnificent</xex> is applied to anything which is imposing from its splendor; <xex>sublime</xex> describes that which is awful and elevating. A cataract is <xex>grand</xex>; a rich and varied landscape is <xex>magnificent</xex>; an overhanging precipice is sublime. <ldquo/<xex>Grandeur a</xex>dmits of degrees and modifications; but <xex>magnificence</xex> is that which has already reached the highest degree of superiority naturally belonging to the object in question.<rdquo/</usage>  <rj><au>Crabb.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -18110,7 +18110,7 @@ Of luxury . . . allure mine eye.</q> <rj><qau>Milton.</qau></rj></p>
 <ent>Grandma</ent><br/
 <mhw>{ <hw>Grand"ma"</hw> <pr>(?)</pr>, <hw>Grand"mam*ma"</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <def>A grandmother.</def></p>
 
-<p><-- Grandmaster. See grand master. --><br/
+<p><!-- Grandmaster. See grand master. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grand mercy</ent><br/
@@ -18233,7 +18233,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 <p><note><hand/ Varieties containing hornblende are common. See also the <er>Note</er> under <er>Mica</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 645  --></p>
+<p><!-- p. 645  --></p>
 
 <p><cs><col><b>Gneissoid granite</b></col>, <cd>granite in which the mica has traces of a regular arrangement.</cd> -- <col><b>Graphic granite</b></col>, <cd>granite consisting of quartz and feldspar without mica, and having the quartz crystals so arranged in the transverse section like oriental characters.</cd> -- <col><b>Porphyritic granite</b></col>, <cd>granite containing feldspar in distinct crystals.</cd> -- <col><b>Hornblende granite</b></col>, or <col><b>Syenitic granite</b></col>, <cd>granite containing hornblende as well as mica, or, according to some authorities hornblende replacing the mica.</cd> -- <col><b>Granite ware</b></col>. <sd>(a)</sd> <cd>A kind of stoneware.</cd> <sd>(b)</sd> <cd>A Kind of ironware, coated with an enamel resembling granite.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -18272,7 +18272,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 
 <p><ent>Granivorous</ent><br/
 <hw>Gra*niv"o*rous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>granum</ets> grain + <ets>vorare</ets> to devour: cf. F. <ets>granivore</ets>.]</ety> <def>Eating grain; feeding or subsisting on seeds; <as>as, granivorous birds</as>.</def>
-<-- seed-eating.
+<!-- seed-eating.
    not same as graminivorous? = feeding on grass or the seeds of grass.  latter is for beasts. -->  <rj><au>Gay.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -18655,7 +18655,7 @@ To <qex>grapple</qex> with the house of Lancaster.</q> <rj><qau>Shak.</qau></rj>
 <hw>Grapple*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A grappling; close fight or embrace.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 646 --></p>
+<p><!-- p. 646 --></p>
 
 <p><ent>Grappling</ent><br/
 <hw>Grap"pling</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A laying fast ho1d of; also, that by which anything is seized and held, a grapnel.</def><br/
@@ -18777,7 +18777,7 @@ To <qex>grapple</qex> with the house of Lancaster.</q> <rj><qau>Shak.</qau></rj>
 
 <p><note><hand/ The following list includes most of the grasses of the United States of special interest, except cereals.  Many of these terms will be found with definitions in the Vocabulary. See Illustrations in Appendix.</note></p>
 
-<p><-- the mark <stypec> . . . </stypec> indicates collocation font, but
+<p><!-- the mark <stypec> . . . </stypec> indicates collocation font, but
 functionally subtypes --></p>
 
 <p><subtypes><stypec>Barnyard grass</stypec>, <cd>for hay. South. <spn>Panicum Grus-galli</spn>.</cd></p>
@@ -18795,7 +18795,7 @@ functionally subtypes --></p>
 <p><stypec>Blue joint</stypec>, <cd>hay. Northwest. <spn>Aqropyrum glaucum</spn>.</cd></p>
 
 <p><stypec>Buffalo grass</stypec>, grazing. Rocky Mts., etc. <sd>(a)</sd> <cd><spn>Buchlo<eum/ dectyloides</spn></cd>. <sd>(b)</sd> <cd>Same as <cref>Grama grass</cref> (below).</cd>
-<-- here spelled "gramma" in original --></p>
+<!-- here spelled "gramma" in original --></p>
 
 <p><stypec>Bunch grass</stypec>, <cd>grazing. Far West. <gen>Eriocoma</gen>, <gen>Festuca</gen>, <gen>Stips</gen>, etc.</cd></p>
 
@@ -18815,7 +18815,7 @@ functionally subtypes --></p>
 
 <p><stypec>Gama grass</stypec>, <cd>cut fodder. South. <spn>Tripsacum dactyloides</spn>.</cd></p>
 
-<p><-- spelled here (as in modern dictionaries) "Grama" in original, but references are to "gramma" -->
+<p><!-- spelled here (as in modern dictionaries) "Grama" in original, but references are to "gramma" -->
 <stypec>Grama grass</stypec>, <cd>grazing. West and Pacific slope. <spn>Bouteloua oligostachya</spn>, etc.</cd></p>
 
 <p><stypec>Great bunch grass</stypec>, <cd>pasture and hay. Far West. <spn>Festuca scabrella</spn>.</cd></p>
@@ -18843,7 +18843,7 @@ functionally subtypes --></p>
 <p><stypec>Meadow grass</stypec>, <cd>pasture, hay, lawn. <gen>Poa</gen>, several species.</cd></p>
 
 <p><mstypec><stypec>Mesquite grass</stypec>, <it>or</it> <stypec>Muskit grass</stypec></mstypec>. <cd>Same as <cref>Grama grass</cref> (above).</cd>
-<-- here spelled "gramma" in original --></p>
+<!-- here spelled "gramma" in original --></p>
 
 <p><stypec>Nimble Will</stypec>, <cd>a kind of drop seed. <spn>Muhlenbergia diffsa</spn>.</cd></p>
 
@@ -18941,7 +18941,7 @@ functionally subtypes --></p>
 
 <p><ent>Grasshopper</ent><br/
 <hw>Grass"hop`per</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any jumping, orthopterous insect, of the families <fam>Acridid<ae/</fam> and <fam>Locustid<ae/</fam>, having large hind legs adapted for leaping, and chewing mouth parts. The species and genera are very numerous and some are very destructive to crops.  The former family includes the Western grasshopper or locust (<spn>Caloptenus spretus</spn>), noted for the great extent of its ravages in the region beyond the Mississippi. In the Eastern United States the red-legged (<spn>Caloptenus femurrubrum</spn> and <spn>C. atlanis</spn>) are closely related species, but their ravages are less important. They are closely related to the migratory locusts of the Old World. See <er>Locust</er>.</def>
-<-- atlanis in original. Atlantis? --><br/
+<!-- atlanis in original. Atlantis? --><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><note><hand/ The meadow or green grasshoppers belong to the <fam>Locustid<ae/</fam>. They have long antenn<ae/, large ovipositors, and stridulating organs at the base of the wings in the male. The European great green grasshopper (<spn>Locusta viridissima</spn>) belongs to this family. The common American green species mostly belong to <gen>Xiphidium</gen>, <gen>Orchelimum</gen>, and <gen>Conocephalus</gen>.</note><br/
@@ -19036,7 +19036,7 @@ Or a dry wheel <qex>grate</qex> on the exletree.</q> <rj><qau>Shak.</qau></rj><b
 <p><q>This <qex>grated</qex> harder upon the hearts of men.</q> <rj><qau>South.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 647  this page badly done -- in need of careful proofing --></p>
+<p><!-- p. 647  this page badly done -- in need of careful proofing --></p>
 
 <p><ent>Grated</ent><br/
 <hw>Grat"ed</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From 2d <er>Grate</er>.]</ety> <def>Furnished with a grate or grating; <as>as, <ex>grated</ex> windows</as>.</def><br/
@@ -19190,7 +19190,7 @@ To <qex>gratify</qex> his noble service.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Something voluntarily given in return for a favor or service, as a recompense or acknowledgment.</def>
-<-- usually money.  In particular, the money given to a waiter, cab driver, bellhop, etc. as a reward for good service  = tip --><br/
+<!-- usually money.  In particular, the money given to a waiter, cab driver, bellhop, etc. as a reward for good service  = tip --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gratulate</ent><br/
@@ -19557,7 +19557,7 @@ Importing health and <qex>graveness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Sobriety of character or demeanor.</def> <ldquo/Men of <xex>gravity</xex> and learning.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 648 needs proofing ##proof
+<p><!-- p. 648 needs proofing ##proof
 - especially italicized words (also in etymologies) are not
  properly marked --></p>
 
@@ -19911,7 +19911,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 <p><sn>10.</sn> <fld>(Genealogy)</fld> <def>Older, younger, or more remote, by single generation; -- often used before grand to indicate one degree more remote in the direct line of descent; <as>as, <ex>great</ex>-grandfather (a grandfather's or a grandmother's father), <ex>great</ex>-grandson, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Great bear</b></col> (<fld>Astron.</fld>), <cd>the constellation Ursa Major.</cd> --  <col><b>Great cattle</b></col> (<fld>Law</fld>), <cd>all manner of cattle except sheep and yearlings.</cd> <au>Wharton.</au> -- <col><b>Great charter</b></col> <fld>(Eng. Hist.)</fld>, <cd>Magna Charta.</cd> -- <col><b>Great circle of a sphere</b></col>, <cd>a circle the plane of which passes through the center of the sphere.</cd> -- <col><b>Great circle sailing</b></col>, <cd>the process or art of conducting a ship on a great circle of the globe or on the shortest arc between two places.</cd> -- <col><b>Great go</b></col>, <cd>the final examination for a degree at the University of Oxford, England; -- called also <altname>greats</altname>.</cd>  <au>T. Hughes.</au> -- <col><b>Great guns</b></col>. <fld>(Naut.)</fld> <cd>See under Gun.</cd> -- <col><b>The Great Lakes</b></col> <cd>the large fresh-water lakes (Lakes Superior, Michigan, Huron, Erie, and Ontario) which lie on the northern borders of the United States.</cd> -- <col><b>Great master</b></col>.  <cd>Same as <cref>Grand master</cref>, under <er>Grand</er>.</cd> -- <col><b>Great organ</b></col>  <fld>(Mus.)</fld>, <cd>the largest and loudest of the three parts of a grand organ (the others being the <xex>choir organ</xex> and the <xex>swell</xex>, and sometimes the <xex>pedal organ</xex> or foot keys), It is played upon by a separate keyboard, which has the middle position.</cd> -- <col><b>The great powers</b></col> (of Europe), <cd>in modern diplomacy, Great Britain, France, Germany, Austria, Russia, and Italy.</cd> -- <col><b>Great primer</b></col>. <cd>See under <er>Type</er>.</cd> --  <col><b>Great scale</b></col> (<fld>Mus.</fld>), <cd>the complete scale; -- employed to designate the entire series of musical sounds from lowest to highest.</cd> -- <col><b>Great sea</b></col>, <cd>the Mediterranean sea. In Chaucer both the Black and the Mediterranean seas are so called.</cd> -- <col><b>Great seal</b></col>. <sd>(a)</sd> <cd>The principal seal of a kingdom or state.</cd> <sd>(b)</sd> <cd>In Great Britain, the lord chancellor  (who is custodian of this seal); also, his office.</cd><-- #sp in original, "Britain" was "Britian" --> -- <col><b>Great tithes</b></col>. <cd>See under Tithes.</cd> -- <col><b>The great</b></col>, <cd>the eminent, distinguished, or powerful.</cd> -- <col><b>The Great Spirit</b></col>, <cd>among the North American Indians, their chief or principal deity.</cd>  -- <col><b>To be great</b></col> (with one), <cd>to be intimate or familiar (with him).</cd> <au>Bacon.</au></cs><br/
+<p><cs><col><b>Great bear</b></col> (<fld>Astron.</fld>), <cd>the constellation Ursa Major.</cd> --  <col><b>Great cattle</b></col> (<fld>Law</fld>), <cd>all manner of cattle except sheep and yearlings.</cd> <au>Wharton.</au> -- <col><b>Great charter</b></col> <fld>(Eng. Hist.)</fld>, <cd>Magna Charta.</cd> -- <col><b>Great circle of a sphere</b></col>, <cd>a circle the plane of which passes through the center of the sphere.</cd> -- <col><b>Great circle sailing</b></col>, <cd>the process or art of conducting a ship on a great circle of the globe or on the shortest arc between two places.</cd> -- <col><b>Great go</b></col>, <cd>the final examination for a degree at the University of Oxford, England; -- called also <altname>greats</altname>.</cd>  <au>T. Hughes.</au> -- <col><b>Great guns</b></col>. <fld>(Naut.)</fld> <cd>See under Gun.</cd> -- <col><b>The Great Lakes</b></col> <cd>the large fresh-water lakes (Lakes Superior, Michigan, Huron, Erie, and Ontario) which lie on the northern borders of the United States.</cd> -- <col><b>Great master</b></col>.  <cd>Same as <cref>Grand master</cref>, under <er>Grand</er>.</cd> -- <col><b>Great organ</b></col>  <fld>(Mus.)</fld>, <cd>the largest and loudest of the three parts of a grand organ (the others being the <xex>choir organ</xex> and the <xex>swell</xex>, and sometimes the <xex>pedal organ</xex> or foot keys), It is played upon by a separate keyboard, which has the middle position.</cd> -- <col><b>The great powers</b></col> (of Europe), <cd>in modern diplomacy, Great Britain, France, Germany, Austria, Russia, and Italy.</cd> -- <col><b>Great primer</b></col>. <cd>See under <er>Type</er>.</cd> --  <col><b>Great scale</b></col> (<fld>Mus.</fld>), <cd>the complete scale; -- employed to designate the entire series of musical sounds from lowest to highest.</cd> -- <col><b>Great sea</b></col>, <cd>the Mediterranean sea. In Chaucer both the Black and the Mediterranean seas are so called.</cd> -- <col><b>Great seal</b></col>. <sd>(a)</sd> <cd>The principal seal of a kingdom or state.</cd> <sd>(b)</sd> <cd>In Great Britain, the lord chancellor  (who is custodian of this seal); also, his office.</cd><!-- #sp in original, "Britain" was "Britian" --> -- <col><b>Great tithes</b></col>. <cd>See under Tithes.</cd> -- <col><b>The great</b></col>, <cd>the eminent, distinguished, or powerful.</cd> -- <col><b>The Great Spirit</b></col>, <cd>among the North American Indians, their chief or principal deity.</cd>  -- <col><b>To be great</b></col> (with one), <cd>to be intimate or familiar (with him).</cd> <au>Bacon.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great</ent><br/
@@ -20081,7 +20081,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 <hw>Gre"cism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>gr<eacute/cisme</ets>.]</ety> <def>An idiom of the Greek language; a Hellenism.</def>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 649  most of page has no marks in etymology or in "as" sections (italics not marked) --></p>
+<p><!-- p. 649  most of page has no marks in etymology or in "as" sections (italics not marked) --></p>
 
 <p><ent>Grecize</ent><br/
 <hw>Gre"cize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Grecized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Grecizing</conjf>.]</vmorph> <ety>[Cf. F. <ets>gr<eacute/ciser</ets>.]</ety> <sn>1.</sn> <def>To render Grecian; also, to cause (a word or phrase in another language) to take a Greek form; <as>as, the name is <ex>Grecized</ex></as>.</def>  <rj><au>T. Warton.</au></rj><br/
@@ -20303,7 +20303,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 <p><q>Great spring before<br/
 <qex>Greened</qex> all the year.</q> <rj><qau>Thomson.</qau></rj></p>
 
-<p><-- THe Greening of America [Reich] --><br/
+<p><!-- THe Greening of America [Reich] --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Green</ent><br/
@@ -20532,7 +20532,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 <p><sn>3.</sn> <def>To accost; to address.</def>  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 650 Needs proof-reading . . . the etymologies and other italics are not marked --></p>
+<p><!-- p. 650 Needs proof-reading . . . the etymologies and other italics are not marked --></p>
 
 <p><ent>Greet</ent><br/
 <hw>Greet</hw> <pr>(gr<emac/t)</pr>, <pos>v. i.</pos> <def>To meet and give salutations.</def><br/
@@ -20606,7 +20606,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 
 <p><q>No birds of prey are <qex>gregarious</qex>.</q> <rj><qau>Ray.</qau></rj></p>
 
-<p><-- 2. (of people) enjoying companionship; sociable; not solitary.
+<p><!-- 2. (of people) enjoying companionship; sociable; not solitary.
       3. (of plants) growing in clusters. --></p>
 
 <p>-- <wordforms><wf>Gre*ga"ri*ous*ly</wf>, <pos>adv.</pos> -- <wf>Gre*ga"ri*ous*ness</wf>, <pos>n.</pos></wordforms></p>
@@ -20758,7 +20758,7 @@ For the British Grenadiers.<br/
 
 <p><sn>2.</sn> <def>A trade name for a dyestuff, consisting essentially of impure fuchsine.</def></p>
 
-<p><-- 3. a liqueur --><br/
+<p><!-- 3. a liqueur --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grenado</ent><br/
@@ -21076,7 +21076,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj><br/
 <p><sn>4.</sn> <def>An English early apple.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 651 --></p>
+<p><!-- p. 651 --></p>
 
 <p><ent>Griffon</ent><br/
 <hw>Grif"fon</hw> <pr>(gr<icr/f"f<ocr/n)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One of a European breed of rough-coated dogs, somewhat taller than the setter and of a grizzly liver color. They are used in hunting game birds. The <styp><ecol><b>Brussels griffon</b></ecol></styp> is a very small, wiry-coated, short-nosed pet dog of Belgian origin.</def><br/
@@ -21534,7 +21534,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 <p><sn>6.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>The piece of timber which terminates the keel at the fore end; the forefoot.</def> <sd>(b)</sd> <def>The compass or sharpness of a ship's stern under the water, having a tendency to make her keep a good wind.</def> <sd>(c)</sd> <pluf>pl.</pluf> <def>An assemblage of ropes, dead-eyes, and hocks, fastened to ringbolts in the deck, to secure the boats when hoisted; also, broad bands passed around a boat to secure it at the davits and prevent swinging.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Gripe penny</b></col>, <col><b>a</b></col></mcol><cd> miser; a niggard<-- ; a pinchpenny? -->.</cd>  <rj><au>D. L. Mackenzie.</au></rj></cs><br/
+<p><cs><mcol><col><b>Gripe penny</b></col>, <col><b>a</b></col></mcol><cd> miser; a niggard<!-- ; a pinchpenny? -->.</cd>  <rj><au>D. L. Mackenzie.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gripeful</ent><br/
@@ -21691,7 +21691,7 @@ Is smoothed by that below.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>The coarse part of meal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 652 --></p>
+<p><!-- p. 652 --></p>
 
 <p><sn>3.</sn> <pluf>pl.</pluf> <def>Grain, esp. oats or wheat, hulled and coarsely ground; in high milling, fragments of cracked wheat smaller than groats.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -21940,7 +21940,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <hw>Groined</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Arch.)</fld> <def>Built with groins; <as>as, a <ex>groined</ex> ceiling; a <ex>groined</ex> vault</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Illustr. of Groined Arch.  --><br/
+<p><!-- Illustr. of Groined Arch.  --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grolier</ent><br/
@@ -22113,7 +22113,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 
 <p><note><hand/ Among the best known American species are the rose-breasted (<spn>Habia Ludoviciana</spn>); the blue (<spn>Guiraca c<oe/rulea</spn>); the pine (<spn>Pinicola enucleator</spn>); and the evening grosbeak. See <er>Hawfinch</er>, and <cref>Cardinal grosbeak</cref>, <cref>Evening grosbeak</cref>, under <er>Cardinal</er> and <er>Evening</er>.</note> <altsp>[Written also <asp>grossbeak</asp>.]</altsp></p>
 
-<p><-- illustr. Rose-breasted Grosbeak, (<spn>Habia Ludoviciana</spn>).
+<p><!-- illustr. Rose-breasted Grosbeak, (<spn>Habia Ludoviciana</spn>).
   --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -22221,7 +22221,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <hw>grosz</hw> <pos>n.</pos> <pr>(gr<omac/sh)</pr> <plu><plw>groszy</plw> <pr>(gr<omac/sh"<emac/)</pr></plu> <def>a Polish monetary unit, equal to <frac1x100/ of a zloty.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 653 --></p>
+<p><!-- p. 653 --></p>
 
 <p><ent>Grot</ent><br/
 <hw>Grot</hw> <pr>(gr<ocr/t)</pr>, <pos>n.</pos> <ety>[F. <ets>grotte</ets>, It. <ets>grotta</ets>. See <er>Grotto</er>.]</ety> <def>A grotto.</def> <mark>[Poetic]</mark>  <rj><au>Milton.</au></rj><br/
@@ -22339,7 +22339,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><sn>11.</sn> <def>The pit of a theater.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ground angling</b></col>, <cd>angling with a weighted line without a float.</cd> -- <col><b>Ground annual</b></col> <fld>(Scots Law)</fld>, <cd>an estate created in land by a vassal who instead of selling his land outright reserves an annual ground rent, which becomes a perpetual charge upon the land.</cd> -- <col><b>Ground ash</b></col>. <fld>(Bot.)</fld> <cd>See <er>Groutweed</er>.</cd> -- <col><b>Ground bailiff</b></col> <fld>(Mining)</fld>, <cd>a superintendent of mines.</cd> <au>Simmonds.</au>  -- <col><b>Ground bait</b></col>, <cd>bits of bread, boiled barley or worms, etc., thrown into the water to collect the fish,</cd> <au>Wallon.</au> -- <mcol><col><b>Ground bass</b></col> <it>or</it> <col><b>Ground base</b></col></mcol> <fld>(Mus.)</fld>, <cd>fundamental base; a fundamental base continually repeated to a varied melody.</cd> --  <col><b>Ground beetle</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of carnivorous beetles of the family <fam>Carabid<ae/</fam>, living mostly in burrows or under stones, etc.</cd> -- <col><b>Ground chamber</b></col>, <cd>a room on the ground floor.</cd> --  <col><b>Ground cherry</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A genus (<gen>Physalis</gen>) of herbaceous plants having an inflated calyx for a seed pod: esp., the strawberry tomato  (<spn>Physalis Alkekengi</spn>). See <er>Alkekengl</er>.</cd> <sd>(b)</sd> <cd>A European shrub (<spn>Prunus Cham<ae/cerasus</spn>), with small, very acid fruit.</cd> -- <col><b>Ground cuckoo</b></col>.  <fld>(Zool.)</fld> <cd>See <er>Chaparral cock</er>.</cd> -- <col><b>Ground cypress</b></col>. <fld>(Bot.)</fld> <cd>See <er>Lavender cotton</er>.</cd> -- <col><b>Ground dove</b></col> <fld>(Zool.)</fld>, <cd>one of several small American pigeons of the genus <gen>Columbigallina</gen>, esp. <spn>C. passerina</spn> of the Southern United States, Mexico, etc. They live chiefly on the ground.</cd> -- <col><b>Ground fish</b></col> <fld>(Zool.)</fld>, <cd>any fish which constantly lives on the botton of the sea, as the sole, turbot, halibut.</cd> -- <col><b>Ground floor</b></col>, <cd>the floor of a house most nearly on a level with the ground; -- called also in America, but not in England, the <altname>first floor</altname>.</cd> -- <col><b>Ground form</b></col> <fld>(Gram.)</fld>, <cd>the stem or basis of a word, to which the other parts are added in declension or conjugation. It is sometimes, but not always, the same as the root.<-- = lemma --></cd> -- <col><b>Ground furze</b></col> <fld>(Bot.)</fld>, <cd>a low slightly thorny, leguminous shrub (<spn>Ononis arvensis</spn>) of Europe and Central Asia,; -- called also <altname>rest-harrow</altname>.</cd> -- <col><b>Ground game</b></col>, <cd>hares, rabbits, etc., as distinguished from winged game.</cd> -- <col><b>Ground hele</b></col> <fld>(Bot.)</fld>, <cd>a perennial herb (<spn>Veronica officinalis</spn>) with small blue flowers, common in Europe and America, formerly thought to have curative properties.</cd> -- <col><b>Ground of the heavens</b></col> <fld>(Astron.)</fld>, <cd>the surface of any part of the celestial sphere upon which the stars may be regarded as projected.</cd> -- <col><b>Ground hemlock</b></col> <fld>(Bot.)</fld>, <cd>the yew (<spn>Taxus baccata</spn> var. <varn>Canadensisi</varn>) of eastern North America, distinguished from that of Europe by its low, straggling stems.</cd> -- <col><b>Ground hog</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The woodchuck or American marmot (<spn>Arctomys monax</spn>). See <er>Woodchuck</er>.</cd> <sd>(b)</sd> <cd>The aardvark.</cd> -- <col><b>Ground hold</b></col> <fld>(Naut.)</fld>, <cd>ground tackle.</cd> <mark>[Obs.]</mark> <au>Spenser.</au> -- <col><b>Ground ice</b></col>, <cd>ice formed at the bottom of a body of water before it forms on the surface.</cd> -- <col><b>Ground ivy</b></col>. <fld>(Bot.)</fld> <cd>A trailing plant; alehoof. See <er>Gill</er>.</cd> -- <col><b>Ground joist</b></col>, <cd>a joist for a basement or ground floor; a. sleeper.</cd> -- <col><b>Ground lark</b></col> <fld>(Zool.)</fld>, <cd>the European pipit. See <er>Pipit</er>.</cd> -- <col><b>Ground laurel</b></col> <fld>(Bot.)</fld>. <cd>See <er>Trailing arbutus</er>, under <er>Arbutus</er>.</cd> -- <col><b>Ground line</b></col> <fld>(Descriptive Geom.)</fld>, <cd>the line of intersection of the horizontal and vertical planes of projection.</cd> -- <col><b>Ground liverwort</b></col> <fld>(Bot.)</fld>, <cd>a flowerless plant with a broad flat forking thallus and the fruit raised on peduncled and radiated receptacles (<spn>Marchantia polymorpha</spn>).</cd> -- <col><b>Ground mail</b></col>, <cd>in Scotland, the fee paid for interment in a churchyard.</cd> -- <col><b>Ground mass</b></col> <fld>(Geol.)</fld>, <cd>the fine-grained or glassy base of a rock, in which distinct crystals of its constituents are embedded.</cd> -- <col><b>Ground parrakeet</b></col> <fld>(Zool.)</fld>, <cd>one of several Australian parrakeets, of the genera <gen>Callipsittacus</gen> and <gen>Geopsittacus</gen>, which live mainly upon the ground.</cd> -- <col><b>Ground pearl</b></col> <fld>(Zool.)</fld>, <cd>an insect of the family <fam>Coccid<ae/</fam> (<spn>Margarodes formicarum</spn>), found in ants' nests in the Bahamas, and having a shelly covering. They are strung like beads, and made into necklaces by the natives.</cd> -- <col><b>Ground pig</b></col> <fld>(Zool.)</fld>, <cd>a large, burrowing, African rodent (<spn>Aulacodus Swinderianus</spn>) about two feet long, allied to the porcupines but with harsh, bristly hair, and no spines; -- called also <altname>ground rat</altname>.</cd> -- <col><b>Ground pigeon</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of pigeons which live largely upon the ground, as the tooth-billed pigeon (<spn>Didunculus strigirostris</spn>), of the Samoan Islands, and the crowned pigeon, or goura. See <er>Goura</er>, and <er>Ground dove</er> (<it>above</it>).</cd> -- <col><b>Ground pine</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A blue-flowered herb of the genus <gen>Ajuga</gen> (<spn>A. Cham<ae/pitys</spn>), formerly included in the genus <gen>Teucrium</gen> or germander, and named from its resinous smell.</cd> <au>Sir J. Hill.</au> <sd>(b)</sd> <cd>A long, creeping, evergreen plant of the genus <gen>Lycopodium</gen> (<spn>L. clavatum</spn>); -- called also <altname>club moss</altname>.</cd> <sd>(c)</sd> <cd>A tree-shaped evergreen plant about eight inches in height, of the same genus (<spn>L. dendroideum</spn>) found in moist, dark woods in the northern part of the United States.</cd> <au>Gray.</au> -- <col><b>Ground plan</b></col> <fld>(Arch.)</fld>, <cd>a plan of the ground floor of any building, or of any floor, as distinguished from an elevation or perpendicular section.</cd> -- <col><b>Ground plane</b></col>, <cd>the horizontal plane of projection in perspective drawing.</cd> -- <col><b>Ground plate</b></col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>One of the chief pieces of framing of a building; a timber laid horizontally on or near the ground to support the uprights; a ground sill or groundsel.</cd> <sd>(b)</sd> <fld>(Railroads)</fld> <cd>A bed plate for sleepers or ties; a mudsill.</cd> <sd>(c)</sd> <fld>(Teleg.)</fld> <cd>A metallic plate buried in the earth to conduct the electric current thereto. Connection to the pipes of a gas or water main is usual in cities.</cd> <au>Knight.</au> -- <col><b>Ground plot</b></col>, <cd>the ground upon which any structure is erected; hence, any basis or foundation; also, a ground plan.</cd> -- <col><b>Ground plum</b></col> <fld>(Bot.)</fld>, <cd>a leguminous plant (<spn>Astragalus caryocarpus</spn>) occurring from the Saskatchewan to Texas, and having a succulent plum-shaped pod.</cd> -- <col><b>Ground rat</b></col>. <fld>(Zool.)</fld> <cd>See <er>Ground pig</er> (<it>above</it>).</cd> -- <col><b>Ground rent</b></col>, <cd>rent paid for the privilege of building on another man's land.</cd> -- <col><b>Ground robin</b></col>. <fld>(Zool.)</fld> <cd>See <er>Chewink</er>.</cd> -- <col><b>Ground room</b></col>, <cd>a room on the ground floor; a lower room.</cd> <au>Tatler.</au> -- <col><b>Ground sea</b></col>, <cd>the West Indian name for a swell of the ocean, which occurs in calm weather and without obvious cause, breaking on the shore in heavy roaring billows; -- called also <altname>rollers</altname>, and in Jamaica, <altname>the North sea</altname>.</cd> -- <col><b>Ground sill</b></col>. <cd>See <er>Ground plate</er> (<it>a</it>) (<it>above</it>).</cd> -- <col><b>Ground snake</b></col> <fld>(Zool.)</fld>, <cd>a small burrowing American snake (<spn>Celuta am<oe/na</spn>). It is salmon colored, and has a blunt tail.</cd> -- <col><b>Ground squirrel</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>One of numerous species of burrowing rodents of the genera <gen>Tamias</gen> and <gen>Spermophilus</gen>, having cheek pouches. The former genus includes the Eastern striped squirrel or chipmunk and some allied Western species; the latter includes the prairie squirrel or striped gopher, the gray gopher, and many allied Western species. See <er>Chipmunk</er>, and <er>Gopher</er>.</cd> <sd>(b)</sd> <cd>Any species of the African genus <gen>Xerus</gen>, allied to <gen>Tamias</gen>.</cd> -- <col><b>Ground story</b></col>. <cd>Same as <cref>Ground floor</cref> (<it>above</it>).</cd> -- <col><b>Ground substance</b></col> <fld>(Anat.)</fld>, <cd>the intercellular substance, or matrix, of tissues.</cd> -- <col><b>Ground swell</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>The plant groundsel.</cd> <mark>[Obs.]</mark> <au>Holland.</au> <sd>(b)</sd> <cd>A broad, deep swell or undulation of the ocean, caused by a long continued gale, and felt even at a remote distance after the gale has ceased.</cd> -- <col><b>Ground table</b></col>. <fld>(Arch.)</fld> <cd>See Earth table, under Earth.</cd> -- <col><b>Ground tackle</b></col> <fld>(Naut.)</fld>, <cd>the tackle necessary to secure a vessel at anchor.</cd> <au>Totten.</au> -- <col><b>Ground thrush</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of bright-colored Oriental birds of the family <fam>Pittid<ae/</fam>. See <er>Pitta</er>.</cd> -- <col><b>Ground tier</b></col>. <sd>(a)</sd> <cd>The lowest tier of water casks in a vessel's hold.</cd> <au>Totten.</au> <sd>(b)</sd> <cd>The lowest line of articles of any kind stowed in a vessel's hold.</cd> <sd>(c)</sd> <cd>The lowest range of boxes in a theater.</cd> -- <col><b>Ground timbers</b></col> <fld>(Shipbuilding)</fld> <cd>the timbers which lie on the keel and are bolted to the keelson; floor timbers.</cd> <au>Knight.</au> -- <col><b>Ground tit</b></col>. <fld>(Zool.)</fld> <cd>See <er>Ground wren</er> (<it>below</it>).</cd> -- <col><b>Ground wheel</b></col>, <cd>that wheel of a harvester, mowing machine, etc., which, rolling on the ground, drives the mechanism.</cd> -- <col><b>Ground wren</b></col> <fld>(Zool.)</fld>, <cd>a small California bird (<spn>Cham<ae/a fasciata</spn>) allied to the wrens and titmice. It inhabits the arid plains. Called also <altname>ground tit</altname>, and <altname>wren tit</altname>.</cd> -- <mcol><col><b>To bite the ground</b></col>, <col><b>To break ground</b></col></mcol>. <cd>See under <er>Bite</er>, <er>Break</er>.</cd> -- <mcol><col><b>To come to the ground</b></col>, <col><b>To fall to the ground</b></col></mcol>, <cd>to come to nothing; to fail; to miscarry.</cd> -- <col><b>To gain ground</b></col>. <sd>(a)</sd> <cd>To advance; to proceed forward in conflict; as, an army in battle <ex>gains ground</ex>.</cd> <sd>(b)</sd> <cd>To obtain an advantage; to have some success; <as>as, the army <ex>gains ground</ex> on the enemy</as>.</cd> <sd>(c)</sd> <cd>To gain credit; to become more prosperous or influential.</cd> -- <mcol><col><b>To get ground</b></col>,  <it>or</it> <col><b>To gather ground</b></col></mcol>, <cd>to gain ground.</cd> <mark>[R.]</mark> <ldquo/Evening mist . . . <xex>gathers ground</xex> fast.<rdquo/ <au>Milton.</au><br/
+<p><cs><col><b>Ground angling</b></col>, <cd>angling with a weighted line without a float.</cd> -- <col><b>Ground annual</b></col> <fld>(Scots Law)</fld>, <cd>an estate created in land by a vassal who instead of selling his land outright reserves an annual ground rent, which becomes a perpetual charge upon the land.</cd> -- <col><b>Ground ash</b></col>. <fld>(Bot.)</fld> <cd>See <er>Groutweed</er>.</cd> -- <col><b>Ground bailiff</b></col> <fld>(Mining)</fld>, <cd>a superintendent of mines.</cd> <au>Simmonds.</au>  -- <col><b>Ground bait</b></col>, <cd>bits of bread, boiled barley or worms, etc., thrown into the water to collect the fish,</cd> <au>Wallon.</au> -- <mcol><col><b>Ground bass</b></col> <it>or</it> <col><b>Ground base</b></col></mcol> <fld>(Mus.)</fld>, <cd>fundamental base; a fundamental base continually repeated to a varied melody.</cd> --  <col><b>Ground beetle</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of carnivorous beetles of the family <fam>Carabid<ae/</fam>, living mostly in burrows or under stones, etc.</cd> -- <col><b>Ground chamber</b></col>, <cd>a room on the ground floor.</cd> --  <col><b>Ground cherry</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A genus (<gen>Physalis</gen>) of herbaceous plants having an inflated calyx for a seed pod: esp., the strawberry tomato  (<spn>Physalis Alkekengi</spn>). See <er>Alkekengl</er>.</cd> <sd>(b)</sd> <cd>A European shrub (<spn>Prunus Cham<ae/cerasus</spn>), with small, very acid fruit.</cd> -- <col><b>Ground cuckoo</b></col>.  <fld>(Zool.)</fld> <cd>See <er>Chaparral cock</er>.</cd> -- <col><b>Ground cypress</b></col>. <fld>(Bot.)</fld> <cd>See <er>Lavender cotton</er>.</cd> -- <col><b>Ground dove</b></col> <fld>(Zool.)</fld>, <cd>one of several small American pigeons of the genus <gen>Columbigallina</gen>, esp. <spn>C. passerina</spn> of the Southern United States, Mexico, etc. They live chiefly on the ground.</cd> -- <col><b>Ground fish</b></col> <fld>(Zool.)</fld>, <cd>any fish which constantly lives on the botton of the sea, as the sole, turbot, halibut.</cd> -- <col><b>Ground floor</b></col>, <cd>the floor of a house most nearly on a level with the ground; -- called also in America, but not in England, the <altname>first floor</altname>.</cd> -- <col><b>Ground form</b></col> <fld>(Gram.)</fld>, <cd>the stem or basis of a word, to which the other parts are added in declension or conjugation. It is sometimes, but not always, the same as the root.<!-- = lemma --></cd> -- <col><b>Ground furze</b></col> <fld>(Bot.)</fld>, <cd>a low slightly thorny, leguminous shrub (<spn>Ononis arvensis</spn>) of Europe and Central Asia,; -- called also <altname>rest-harrow</altname>.</cd> -- <col><b>Ground game</b></col>, <cd>hares, rabbits, etc., as distinguished from winged game.</cd> -- <col><b>Ground hele</b></col> <fld>(Bot.)</fld>, <cd>a perennial herb (<spn>Veronica officinalis</spn>) with small blue flowers, common in Europe and America, formerly thought to have curative properties.</cd> -- <col><b>Ground of the heavens</b></col> <fld>(Astron.)</fld>, <cd>the surface of any part of the celestial sphere upon which the stars may be regarded as projected.</cd> -- <col><b>Ground hemlock</b></col> <fld>(Bot.)</fld>, <cd>the yew (<spn>Taxus baccata</spn> var. <varn>Canadensisi</varn>) of eastern North America, distinguished from that of Europe by its low, straggling stems.</cd> -- <col><b>Ground hog</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The woodchuck or American marmot (<spn>Arctomys monax</spn>). See <er>Woodchuck</er>.</cd> <sd>(b)</sd> <cd>The aardvark.</cd> -- <col><b>Ground hold</b></col> <fld>(Naut.)</fld>, <cd>ground tackle.</cd> <mark>[Obs.]</mark> <au>Spenser.</au> -- <col><b>Ground ice</b></col>, <cd>ice formed at the bottom of a body of water before it forms on the surface.</cd> -- <col><b>Ground ivy</b></col>. <fld>(Bot.)</fld> <cd>A trailing plant; alehoof. See <er>Gill</er>.</cd> -- <col><b>Ground joist</b></col>, <cd>a joist for a basement or ground floor; a. sleeper.</cd> -- <col><b>Ground lark</b></col> <fld>(Zool.)</fld>, <cd>the European pipit. See <er>Pipit</er>.</cd> -- <col><b>Ground laurel</b></col> <fld>(Bot.)</fld>. <cd>See <er>Trailing arbutus</er>, under <er>Arbutus</er>.</cd> -- <col><b>Ground line</b></col> <fld>(Descriptive Geom.)</fld>, <cd>the line of intersection of the horizontal and vertical planes of projection.</cd> -- <col><b>Ground liverwort</b></col> <fld>(Bot.)</fld>, <cd>a flowerless plant with a broad flat forking thallus and the fruit raised on peduncled and radiated receptacles (<spn>Marchantia polymorpha</spn>).</cd> -- <col><b>Ground mail</b></col>, <cd>in Scotland, the fee paid for interment in a churchyard.</cd> -- <col><b>Ground mass</b></col> <fld>(Geol.)</fld>, <cd>the fine-grained or glassy base of a rock, in which distinct crystals of its constituents are embedded.</cd> -- <col><b>Ground parrakeet</b></col> <fld>(Zool.)</fld>, <cd>one of several Australian parrakeets, of the genera <gen>Callipsittacus</gen> and <gen>Geopsittacus</gen>, which live mainly upon the ground.</cd> -- <col><b>Ground pearl</b></col> <fld>(Zool.)</fld>, <cd>an insect of the family <fam>Coccid<ae/</fam> (<spn>Margarodes formicarum</spn>), found in ants' nests in the Bahamas, and having a shelly covering. They are strung like beads, and made into necklaces by the natives.</cd> -- <col><b>Ground pig</b></col> <fld>(Zool.)</fld>, <cd>a large, burrowing, African rodent (<spn>Aulacodus Swinderianus</spn>) about two feet long, allied to the porcupines but with harsh, bristly hair, and no spines; -- called also <altname>ground rat</altname>.</cd> -- <col><b>Ground pigeon</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of pigeons which live largely upon the ground, as the tooth-billed pigeon (<spn>Didunculus strigirostris</spn>), of the Samoan Islands, and the crowned pigeon, or goura. See <er>Goura</er>, and <er>Ground dove</er> (<it>above</it>).</cd> -- <col><b>Ground pine</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A blue-flowered herb of the genus <gen>Ajuga</gen> (<spn>A. Cham<ae/pitys</spn>), formerly included in the genus <gen>Teucrium</gen> or germander, and named from its resinous smell.</cd> <au>Sir J. Hill.</au> <sd>(b)</sd> <cd>A long, creeping, evergreen plant of the genus <gen>Lycopodium</gen> (<spn>L. clavatum</spn>); -- called also <altname>club moss</altname>.</cd> <sd>(c)</sd> <cd>A tree-shaped evergreen plant about eight inches in height, of the same genus (<spn>L. dendroideum</spn>) found in moist, dark woods in the northern part of the United States.</cd> <au>Gray.</au> -- <col><b>Ground plan</b></col> <fld>(Arch.)</fld>, <cd>a plan of the ground floor of any building, or of any floor, as distinguished from an elevation or perpendicular section.</cd> -- <col><b>Ground plane</b></col>, <cd>the horizontal plane of projection in perspective drawing.</cd> -- <col><b>Ground plate</b></col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>One of the chief pieces of framing of a building; a timber laid horizontally on or near the ground to support the uprights; a ground sill or groundsel.</cd> <sd>(b)</sd> <fld>(Railroads)</fld> <cd>A bed plate for sleepers or ties; a mudsill.</cd> <sd>(c)</sd> <fld>(Teleg.)</fld> <cd>A metallic plate buried in the earth to conduct the electric current thereto. Connection to the pipes of a gas or water main is usual in cities.</cd> <au>Knight.</au> -- <col><b>Ground plot</b></col>, <cd>the ground upon which any structure is erected; hence, any basis or foundation; also, a ground plan.</cd> -- <col><b>Ground plum</b></col> <fld>(Bot.)</fld>, <cd>a leguminous plant (<spn>Astragalus caryocarpus</spn>) occurring from the Saskatchewan to Texas, and having a succulent plum-shaped pod.</cd> -- <col><b>Ground rat</b></col>. <fld>(Zool.)</fld> <cd>See <er>Ground pig</er> (<it>above</it>).</cd> -- <col><b>Ground rent</b></col>, <cd>rent paid for the privilege of building on another man's land.</cd> -- <col><b>Ground robin</b></col>. <fld>(Zool.)</fld> <cd>See <er>Chewink</er>.</cd> -- <col><b>Ground room</b></col>, <cd>a room on the ground floor; a lower room.</cd> <au>Tatler.</au> -- <col><b>Ground sea</b></col>, <cd>the West Indian name for a swell of the ocean, which occurs in calm weather and without obvious cause, breaking on the shore in heavy roaring billows; -- called also <altname>rollers</altname>, and in Jamaica, <altname>the North sea</altname>.</cd> -- <col><b>Ground sill</b></col>. <cd>See <er>Ground plate</er> (<it>a</it>) (<it>above</it>).</cd> -- <col><b>Ground snake</b></col> <fld>(Zool.)</fld>, <cd>a small burrowing American snake (<spn>Celuta am<oe/na</spn>). It is salmon colored, and has a blunt tail.</cd> -- <col><b>Ground squirrel</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>One of numerous species of burrowing rodents of the genera <gen>Tamias</gen> and <gen>Spermophilus</gen>, having cheek pouches. The former genus includes the Eastern striped squirrel or chipmunk and some allied Western species; the latter includes the prairie squirrel or striped gopher, the gray gopher, and many allied Western species. See <er>Chipmunk</er>, and <er>Gopher</er>.</cd> <sd>(b)</sd> <cd>Any species of the African genus <gen>Xerus</gen>, allied to <gen>Tamias</gen>.</cd> -- <col><b>Ground story</b></col>. <cd>Same as <cref>Ground floor</cref> (<it>above</it>).</cd> -- <col><b>Ground substance</b></col> <fld>(Anat.)</fld>, <cd>the intercellular substance, or matrix, of tissues.</cd> -- <col><b>Ground swell</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>The plant groundsel.</cd> <mark>[Obs.]</mark> <au>Holland.</au> <sd>(b)</sd> <cd>A broad, deep swell or undulation of the ocean, caused by a long continued gale, and felt even at a remote distance after the gale has ceased.</cd> -- <col><b>Ground table</b></col>. <fld>(Arch.)</fld> <cd>See Earth table, under Earth.</cd> -- <col><b>Ground tackle</b></col> <fld>(Naut.)</fld>, <cd>the tackle necessary to secure a vessel at anchor.</cd> <au>Totten.</au> -- <col><b>Ground thrush</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of bright-colored Oriental birds of the family <fam>Pittid<ae/</fam>. See <er>Pitta</er>.</cd> -- <col><b>Ground tier</b></col>. <sd>(a)</sd> <cd>The lowest tier of water casks in a vessel's hold.</cd> <au>Totten.</au> <sd>(b)</sd> <cd>The lowest line of articles of any kind stowed in a vessel's hold.</cd> <sd>(c)</sd> <cd>The lowest range of boxes in a theater.</cd> -- <col><b>Ground timbers</b></col> <fld>(Shipbuilding)</fld> <cd>the timbers which lie on the keel and are bolted to the keelson; floor timbers.</cd> <au>Knight.</au> -- <col><b>Ground tit</b></col>. <fld>(Zool.)</fld> <cd>See <er>Ground wren</er> (<it>below</it>).</cd> -- <col><b>Ground wheel</b></col>, <cd>that wheel of a harvester, mowing machine, etc., which, rolling on the ground, drives the mechanism.</cd> -- <col><b>Ground wren</b></col> <fld>(Zool.)</fld>, <cd>a small California bird (<spn>Cham<ae/a fasciata</spn>) allied to the wrens and titmice. It inhabits the arid plains. Called also <altname>ground tit</altname>, and <altname>wren tit</altname>.</cd> -- <mcol><col><b>To bite the ground</b></col>, <col><b>To break ground</b></col></mcol>. <cd>See under <er>Bite</er>, <er>Break</er>.</cd> -- <mcol><col><b>To come to the ground</b></col>, <col><b>To fall to the ground</b></col></mcol>, <cd>to come to nothing; to fail; to miscarry.</cd> -- <col><b>To gain ground</b></col>. <sd>(a)</sd> <cd>To advance; to proceed forward in conflict; as, an army in battle <ex>gains ground</ex>.</cd> <sd>(b)</sd> <cd>To obtain an advantage; to have some success; <as>as, the army <ex>gains ground</ex> on the enemy</as>.</cd> <sd>(c)</sd> <cd>To gain credit; to become more prosperous or influential.</cd> -- <mcol><col><b>To get ground</b></col>,  <it>or</it> <col><b>To gather ground</b></col></mcol>, <cd>to gain ground.</cd> <mark>[R.]</mark> <ldquo/Evening mist . . . <xex>gathers ground</xex> fast.<rdquo/ <au>Milton.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>There is no way for duty to prevail, and <qex>get ground</qex> of them, but by bidding higher.</q> <rj><qau>South.</qau></rj></p>
@@ -22535,7 +22535,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <hw>Group"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Corrupted fr. Pg. <ets>garupa</ets> crupper.  Cf. <er>Garbupa</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>One of several species of valuable food fishes of the genus <gen>Epinephelus</gen>, of the family <fam>Serranid<ae/</fam>, as the red grouper, or brown snapper  (<spn>Epinephelus morio</spn>), and the black grouper, or warsaw (<spn>Epinephelus nigritus</spn>), both from Florida and the Gulf of Mexico.</def> <sd>(b)</sd> <def>The tripletail (<gen>Lobotes</gen>).</def> <sd>(c)</sd> <def>In California, the name is often applied to the rockfishes.</def> <altsp>[Written also <asp>groper</asp>, <asp>gruper</asp>, and <asp>trooper</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 654 --></p>
+<p><!-- p. 654 --></p>
 
 <p><ent>Grouping</ent><br/
 <hw>Group"ing</hw> <pr>(gr<oomac/p"<icr/ng)</pr>, <pos>n.</pos> <fld>(Fine Arts)</fld> <def>The disposal or relative arrangement of figures or objects, as in, drawing, painting, and sculpture, or in ornamental design.</def><br/
@@ -23067,7 +23067,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 <p><cs><col><b>Grunting ox</b></col> <fld>(Zool.)</fld>, <cd>the yak.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 655 --></p>
+<p><!-- p. 655 --></p>
 
 <p><ent>Grunt</ent><br/
 <hw>Grunt</hw> <pr>(gr<ucr/nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A deep, guttural sound, as of a hog.</def><br/
@@ -23329,7 +23329,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 
 <p><sn>3.</sn> <def>To protect the edge of, esp. with an ornamental border; hence, to face or ornament with lists, laces, etc.</def></p>
 
-<p><-- (  Spelling bad in this section -- look) -->
+<p><!-- (  Spelling bad in this section -- look) -->
 <q>The body of your discourse is sometime <qex>guarded</qex> with fragments, and the guards are but slightly basted on neither.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -23443,7 +23443,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 <p><cs><col><b>Guardian ad litem</b></col> <pr>(<?/)</pr> <fld>(Law)</fld>, <cd>a guardian appointed by a court of justice to conduct a particular suit.</cd> -- <col><b>Guardians of the poor</b></col>, <cd>the members of a board appointed or elected to care for the relief of the poor within a township, or district.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 656 --></p>
+<p><!-- p. 656 --></p>
 
 <p><ent>Guardian</ent><br/
 <hw>Guard"i*an</hw> <pr>(g<aum/rd"<icr/*<ait/n <it>or</it> g<aum/rd"y<ait/n; 106)</pr>, <pos>a.</pos> <def>Performing, or appropriate to, the office of a protector; <as>as, a <ex>guardian</ex> care</as>.</def><br/
@@ -23952,7 +23952,7 @@ That <qex>guested</qex> here so late.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><q>The pendants and <qex>guidons</qex> were carried by the officer of the army.</q> <rj><qau>Evelyn.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 657 --></p>
+<p><!-- p. 657 --></p>
 
 <p><sn>2.</sn> <def>One who carries a flag.</def>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -24384,7 +24384,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 <p><sn>2.</sn> <def>Something shaped like the food passage, or performing similar functions</def>; as: <sd>(a)</sd> <def>A channel for water.</def> <sd>(b)</sd> <fld>(Engin.)</fld> <def>A preparatory cut or channel in excavations, of sufficient width for the passage of earth wagons.</def>  <sd>(c)</sd> <def>A concave cut made in the teeth of some saw blades.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 658 --></p>
+<p><!-- p. 658 --></p>
 
 <p><ent>Gulleting</ent><br/
 <hw>Gul"let*ing</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Engin.)</fld> <def>A system of excavating by means of gullets or channels.</def><br/
@@ -24415,7 +24415,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gully</ent><br/
-<hw>Gul"ly</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gullied</conjf> <pr>(#)</pr>; <pos>p. pr. &  vb. n.</pos> <conjf>Gullying</conjf>.]</vmorph> <def>To wear into a gully or into gullies.</def><-- = wear down, not wear as clothing! --><br/
+<hw>Gul"ly</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gullied</conjf> <pr>(#)</pr>; <pos>p. pr. &  vb. n.</pos> <conjf>Gullying</conjf>.]</vmorph> <def>To wear into a gully or into gullies.</def><!-- = wear down, not wear as clothing! --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gully</ent><br/
@@ -24586,7 +24586,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 <hw>Gump"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>gom</ets>, <ets>gome</ets>, attention; akin to AS. <ets>ge<oacute/mian</ets>, <ets>gyman</ets>, to regard, observe, <ets>gyme</ets> care, OS. <ets>gomean</ets> to heed, Goth. <ets>gaumjan</ets> to see, notice.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>Capacity; shrewdness; common sense.</def> <mark>[Colloq.]</mark><-- in MW10 marked as chiefly dial. --><br/
+<p><sn>1.</sn> <def>Capacity; shrewdness; common sense.</def> <mark>[Colloq.]</mark><!-- in MW10 marked as chiefly dial. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>One does not have <qex>gumption</qex> till one has been properly cheated.</q> <rj><qau>Lord Lytton.</qau></rj><br/
@@ -24694,7 +24694,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 
 <p><ent>Gunflint</ent><br/
 <hw>Gun"flint`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A sharpened flint for the lock of a gun, to ignite the charge. It was in common use before the introduction of percussion caps.</def>
-<-- used in the flintlock --><br/
+<!-- used in the flintlock --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gunjah</ent><br/
@@ -24834,7 +24834,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>gun"stone`</hw> <pr>(g<ucr/n"st<omac/n`)</pr>, <pos>n.</pos> <def>A cannon ball; -- so called because originally made of stone.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 659 --></p>
+<p><!-- p. 659 --></p>
 
 <p><ent>Gunter rig</ent><br/
 <hw>Gun"ter rig`</hw> <pr>(?)</pr>. <fld>(Naut.)</fld> <def>A topmast arranged with metal bands so that it will readily slide up and down the lower mast.</def><br/
@@ -25219,7 +25219,7 @@ name of its vowels, used it as freely as he pleased.</q> <rj><qau>Addison.</qau>
 <p><sn>4.</sn> <fld>(Bowling)</fld> <def>Either of two sunken channels at either side of the bowling alley, leading directly to the sunken pit behind the pins.  Balls not thrown accurately at the pins will drop into such a channel bypassing the pins, and resulting in a score of zero for that bowl.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Gutter member</b></col> <fld>(Arch.)</fld>, <cd>an architectural member made by treating the outside face of the gutter in a decorative fashion, or by crowning it with ornaments, regularly spaced, like a diminutive battlement.</cd> -- <col><b>Gutter plane</b></col>, <cd>a carpenter's plane with a rounded bottom for planing out gutters.</cd> -- <col><b>Gutter snipe</b></col>, <cd>a neglected boy running at large; a street Arab.</cd> <mark>[Slang]</mark><-- also guttersnipe. --> -- <col><b>Gutter stick</b></col> <fld>(Printing)</fld>, <cd>one of the pieces of furniture which separate pages in a form.</cd></cs><br/
+<p><cs><col><b>Gutter member</b></col> <fld>(Arch.)</fld>, <cd>an architectural member made by treating the outside face of the gutter in a decorative fashion, or by crowning it with ornaments, regularly spaced, like a diminutive battlement.</cd> -- <col><b>Gutter plane</b></col>, <cd>a carpenter's plane with a rounded bottom for planing out gutters.</cd> -- <col><b>Gutter snipe</b></col>, <cd>a neglected boy running at large; a street Arab.</cd> <mark>[Slang]</mark><!-- also guttersnipe. --> -- <col><b>Gutter stick</b></col> <fld>(Printing)</fld>, <cd>one of the pieces of furniture which separate pages in a form.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gutter</ent><br/
@@ -25377,7 +25377,7 @@ name of its vowels, used it as freely as he pleased.</q> <rj><qau>Addison.</qau>
 <hw>Guyle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To guile.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 660 pr=JMD --></p>
+<p><!-- p. 660 pr=JMD --></p>
 
 <p><ent>Guze</ent><br/
 <hw>Guze</hw> <pr>(g<umac/z)</pr>, <pos>n.</pos> <ety>[Cf. <er>Gules</er>.]</ety> <fld>(Her.)</fld> <def>A roundlet of tincture <xex>sanguine</xex>, which is blazoned without mention of the tincture.</def><br/
@@ -25807,7 +25807,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Gypsy hat</b></col>, <cd>a woman's or child's broad-brimmed hat, usually of straw or felt.</cd> -- <col><b>Gypsy winch</b></col>, <cd>a small winch, which may be operated by a crank, or by a ratchet and pawl through a lever working up and down.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 661 pr=JMD --></p>
+<p><!-- p. 661 pr=JMD --></p>
 
 <p><ent>Gypsy</ent><br/
 <hw>Gyp"sy</hw> <pr>(j<icr/p"s<ycr/)</pr>, <pos>v. i.</pos> <def>To play the gypsy; to picnic in the woods.</def> <wordforms><mark>Mostly</mark>, <wf>Gyp"sy*ing</wf>, <pos>vb. n.</pos></wordforms><br/
@@ -25952,7 +25952,7 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyro-pigeon</ent><br/
-<hw>Gy"ro-pi`geon</hw> <pr>(j<imac/"r<osl/*p<icr/j`<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>gyrare</ets> to revolve + E. <ets>pigeon</ets>.]</ety> <def>A flying object simulating a pigeon in flight, when projected from a spring trap. It is used as a flying target in shooting matches.</def>  <rj><au>Knight.</au></rj><-- ## = clay pigeon --><br/
+<hw>Gy"ro-pi`geon</hw> <pr>(j<imac/"r<osl/*p<icr/j`<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>gyrare</ets> to revolve + E. <ets>pigeon</ets>.]</ety> <def>A flying object simulating a pigeon in flight, when projected from a spring trap. It is used as a flying target in shooting matches.</def>  <rj><au>Knight.</au></rj><!-- ## = clay pigeon --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gyroscope</ent><br/

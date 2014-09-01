@@ -1,4 +1,4 @@
-<-- This file is part 21 of the GNU version of
+<!-- This file is part 21 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -17,7 +17,7 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 1560 pr=PI --></p>
+<p><!-- p. 1560 pr=PI --></p>
 
 <p><centered><point26>U.</point26></centered></p>
 
@@ -465,7 +465,7 @@ So full of <qex>ugly</qex> sights, of ghastly dreams.</q> <rj><qau>Shak.</qau></
 <p><sn>2.</sn> <def>A final demand, the rejection of which may lead to a resort to force or other compelling action by the party presenting the ultimatum.  In international diplomacy, an <ex>ultimatum</ex> may be used as by the demanding country as a signal to other countries that it gave the other country a seemingly reasonable opportunity to avoid a war; in this way, the demanding country may seek to avoid responsibility for starting a war.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 1561 pr=PI --><br/
+<p><!-- p. 1561 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ultime</ent><br/
@@ -550,7 +550,7 @@ So full of <qex>ugly</qex> sights, of ghastly dreams.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ultrared</ent><br/
-<hw>Ul`tra*red"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>ultra-</ets> + <ets>red</ets>.]</ety> <fld>(Physics)</fld> <def>Situated beyond or below the red rays; <as>as, the <ex>ultrated</ex> rays of the spectrum, which are less refrangible than the red</as>.</def><-- now called infrared --><br/
+<hw>Ul`tra*red"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>ultra-</ets> + <ets>red</ets>.]</ety> <fld>(Physics)</fld> <def>Situated beyond or below the red rays; <as>as, the <ex>ultrated</ex> rays of the spectrum, which are less refrangible than the red</as>.</def><!-- now called infrared --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ultratropical</ent><br/
@@ -767,7 +767,7 @@ That hides the blush of waking day.</q> <rj><qau>J. R. Drake.</qau></rj><br/
 <hw>Um*brac`u*li*form</hw> <pr>(<ucr/m*br<acr/k"<usl/*l<icr/*f<ocir/rm)</pr>, <pos>a.</pos> <ety>[L. <ets>umbraculum</ets> any thing that furnishes shade, a bower, umbrella (dim. of <ets>umbra</ets> a shade) + <ets>-form</ets>.]</ety> <def>Having the form of anything that serves to shade, as a tree top, an umbrella, and the like; specifically <fld>(Bot.)</fld>, having the form of an umbrella; umbrella-shaped.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1562 pr=PI --><br/
+<p><!-- p. 1562 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Umbrage</ent><br/
@@ -979,7 +979,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sd>(a)</sd> <def>To adjectives, to denote the absence of the quality designated by the adjective</def>; as, --<br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Note: The (a) list starting at p. 1562 continues to page 1563.
+<p><!-- Note: The (a) list starting at p. 1562 continues to page 1563.
       These lists are formatted as three words across in each main column of the dictionary (pages are three main columns across), i.e., forming three subcolumns in each main column.
    The words are alphabetically increasing as one goes down (not across) each subcolumn, and continuing at the top of the next subcolumn. --><br/
 [<source>1913 Webster</source>]</p>
@@ -1228,7 +1228,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unchary</hw>  <def>See <er>chary</er>.</def><br/
 <hw>Unchastisable</hw>  <def>See <er>chastisable</er>.</def><br/
 <hw>Uncheerful</hw>  <def>See <er>cheerful</er>.</def><br/
-<-- bottom of 2nd column, page 1562. -->
+<!-- bottom of 2nd column, page 1562. -->
 <hw>Uncheery</hw>  <def>See <er>cheery</er>.</def><br/
 <hw>Unchildish</hw>  <def>See <er>childish</er>.</def><br/
 <hw>Unchivalrous</hw>  <def>See <er>chivalrous</er>.</def><br/
@@ -1260,7 +1260,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Uncompellable</hw>  <def>See <er>compellable</er>.</def><br/
 <hw>Uncompetitive</hw>  <def>See <er>competitive</er>.</def><br/
 <hw>Uncomplaisant</hw>  <def>See <er>complaisant</er>.</def><br/
-<hw>Uncompliant</hw> <def>See <er>compliant</er>.</def> <-- was "uncomplaint", probably a typo  -->
+<hw>Uncompliant</hw> <def>See <er>compliant</er>.</def> <!-- was "uncomplaint", probably a typo  -->
 <hw>Uncomplimentary</hw>  <def>See <er>complimentary</er>.</def><br/
 <hw>Unconcealable</hw>  <def>See <er>concealable</er>.</def><br/
 <hw>Unconcurrent</hw>  <def>See <er>concurrent</er>.</def><br/
@@ -1339,7 +1339,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Undivine</hw>  <def>See <er>divine</er>.</def><br/
 <hw>Undomestic</hw>  <def>See <er>domestic</er>.</def><br/
 <hw>Undoubtful</hw>  <def>See <er>doubtful</er>.</def><br/
-<colbreak/<-- end of subcol 1 (of 3) in col 3 (of 3) p. 1562. 
+<colbreak/<!-- end of subcol 1 (of 3) in col 3 (of 3) p. 1562. 
    ca. 110 entries per sub column
 --><br/
 [<source>1913 Webster</source>]</p>
@@ -1568,7 +1568,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <colbreak/</pre><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- start subcol 3 of col 3 of page 1562 --><br/
+<p><!-- start subcol 3 of col 3 of page 1562 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unobjectionable</ent><br/
@@ -1795,11 +1795,11 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <colbreak/</pre><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- end of subcol 3 (of 3) in col 3 (of 3) p. 1562. 
+<p><!-- end of subcol 3 (of 3) in col 3 (of 3) p. 1562. 
    ca. 110 entries per sub column --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1563 ty=CM pr=PI --></p>
+<p><!-- p. 1563 ty=CM pr=PI --></p>
 
 <p><ent>Unzealous</ent><br/
 <ent>Unwritable</ent><br/
@@ -4266,7 +4266,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unmilled</hw>  <def>See <er>milled</er>.</def><br/
 <hw>Unminded</hw>  <def>See <er>minded</er>.</def><br/
 
-<-- p. 1564 ty=CM pr=PI -->
+<!-- p. 1564 ty=CM pr=PI -->
 
 <hw>Unmingled</hw>  <def>See <er>mingled</er>.</def><br/
 <hw>Unmissed</hw>  <def>See <er>missed</er>.</def><br/
@@ -5292,7 +5292,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <p>-- <wordforms><wf>Un`ac*count"a*ble*ness</wf>}, <pos>n.</pos> -- <wf>Un`ac*count"a*bly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1565 pr=PI --><br/
+<p><!-- p. 1565 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unaccurate</ent><br/
@@ -5942,7 +5942,7 @@ And scan his work in vain.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>Un`be*liev"ing</hw>, <pos>a.</pos> <sn>1.</sn> <def>Not believing; incredulous; doubting; distrusting; skeptical.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1566 pr=PI --><br/
+<p><!-- p. 1566 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Believing that the thing alleged is not true; disbelieving; especially, believing that the Bible is not a divine revelation, or that Christ was not a divine or a supernatural person.</def> <ldquo/<xex>Unbelieving</xex> Jews.<rdquo/  <rj><au>Acts xiv. 2.</au></rj><br/
@@ -6586,7 +6586,7 @@ And scan his work in vain.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>Un*chris"ten</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[1st pref. <ets>un-</ets> + <ets> christen</ets>.]</ety> <def>To render unchristian.</def> <mark>[Obs. & R.]</mark>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1567 pr=PI --><br/
+<p><!-- p. 1567 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unchristened</ent><br/
@@ -7129,11 +7129,11 @@ Stalking with less <qex>unconscionable</qex> strides.</q> <rj><qau>Milton.</qau>
 <hw>un*con"scious</hw> <pr>(<ucr/n*k<ocr/n"sh<ucr/s)</pr>, <pos>n.</pos> <fld>(Psychoanalysis)</fld> <def>Usually <col>the unconscious</col>; that part of the mind in which mental processes occur that are not accesible to the awareness, but may significantly influence behavior.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 1568 pr=PI --><br/
+<p><!-- p. 1568 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unconsecrate</ent><br/
-<hw>Un*con"se*crate</hw> <pr>(<ucr/n*k<ocr/n"s<esl/*kr<amac/t)</pr>, <pos>v. t.</pos> <ety>[1st pref. <ets>un-</ets> + <ets>consecrate</ets>.]</ety> <def>To render not sacred; to deprive of sanctity; to desecrate.</def> <mark>[Obs.]</mark><-- deconsecrate? -->  <rj><au>South.</au></rj><br/
+<hw>Un*con"se*crate</hw> <pr>(<ucr/n*k<ocr/n"s<esl/*kr<amac/t)</pr>, <pos>v. t.</pos> <ety>[1st pref. <ets>un-</ets> + <ets>consecrate</ets>.]</ety> <def>To render not sacred; to deprive of sanctity; to desecrate.</def> <mark>[Obs.]</mark><!-- deconsecrate? -->  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unconsequential</ent><br/
@@ -7726,7 +7726,7 @@ Into one place.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sd>(a)</sd> <def>Denoting relation to some thing or person that is superior, weighs upon, oppresses, bows down, governs, directs, influences powerfully, or the like, in a relation of subjection, subordination, obligation, liability, or the like; as, to travel <xex>under</xex> a heavy load; to live <xex>under</xex> extreme oppression; to have fortitude <xex>under</xex> the evils of life; to have patience <xex>under</xex> pain, or <xex>under</xex> misfortunes; to behave like a Christian <xex>under</xex> reproaches and injuries; <xex>under</xex> the pains and penalties of the law; the condition <xex>under</xex> which one enters upon an office; <xex>under</xex> the necessity of obeying the laws; <xex>under</xex> vows of chastity.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1569 pr=PI --><br/
+<p><!-- p. 1569 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Both Jews and Gentiles . . . are all <qex>under</qex> sin.</q> <rj><qau>Rom. iii. 9.</qau></rj><br/
@@ -8327,7 +8327,7 @@ To <qex>undergo</qex> with me an enterprise.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Un"der*hand`ed</hw>, <pos>a.</pos> <sn>1.</sn> <def>Underhand; clandestine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1570 --></p>
+<p><!-- p. 1570 --></p>
 
 <p><sn>2.</sn> <def>Insufficiently provided with hands or workers; short-handed; sparsely populated; <mark>obsolete</mark> in this sense, <altname>short-handed</altname> or <altname>understaffed</altname> being the preferrred term.</def><br/
 [<source>1913 Webster</source> <source>+JG</source>]</p>
@@ -8975,12 +8975,12 @@ Which that the roses and the lilies cast.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>Un"der*stairs`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The basement or cellar.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1571 --><br/
+<p><!-- p. 1571 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Understand</ent><br/
 <hw>Un`der*stand"</hw> <pr>(<ucr/n`d<etil/r*st<acr/nd")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Understood</conjf> <pr>(<ucr/n`d<etil/r*st<oocr/d")</pr>, and <mark>Archaic</mark> <conjf>Understanded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Understanding</conjf>.]</vmorph> <ety>[OE. <ets>understanden</ets>, AS. <ets>understandan</ets>, literally, to stand under; cf. AS. for<ets>standan</ets> to understand, G. ver<ets>stehen</ets>.  The development of sense is not clear.  See <er>Under</er>, and <er>Stand</er>.]</ety> <sn>1.</sn> <def>To have just and adequate ideas of; to apprehended the meaning or intention of; to have knowledge of; to comprehend; to know; <as>as, to <ex>understand</ex> a problem in Euclid; to <ex>understand</ex> a proposition or a declaration; the court <ex>understands</ex> the advocate or his argument; to <ex>understand</ex> the sacred oracles; to <ex>understand</ex> a nod or a wink.</as></def>
-<-- in ety, sic: "development of sense"?? perh. s.b. "development of this sense"?? --><br/
+<!-- in ety, sic: "development of sense"?? perh. s.b. "development of this sense"?? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Speaketh [<it>i. e.</it>, speak thou] so plain at this time, I you pray,<br/
@@ -9259,7 +9259,7 @@ The fairest creature that he ever saw.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Undertone</ent><br/
 <hw>Un"der*tone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A low or subdued tone or utterance; a tone less loud than usual.</def>
-<-- 2. an attitude, usu. conveyed by more than one part of an action or a communication, but not explicitly expressed. --><br/
+<!-- 2. an attitude, usu. conveyed by more than one part of an action or a communication, but not explicitly expressed. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undertook</ent><br/
@@ -9505,7 +9505,7 @@ That brings our friends up from the <qex>underworld</qex>.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undine</ent><br/
-<hw>Un*dine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>undine</ets>, or F. <ets>ondin</ets>, <ets>ondine</ets>, from L. <ets>unda</ets> a wave, water.]</ety> <def>One of a class of fabled female water spirits who might receive a human soul by intermarrying with a mortal.</def><-- a water nymph --><br/
+<hw>Un*dine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>undine</ets>, or F. <ets>ondin</ets>, <ets>ondine</ets>, from L. <ets>unda</ets> a wave, water.]</ety> <def>One of a class of fabled female water spirits who might receive a human soul by intermarrying with a mortal.</def><!-- a water nymph --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undiocesed</ent><br/
@@ -9541,7 +9541,7 @@ That brings our friends up from the <qex>underworld</qex>.</q> <rj><qau>Tennyson
 <hw>Un`dis*cern"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Want of discernment.</def> <mark>[R.]</mark>  <rj><au>Spectator.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1572 --><br/
+<p><!-- p. 1572 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undisclose</ent><br/
@@ -9802,7 +9802,7 @@ She 'd all <qex>undo</qex> that she had done.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undulationist</ent><br/
-<hw>Un`du*la"tion*ist</hw>, <pos>n.</pos> <def>One who advocates the undulatory theory of light.</def><-- Archaic. -->  <rj><au>Whewell.</au></rj><br/
+<hw>Un`du*la"tion*ist</hw>, <pos>n.</pos> <def>One who advocates the undulatory theory of light.</def><!-- Archaic. -->  <rj><au>Whewell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undulative</ent><br/
@@ -9814,7 +9814,7 @@ She 'd all <qex>undo</qex> that she had done.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Undulatory theory</b></col>, <it>or</it> <col><b>Wave theory</b></col></mcol> (of light) <fld>(Opt.)</fld>, <cd>that theory which regards the various phenomena of light as due to undulations in an ethereal medium, propagated from the radiant with immense, but measurable, velocities, and producing different impressions on the retina according to their amplitude and frequency, the sensation of brightness depending on the former, that of color on the latter.  The undulations are supposed to take place, not in the direction of propagation, as in the air waves constituting sound, but transversely, and the various phenomena of refraction, polarization, interference, etc., are attributable to the different affections of these undulations in different circumstances of propagation.  It is computed that the frequency of the undulations corresponding to the several colors of the spectrum ranges from 458 millions of millions per second for the extreme red ray, to 727 millions of millions for the extreme violet, and their lengths for the same colors, from the thirty-eight thousandth to the sixty thousandth part of an inch. The theory of ethereal undulations is applicable not only to the phenomena of light, but also to those of heat.</cd></cs>
-<-- this theory as stated is essentially accepted, but elaborated by quantum theory.  Mention of Maxwell's equations would be appropriate. --><br/
+<!-- this theory as stated is essentially accepted, but elaborated by quantum theory.  Mention of Maxwell's equations would be appropriate. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Undull</ent><br/
@@ -9857,7 +9857,7 @@ She 'd all <qex>undo</qex> that she had done.</q> <rj><qau>Swift.</qau></rj><br/
 <hw>Un*earned"</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not earned; not gained by labor or service.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Unearned increment</b></col> <fld>(Polit. Econ.)</fld>, <cd>a increase in the value of land due to no labor or expenditure on the part of the owner, but to natural causes, such as the increase of population, the growth of a town in the vicinity, or the like. Some hold that this should belong to the nation.</cd></cs><-- these days called windfall profits --><br/
+<p><cs><col><b>Unearned increment</b></col> <fld>(Polit. Econ.)</fld>, <cd>a increase in the value of land due to no labor or expenditure on the part of the owner, but to natural causes, such as the increase of population, the growth of a town in the vicinity, or the like. Some hold that this should belong to the nation.</cd></cs><!-- these days called windfall profits --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unearth</ent><br/
@@ -10131,7 +10131,7 @@ Seems much <qex>unequal</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Un`ex*cep"tion*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not liable to any exception or objection; unobjectionable; faultless; good; excellent; <as>as, a man of most <ex>unexceptionable</ex> character</as>.</def> -- <wordforms><wf>Un`ex*cep"tion*a*ble*ness</wf> <pr>(#)</pr>, <pos>n.</pos> -- <wf>Un`ex*cep"tion*a*bly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1573 --><br/
+<p><!-- p. 1573 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Chesterfield is an <qex>unexceptionable</qex> witness.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -10751,13 +10751,13 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 <p><q>The hours of this <qex>ungodly</qex> day.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 3. outrageous, awful --><br/
+<p><!-- 3. outrageous, awful --><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Un*god"li*ly</wf> <pr>(#)</pr>, <pos>adv.</pos> -- <wf>Un*god"li*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1574 --><br/
+<p><!-- p. 1574 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ungored</ent><br/
@@ -11289,7 +11289,7 @@ Unasked, <qex>unhoped</qex>, have come.</q> <rj><qau>J. N. Newman.</qau></rj><br
 
 <p><ent>Unhusked</ent><br/
 <hw>Un*husked"</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <ety>[Pref. <ets>un-</ets> not + <ets>husked</ets>.]</ety> <def>Not husked; having the husk on.</def>
-<-- #2. "husked" here means having the husk removed.  This word has opposite meanings. --><br/
+<!-- #2. "husked" here means having the husk removed.  This word has opposite meanings. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <ety>[1st pref. <ets>un-</ets> + <ets>husk</ets>, n.]</ety> <def>Having the husk removed; without husk.</def>  <rj><au>Bp. Hall.</au></rj><br/
@@ -11326,7 +11326,7 @@ Unasked, <qex>unhoped</qex>, have come.</q> <rj><qau>J. N. Newman.</qau></rj><br
 <hw>U`ni*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Uni-</ets> + <ets>branchiate</ets>.]</ety> <fld>(Zool.)</fld> <def>Having but one gill, as certain molluscs.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1575 --><br/
+<p><!-- p. 1575 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unicameral</ent><br/
@@ -11714,7 +11714,7 @@ In Denmark's crown have worn.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ The <xex>union</xex> of the United States ensign is a cluster of white stars, denoting the union of the States, and, properly, equal in number to that of the States, displayed on a blue field; the <xex>fly</xex> being composed of alternate stripes of red and white. The <xex>union</xex> of the British ensign is the three crosses of St. George, St. Andrew, and St. Patrick in combination, denoting the union of England, Scotland and Ireland, displayed on a blue field in the national banner used on shore, on a red, white, or blue field in naval ensigns, and with a white border or <xex>fly</xex> in the merchant service.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1576 --><br/
+<p><!-- p. 1576 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <fld>(Mach.)</fld> <def>A joint or other connection uniting parts of machinery, or the like, as the elastic pipe of a tender connecting it with the feed pipe of a locomotive engine; especially, a pipe fitting for connecting pipes, or pipes and fittings, in such a way as to facilitate disconnection.</def><br/
@@ -11983,7 +11983,7 @@ Choral or <qex>unison</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>U*nit"ed</hw>, <pos>a.</pos> <def>Combined; joined; made one.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>United Brethren</b></col>. <fld>(Eccl.)</fld> <cd>See <er>Moravian</er>, <pos>n.</pos></cd> -- <col><b>United flowers</b></col> <fld>(Bot.)</fld>, <cd>flowers which have the stamens and pistils in the same flower.</cd> -- <col><b>The United Kingdom</b></col>, <cd>Great Britain and Ireland; -- so named since January 1, 1801, when the Legislative Union went into operation.</cd><-- ##?? needs to be updated: = <col><b>The United Kingdom fo Great Britain and Northern Ireland</b></col> --> -- <col><b>United Greeks</b></col> <fld>(Eccl.)</fld>, <cd>those members of the Greek Church who acknowledge the supremacy of the pope; -- called also <altname>uniats</altname>.</cd></cs><br/
+<p><cs><col><b>United Brethren</b></col>. <fld>(Eccl.)</fld> <cd>See <er>Moravian</er>, <pos>n.</pos></cd> -- <col><b>United flowers</b></col> <fld>(Bot.)</fld>, <cd>flowers which have the stamens and pistils in the same flower.</cd> -- <col><b>The United Kingdom</b></col>, <cd>Great Britain and Ireland; -- so named since January 1, 1801, when the Legislative Union went into operation.</cd><!-- ##?? needs to be updated: = <col><b>The United Kingdom fo Great Britain and Northern Ireland</b></col> --> -- <col><b>United Greeks</b></col> <fld>(Eccl.)</fld>, <cd>those members of the Greek Church who acknowledge the supremacy of the pope; -- called also <altname>uniats</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unitedly</ent><br/
@@ -12055,7 +12055,7 @@ Choral or <qex>unison</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ The properties of it are derived from its <xex>unity</xex>, which is fourfold; unity of <xex>interest</xex>, unity of <xex>title</xex>, unity of <xex>time</xex>, and unity of <xex>possession</xex>; in other words, joint tenants have one and the same interest, accruing by one and the same conveyance, commencing at the same time, and held by one and the same undivided possession. <xex>Unity of possession</xex> is also a joint possession of two rights in the same thing by several titles, as when a man, having a lease of land, afterward buys the fee simple, or, having an easement in the land of another, buys the servient estate.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1577 --><br/
+<p><!-- p. 1577 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>At unity</b></col>, <cd>at one.</cd> -- <col><b>Unity of type</b></col>. <fld>(Biol.)</fld> <cd>See under <er>Type</er>.</cd></cs><br/
@@ -12544,7 +12544,7 @@ Shall here <qex>unlade</qex> him and depart no more.</q> <rj><qau>Dryden.</qau><
 <p><sn>3.</sn> <fld>(Scots Law)</fld> <def>To impose a fine upon; to fine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1578 --><br/
+<p><!-- p. 1578 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unlaw</ent><br/
@@ -12995,7 +12995,7 @@ With thy black mantle.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Unmentionables</ent><br/
 <hw>Un*men"tion*a*bles</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>The breeches; trousers.</def> <mark>[Jocose]</mark>
-<-- underwear, esp. ladies underwear. --><br/
+<!-- underwear, esp. ladies underwear. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unmerchantable</ent><br/
@@ -13160,7 +13160,7 @@ With thy black mantle.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Un*nec"es*sa*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not necessary; not required under the circumstances; unless; needless; <as>as, <ex>unnecessary</ex> labor, care, or rigor</as>.</def> -- <wordforms><wf>Un*nec"es*sa*ri*ly</wf> <pr>(#)</pr>, <pos>adv.</pos> -- <wf>Un*nec"es*sa*ri*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1579 --><br/
+<p><!-- p. 1579 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unnecessity</ent><br/
@@ -13845,7 +13845,7 @@ The <qex>unnerved</qex> father falls.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Un*pru"dence</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Imprudence.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1580 --><br/
+<p><!-- p. 1580 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unprudent</ent><br/
@@ -14561,7 +14561,7 @@ That may thy tuneful ear <qex>unseason</qex> quite?</q> <rj><qau>Spenser.</qau><
 <p><sn>2.</sn> <def>Specifically, to deprive of the right to sit in a legislative body, as for fraud in election.</def>  <rj><au>Macaulay.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1581 --><br/
+<p><!-- p. 1581 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unseconded</ent><br/
@@ -15192,7 +15192,7 @@ The more judicious Israelites <qex>unspelled</qex>.</q> <rj><qau>Dryden.</qau></
 <p><sn>3.</sn> <def>Not spent in study.</def> <mark>[Obs.]</mark> <ldquo/To cloak the defects of their <xex>unstudied</xex> years.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1582 --><br/
+<p><!-- p. 1582 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unsubstantial</ent><br/
@@ -15876,7 +15876,7 @@ The twine that <qex>untwisteth</qex>, <qex>untwisteth</qex> the twist.</q> <rj><
 <hw>Un*u`su*al"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Unusualness.</def>  <rj><au>Poe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1583 --><br/
+<p><!-- p. 1583 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unutterable</ent><br/
@@ -16040,7 +16040,7 @@ The twine that <qex>untwisteth</qex>, <qex>untwisteth</qex> the twist.</q> <rj><
 <hw>Un*washed"</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not washed or cleansed; filthy; unclean.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- The great unwashed.  people who are not wealthy. --><br/
+<p><!-- The great unwashed.  people who are not wealthy. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unwashen</ent><br/
@@ -16419,7 +16419,7 @@ Or surely you 'll grow double.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>1913 Webster</source>]<br/
 <br/
 <sd>(b)</sd> <fld>(Naut.)</fld> <cd>Vertical; perpendicular; -- said of the cable when the anchor is under, or nearly under, the hawse hole, and the cable is taut.</cd> <au>Totten.</au> -- <col><b>Up helm</b></col> <fld>(Naut.)</fld>, <cd>the order given to move the tiller toward the upper, or windward, side of a vessel.</cd> -- <col><b>Up to snuff</b></col>. <cd>See under <er>Snuff</er>.</cd> <mark>[Slang]</mark> -- <col><b>What is up?</b></col> <cd>What is going on?</cd> <mark>[Slang]</mark></cs>
-<-- what's up? what's happening? --><br/
+<!-- what's up? what's happening? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Up</ent><br/
@@ -16456,7 +16456,7 @@ Or surely you 'll grow double.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>1.</sn> <fld>(Bot.)</fld> <def>A tree (<spn>Antiaris toxicaria</spn>) of the Breadfruit family, common in the forests of Java and the neighboring islands. Its secretions are poisonous, and it has been fabulously reported that the atmosphere about it is deleterious. Called also <altname>bohun upas</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1584 --><br/
+<p><!-- p. 1584 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A virulent poison used in Java and the adjacent islands for poisoning arrows. One kind, <stype>upas antiar</stype>, is derived from the upas tree (<spn>Antiaris toxicaria</spn>). <stype>Upas tieute</stype> is prepared from a climbing plant (<spn>Strychnos Tieute</spn>).</def><br/
@@ -17062,7 +17062,7 @@ That sparkling blazed.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Up*right"eous*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[See <er>Righteous</er>.]</ety> <def>In an upright or just manner.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1585 --><br/
+<p><!-- p. 1585 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Uprightly</ent><br/
@@ -17683,7 +17683,7 @@ And down ward fish.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Uranium</ent><br/
-<hw>U*ra"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Uranus</ets> the planet. See <er>Uranus</er>.]</ety> <fld>(Chem.)</fld> <def>An element of the chromium group, found in certain rare minerals, as pitchblende, uranite, etc., and reduced as a heavy, hard, nickel-white metal which is quite permanent. Its yellow oxide is used to impart to glass a delicate greenish-yellow tint which is accompanied by a strong fluorescence, and its black oxide is used as a pigment in porcelain painting. Symbol U. Atomic weight 239. <--radioactive, U-235 isotope is used in atomic fission, in bombs or power plants --></def><br/
+<hw>U*ra"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Uranus</ets> the planet. See <er>Uranus</er>.]</ety> <fld>(Chem.)</fld> <def>An element of the chromium group, found in certain rare minerals, as pitchblende, uranite, etc., and reduced as a heavy, hard, nickel-white metal which is quite permanent. Its yellow oxide is used to impart to glass a delicate greenish-yellow tint which is accompanied by a strong fluorescence, and its black oxide is used as a pigment in porcelain painting. Symbol U. Atomic weight 239. <!--radioactive, U-235 isotope is used in atomic fission, in bombs or power plants --></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Uranium was discovered in the state of an oxide by Klaproth in 1789, and so named in honor of Herschel's discovery of the planet <etsep>Uranus</etsep> in 1781.</note><br/
@@ -17692,7 +17692,7 @@ And down ward fish.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Uran-ochre</ent><br/
 <ent>Uran-ocher</ent><br/
 <mhw>{ <hw>U"ran-o`cher</hw>, <hw>U"ran-o`chre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>uranochre</ets>.]</ety> <fld>(Min.)</fld> <sd>(a)</sd> <def>A yellow, earthy incrustation, consisting essentially of the oxide of uranium, but more or less impure.</def>
-<-- #sic.  No (b) appeared in the original. --><br/
+<!-- #sic.  No (b) appeared in the original. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Uranographical</ent><br/
@@ -17736,7 +17736,7 @@ And down ward fish.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>U`ra*no"so-</hw> <pr>(<?/)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>A combining form (also used adjectively) from <ets>uranium</ets>; -- used in naming certain complex compounds; <as>as in <ex>uranoso</ex>-uranic oxide, <ex>uranoso</ex>-uranic sulphate</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1586 --><br/
+<p><!-- p. 1586 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Uranous</ent><br/
@@ -17912,7 +17912,7 @@ That lies in us.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><note><hand/ It is the main product of the regressive metamorphosis (katabolism) of proteid matter in the body, and is excreted daily to the amount of about 500 grains by a man of average weight. Chemically it is carbamide, <chform>CO(NH2)2</chform>, and when heated with strong acids or alkalies is decomposed into carbonic acid and ammonia. It unites with acids to form salts, as nitrate of urea, and it can be made synthetically from ammonium cyanate, with which it is isomeric.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Urea ferment</b></col>, <cd>a soluble ferment formed by certain bacteria, which, however, yield the ferment from the body of their cells only after they have been killed by alcohol. It causes urea to take up water and decompose into carbonic acid and ammonia. Many different bacteria possess this property, especially <spn>Bacterium ureae</spn> and <spn>Micrococcus ureae</spn>, which are found abundantly in urines undergoing alkaline fermentation.</cd></cs><-- = urease --><br/
+<p><cs><col><b>Urea ferment</b></col>, <cd>a soluble ferment formed by certain bacteria, which, however, yield the ferment from the body of their cells only after they have been killed by alcohol. It causes urea to take up water and decompose into carbonic acid and ammonia. Many different bacteria possess this property, especially <spn>Bacterium ureae</spn> and <spn>Micrococcus ureae</spn>, which are found abundantly in urines undergoing alkaline fermentation.</cd></cs><!-- = urease --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ureal</ent><br/
@@ -18144,7 +18144,7 @@ Did <qex>urge</qex> me in his act; I did inquire it.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Urinary calculus</b></col> <fld>(Med.)</fld>, <cd>a concretion composed of some one or more crystalline constituents of the urine, liable to be found in any portion of the urinary passages or in the pelvis of the kidney.</cd> -- <col><b>Urinary pigments</b></col>, <fld>(Physiol. Chem.)</fld>, <cd>certain colored substances, <xex>urochrome</xex>, or <xex>urobilin</xex>, <xex>uroerythrin</xex>, etc., present in the urine together with <xex>indican</xex>, a colorless substance which by oxidation is convertible into colored bodies.</cd></cs>
-<-- urinary tract --><br/
+<!-- urinary tract --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Urinary</ent><br/
@@ -18198,7 +18198,7 @@ Did <qex>urge</qex> me in his act; I did inquire it.</q> <rj><qau>Shak.</qau></r
 <hw>U`ri*nom"e*try</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The estimation of the specific gravity of urine by the urinometer.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1587 --><br/
+<p><!-- p. 1587 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Urinous</ent><br/
@@ -18577,7 +18577,7 @@ In courteous <qex>usage</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Custom; use; habit.</syn> <usage> -- <er>Usage</er>, <er>Custom</er>. These words, as here compared, agree in expressing the idea of habitual practice; but a <xex>custom</xex> is not necessarily a <xex>usage</xex>. A <xex>custom</xex> may belong to many, or to a single individual. A <xex>usage</xex> properly belongs to the great body of a people. Hence, we speak of <xex>usage</xex>, not of <xex>custom</xex>, as the law of language. Again, a <xex>custom</xex> is merely that which has been <xex>often</xex> repeated, so as to have become, in a good degree, established. A <xex>usage</xex> must be both often repeated and of <xex>long standing</xex>. Hence, we speak of a <ldquo/hew <xex>custom</xex>,<rdquo/ but not of a <ldquo/new <xex>usage</xex>.<rdquo/  Thus, also, the <ldquo/<xex>customs</xex> of society<rdquo/ is not so strong an expression as the <ldquo/<xex>usages</xex> of society.<rdquo/  <ldquo/<xex>Custom</xex>, a greater power than nature, seldom fails to make them worship.<rdquo/ <au>Locke.</au> <ldquo/Of things once received and confirmed by use, long <xex>usage</xex> is a law sufficient.<rdquo/ <au>Hooker.</au> In law, the words <xex>usage</xex> and <xex>custom</xex> are often used interchangeably, but the word <xex>custom</xex> also has a technical and restricted sense. See <er>Custom</er>, <pos>n.</pos>, 3.</usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1588 --><br/
+<p><!-- p. 1588 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Usager</ent><br/
@@ -19032,7 +19032,7 @@ More terrible than magic spell.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>1.</sn> <def>The act of usurping, or of seizing and enjoying; an authorized, arbitrary assumption and exercise of power, especially an infringing on the rights of others; specifically, the illegal seizure of sovereign power; -- commonly used with <xex>of</xex>, also used with <xex>on</xex> or <xex>upon</xex>; <as>as, the <ex>usurpation</ex> of a throne; the <ex>usurpation</ex> of the supreme power</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1589 --><br/
+<p><!-- p. 1589 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He contrived their destruction, with the <qex>usurpation</qex> of the regal dignity upon him.</q> <rj><qau>Sir T. More.</qau></rj><br/
@@ -19506,7 +19506,7 @@ To that large <qex>utterance</qex> of the early gods!</q> <rj><qau>Keats.</qau><
 <hw>Ut"ter*most</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From <er>Utter</er>, <pos>a.</pos>; cf. <er>Utmost</er>, and <er>Outermost</er>.]</ety> <def>Extreme; utmost; being; in the farthest, greatest, or highest degree; <as>as, the <ex>uttermost</ex> extent or end</as>.</def> <ldquo/In this <xex>uttermost</xex> distress.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1590 pr=PI --><br/
+<p><!-- p. 1590 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Uttermost</ent><br/

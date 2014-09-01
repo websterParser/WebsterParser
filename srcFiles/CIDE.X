@@ -1,4 +1,4 @@
-<-- This file is part 24 of the GNU version of
+<!-- This file is part 24 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -173,7 +173,7 @@
 <hw>Xan`tho*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xanqo`s</grk> yellow + <grk>"ri`za</grk> root.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubby ranunculaceous plants of North America, including only the species <spn>Xanthorhiza apiifolia</spn>, which has roots of a deep yellow color; yellowroot. The bark is intensely bitter, and is sometimes used as a tonic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1671 --><br/
+<p><!-- p. 1671 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Xanthorhoea</ent><br/
@@ -741,7 +741,7 @@
 <hw>Xy`lo*py*rog"ra*phy</hw> <pr>(?)</pr>. <pos>n.</pos> <ety>[<ets>Xylo-</ets> + Gr. <?/, <?/, fire + <ets>-graphy</ets>.]</ety> <def>The art or practice of burning pictures on wood with a hot iron; -- called also <altname>wood burning</altname> and <altname>poker painting</altname>.  See <cref>Poker picture</cref>, under <er>Poker</er>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><-- p. 1672 --><br/
+<p><!-- p. 1672 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Xyloquinone</ent><br/

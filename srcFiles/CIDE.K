@@ -1,4 +1,4 @@
-<-- This file is part 11 of the GNU version of
+<!-- This file is part 11 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -17,7 +17,7 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 808 --></p>
+<p><!-- p. 808 --></p>
 
 <p><centered><point26>K.</point26></centered><br/
 [<source>1913 Webster</source>]</p>
@@ -357,7 +357,7 @@
 \'d8<hw>Ka"ma</hw> <pr>(k<aum/"m<aum/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<amac/ma</ets> love, the god of love.]</ety> <sn>1.</sn> <def>The Hindu Cupid. He is represented as a beautiful youth, with a bow of sugar cane or flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <col><b>ka"ma ru"pa</b></col> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <col><b>ka"ma lo"ca</b></col> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><-- not the same as karma --><br/
+<p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <col><b>ka"ma ru"pa</b></col> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <col><b>ka"ma lo"ca</b></col> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><!-- not the same as karma --><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kamala</ent><br/
@@ -435,7 +435,7 @@
 <hw>kan"ga*roo"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Said to be the native name.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of jumping marsupials of the family <fam>Macropodid<ae/</fam>.  They inhabit <country>Australia</country>, New Guinea, and adjacent islands, They have long and strong hind legs and a large tail, while the fore legs are comparatively short and feeble.  The giant kangaroo (<spn>Macropus major</spn>) is the largest species, sometimes becoming twelve or fourteen feet in total length.  The tree kangaroos, belonging to the genus <gen>Dendrolagus</gen>, live in trees; the rock kangaroos, of the genus <gen>Petrogale</gen>, inhabit rocky situations; and the brush kangaroos, of the genus <gen>Halmaturus</gen>, inhabit wooded districts. See <er>Wallaby</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 809 --></p>
+<p><!-- p. 809 --></p>
 
 <p><cs><col><b>Kangaroo apple</b></col> <fld>(Bot.)</fld>, <cd>the edible fruit of the Tasmanian plant <spn>Solanum aviculare</spn>.</cd> -- <col><b>Kangaroo grass</b></col> <fld>(Bot.)</fld>, <cd>a perennial Australian forage grass (<spn>Anthistiria australis</spn>).</cd> -- <col><b>Kangaroo hare</b></col> <fld>(Zool.)</fld>, <cd>the jerboa kangaroo. See under <er>Jerboa</er>.</cd> -- <col><b>Kangaroo mouse</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Jumping mouse</cref>, under <er>Jumping</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -941,7 +941,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 <p><cs><col><b>Cross keelson</b></col>, <cd>a similar structure lying athwart the main keelson, to support the engines and boilers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 810 --></p>
+<p><!-- p. 810 --></p>
 
 <p><ent>Keelvat</ent><br/
 <hw>Keel"vat`</hw> <pr>(k<emac/l"v<acr/t`)</pr>, <pos>n.</pos> <def>See <er>Keelfat</er>.</def><br/
@@ -1434,7 +1434,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Kel"vin</hw> <pr>(k<ecr/l"v<icr/n)</pr>, <pos>n.</pos> <ety>[from Lord <ets>Kelvin</ets>, English physicist.]</ety> <def>The SI unit of temperature, defined as being 1/273.16 of the triple point of water; abbreviated <abbr>K</abbr>.  The melting point of water at 760 mm pressure is 273.15 Kelvins, and the boiling point 373.15 Kelvins.  One degree Kelvin is equal to one degree Centigrade, and <frac95/ degrees Fahrenheit.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 811 --></p>
+<p><!-- p. 811 --></p>
 
 <p><ent>Kemb</ent><br/
 <hw>Kemb</hw> <pr>(k<ecr/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kembed</conjf> <pr>(k<ecr/md)</pr> or <conjf>Kempt</conjf> (k<ecr/mt; 215); <pos>p. pr. & vb. n.</pos> <conjf>Kembing</conjf>.]</vmorph> <ety>[OE. <ets>kemben</ets>, AS. <ets>cemban</ets>, fr. <ets>camb</ets> comb.]</ety> <def>To comb.</def> <mark>[Obs.]</mark><br/
@@ -1972,7 +1972,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <p><note><hand/ The ketones are named by adding the suffix-<xex>one</xex> to the stems of the organic acids from which they are respectively derived; thus, <xex>acetic</xex> acid gives acetone; <xex>butyric</xex> acid, <xex>butyrone</xex>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 812 --></p>
+<p><!-- p. 812 --></p>
 
 <p><ent>Ketonic</ent><br/
 <hw>Ke*ton"ic</hw> <pr>(k<esl/*t<ocr/n"<icr/k)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or derived from, a ketone; <as>as, a <ex>ketonic</ex> acid</as>.</def><br/
@@ -1990,7 +1990,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <ex>Kettledrums</ex>, in pairs, were formerly used in martial music for cavalry, but are now chiefly confined to orchestras, where they are called <altname>tympani</altname>.</note>
-<-- illustr. of kettledrum here. --><br/
+<!-- illustr. of kettledrum here. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An informal social party at which a light collation is offered, held in the afternoon or early evening.  Cf. <er>Drum</er>, <pos>n.</pos>, 4 and 5.</def><br/
@@ -2617,7 +2617,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>Kid"ney</hw> <pr>(k<icr/d"n<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Kidneys</plw> <pr>(k<icr/d"n<icr/z)</pr>.</plu>  <ety>[OE. <ets>kidnei</ets>, <ets>kidnere</ets>, from Icel. <ets>koi<edh/r</ets> belly, womb (akin to Goth. <ets>gipus</ets>, AS. <ets>cwi<thorn/</ets> womb) + OE. <ets>nere</ets> kidney; akin to D. <ets>nier</ets>, G. <ets>niere</ets>, OHG. <ets>nioro</ets>, Icel. <ets>n<ymac/ra</ets>, Dan. <ets>nyre</ets>, Sw. <ets>njure</ets>, and probably to Gr. <grk>nefro`s</grk> Cf. <er>Kite</er> belly.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 813 --></p>
+<p><!-- p. 813 --></p>
 
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>A glandular organ which excretes urea and other waste products from the animal body; a urinary gland.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3155,7 +3155,7 @@ And snows his power in variable <qex>kinds</qex> !</q> <rj><qau>Spenser.</qau></
 <p><syn><b>Syn.</b> -- Enkindle; light; ignite; inflame; provoke; excite; arouse; stir up.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 814 --></p>
+<p><!-- p. 814 --></p>
 
 <p><ent>Kindle</ent><br/
 <hw>Kin"dle</hw> <pr>(k<icr/n"d'l)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To take fire; to begin to burn with flame; to start as a flame.</def><br/
@@ -3509,7 +3509,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>King"fish`</hw> <pr>(k<icr/ng"f<icr/sh`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>An American marine food fish of the genus <gen>Menticirrus</gen>, especially <spn>Menticirrus saxatilis</spn>, or <spn>Menticirrus nebulosos</spn>, of the Atlantic coast; -- called also <altname>whiting</altname>, <altname>surf whiting</altname>, and <altname>barb</altname>.</def> <sd>(b)</sd> <def>The opah.</def> <sd>(c)</sd> <def>The common cero; also, the spotted cero. See <er>Cero</er>.</def> <sd>(d)</sd> <def>The queenfish.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 815 --></p>
+<p><!-- p. 815 --></p>
 
 <p><ent>Kingfisher</ent><br/
 <hw>King"fish`er</hw> <pr>(k<icr/ng"f<icr/sh`<etil/r)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of numerous species of birds constituting the family <fam>Alcedinid<ae/</fam>. Most of them feed upon fishes which they capture by diving and seizing them with the beak; others feed only upon reptiles, insects, etc. About one hundred and fifty species are known. They are found in nearly all parts of the world, but are particularly abundant in the East Indies.</def><br/
@@ -3666,7 +3666,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Kinology</ent><br/
 <hw>Ki*nol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>kinei^n</grk> to move + <ets>-logy</ets>.]</ety> <def>That branch of physics which treats of the laws of motion, or of moving bodies.</def>
-<-- kinetics? mechanics? --><br/
+<!-- kinetics? mechanics? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kinone</ent><br/
@@ -3768,7 +3768,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kipper</ent><br/
-<hw>Kip"per</hw>, <pos>a.</pos> <def>Amorous; also, lively; light-footed; nimble; gay; sprightly.</def> <mark>[Prov. Eng.]</mark><-- = chipper? -->  <rj><au>Halliwell.</au></rj><br/
+<hw>Kip"per</hw>, <pos>a.</pos> <def>Amorous; also, lively; light-footed; nimble; gay; sprightly.</def> <mark>[Prov. Eng.]</mark><!-- = chipper? -->  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kippernut</ent><br/
@@ -4052,7 +4052,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <hw>Kitch"en*maid`</hw> <pr>(k<icr/ch"<ecr/n*m<amac/d`)</pr>, <pos>n.</pos> <def>A woman employed in the kitchen.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 816 --></p>
+<p><!-- p. 816 --></p>
 
 <p><ent>Kitchen middens</ent><br/
 <hw>Kitch"en mid`dens</hw> <pr>(k<icr/ch"<ecr/n m<icr/d`d'nz)</pr> <pos>n. pl.</pos> <ety>[Dan. <ets>kj<oum/k-kenm<oum/ddings</ets> kitchen leavings; cf. Scot. <ets>midden</ets> a dunghill.]</ety> <def>Relics of neolithic man found on the coast of Denmark, consisting of shell mounds, some of which are ten feet high, one thousand feet long, and two hundred feet wide. The name is applied also to similar mounds found on the American coast from Canada to Florida, made by the North American Indians.</def><br/
@@ -4620,7 +4620,7 @@ Thus to make poor females mad.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Knee breeches</b></col>. <cd>See under <er>Breeches</er>.</cd> -- <mcol><col><b>Knee holly</b></col>, <col><b>Knee holm</b></col></mcol> <fld>(Bot.)</fld>, <cd>butcher's broom.</cd> -- <col><b>Knee joint</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>Knee timber</b></col>, <cd>timber with knees or angles in it.</cd> -- <mcol><col><b>Knee tribute</b></col>, or <col><b>Knee worship</b></col></mcol>, <cd>tribute paid by kneeling; worship by genuflection.</cd> <mark>[Obs.]</mark> <ldquo/<xex>Knee tribute</xex> yet unpaid.<rdquo/  <rj><au>Milton.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 817 --></p>
+<p><!-- p. 817 --></p>
 
 <p><ent>Knee</ent><br/
 <hw>Knee</hw> <pr>(n<emac/)</pr>, <pos>v. t.</pos> <def>To supplicate by kneeling.</def> <mark>[Obs.]</mark><br/
@@ -5188,10 +5188,10 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>3.</sn> <def>To practice evil speaking or fault-finding; to criticize habitually or captiously.</def> <mark>[Slang, U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>To knock about</b></col>, <cd>to go about, taking knocks or rough usage; to wander about; to saunter.</cd> <mark>[Colloq.]</mark> <ldquo/<xex>Knocking about town</xex>.<rdquo/ <au>W. Irving.</au> -- <col><b>To knock up</b></col>, <cd>to fail of strength; to become wearied or worn out, as with labor; to give out.</cd> <ldquo/The horses were beginning to <xex>knock up</xex> under the fatigue of such severe service.<rdquo/ <au>De Quincey.</au><-- (b) to make pregnant (vulgar) --> -- <col><b>To knock off</b></col>, <cd>to cease, as from work; to desist.</cd> -- <col><b>To knock under</b></col>, <cd>to yield; to submit; to acknowledge one's self conquered; -- an expression probably borrowed from the practice of <xex>knocking under the table</xex> with the knuckles, when conquered.</cd> <ldquo/Colonel Esmond <xex>knocked under</xex> to his fate.<rdquo/ <au>Thackeray.</au></cs><br/
+<p><cs><col><b>To knock about</b></col>, <cd>to go about, taking knocks or rough usage; to wander about; to saunter.</cd> <mark>[Colloq.]</mark> <ldquo/<xex>Knocking about town</xex>.<rdquo/ <au>W. Irving.</au> -- <col><b>To knock up</b></col>, <cd>to fail of strength; to become wearied or worn out, as with labor; to give out.</cd> <ldquo/The horses were beginning to <xex>knock up</xex> under the fatigue of such severe service.<rdquo/ <au>De Quincey.</au><!-- (b) to make pregnant (vulgar) --> -- <col><b>To knock off</b></col>, <cd>to cease, as from work; to desist.</cd> -- <col><b>To knock under</b></col>, <cd>to yield; to submit; to acknowledge one's self conquered; -- an expression probably borrowed from the practice of <xex>knocking under the table</xex> with the knuckles, when conquered.</cd> <ldquo/Colonel Esmond <xex>knocked under</xex> to his fate.<rdquo/ <au>Thackeray.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 818 --></p>
+<p><!-- p. 818 --></p>
 
 <p><ent>Knock</ent><br/
 <hw>Knock</hw> <pr>(n<ocr/k)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To strike with something hard or heavy; to move by striking; to drive (a thing) against something; <as>as, to <ex>knock</ex> a ball with a bat; to <ex>knock</ex> the head against a post; to <ex>knock</ex> a lamp off the table.</as></def><br/
@@ -5815,7 +5815,7 @@ Hath trifled former <qex>knowings</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>We consider and <qex>knowleche</qex> that we have offended.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 819 --></p>
+<p><!-- p. 819 --></p>
 
 <p><ent>Knowleching</ent><br/
 <hw>Knowl"ech*ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Knowledge.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -6228,7 +6228,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>kopeck</ent><br/
-<hw>ko"peck</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> Eng. <plw>kopecks</plw>, Russ. <plw>kopeek</plw>.</plu> <ety>[Russ. <ets>kopeika</ets>.]</ety> <def>A small Russian coin, continued as a unit of currency within the Soviet Union.  One hundred kopecks make a ruble.  The ruble was worth about sixty cents (U. S.) in 1910; in 1991 a two-kopeck coin could be used for a local telephone call at a pay telephone.  After the breakup of the Soviet Union in 1993, the exchange value of the ruble declined rapidly and by the end of 1994 the ruble was worth three hundredths of a cent, and by 1997 two hundredths of a cent. By 1993, the kopek had become of such small value that it was obsolete and no longer minted.</def> <altsp>[Written also <asp>kopek</asp>, <asp>copec</asp>, and <asp>copeck</asp>.]</altsp><--  ##?? After the revaluation of the Ruble in 1998, the kopeck was ?? --><br/
+<hw>ko"peck</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> Eng. <plw>kopecks</plw>, Russ. <plw>kopeek</plw>.</plu> <ety>[Russ. <ets>kopeika</ets>.]</ety> <def>A small Russian coin, continued as a unit of currency within the Soviet Union.  One hundred kopecks make a ruble.  The ruble was worth about sixty cents (U. S.) in 1910; in 1991 a two-kopeck coin could be used for a local telephone call at a pay telephone.  After the breakup of the Soviet Union in 1993, the exchange value of the ruble declined rapidly and by the end of 1994 the ruble was worth three hundredths of a cent, and by 1997 two hundredths of a cent. By 1993, the kopek had become of such small value that it was obsolete and no longer minted.</def> <altsp>[Written also <asp>kopek</asp>, <asp>copec</asp>, and <asp>copeck</asp>.]</altsp><!--  ##?? After the revaluation of the Ruble in 1998, the kopeck was ?? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>koppie</ent><br/
@@ -6466,7 +6466,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <p><cs><col><b>Hare Krishnas</b></col> <cd>A popular name for the group <altname>International Society for Krishna Consciousness</altname> (abbreviated <altname>ISKCON</altname>), devotees of Krishna, founded in 1966 by <person>A. C. Bhaktivedanta Swami Prabhupada</person> (born 1896, died 1977).  They are called thus because of their frequent public chanting of the words <ldquo/Hare Krishna<rdquo/.</cd></cs><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 820 --></p>
+<p><!-- p. 820 --></p>
 
 <p><ent>Kritarchy</ent><br/
 <hw>Kri"tarch*y</hw> <pr>(kr<imac/"t<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>krith`s</grk> judge + <grk>'archh`</grk> beginning, government.]</ety> <def>The rule of the judges over Israel.</def><br/
@@ -6814,4 +6814,4 @@ As he had <qex>kyked</qex> on the newe moon.</q> <rj><qau>Chaucer.</qau></rj><br
 \'d8<hw>Ky`to*plas"ma</hw> <pr>(k<imac/`t<osl/*pl<acr/z"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ky`tos</grk> a hollow vessel + <grk>pla`sma</grk> thing molded.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyoplasma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 821 --></p>
+<p><!-- p. 821 --></p>

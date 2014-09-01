@@ -1,4 +1,4 @@
-<-- This file is part 23 of the GNU version of
+<!-- This file is part 23 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -17,7 +17,7 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 1621 --></p><br/
+<p><!-- p. 1621 --></p><br/
 
 <p><centered><point26>W.</point26></centered><br/
 [<source>1913 Webster</source>]</p>
@@ -36,7 +36,7 @@
 
 <p><ent>Wabble</ent><br/
 <hw>Wab"ble</hw> <pr>(w<ocr/b"b'l)</pr>, <pos>v. i.</pos> <ety>[Cf. Prov. G. <ets>wabbeln</ets> to wabble, and E. <ets>whap</ets>.  Cf. <er>Quaver</er>.]</ety> <def>To move staggeringly or unsteadily from one side to the other; to vacillate; to move the manner of a rotating disk when the axis of rotation is inclined to that of the disk; -- said of a turning or whirling body; <as>as, a top <ex>wabbles</ex>; a buzz saw <ex>wabbles</ex></as>.</def>
-<-- now replaced by <er>wobble.</er>, same pronunciation --><br/
+<!-- now replaced by <er>wobble.</er>, same pronunciation --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wabble</ent><br/
@@ -478,7 +478,7 @@ It secretly to carry.</q> <rj><qau>Drayton.</qau></rj><br/
 <hw>Wa"gen*boom`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D., literally, wagon tree.]</ety> <fld>(Bot.)</fld> <def>A south African proteaceous tree (<spn>Protea grandiflora</spn>); also, its tough wood, used for making wagon wheels.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1622 --><br/
+<p><!-- p. 1622 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>wager</ent><br/
@@ -941,7 +941,7 @@ I wot right well, I am but dead,<rdquo/ quoth she.</q> <rj><qau>Chaucer.</qau></
 <p><q>Haste, my dear father; 't is no time to <qex>wait</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1623 --><br/
+<p><!-- p. 1623 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To wait on</b></col> <it>or</it> <col><b>To wait upon</b></col></mcol>. <sd>(a)</sd> <cd>To attend, as a servant; to perform services for; <as>as, to <ex>wait on</ex> a gentleman; <ex>to wait on</ex> the table</as>.</cd> <ldquo/Authority and reason <xex>on</xex> her <xex>wait</xex>.<rdquo/ <au>Milton.</au> <ldquo/I must <xex>wait on</xex> myself, must I?<rdquo/ <au>Shak.</au> <sd>(b)</sd> <cd>To attend; to go to see; to visit on business or for ceremony.</cd> <sd>(c)</sd> <cd>To follow, as a consequence; to await.</cd> <ldquo/That ruin that <xex>waits on</xex> such a supine temper.<rdquo/ <au>Dr. H. More.</au> <sd>(d)</sd> <cd>To look watchfully at; to follow with the eye; to watch.</cd> <mark>[R.]</mark> <ldquo/It is a point of cunning <xex>to wait upon</xex> him with whom you speak with your eye.<rdquo/ <au>Bacon.</au> <sd>(e)</sd> <cd>To attend to; to perform.</cd> <ldquo/Aaron and his sons . . . shall <xex>wait on</xex> their priest's office.<rdquo/ <au>Num. iii. 10.</au> <sd>(f)</sd> <fld>(Falconry)</fld> <cd>To fly above its master, waiting till game is sprung; -- said of a hawk.</cd> <au>Encyc. Brit.</au></cs><br/
@@ -1038,7 +1038,7 @@ And everlasting anguish be thy portion.</q> <rj><qau>Rowe.</qau></rj><br/
 
 <p><ent>Waitress</ent><br/
 <hw>Wait"ress</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A female waiter or attendant; a waiting maid or waiting woman.</def>
-<-- esp. one employed in a commercial dining establishment, who takes the customers' orders, brings the meals, and otherwise serves the customers who are seated at a table or counter. --><br/
+<!-- esp. one employed in a commercial dining establishment, who takes the customers' orders, brings the meals, and otherwise serves the customers who are seated at a table or counter. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Waive</ent><br/
@@ -1408,7 +1408,7 @@ May <qex>walk</qex> again.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>He will make their cows and garrans to <qex>walk</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To walk</b></col><cd> in, to go in; to enter, as into a house.</cd> -- <col><b>To walk after the flesh</b></col> <fld>(Script.)</fld>, <cd>to indulge sensual appetites, and to live in sin.</cd> <au>Rom. viii. 1.</au> -- <col><b>To walk after the Spirit</b></col> <fld>(Script.)</fld>, <cd>to be guided by the counsels and influences of the Spirit, and by the word of God.</cd> <au>Rom. viii. 1.</au> -- <col><b>To walk by faith</b></col> <fld>(Script.)</fld>, <cd>to live in the firm belief of the gospel and its promises, and to rely on Christ for salvation.</cd> <au>2 Cor. v. 7.</au> -- <col><b>To walk in darkness</b></col> <fld>(Script.)</fld>, <cd>to live in ignorance, error, and sin.</cd> <au>1 John i. 6.</au> -- <col><b>To walk in the flesh</b></col> <fld>(Script.)</fld>, <cd>to live this natural life, which is subject to infirmities and calamities.</cd> <au>2 Cor. x. 3.</au> -- <col><b>To walk in the light</b></col> <fld>(Script.)</fld>, <cd>to live in the practice of religion, and to enjoy its consolations.</cd> <au>1 John i. 7.</au> -- <col><b>To walk over</b></col>, <cd>in racing, to go over a course at a walk; -- said of a horse when there is no other entry; hence, colloquially, to gain an easy victory in any contest.</cd><-- = to win in a walk. --> -- <col><b>To walk through the fire</b></col> <fld>(Script.)</fld>, <cd>to be exercised with severe afflictions.</cd> <au>Isa. xliii. 2.</au> -- <col><b>To walk with God</b></col> <fld>(Script.)</fld>, <cd>to live in obedience to his commands, and have communion with him.</cd></cs><br/
+<p><cs><col><b>To walk</b></col><cd> in, to go in; to enter, as into a house.</cd> -- <col><b>To walk after the flesh</b></col> <fld>(Script.)</fld>, <cd>to indulge sensual appetites, and to live in sin.</cd> <au>Rom. viii. 1.</au> -- <col><b>To walk after the Spirit</b></col> <fld>(Script.)</fld>, <cd>to be guided by the counsels and influences of the Spirit, and by the word of God.</cd> <au>Rom. viii. 1.</au> -- <col><b>To walk by faith</b></col> <fld>(Script.)</fld>, <cd>to live in the firm belief of the gospel and its promises, and to rely on Christ for salvation.</cd> <au>2 Cor. v. 7.</au> -- <col><b>To walk in darkness</b></col> <fld>(Script.)</fld>, <cd>to live in ignorance, error, and sin.</cd> <au>1 John i. 6.</au> -- <col><b>To walk in the flesh</b></col> <fld>(Script.)</fld>, <cd>to live this natural life, which is subject to infirmities and calamities.</cd> <au>2 Cor. x. 3.</au> -- <col><b>To walk in the light</b></col> <fld>(Script.)</fld>, <cd>to live in the practice of religion, and to enjoy its consolations.</cd> <au>1 John i. 7.</au> -- <col><b>To walk over</b></col>, <cd>in racing, to go over a course at a walk; -- said of a horse when there is no other entry; hence, colloquially, to gain an easy victory in any contest.</cd><!-- = to win in a walk. --> -- <col><b>To walk through the fire</b></col> <fld>(Script.)</fld>, <cd>to be exercised with severe afflictions.</cd> <au>Isa. xliii. 2.</au> -- <col><b>To walk with God</b></col> <fld>(Script.)</fld>, <cd>to live in obedience to his commands, and have communion with him.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Walk</ent><br/
@@ -1479,7 +1479,7 @@ The murmuring <qex>walks</qex> like rain.</q> <rj><qau>Bryant.</qau></rj><br/
 <p><sn>9.</sn>  <fld>(Sporting)</fld> <sd>(a)</sd> <def>A place for keeping and training puppies.</def> <sd>(b)</sd> <def>An inclosed area of some extent to which a gamecock is confined to prepare him for fighting.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><-- p. 1624 --><br/
+<p><!-- p. 1624 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Walkable</ent><br/
@@ -1831,7 +1831,7 @@ That with his singing <qex>walled</qex> that city.</q> <rj><qau>Chaucer.</qau></
 <hw>Wal"nut</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>walnot</ets>, AS. <ets>wealh-hnutu</ets> a Welsh or foreign nut, a walnut; <ets>wealh</ets> foreign, strange, n., a Welshman, Celt (akin to OHG. <ets>Walh</ets>, properly, a Celt, from the name of a Celtic tribe, in L. <ets>Volcae</ets>) + <ets>hnutu</ets> a nut; akin to D. <ets>walnoot</ets>, G. <ets>walnuss</ets>, Icel. <ets>valhnot</ets>, Sw. <ets>valn<oum/t</ets>, Dan <ets>valn<oum/d</ets>.  See <er>Nut</er>, and cf. <er>Welsh</er>.]</ety> <fld>(Bot.)</fld> <def>The fruit or nut of any tree of the genus <gen>Juglans</gen>; also, the tree, and its timber. The seven or eight known species are all natives of the north temperate zone.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1625 --><br/
+<p><!-- p. 1625 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In some parts of America, especially in New England, the name <xex>walnut</xex> is given to several species of hickory (<gen>Carya</gen>), and their fruit.</note><br/
@@ -2277,7 +2277,7 @@ What <qex>wants</qex> in blood and spirits, swelled with wind.</q> <rj><qau>Pope
 <hw>Want"ing</hw>, <pos>a.</pos> <def>Absent; lacking; missing; also, deficient; destitute; needy; <as>as, one of the twelve is <ex>wanting</ex>; I shall not be <ex>wanting</ex> in exertion</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1626 --><br/
+<p><!-- p. 1626 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wantless</ent><br/
@@ -2469,7 +2469,7 @@ Only for <qex>wantonness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Wapper</ent><br/
 <hw>Wap"per</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A gudgeon.</def>  <mark>[Prov. Eng.]</mark>
-<-- ## The Zool. mark was in square brackets, inconsistent with normal usage. --><br/
+<!-- ## The Zool. mark was in square brackets, inconsistent with normal usage. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wappet</ent><br/
@@ -2708,7 +2708,7 @@ Dealing an equal share to every <qex>ward</qex>.</q> <rj><qau>Dryden.</qau></rj>
 <p><q>The lock is made . . . more secure by attaching <qex>wards</qex> to the front, as well as to the back, plate of the lock, in which case the key must be furnished with corresponding notches.</q> <rj><qau>Tomlinson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1627 --><br/
+<p><!-- p. 1627 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Ward penny</b></col> <fld>(O. Eng. Law)</fld>, <cd> money paid to the sheriff or castellan for watching and warding a castle.</cd> -- <col><b>Ward staff</b></col>, <cd>a constable's or watchman's staff.</cd> <mark>[Obs.]</mark></cs><br/
@@ -2776,7 +2776,7 @@ From thousand dangers.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An officer who keeps or guards; a keeper; <as>as, the <ex>warden</ex> of a prison</as>.</def>
-<-- chief officer of a prison. --><br/
+<!-- chief officer of a prison. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A head official; <as>as, the <ex>warden</ex> of a college</as>; specifically <fld>(Eccl.)</fld>, a churchwarden.</def><br/
@@ -3222,7 +3222,7 @@ With their caps of darkness hooded!</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><q>Bright hopes, that erst bosom <qex>warmed</qex>.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1628 --><br/
+<p><!-- p. 1628 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Warm</ent><br/
@@ -3672,7 +3672,7 @@ That justice <qex>warrants</qex>, and that wisdom guides.</q> <rj><qau>Addison.<
 <p><q>They say the world is much <qex>warre</qex> than it wont.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1629 --><br/
+<p><!-- p. 1629 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Warren</ent><br/
@@ -3845,7 +3845,7 @@ That justice <qex>warrants</qex>, and that wisdom guides.</q> <rj><qau>Addison.<
 <p><q>[The landscape] <qex>washed</qex> with a cold, gray mist.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To waste or abrade by the force of water in motion; <as>as, heavy rains <ex>wash</ex> a road or an embankment</as>.</def><-- now, wash out. --><br/
+<p><sn>3.</sn> <def>To waste or abrade by the force of water in motion; <as>as, heavy rains <ex>wash</ex> a road or an embankment</as>.</def><!-- now, wash out. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>To remove by washing to take away by, or as by, the action of water; to drag or draw off as by the tide; -- often with <xex>away</xex>, <xex>off</xex>, <xex>out</xex>, etc.; <as>as, to <ex>wash</ex> dirt from the hands</as>.</def><br/
@@ -4167,7 +4167,7 @@ That justice <qex>warrants</qex>, and that wisdom guides.</q> <rj><qau>Addison.<
 <p><cs><col><b>Digger wasp</b></col>, <cd>any one of numerous species of solitary wasps that make their nests in burrows which they dig in the ground, as the sand wasps.  See <cref>Sand wasp</cref>, under <er>Sand</er>.</cd> -- <col><b>Mud wasp</b></col>. <cd>See under <er>Mud</er>.</cd> -- <col><b>Potter wasp</b></col>. <cd>See under <er>Potter</er>.</cd> -- <col><b>Wasp fly</b></col>, <cd>a species of fly resembling a wasp, but without a sting.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1630 --><br/
+<p><!-- p. 1630 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Waspish</ent><br/
@@ -4485,7 +4485,7 @@ And Vulcan rides in triumph o'er the <qex>waste</qex>.</q> <rj><qau>Dryden.</qau
 
 <p><ent>Wasting</ent><br/
 <hw>Wast"ing</hw>, <pos>a.</pos> <def>Causing waste; also, undergoing waste; diminishing; <as>as, a <ex>wasting</ex> disease; a <ex>wasting</ex> fortune.</as></def>
-<-- wasting asset = 2nd sense.  Should be separate senses. --><br/
+<!-- wasting asset = 2nd sense.  Should be separate senses. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Wasting palsy</b></col> <fld>(Med.)</fld>, <cd>progressive muscular atrophy.  See under <er>Progressive</er>.</cd></cs><br/
@@ -4552,7 +4552,7 @@ Or whistle from the lodge, or village cock<br/
 Count the night <qex>watches</qex> to his feathery dames.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>A small timepiece, or chronometer, to be carried about the person, the machinery of which is moved by a spring.</def><-- or electric or electronic mechanisms. --><br/
+<p><sn>5.</sn> <def>A small timepiece, or chronometer, to be carried about the person, the machinery of which is moved by a spring.</def><!-- or electric or electronic mechanisms. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Watches are often distinguished by the kind of escapement used, as an <stype>anchor watch</stype>, a <stype>lever watch</stype>, a <stype>chronometer watch</stype>, etc. (see the Note under <er>Escapement</er>, <pos>n.</pos>, 3); also, by the kind of case, as a <stype>gold</stype> or <stype>silver watch</stype>, an <stype>open-faced watch</stype>, a <stype>hunting watch</stype>, or <stype>hunter</stype>, etc.</note><br/
@@ -4561,7 +4561,7 @@ Count the night <qex>watches</qex> to his feathery dames.</q> <rj><qau>Milton.</
 <p><sn>6.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>An allotted portion of time, usually four hour for standing watch, or being on deck ready for duty.   Cf. <er>Dogwatch</er>.</def>  <sd>(b)</sd> <def>That part, usually one half, of the officers and crew, who together attend to the working of a vessel for an allotted time, usually four hours. The watches are designated as the <stype>port watch</stype>, and the <stype>starboard watch</stype>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Anchor watch</b></col> <fld>(Naut.)</fld>, <cd>a detail of one or more men who keep watch on deck when a vessel is at anchor.</cd> -- <col><b>To be on the watch</b></col>, <cd>to be looking steadily for some event.</cd> -- <col><b>Watch and ward</b></col> <fld>(Law)</fld>, <cd>the charge or care of certain officers to keep a watch by night and a guard by day in towns, cities, and other districts, for the preservation of the public peace.</cd> <au>Wharton.</au>  <au>Burrill.</au> -- <col><b>Watch and watch</b></col> <fld>(Naut.)</fld>, <cd>the regular alternation in being on watch and off watch of the two watches into which a ship's crew is commonly divided.</cd> -- <col><b>Watch barrel</b></col>, <cd>the brass box in a watch, containing the mainspring.</cd> -- <col><b>Watch bell</b></col> <fld>(Naut.)</fld>, <cd>a bell struck when the half-hour glass is run out, or at the end of each half hour.</cd> <au>Craig.</au> -- <col><b>Watch bill</b></col> <fld>(Naut.)</fld>, <cd>a list of the officers and crew of a ship as divided into watches, with their stations.</cd> <au>Totten.</au> -- <col><b>Watch case</b></col>, <cd>the case, or outside covering, of a watch; also, a case for holding a watch, or in which it is kept.</cd> -- <col><b>Watch chain</b></col>. <cd>Same as <cref>watch guard</cref>, below.</cd> -- <col><b>Watch clock</b></col>, <cd>a watchman's clock; see under <er>Watchman</er>.</cd> -- <col><b>Watch fire</b></col>, <cd>a fire lighted at night, as a signal, or for the use of a watch or guard.</cd> -- <col><b>Watch glass</b></col>. <sd>(a)</sd> <cd>A concavo-convex glass for covering the face, or dial, of a watch; -- also called <altname>watch crystal</altname>.</cd> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>A half-hour glass used to measure the time of a watch on deck.</cd><-- (c) <fld>(Chem.)</fld> <cd>A round concavo-convex glass of shallow depth used for certain manipulations of chemicals in a laboratory.</cd> --> -- <col><b>Watch guard</b></col>, <cd>a chain or cord by which a watch is attached to the person.</cd> -- <col><b>Watch gun</b></col> <fld>(Naut.)</fld>, <cd>a gun sometimes fired on shipboard at 8 p. m., when the night watch begins.</cd> -- <col><b>Watch light</b></col>, <cd>a low-burning lamp used by watchers at night; formerly, a candle having a rush wick.</cd> -- <col><b>Watch night</b></col>, <cd>The last night of the year; -- so called by the Methodists, Moravians, and others, who observe it by holding religious meetings lasting until after midnight.</cd> -- <col><b>Watch paper</b></col>, <cd>an old-fashioned ornament for the inside of a watch case, made of paper cut in some fanciful design, as a vase with flowers, etc.</cd> -- <col><b>Watch tackle</b></col> <fld>(Naut.)</fld>, <cd>a small, handy purchase, consisting of a tailed double block, and a single block with a hook.</cd></cs><br/
+<p><cs><col><b>Anchor watch</b></col> <fld>(Naut.)</fld>, <cd>a detail of one or more men who keep watch on deck when a vessel is at anchor.</cd> -- <col><b>To be on the watch</b></col>, <cd>to be looking steadily for some event.</cd> -- <col><b>Watch and ward</b></col> <fld>(Law)</fld>, <cd>the charge or care of certain officers to keep a watch by night and a guard by day in towns, cities, and other districts, for the preservation of the public peace.</cd> <au>Wharton.</au>  <au>Burrill.</au> -- <col><b>Watch and watch</b></col> <fld>(Naut.)</fld>, <cd>the regular alternation in being on watch and off watch of the two watches into which a ship's crew is commonly divided.</cd> -- <col><b>Watch barrel</b></col>, <cd>the brass box in a watch, containing the mainspring.</cd> -- <col><b>Watch bell</b></col> <fld>(Naut.)</fld>, <cd>a bell struck when the half-hour glass is run out, or at the end of each half hour.</cd> <au>Craig.</au> -- <col><b>Watch bill</b></col> <fld>(Naut.)</fld>, <cd>a list of the officers and crew of a ship as divided into watches, with their stations.</cd> <au>Totten.</au> -- <col><b>Watch case</b></col>, <cd>the case, or outside covering, of a watch; also, a case for holding a watch, or in which it is kept.</cd> -- <col><b>Watch chain</b></col>. <cd>Same as <cref>watch guard</cref>, below.</cd> -- <col><b>Watch clock</b></col>, <cd>a watchman's clock; see under <er>Watchman</er>.</cd> -- <col><b>Watch fire</b></col>, <cd>a fire lighted at night, as a signal, or for the use of a watch or guard.</cd> -- <col><b>Watch glass</b></col>. <sd>(a)</sd> <cd>A concavo-convex glass for covering the face, or dial, of a watch; -- also called <altname>watch crystal</altname>.</cd> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>A half-hour glass used to measure the time of a watch on deck.</cd><!-- (c) <fld>(Chem.)</fld> <cd>A round concavo-convex glass of shallow depth used for certain manipulations of chemicals in a laboratory.</cd> --> -- <col><b>Watch guard</b></col>, <cd>a chain or cord by which a watch is attached to the person.</cd> -- <col><b>Watch gun</b></col> <fld>(Naut.)</fld>, <cd>a gun sometimes fired on shipboard at 8 p. m., when the night watch begins.</cd> -- <col><b>Watch light</b></col>, <cd>a low-burning lamp used by watchers at night; formerly, a candle having a rush wick.</cd> -- <col><b>Watch night</b></col>, <cd>The last night of the year; -- so called by the Methodists, Moravians, and others, who observe it by holding religious meetings lasting until after midnight.</cd> -- <col><b>Watch paper</b></col>, <cd>an old-fashioned ornament for the inside of a watch case, made of paper cut in some fanciful design, as a vase with flowers, etc.</cd> -- <col><b>Watch tackle</b></col> <fld>(Naut.)</fld>, <cd>a small, handy purchase, consisting of a tailed double block, and a single block with a hook.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Watch</ent><br/
@@ -4628,7 +4628,7 @@ Their earthy charge.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Paris <qex>watched</qex> the flocks in the groves of Ida.</q> <rj><qau>Broome.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1631 --><br/
+<p><!-- p. 1631 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Watchdog</ent><br/
@@ -5021,7 +5021,7 @@ Their earthy charge.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Wa"ter crake`</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <sd>(a)</sd> <def>The dipper.</def>  <sd>(b)</sd> <def>The spotted crake (<spn>Porzana maruetta</spn>).  See <xex>Illust.</xex> of <er>Crake</er>.</def>  <sd>(c)</sd> <def>The swamp hen, or crake, of Australia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1632 --><br/
+<p><!-- p. 1632 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Water crane</ent><br/
@@ -5127,7 +5127,7 @@ Their earthy charge.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Wa"ter*fall`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A fall, or perpendicular descent, of the water of a river or stream, or a descent nearly perpendicular; a cascade; a cataract.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Hairdressing)</fld> <def>An arrangement of a woman's back hair over a cushion or frame in some resemblance to a waterfall.</def><-- = a fall? --><br/
+<p><sn>2.</sn> <fld>(Hairdressing)</fld> <def>An arrangement of a woman's back hair over a cushion or frame in some resemblance to a waterfall.</def><!-- = a fall? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A certain kind of neck scarf.</def>  <rj><au>T. Hughes.</au></rj><br/
@@ -5341,7 +5341,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>water jacket</ent><br/
-<-- <hw>water jacket</hw>.  A chamber surrounding a vessel or tube in which water may be circulated, thereby regulating the temperature or supply of heat to the vessel.  Used in laboratory and manufacturing equipment.<br/
+<!-- <hw>water jacket</hw>.  A chamber surrounding a vessel or tube in which water may be circulated, thereby regulating the temperature or supply of heat to the vessel.  Used in laboratory and manufacturing equipment.<br/
 [<source>1913 Webster</source>]</p>
 
 <p>  water-jacketed.  adj. Having a water jacket; -- as, a water-jacketed condenser. --><br/
@@ -5501,11 +5501,11 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Wa"ter mite`</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>Any of numerous species of aquatic mites belonging to <gen>Hydrachna</gen> and allied genera of the family <fam>Hydrachnidae</fam>, usually having the legs fringed and adapted for swimming. They are often red or red and black in color, and while young are parasites of fresh-water insects and mussels.  Called also <altname>water tick</altname>, and <altname>water spider</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1633 --><br/
+<p><!-- p. 1633 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Water moccasin</ent><br/
-<hw>Wa"ter moc"ca*sin</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>A venomous North American snake (<spn>Ancistrodon piscivorus</spn>) allied to the rattlesnake but destitute of a rattle. It lives in or about pools and ponds, and feeds largely of fishes. Called also <altname>water snake</altname>, <altname>water adder</altname>, <altname>water viper</altname>.</def><-- called also cottonmouth, cottonmouth moccasin, and cottonmouth water moccasin. --><br/
+<hw>Wa"ter moc"ca*sin</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>A venomous North American snake (<spn>Ancistrodon piscivorus</spn>) allied to the rattlesnake but destitute of a rattle. It lives in or about pools and ponds, and feeds largely of fishes. Called also <altname>water snake</altname>, <altname>water adder</altname>, <altname>water viper</altname>.</def><!-- called also cottonmouth, cottonmouth moccasin, and cottonmouth water moccasin. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Water mole</ent><br/
@@ -5758,7 +5758,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Waterscape</ent><br/
 <hw>Wa"ter*scape"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Landscape</er>.]</ety> <def>A sea view; -- distinguished from <contr>landscape</contr>.</def>  <mark>[Jocose]</mark>
-<-- painting. -->  <rj><au>Fairholt.</au></rj><br/
+<!-- painting. -->  <rj><au>Fairholt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Water scorpion</ent><br/
@@ -5967,7 +5967,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Wa"ter twist`</hw> <pr>(w<add/"t<etil/r tw<icr/st`)</pr>. <def>Yarn made by the throstle, or water frame.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1634 --><br/
+<p><!-- p. 1634 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Water vine</ent><br/
@@ -6035,7 +6035,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>An hydraulic apparatus, or a system of works or fixtures, by which a supply of water is furnished for useful or ornamental purposes, including dams, sluices, pumps, aqueducts, distributing pipes, fountains, etc.; -- used chiefly in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Water works.  The plant and equipment used to purify water for drinking and other purposes, and to supply it to the mains of a town. --><br/
+<p><!-- Water works.  The plant and equipment used to purify water for drinking and other purposes, and to supply it to the mains of a town. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Waterworn</ent><br/
@@ -6440,7 +6440,7 @@ To <qex>waver</qex>, or fall <qex>off and join with idols</qex>.</q> <rj><qau>Mi
 <p><cs><col><b>Japanese wax</b></col>, <cd>a waxlike substance made in Japan from the berries of certain species of <gen>Rhus</gen>, esp. <spn>Rhus succedanea</spn>.</cd> -- <col><b>Mineral wax</b></col>. <fld>(Min.)</fld> <cd>See <er>Wax</er>, 2 <sd>(f)</sd>, above.</cd> -- <col><b>Wax cloth</b></col>. <cd>See <cref>Waxed cloth</cref>, under <er>Waxed</er>.</cd> -- <col><b>Wax end</b></col>. <cd>See <cref>Waxed end</cref>, under <er>Waxed</er>.</cd> -- <col><b>Wax flower</b></col>, <cd>a flower made of, or resembling, wax.</cd> -- <col><b>Wax insect</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of scale insects belonging to the family <fam>Coccidae</fam>, which secrete from their bodies a waxlike substance, especially the Chinese wax insect (<spn>Coccus Sinensis</spn>) from which a large amount of the commercial Chinese wax is obtained. Called also <altname>pela</altname>.</cd> -- <col><b>Wax light</b></col>, <cd>a candle or taper of wax.</cd> -- <col><b>Wax moth</b></col> <fld>(Zool.)</fld>, <cd>a pyralid moth (<spn>Galleria cereana</spn>) whose larvae feed upon honeycomb, and construct silken galleries among the fragments. The moth has dusky gray wings streaked with brown near the outer edge. The larva is yellowish white with brownish dots. Called also <altname>bee moth</altname>.</cd> -- <col><b>Wax myrtle</b></col>. <fld>(Bot.)</fld> <cd>See <er>Bayberry</er>.</cd> -- <col><b>Wax painting</b></col>, <cd>a kind of painting practiced by the ancients, under the name of <xex>encaustic</xex>. The pigments were ground with wax, and diluted. After being applied, the wax was melted with hot irons and the color thus fixed.</cd> -- <col><b>Wax palm</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A species of palm (<spn>Ceroxylon Andicola</spn>) native of the Andes, the stem of which is covered with a secretion, consisting of two thirds resin and one third wax, which, when melted with a third of fat, makes excellent candles.</cd> <sd>(b)</sd> <cd>A Brazilian tree (<spn>Copernicia cerifera</spn>) the young leaves of which are covered with a useful waxy secretion.</cd> -- <col><b>Wax paper</b></col>, <cd>paper prepared with a coating of white wax and other ingredients.</cd> -- <col><b>Wax plant</b></col> <fld>(Bot.)</fld>, <cd>a name given to several plants</cd>, as: <sd>(a)</sd> <cd>The Indian pipe (see under <er>Indian</er>).</cd> <sd>(b)</sd> <cd>The <spn>Hoya carnosa</spn>, a climbing plant with polished, fleshy leaves.</cd> <sd>(c)</sd> <cd>Certain species of <gen>Begonia</gen> with similar foliage.</cd> -- <col><b>Wax tree</b></col> <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A tree or shrub (<spn>Ligustrum lucidum</spn>) of China, on which certain insects make a thick deposit of a substance resembling white wax.</cd> <sd>(b)</sd> <cd>A kind of sumac (<spn>Rhus succedanea</spn>) of Japan, the berries of which yield a sort of wax.</cd> <sd>(c)</sd> <cd>A rubiaceous tree (<spn>Elaeagia utilis</spn>) of New Grenada, called by the inhabitants <ldquo/<xex>arbol del cera</xex>.<rdquo/</cd> -- <col><b>Wax yellow</b></col>, <cd>a dull yellow, resembling the natural color of beeswax.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1635 --><br/
+<p><!-- p. 1635 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wax</ent><br/
@@ -6919,7 +6919,7 @@ Till Henry be more <qex>weak</qex>, and I more strong.</q> <rj><qau>Shak.</qau><
 <p><note><hand/ <ex>Weak</ex> is often used in the formation of self-explaining compounds; as, <ex>weak</ex>-eyed, <ex>weak</ex>-handed, <ex>weak</ex>-hearted, <ex>weak</ex>-minded, <ex>weak</ex>-spirited, and the like.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1636 --><br/
+<p><!-- p. 1636 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Weak conjugation</b></col> <fld>(Gram.)</fld>, <cd>the conjugation of weak verbs; -- called also <altname>new conjugation</altname>, <it>or</it> <altname>regular conjugation</altname>, and distinguished from the <contr>old conjugation</contr>, or <contr>irregular conjugation</contr>.</cd> -- <col><b>Weak declension</b></col> <fld>(Anglo-Saxon Gram.)</fld>, <cd>the declension of weak nouns; also, one of the declensions of adjectives.</cd> -- <col><b>Weak side</b></col>, <cd>the side or aspect of a person's character or disposition by which he is most easily affected or influenced; weakness; infirmity.</cd> -- <mcol><col><b>weak sore</b></col> <it>or</it>  <col><b>weak ulcer</b></col></mcol> <fld>(Med.)</fld>, <cd>a sore covered with pale, flabby, sluggish granulations.</cd></cs><br/
@@ -7363,7 +7363,7 @@ And fluttered into rags.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>A man would die, though he were neither valiant nor miserable, only upon a <qex>weariness</qex> to do the same thing so oft over and over.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1637 --><br/
+<p><!-- p. 1637 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wearing</ent><br/
@@ -7869,7 +7869,7 @@ Pommel rich stone, hilt gold.</q> <rj><qau>Fairfax.</qau></rj><br/
 <p><sn>10.</sn> <fld>(Zool.)</fld> <def>The series of barbs implanted on each side of the shaft of a feather, whether stiff and united together by barbules, as in ordinary feathers, or soft and separate, as in downy feathers.  See <er>Feather</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1638 --><br/
+<p><!-- p. 1638 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Pin and web</b></col> <fld>(Med.)</fld>, <cd>two diseases of the eye, caligo and pterygium; -- sometimes wrongly explained as one disease.  See <er>Pin</er>, <pos>n.</pos>, 8, and <er>Web</er>, <pos>n.</pos>, 8.</cd> <ldquo/He never yet had <xex>pinne</xex> or <xex>webbe</xex>, his sight for to decay.<rdquo/ <au>Gascoigne.</au> -- <col><b>Web member</b></col> <fld>(Engin.)</fld>, <cd>one of the braces in a web system.</cd> -- <col><b>Web press</b></col>, <cd>a printing press which takes paper from a roll instead of being fed with sheets.</cd> -- <col><b>Web system</b></col> <fld>(Engin.)</fld>, <cd>the system of braces connecting the flanges of a lattice girder, post, or the like.</cd></cs><br/
@@ -8328,7 +8328,7 @@ Crouched fawning in the <qex>weed</qex>.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>She was as <qex>weedy</qex> as in the early days of her mourning.</q> <rj><qau>Dickens.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1639 --><br/
+<p><!-- p. 1639 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Week</ent><br/
@@ -8491,7 +8491,7 @@ Through dreary wastes, and <qex>weep</qex> each other's woe.</q> <rj><qau>Pope.<
 <p><cs><col><b>Weeping cross</b></col>, <cd>a cross erected on or by the highway, especially for the devotions of penitents; hence, <xex>to return by the weeping cross</xex>, to return from some undertaking in humiliation or penitence.</cd> -- <col><b>Weeping rock</b></col>, <cd>a porous rock from which water gradually issues.</cd> -- <col><b>Weeping sinew</b></col>, <cd>a ganglion.  See <er>Ganglion</er>, <pos>n.</pos>, 2.</cd> <mark>[Colloq.]</mark> -- <col><b>Weeping spring</b></col>, <cd>a spring that discharges water slowly.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Illustr. of Weeping willow. --></p>
+<p><!-- Illustr. of Weeping willow. --></p>
 
 <p><ent>weeping beech</ent><br/
 <hw>weeping beech</hw> <pos>n.</pos> <def>a variety of European beech (<spn>Fagus pendula</spn>, <spn>Fagus sylvatica</spn> <varn>pendula</varn>) with pendulous limbs.</def><br/
@@ -8573,7 +8573,7 @@ Through dreary wastes, and <qex>weep</qex> each other's woe.</q> <rj><qau>Pope.<
 <hw>Wee"ver</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably from F. <ets>vive</ets>, OF. <ets>vivre</ets>, a kind of fish, L. <ets>vipera</ets> viper.  Cf. <er>Viper</er>.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of edible marine fishes belonging to the genus <gen>Trachinus</gen>, of the family <fam>Trachinidae</fam>. They have a broad spinose head, with the eyes looking upward. The long dorsal fin is supported by numerous strong, sharp spines which cause painful wounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Illustr. of Great weever (Trachinus draco) --><br/
+<p><!-- Illustr. of Great weever (Trachinus draco) --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The two British species are the great, or greater, weever (<spn>Trachinus draco</spn>), which becomes a foot long (called also <stype>gowdie</stype>, <stype>sea cat</stype>, <stype>stingbull</stype>, and <stype>weaverfish</stype>), and the lesser weever (<spn>Trachinus vipera</spn>), about half as large (called also <stype>otter pike</stype>, and <stype>stingfish</stype>).</note><br/
@@ -8843,7 +8843,7 @@ Once set on ringing, with his own <qex>weight</qex> goes.</q> <rj><qau>Shak.</qa
 <p><sn>4.</sn> <fld>(Math.)</fld> <def>to assign a numerical value expressing relative importance to (a measurement), to be multiplied by the value of the measurement in determining averages or other aggregate quantities; <as>as, they <ex>weighted</ex> part one of the test twice as heavily as part 2</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 1640 --><br/
+<p><!-- p. 1640 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Weightily</ent><br/
@@ -9363,7 +9363,7 @@ In measure what the mind may <qex>well</qex> contain.</q> <rj><qau>Milton.</qau>
 <p><q>I am as <qex>well-bred</qex> as the earl's granddaughter.</q> <rj><qau>Thackera<?/.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1641 --><br/
+<p><!-- p. 1641 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Welldoer</ent><br/
@@ -9687,7 +9687,7 @@ Without the meed of some melodious tear.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Welwitschia</ent><br/
-\'d8<hw>Wel*witsch"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after the discoverer, Dr. <person>Friedrich <etsep>Welwitsch</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An African plant (<spn>Welwitschia mirabilis</spn>) belonging to the order <ord>Gnetaceae</ord>. It consists of a short, woody, topshaped stem, and never more than two leaves, which are the cotyledons enormously developed, and at length split into diverging segments.</def><-- sic --><br/
+\'d8<hw>Wel*witsch"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after the discoverer, Dr. <person>Friedrich <etsep>Welwitsch</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An African plant (<spn>Welwitschia mirabilis</spn>) belonging to the order <ord>Gnetaceae</ord>. It consists of a short, woody, topshaped stem, and never more than two leaves, which are the cotyledons enormously developed, and at length split into diverging segments.</def><!-- sic --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wem</ent><br/
@@ -9932,7 +9932,7 @@ A man to light a candle at his lantern.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>Werre</hw> <pr>(?)</pr>, <pos>n.</pos> <def>War.</def>  <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1642 --><br/
+<p><!-- p. 1642 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Werrey</ent><br/
@@ -10344,7 +10344,7 @@ Or <qex>wet</qex> the thirsty earth with falling showers.</q> <rj><qau>Milton.</
 
 <p><ent>Whale</ent><br/
 <hw>Whale</hw>, <pos>n.</pos> <ety>[OE. <ets>whal</ets>, AS. <ets>hw<ae/l</ets>; akin to D. <ets>wal</ets>visch, G. <ets>wal</ets>, <ets>wal</ets>fisch, OHG. <ets>wal</ets>, Icel. <ets>hvalr</ets>, Dan. & Sw. <ets>hval</ets>, <ets>hval</ets>fisk.  Cf. <er>Narwhal</er>, <er>Walrus</er>.]</ety> <fld>(Zool.)</fld> <def>Any aquatic mammal of the order <ord>Cetacea</ord>, especially any one of the large species, some of which become nearly one hundred feet long. Whales are hunted chiefly for their oil and baleen, or whalebone.</def>
-<-- since the 1920's and the replacement of whale oil by petroleum products and electricity, whales have been hunted primarily for their meat.  Due to dramatic decreases in the whale population, the International Whaling Commission was formed to regulate the hunt, so as to avoid extinction of the endangered species.  In the 1990's, only a few countries continued to hunt whales in significant numbers. --><br/
+<!-- since the 1920's and the replacement of whale oil by petroleum products and electricity, whales have been hunted primarily for their meat.  Due to dramatic decreases in the whale population, the International Whaling Commission was formed to regulate the hunt, so as to avoid extinction of the endangered species.  In the 1990's, only a few countries continued to hunt whales in significant numbers. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The existing whales are divided into two groups: the toothed whales (<fam>Odontocete</fam>), including those that have teeth, as the cachalot, or sperm whale (see <er>Sperm whale</er>); and the baleen, or whalebone, whales (<fam>Mysticete</fam>), comprising those that are destitute of teeth, but have plates of baleen hanging from the upper jaw, as the right whales. The most important species of whalebone whales are the bowhead, or Greenland, whale (see <xex>Illust.</xex> of <er>Right whale</er>), the Biscay whale, the Antarctic whale, the gray whale (see under <er>Gray</er>), the humpback, the finback, and the rorqual.</note><br/
@@ -10463,7 +10463,7 @@ Or <qex>wet</qex> the thirsty earth with falling showers.</q> <rj><qau>Milton.</
 <p><ent>Whopping</ent><br/
 <ent>Whapping</ent><br/
 <mhw>{ <hw>Whap"ping</hw> <pr>(?)</pr>, <hw>Whop"ping</hw>  }</mhw>, <pos>a.</pos> <def>Very large; monstrous; astonishing; <as>as, a <ex>whapping</ex> story</as>.</def>  <mark>[Colloq.]</mark>
-<-- now usu. whopping. --><br/
+<!-- now usu. whopping. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wharf</ent><br/
@@ -10489,7 +10489,7 @@ Knight and burgher, lord and dame.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><cs><col><b>Wharf boat</b></col>, <cd>a kind of boat moored at the bank of a river, and used for a wharf, in places where the height of the water is so variable that a fixed wharf would be useless.</cd> <mark>[U. S.]</mark> <au>Bartlett.</au> -- <col><b>Wharf rat</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common brown rat.</cd> <sd>(b)</sd> <cd>A neglected boy who lives around the wharfs.</cd> <mark>[Slang]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1643 --><br/
+<p><!-- p. 1643 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wharf</ent><br/
@@ -10636,7 +10636,7 @@ Knight and burgher, lord and dame.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><note><hand/ In such phrases as <xex>I tell you what</xex>, <xex>what</xex> anticipates the following statement, being elliptical for <xex>what I think</xex>, <xex>what it is</xex>, <xex>how it is</xex>, etc.  <ldquo/I tell thee <xex>what</xex>, corporal Bardolph, I could tear her.<rdquo/ <au>Shak.</au>  Here <xex>what</xex> relates to the last clause, <ldquo/I could tear her;<rdquo/  this is what I tell you.<br/
 <br/
    <xex>What not</xex> is often used at the close of an enumeration of several particulars or articles, it being an abbreviated clause, the verb of which, being either the same as that of the principal clause or a general word, as <xex>be</xex>, <xex>say</xex>, <xex>mention</xex>, <xex>enumerate</xex>, etc., is omitted. <ldquo/Men hunt, hawk, and <xex>what not</xex>.<rdquo/ <au>Becon.</au> <ldquo/Some dead puppy, or log, or <xex>what not</xex>.<rdquo/ <au>C. Kingsley.</au> <ldquo/Battles, tournaments, hunts, and <xex>what not</xex>.<rdquo/ <au>De Quincey.</au> Hence, the words are often used in a general sense with the force of a substantive, equivalent to <xex>anything you please</xex>, <xex>a miscellany</xex>, <xex>a variety</xex>, etc.  From this arises the name <xex>whatnot</xex>, applied to an <xex><eacute/tag<egrave/re</xex>, as being a piece of furniture intended for receiving miscellaneous articles of use or ornament.
-<-- also called a whatnot shelf --><br/
+<!-- also called a whatnot shelf --><br/
 [<source>1913 Webster</source>]</p>
 
 <p>   <xex>But what</xex> is used for <xex>but that</xex>, usually after a negative, and excludes everything contrary to the assertion in the following sentence. <ldquo/Her needle is not so absolutely perfect in tent and cross stitch <xex>but what</xex> my superintendence is advisable.<rdquo/ <au>Sir W. Scott.</au> <ldquo/Never fear <xex>but what</xex> our kite shall fly as high.<rdquo/ <au>Ld. Lytton.</au></note><br/
@@ -10879,7 +10879,7 @@ An you call him a-down-a.<br/
 O, how the <qex>wheel</qex> becomes it!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1644 --><br/
+<p><!-- p. 1644 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A bicycle or a tricycle; a velocipede.</def><br/
@@ -11384,7 +11384,7 @@ Should have been cherished by her childlike duty.</q> <rj><qau>Shak.</qau></rj><
 <p><sn>2.</sn> <def>Concerning which; about which.</def>  <ldquo/The object <xex>whereabout</xex> they are conversant.<rdquo/  <rj><au>Hooker.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1645 --><br/
+<p><!-- p. 1645 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whereabouts</ent><br/
@@ -11945,7 +11945,7 @@ And a scornful laugh laughed he.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>1.</sn> <def>To waver, or shake, as if moved by gusts of wind; to shift, turn, or veer about.</def>  <rj><au>D<?/mpier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To change from one opinion or course to another; to use evasions; to prevaricate; to be fickle.</def><-- to waffle; vacillate, equivocate, flip-flop. --><br/
+<p><sn>2.</sn> <def>To change from one opinion or course to another; to use evasions; to prevaricate; to be fickle.</def><!-- to waffle; vacillate, equivocate, flip-flop. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A person of <qex>whiffing</qex> and unsteady turn of mind can not keep close to a point of controversy.</q> <rj><qau>I. Watts.</qau></rj><br/
@@ -11969,7 +11969,7 @@ And a scornful laugh laughed he.</q> <rj><qau>Longfellow.</qau></rj><br/
 <hw>Whif"fler</hw> <pr>(?)</pr>, <pos>n.</pos><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>One who whiffles, or frequently changes his opinion or course; one who uses shifts and evasions in argument; hence, a trifler.</def><-- a waffler? --><br/
+<p><sn>1.</sn> <def>One who whiffles, or frequently changes his opinion or course; one who uses shifts and evasions in argument; hence, a trifler.</def><!-- a waffler? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Every <qex>whiffler</qex> in a laced coat who frequents the chocolate house shall talk of the constitution.</q> <rj><qau>Swift.</qau></rj><br/
@@ -11985,7 +11985,7 @@ And a scornful laugh laughed he.</q> <rj><qau>Longfellow.</qau></rj><br/
 Seems to prepare his way.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1646 --><br/
+<p><!-- p. 1646 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <ldquo/<xex>Whifflers</xex>, or fifers, generally went first in a procession, from which circumstance the name was transferred to other persons who succeeded to that office, and at length was given to those who went forward merely to clear the way for the procession.  . . . In the city of London, young freemen, who march at the head of their proper companies on the Lord Mayor's day, sometimes with flags, were called <xex>whifflers</xex>, or <xex>bachelor whifflers</xex>, not because they cleared the way, but because they went first, as <xex>whifflers</xex> did.<rdquo/  <rj><au>Nares.</au></rj>
@@ -12479,7 +12479,7 @@ There was a duke that highte Theseus.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><cs><col><b>To whip in</b></col>, <cd>to drive in, or keep from scattering, as hounds in a hurt; hence, to collect, or to keep together, as member of a party, or the like.</cd> -- <col><b>To whip the cat</b></col>. <sd>(a)</sd> <cd>To practice extreme parsimony.</cd> <mark>[Prov. Eng.]</mark> <au>Forby.</au> <sd>(b)</sd> <cd>To go from house to house working by the day, as itinerant tailors and carpenters do.</cd> <mark>[Prov. & U. S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1647 --><br/
+<p><!-- p. 1647 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whip</ent><br/
@@ -12575,7 +12575,7 @@ There was a duke that highte Theseus.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>1.</sn> <def>A huntsman who keeps the hounds from wandering, and whips them in, if necessary, to the of chase.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Hence, one who enforces the discipline of a party, and urges the attendance and support of the members on all necessary occasions.</def><-- = whip, 6 (a) --><br/
+<p><sn>2.</sn> <def>Hence, one who enforces the discipline of a party, and urges the attendance and support of the members on all necessary occasions.</def><!-- = whip, 6 (a) --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whippersnapper</ent><br/
@@ -12979,7 +12979,7 @@ Takes off thy dukedom; thou art but an earl.</q> <rj><qau>J. Fletcher.</qau></rj
 <p><sn>2.</sn> <fld>(Mach.)</fld> <def>A small lathe for turning wooden pins.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1648 --><br/
+<p><!-- p. 1648 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whiskey</ent><br/
@@ -13354,7 +13354,7 @@ So old and <qex>white</qex> as this.</q> <rj><qau>Shak.</qau></rj><br/
 <p>-- <col><b>White precipitate</b></col>. <fld>(Old Chem.)</fld> See under <er>Precipitate</er>. -- <col><b>White rabbit</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The American northern hare in its winter pelage.</cd> <sd>(b)</sd> <cd>An albino rabbit.</cd> -- <col><b>White rent</b></col>, <sd>(a)</sd> <fld>(Eng. Law)</fld> <cd>Formerly, rent payable in silver; -- opposed to <xex>black rent</xex>.  See <er>Blackmail</er>, <pos>n.</pos>, 3.</cd> <sd>(b)</sd> <cd>A rent, or duty, of eight pence, payable yearly by every tinner in Devon and Cornwall to the Duke of Cornwall, as lord of the soil.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>White rhinoceros</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The one-horned, or Indian, rhinoceros (<spn>Rhinoceros Indicus</spn>).  See <er>Rhinoceros</er>.</cd> <sd>(b)</sd> <cd>The umhofo.</cd> -- <col><b>White ribbon</b></col>, <cd>the distinctive badge of certain organizations for the promotion of temperance or of moral purity; <as>as, the <ex>White-ribbon</ex> Army</as>.</cd> -- <col><b>White rope</b></col> <fld>(Naut.)</fld>, <cd>untarred hemp rope.</cd> -- <col><b>White rot</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Either of several plants, as marsh pennywort and butterwort, which were thought to produce the disease called <xex>rot</xex> in sheep.</cd> <sd>(b)</sd> <cd>A disease of grapes.  See <cref>White rot</cref>, under <er>Rot</er>.</cd> -- <col><b>White sage</b></col> <fld>(Bot.)</fld>, <cd>a white, woolly undershrub (<spn>Eurotia lanata</spn>) of Western North America; -- called also <altname>winter fat</altname>.</cd> -- <col><b>White salmon</b></col> <fld>(Zool.)</fld>, <cd>the silver salmon.</cd> -- <col><b>White salt</b></col>, <cd>salt dried and calcined; decrepitated salt.</cd> -- <col><b>White scale</b></col> <fld>(Zool.)</fld>, <cd>a scale insect (<spn>Aspidiotus Nerii</spn>) injurious to the orange tree.  See <cref>Orange scale</cref>, under <er>Orange</er>.</cd> -- <col><b>White shark</b></col> <fld>(Zool.)</fld>, <cd>a species of man-eating shark.</cd> See under <er>Shark</er>. -- <col><b>White softening</b></col>. <fld>(Med.)</fld> <cd>See <cref>Softening of the brain</cref>, under <er>Softening</er>.</cd> -- <col><b>White spruce</b></col>. <fld>(Bot.)</fld> <cd>See <er>Spruce</er>, <pos>n.</pos>, 1.</cd> -- <col><b>White squall</b></col> <fld>(Naut.)</fld>, <cd>a sudden gust of wind, or furious blow, which comes up without being marked in its approach otherwise than by whitecaps, or white, broken water, on the surface of the sea.</cd> -- <col><b>White staff</b></col>, <cd>the badge of the lord high treasurer of England.</cd> <au>Macaulay.</au> -- <col><b>White stork</b></col> <fld>(Zool.)</fld>, <cd>the common European stork.</cd> -- <col><b>White sturgeon</b></col>. <fld>(Zool.)</fld> <cd>See <er>Shovelnose</er> <sd>(d)</sd>.</cd> -- <col><b>White sucker</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common sucker.</cd> <sd>(b)</sd> <cd>The common red horse (<spn>Moxostoma macrolepidotum</spn>).</cd> -- <col><b>White swelling</b></col> <fld>(Med.)</fld>, <cd>a chronic swelling of the knee, produced by a strumous inflammation of the synovial membranes of the kneejoint and of the cancellar texture of the end of the bone forming the kneejoint; -- applied also to a lingering chronic swelling of almost any kind.</cd> -- <col><b>White tombac</b></col>. <cd>See <er>Tombac</er>.</cd> -- <col><b>White trout</b></col> <fld>(Zool.)</fld>, <cd>the white weakfish, or silver squeteague (<spn>Cynoscion nothus</spn>), of the Southern United States.</cd> -- <col><b>White vitriol</b></col> <fld>(Chem.)</fld>, <cd>hydrous sulphate of zinc.  See <cref>White vitriol</cref>, under <er>Vitriol</er>.</cd> -- <col><b>White wagtail</b></col> <fld>(Zool.)</fld>, <cd>the common, or pied, wagtail.</cd> -- <col><b>White wax</b></col>, <cd>beeswax rendered white by bleaching.</cd> -- <col><b>White whale</b></col> <fld>(Zool.)</fld>, <cd>the beluga.</cd> -- <col><b>White widgeon</b></col> <fld>(Zool.)</fld>, <cd>the smew.</cd> -- <col><b>White wine</b></col>. <cd>any wine of a clear, transparent color, bordering on white, as Madeira, sherry, Lisbon, etc.; -- distinguished from wines of a deep red color, as port and Burgundy.</cd>  <ldquo/<xex>White wine</xex> of Lepe.<rdquo/ <au>Chaucer.</au> -- <col><b>White witch</b></col>, <cd>a witch or wizard whose supernatural powers are supposed to be exercised for good and beneficent purposes.</cd> <au>Addison.</au>  <au>Cotton Mather.</au> -- <col><b>White wolf</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A light-colored wolf (<spn>Canis laniger</spn>) native of Thibet; -- called also <altname>chanco</altname>, <altname>golden wolf</altname>, and <altname>Thibetan wolf</altname>.</cd> <sd>(b)</sd> <cd>The albino variety of the gray wolf.</cd> -- <col><b>White wren</b></col> <fld>(Zool.)</fld>, <cd>the willow warbler; -- so called from the color of the under parts.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1649 --><br/
+<p><!-- p. 1649 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>White</ent><br/
@@ -13782,7 +13782,7 @@ The <qex>whiteness</qex> of his soul, and thus men o'er him wept.</q> <rj><qau>B
 <p><syn><b>Syn.</b> -- Where.</syn> <usage> -- <er>Whither</er>, <er>Where</er>. <xex>Whither</xex> properly implies motion to place, and <xex>where</xex> rest in a place. <xex>Whither</xex> is now, however, to a great extent, obsolete, except in poetry, or in compositions of a grave and serious character and in language where precision is required. <xex>Where</xex> has taken its place, as in the question, <ldquo/<xex>Where</xex> are you going?<rdquo/</usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1650 --><br/
+<p><!-- p. 1650 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whithersoever</ent><br/
@@ -14122,7 +14122,7 @@ Nor all of death to die.</q> <rj><qau>J. Montgomery.</qau></rj><br/
 
 <p><ent>Whole-length</ent><br/
 <hw>Whole"-length`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Representing the whole figure; -- said of a picture or statue.</def>  -- <def2><pos>n.</pos>  <def>A portrait or statue representing the whole figure.</def></def2>
-<-- = full-length? --><br/
+<!-- = full-length? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wholeness</ent><br/
@@ -14245,7 +14245,7 @@ Of some vile cur, or <qex>whooping</qex> of the owl.</q> <rj><qau>W. Browne.</qa
 <qex>Whooped</qex> out of Rome.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1651 --><br/
+<p><!-- p. 1651 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whoop</ent><br/
@@ -14272,7 +14272,7 @@ Of some vile cur, or <qex>whooping</qex> of the owl.</q> <rj><qau>W. Browne.</qa
 <hw>Whoop"ing</hw>, <def><pos>a. & n.</pos> from <er>Whoop</er>, <pos>v. t.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Whooping cough</b></col> <fld>(Med.)</fld>, <cd>a violent, convulsive cough, returning at longer or shorter intervals, and consisting of several expirations, followed by a sonorous inspiration, or whoop; chin cough; hooping cough.</cd> <au>Dunglison.</au> -- <col><b>Whooping crane</b></col> <fld>(Zool.)</fld>, <cd>a North American crane (<spn>Crus Americana</spn>) noted for the loud, whooplike note which it utters.</cd><-- The species was reduced by hunting to several dozen in the 1960's and the numbers have been slowly rising since. --> -- <col><b>Whooping swan</b></col> <fld>(Zool.)</fld>, <cd>the whooper swan.  See the Note under <er>Swan</er>.</cd></cs><br/
+<p><cs><col><b>Whooping cough</b></col> <fld>(Med.)</fld>, <cd>a violent, convulsive cough, returning at longer or shorter intervals, and consisting of several expirations, followed by a sonorous inspiration, or whoop; chin cough; hooping cough.</cd> <au>Dunglison.</au> -- <col><b>Whooping crane</b></col> <fld>(Zool.)</fld>, <cd>a North American crane (<spn>Crus Americana</spn>) noted for the loud, whooplike note which it utters.</cd><!-- The species was reduced by hunting to several dozen in the 1960's and the numbers have been slowly rising since. --> -- <col><b>Whooping swan</b></col> <fld>(Zool.)</fld>, <cd>the whooper swan.  See the Note under <er>Swan</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whoot</ent><br/
@@ -14829,7 +14829,7 @@ Seems of a brighter world than ours.</q> <rj><qau>Bryant.</qau></rj><br/
 <hw>Wide"-an`gle</hw>, <pos>a.</pos> <fld>(Photog. & Optics)</fld> <def>Having or covering an angle wider than the ordinary; -- applied to certain lenses of relatively short focus. Lenses for ordinary purposes have an angle of 50<deg/ or less. Wide-angle lenses may cover as much as 100<deg/ and are useful for photographing at short range, but the pictures appear distorted.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><-- p. 1652 --><br/
+<p><!-- p. 1652 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wide-awake</ent><br/
@@ -15331,7 +15331,7 @@ The <qex>wild</qex> are constant, and the cunning known.</q> <rj><qau>Pope.</qau
 <p><note><hand/ Many plants are named by prefixing <ex>wild</ex> to the names of other better known or cultivated plants to which they a bear a real or fancied resemblance; as, <ex>wild</ex> allspice, <ex>wild</ex> pink, etc.  See the Phrases below.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1653 --><br/
+<p><!-- p. 1653 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To run wild</b></col>, <cd>to go unrestrained or untamed; to live or untamed; to live or grow without culture or training.</cd> -- <col><b>To sow one's wild oats</b></col>. <cd>See under <er>Oat</er>.</cd></cs><br/
@@ -15359,7 +15359,7 @@ Became a barren waste, a <qex>wild</qex> of sand.</q> <rj><qau>Addison.</qau></r
 <p><sn>2.</sn> <fld>(Railroad)</fld> <def>Running without control; running along the line without a train; <as>as, a <ex>wild-cat</ex> locomotive</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Wildcat well.  A well, as an oil or gas well, drilled in an area not proven to be productive; often drilled by a small exploration company. -- Wildcat strike.  A strike initiated by workers without authorization of a union, or in violation of the work contract currently in force. --><br/
+<p><!-- Wildcat well.  A well, as an oil or gas well, drilled in an area not proven to be productive; often drilled by a small exploration company. -- Wildcat strike.  A strike initiated by workers without authorization of a union, or in violation of the work contract currently in force. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wildebeest</ent><br/
@@ -15626,7 +15626,7 @@ And drink it off.</q><br/
 </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1654 --><br/
+<p><!-- p. 1654 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Will</ent><br/
@@ -16092,7 +16092,7 @@ should <qex>win</qex> in arms.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <def>A wince.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1655 --><br/
+<p><!-- p. 1655 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wincing</ent><br/
@@ -16248,13 +16248,13 @@ Of airy threats to awe.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>10.</sn> <fld>(Zool.)</fld> <def>The dotterel.</def>  <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>11.</sn> <fld>(Boxing)</fld> <def>The region of the pit of the stomach, where a blow may paralyze the diaphragm and cause temporary loss of breath or other injury; the mark.</def> <mark>[Slang or Cant]</mark><-- = solar plexus?? --><br/
+<p><sn>11.</sn> <fld>(Boxing)</fld> <def>The region of the pit of the stomach, where a blow may paralyze the diaphragm and cause temporary loss of breath or other injury; the mark.</def> <mark>[Slang or Cant]</mark><!-- = solar plexus?? --><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><note><hand/ <xex>Wind</xex> is often used adjectively, or as the first part of compound words.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>All in the wind</b></col>. <fld>(Naut.)</fld> <cd>See under <er>All</er>, <pos>n.</pos></cd> -- <col><b>Before the wind</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Before</er>.</cd> -- <col><b>Between wind and water</b></col> <fld>(Naut.)</fld>, <cd>in that part of a ship's side or bottom which is frequently brought above water by the rolling of the ship, or fluctuation of the water's surface. Hence, colloquially, (as an injury to that part of a vessel, in an engagement, is particularly dangerous) the vulnerable part or point of anything.</cd> -- <col><b>Cardinal winds</b></col>. <cd>See under <er>Cardinal</er>, <pos>a.</pos></cd> -- <col><b>Down the wind</b></col>. <sd>(a)</sd> <cd>In the direction of, and moving with, the wind; as, birds fly swiftly <xex>down the wind</xex>.</cd> <sd>(b)</sd> <cd>Decaying; declining; in a state of decay.</cd>  <mark>[Obs.]</mark>  <ldquo/He went <xex>down the wind</xex> still.<rdquo/ <au>L'Estrange.</au> -- <col><b>In the wind's eye</b></col> <fld>(Naut.)</fld>, <cd>directly toward the point from which the wind blows.</cd> -- <col><b>Three sheets in the wind</b></col>, <cd>unsteady from drink.</cd> <mark>[Sailors' Slang]</mark><-- usu. three sheets to the wind. --> -- <col><b>To be in the wind</b></col>, <cd>to be suggested or expected; to be a matter of suspicion or surmise.</cd> <mark>[Colloq.]</mark> -- <col><b>To carry the wind</b></col> <fld>(Man.)</fld>, <cd>to toss the nose as high as the ears, as a horse.</cd> -- <col><b>To raise the wind</b></col>, <cd>to procure money.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To take the wind</b></col> <it>or</it> <col><b>To have the wind</b></col></mcol>, <cd>to gain or have the advantage.</cd> <au>Bacon.</au> -- <col><b>To take the wind out of one's sails</b></col>, <cd>to cause one to stop, or lose way, as when a vessel intercepts the wind of another; to cause one to lose enthusiasm, or momentum in an activity.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To take wind</b></col>, <it>or</it> <col><b>To get wind</b></col></mcol>, <cd>to be divulged; to become public; as, the story <xex>got wind</xex>, or <xex>took wind</xex>.</cd> -- <col><b>Wind band</b></col> <fld>(Mus.)</fld>, <cd>a band of wind instruments; a military band; the wind instruments of an orchestra.</cd> -- <col><b>Wind chest</b></col> <fld>(Mus.)</fld>, <cd>a chest or reservoir of wind in an organ.</cd> -- <col><b>Wind dropsy</b></col>. <fld>(Med.)</fld> <sd>(a)</sd> <cd>Tympanites.</cd> <sd>(b)</sd> <cd>Emphysema of the subcutaneous areolar tissue.</cd> -- <col><b>Wind egg</b></col>, <cd>an imperfect, unimpregnated, or addled egg.</cd> -- <col><b>Wind furnace</b></col>. <cd>See the Note under <er>Furnace</er>.</cd> -- <col><b>Wind gauge</b></col>. <cd>See under <er>Gauge</er>.</cd> -- <col><b>Wind gun</b></col>. <cd>Same as <er>Air gun</er>.</cd> -- <col><b>Wind hatch</b></col> <fld>(Mining)</fld>, <cd>the opening or place where the ore is taken out of the earth.</cd> -- <col><b>Wind instrument</b></col> <fld>(Mus.)</fld>, <cd>an instrument of music sounded by means of wind, especially by means of the breath, as a flute, a clarinet, etc.</cd> -- <col><b>Wind pump</b></col>, <cd>a pump moved by a windmill.</cd> -- <col><b>Wind rose</b></col>, <cd>a table of the points of the compass, giving the states of the barometer, etc., connected with winds from the different directions.</cd> -- <col><b>Wind sail</b></col>. <sd>(a)</sd> <fld>(Naut.)</fld> <cd>A wide tube or funnel of canvas, used to convey a stream of air for ventilation into the lower compartments of a vessel.</cd> <sd>(b)</sd> <cd>The sail or vane of a windmill.</cd> -- <col><b>Wind shake</b></col>, <cd>a crack or incoherence in timber produced by violent winds while the timber was growing.</cd> -- <col><b>Wind shock</b></col>, <cd>a wind shake.</cd> -- <col><b>Wind side</b></col>, <cd>the side next the wind; the windward side.</cd> <mark>[R.]</mark> <au>Mrs. Browning.</au> -- <col><b>Wind rush</b></col> <fld>(Zool.)</fld>, <cd>the redwing.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Wind wheel</b></col>, <cd>a motor consisting of a wheel moved by wind.</cd> -- <col><b>Wood wind</b></col> <fld>(Mus.)</fld>, <cd>the flutes and reed instruments of an orchestra, collectively.</cd></cs><br/
+<p><cs><col><b>All in the wind</b></col>. <fld>(Naut.)</fld> <cd>See under <er>All</er>, <pos>n.</pos></cd> -- <col><b>Before the wind</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Before</er>.</cd> -- <col><b>Between wind and water</b></col> <fld>(Naut.)</fld>, <cd>in that part of a ship's side or bottom which is frequently brought above water by the rolling of the ship, or fluctuation of the water's surface. Hence, colloquially, (as an injury to that part of a vessel, in an engagement, is particularly dangerous) the vulnerable part or point of anything.</cd> -- <col><b>Cardinal winds</b></col>. <cd>See under <er>Cardinal</er>, <pos>a.</pos></cd> -- <col><b>Down the wind</b></col>. <sd>(a)</sd> <cd>In the direction of, and moving with, the wind; as, birds fly swiftly <xex>down the wind</xex>.</cd> <sd>(b)</sd> <cd>Decaying; declining; in a state of decay.</cd>  <mark>[Obs.]</mark>  <ldquo/He went <xex>down the wind</xex> still.<rdquo/ <au>L'Estrange.</au> -- <col><b>In the wind's eye</b></col> <fld>(Naut.)</fld>, <cd>directly toward the point from which the wind blows.</cd> -- <col><b>Three sheets in the wind</b></col>, <cd>unsteady from drink.</cd> <mark>[Sailors' Slang]</mark><!-- usu. three sheets to the wind. --> -- <col><b>To be in the wind</b></col>, <cd>to be suggested or expected; to be a matter of suspicion or surmise.</cd> <mark>[Colloq.]</mark> -- <col><b>To carry the wind</b></col> <fld>(Man.)</fld>, <cd>to toss the nose as high as the ears, as a horse.</cd> -- <col><b>To raise the wind</b></col>, <cd>to procure money.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To take the wind</b></col> <it>or</it> <col><b>To have the wind</b></col></mcol>, <cd>to gain or have the advantage.</cd> <au>Bacon.</au> -- <col><b>To take the wind out of one's sails</b></col>, <cd>to cause one to stop, or lose way, as when a vessel intercepts the wind of another; to cause one to lose enthusiasm, or momentum in an activity.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To take wind</b></col>, <it>or</it> <col><b>To get wind</b></col></mcol>, <cd>to be divulged; to become public; as, the story <xex>got wind</xex>, or <xex>took wind</xex>.</cd> -- <col><b>Wind band</b></col> <fld>(Mus.)</fld>, <cd>a band of wind instruments; a military band; the wind instruments of an orchestra.</cd> -- <col><b>Wind chest</b></col> <fld>(Mus.)</fld>, <cd>a chest or reservoir of wind in an organ.</cd> -- <col><b>Wind dropsy</b></col>. <fld>(Med.)</fld> <sd>(a)</sd> <cd>Tympanites.</cd> <sd>(b)</sd> <cd>Emphysema of the subcutaneous areolar tissue.</cd> -- <col><b>Wind egg</b></col>, <cd>an imperfect, unimpregnated, or addled egg.</cd> -- <col><b>Wind furnace</b></col>. <cd>See the Note under <er>Furnace</er>.</cd> -- <col><b>Wind gauge</b></col>. <cd>See under <er>Gauge</er>.</cd> -- <col><b>Wind gun</b></col>. <cd>Same as <er>Air gun</er>.</cd> -- <col><b>Wind hatch</b></col> <fld>(Mining)</fld>, <cd>the opening or place where the ore is taken out of the earth.</cd> -- <col><b>Wind instrument</b></col> <fld>(Mus.)</fld>, <cd>an instrument of music sounded by means of wind, especially by means of the breath, as a flute, a clarinet, etc.</cd> -- <col><b>Wind pump</b></col>, <cd>a pump moved by a windmill.</cd> -- <col><b>Wind rose</b></col>, <cd>a table of the points of the compass, giving the states of the barometer, etc., connected with winds from the different directions.</cd> -- <col><b>Wind sail</b></col>. <sd>(a)</sd> <fld>(Naut.)</fld> <cd>A wide tube or funnel of canvas, used to convey a stream of air for ventilation into the lower compartments of a vessel.</cd> <sd>(b)</sd> <cd>The sail or vane of a windmill.</cd> -- <col><b>Wind shake</b></col>, <cd>a crack or incoherence in timber produced by violent winds while the timber was growing.</cd> -- <col><b>Wind shock</b></col>, <cd>a wind shake.</cd> -- <col><b>Wind side</b></col>, <cd>the side next the wind; the windward side.</cd> <mark>[R.]</mark> <au>Mrs. Browning.</au> -- <col><b>Wind rush</b></col> <fld>(Zool.)</fld>, <cd>the redwing.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Wind wheel</b></col>, <cd>a motor consisting of a wheel moved by wind.</cd> -- <col><b>Wood wind</b></col> <fld>(Mus.)</fld>, <cd>the flutes and reed instruments of an orchestra, collectively.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wind</ent><br/
@@ -16356,7 +16356,7 @@ Of airy threats to awe.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>He had a mighty <qex>windfall</qex> out of doubt.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- windfall profits.  profits obtained due to a chance ot unanticipated event that causes an asset to increase unexpectedly in value.  In contrast to profits earned as the normal and expected yield of an enterprise. --><br/
+<p><!-- windfall profits.  profits obtained due to a chance ot unanticipated event that causes an asset to increase unexpectedly in value.  In contrast to profits earned as the normal and expected yield of an enterprise. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Windfallen</ent><br/
@@ -16414,7 +16414,7 @@ With ringlets quaint, and wanton <qex>windings</qex> wove.</q> <rj><qau>Milton.<
 <p><sn>2.</sn> <def>The material, as wire or rope, wound or coiled about anything, or a single round or turn of the material;</def> as <fld>(Elec.)</fld>, <def>a series <xex>winding</xex>, or one in which the armature coil, the field-magnet coil, and the external circuit form a continuous conductor; a shunt <xex>winding</xex>, or one of such a character that the armature current is divided, a portion of the current being led around the field-magnet coils.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><-- 2. <def>A line- or ribbon-shaped material (as wire, string, or bandaging) wound around an object; <as>as, the <ex>windings</ex> (conducting wires) wound around the armature of an electric motor or generator</as>.</def>  --><br/
+<p><!-- 2. <def>A line- or ribbon-shaped material (as wire, string, or bandaging) wound around an object; <as>as, the <ex>windings</ex> (conducting wires) wound around the armature of an electric motor or generator</as>.</def>  --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Winding engine</b></col>, <cd>an engine employed in mining to draw up buckets from a deep pit; a hoisting engine.</cd> -- <col><b>Winding sheet</b></col>, <cd>a sheet in which a corpse is wound or wrapped.</cd> -- <col><b>Winding tackle</b></col> <fld>(Naut.)</fld>, <cd>a tackle consisting of a fixed triple block, and a double or triple movable block, used for hoisting heavy articles in or out of a vessel.</cd>  <au>Totten.</au></cs><br/
@@ -16522,10 +16522,10 @@ And at my <qex>window</qex> bid good morrow.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Computers)</fld> <def>a region on a computer display screen which represents a separate computational process, controlled more or less independently from the remaining part of the screen, and having widely varying functions, from simply displaying information to comprising a separate conceptual screen in which output can be visualized, input can be controlled, program dialogs may be accomplished, and a program may be controlled independently of any other processes occurring in the computer. The window may have a fixed location and size, or (as in modern Graphical User Interfaces) may have its size and location on the screen under the control of the operator.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 1656 --><br/
+<p><!-- p. 1656 --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>French window</b></col> <fld>(Arch.)</fld>, <cd>a casement window in two folds, usually reaching to the floor; -- called also <altname>French casement</altname>.</cd> -- <col><b>Window back</b></col> <fld>(Arch.)</fld>, <cd>the inside face of the low, and usually thin, piece of wall between the window sill and the floor below.</cd> -- <col><b>Window blind</b></col>, <cd>a blind or shade for a window.</cd> -- <col><b>Window bole</b></col>, <cd>part of a window closed by a shutter which can be opened at will.</cd> <mark>[Scot.]</mark> -- <col><b>Window box</b></col>, <cd>one of the hollows in the sides of a window frame for the weights which counterbalance a lifting sash.</cd><-- also called counterweight channel. (b) a box placed outside a window, on the windowsill, containing soil, in which flowers are grown or displayed as decoration.-->  -- <col><b>Window frame</b></col>, <cd>the frame of a window which receives and holds the sashes or casement.</cd> -- <col><b>Window glass</b></col>, <cd>panes of glass for windows; the kind of glass used in windows.</cd> -- <col><b>Window martin</b></col> <fld>(Zool.)</fld>, <cd>the common European martin.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Window oyster</b></col> <fld>(Zool.)</fld>, <cd>a marine bivalve shell (<spn>Placuna placenta</spn>) native of the East Indies and China. Its valves are very broad, thin, and translucent, and are said to have been used formerly in place of glass.</cd> -- <col><b>Window pane</b></col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>See <er>Pane</er>, <pos>n.</pos>, 3 <sd>(b)</sd>.</cd>  <sd>(b)</sd> <fld>(Zool.)</fld> <cd>See <er>Windowpane</er>, in the Vocabulary.</cd> -- <col><b>Window sash</b></col>, <cd>the sash, or light frame, in which panes of glass are set for windows.</cd> -- <col><b>Window seat</b></col>, <cd>a seat arranged in the recess of a window.  See <cref>Window stool</cref>, under <er>Stool</er>.</cd> -- <col><b>Window shade</b></col>, <cd>a shade or blind for a window; usually, one that is hung on a roller.</cd> -- <col><b>Window shell</b></col> <fld>(Zool.)</fld>, <cd>the window oyster.</cd> -- <col><b>Window shutter</b></col>, <cd>a shutter or blind used to close or darken windows.</cd> -- <col><b>Window sill</b></col> <fld>(Arch.)</fld>, <cd>the flat piece of wood, stone, or the like, at the bottom of a window frame.</cd> -- <col><b>Window swallow</b></col> <fld>(Zool.)</fld>, <cd>the common European martin.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Window tax</b></col>, <cd>a tax or duty formerly levied on all windows, or openings for light, above the number of eight in houses standing in cities or towns.</cd> <mark>[Eng.]</mark></cs><br/
+<p><cs><col><b>French window</b></col> <fld>(Arch.)</fld>, <cd>a casement window in two folds, usually reaching to the floor; -- called also <altname>French casement</altname>.</cd> -- <col><b>Window back</b></col> <fld>(Arch.)</fld>, <cd>the inside face of the low, and usually thin, piece of wall between the window sill and the floor below.</cd> -- <col><b>Window blind</b></col>, <cd>a blind or shade for a window.</cd> -- <col><b>Window bole</b></col>, <cd>part of a window closed by a shutter which can be opened at will.</cd> <mark>[Scot.]</mark> -- <col><b>Window box</b></col>, <cd>one of the hollows in the sides of a window frame for the weights which counterbalance a lifting sash.</cd><!-- also called counterweight channel. (b) a box placed outside a window, on the windowsill, containing soil, in which flowers are grown or displayed as decoration.-->  -- <col><b>Window frame</b></col>, <cd>the frame of a window which receives and holds the sashes or casement.</cd> -- <col><b>Window glass</b></col>, <cd>panes of glass for windows; the kind of glass used in windows.</cd> -- <col><b>Window martin</b></col> <fld>(Zool.)</fld>, <cd>the common European martin.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Window oyster</b></col> <fld>(Zool.)</fld>, <cd>a marine bivalve shell (<spn>Placuna placenta</spn>) native of the East Indies and China. Its valves are very broad, thin, and translucent, and are said to have been used formerly in place of glass.</cd> -- <col><b>Window pane</b></col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>See <er>Pane</er>, <pos>n.</pos>, 3 <sd>(b)</sd>.</cd>  <sd>(b)</sd> <fld>(Zool.)</fld> <cd>See <er>Windowpane</er>, in the Vocabulary.</cd> -- <col><b>Window sash</b></col>, <cd>the sash, or light frame, in which panes of glass are set for windows.</cd> -- <col><b>Window seat</b></col>, <cd>a seat arranged in the recess of a window.  See <cref>Window stool</cref>, under <er>Stool</er>.</cd> -- <col><b>Window shade</b></col>, <cd>a shade or blind for a window; usually, one that is hung on a roller.</cd> -- <col><b>Window shell</b></col> <fld>(Zool.)</fld>, <cd>the window oyster.</cd> -- <col><b>Window shutter</b></col>, <cd>a shutter or blind used to close or darken windows.</cd> -- <col><b>Window sill</b></col> <fld>(Arch.)</fld>, <cd>the flat piece of wood, stone, or the like, at the bottom of a window frame.</cd> -- <col><b>Window swallow</b></col> <fld>(Zool.)</fld>, <cd>the common European martin.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Window tax</b></col>, <cd>a tax or duty formerly levied on all windows, or openings for light, above the number of eight in houses standing in cities or towns.</cd> <mark>[Eng.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Window</ent><br/
@@ -16701,7 +16701,7 @@ Crushed the sweet poison of misused <qex>wine</qex>.</q> <rj><qau>Milton.</qau><
 <p><q>Noah awoke from his <qex>wine</qex>.</q> <rj><qau>Gen. ix. 24.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Birch wine</b></col>, <col><b>Cape wine</b></col>, etc.</mcol> <cd>See under <er>Birch</er>, <er>Cape</er>, etc.</cd> -- <col><b>Spirit of wine</b></col>. <cd>See under <er>Spirit</er>.</cd> -- <mcol><col><b>To have drunk wine of ape</b></col> <it>or</it> <col><b>To have drunk wine ape</b></col></mcol>, <cd>to be so drunk as to be foolish.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col><b>Wine acid</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Tartaric acid</cref>, under <er>Tartaric</er>.</cd> <mark>[Colloq.]</mark> -- <col><b>Wine apple</b></col> <fld>(Bot.)</fld>, <cd>a large red apple, with firm flesh and a rich, vinous flavor.</cd><-- winesap? --> -- <col><b>Wine bag</b></col>, <cd>a wine skin.</cd> -- <col><b>Wine biscuit</b></col>, <cd>a kind of sweet biscuit served with wine.</cd> -- <col><b>Wine cask</b></col>, <cd>a cask for holding wine, or which holds, or has held, wine.</cd> -- <col><b>Wine cellar</b></col>, <cd>a cellar adapted or used for storing wine.</cd> -- <col><b>Wine cooler</b></col>, <cd>a vessel of porous earthenware used to cool wine by the evaporation of water; also, a stand for wine bottles, containing ice.</cd><-- (1980's) <cd>a drink composed of approximately equal parts of wine and some carbonated beverage (soda).</cd>  Also called <altname>California cooler</altname>. --> -- <col><b>Wine fly</b></col> <fld>(Zool.)</fld>, <cd>small two-winged fly of the genus <gen>Piophila</gen>, whose larva lives in wine, cider, and other fermented liquors.</cd> -- <col><b>Wine grower</b></col>, <cd>one who cultivates a vineyard and makes wine.</cd> -- <col><b>Wine measure</b></col>, <cd>the measure by which wines and other spirits are sold, smaller than beer measure.</cd> -- <col><b>Wine merchant</b></col>, <cd>a merchant who deals in wines.</cd> -- <col><b>Wine of opium</b></col> <fld>(Pharm.)</fld>, <cd>a solution of opium in aromatized sherry wine, having the same strength as ordinary laudanum; -- also <altname>Sydenham's laudanum</altname>.</cd> -- <col><b>Wine press</b></col>, <cd>a machine or apparatus in which grapes are pressed to extract their juice.</cd> -- <col><b>Wine skin</b></col>, <cd>a bottle or bag of skin, used, in various countries, for carrying wine.</cd> -- <col><b>Wine stone</b></col>, <cd>a kind of crust deposited in wine casks.  See 1st <er>Tartar</er>, 1.</cd> -- <col><b>Wine vault</b></col>. <sd>(a)</sd> <cd>A vault where wine is stored.</cd> <sd>(b)</sd> <cd>A place where wine is served at the bar, or at tables; a dramshop.</cd> <au>Dickens.</au> -- <col><b>Wine vinegar</b></col>, <cd>vinegar made from wine.</cd> -- <col><b>Wine whey</b></col>, <cd>whey made from milk coagulated by the use of wine.</cd></cs><br/
+<p><cs><mcol><col><b>Birch wine</b></col>, <col><b>Cape wine</b></col>, etc.</mcol> <cd>See under <er>Birch</er>, <er>Cape</er>, etc.</cd> -- <col><b>Spirit of wine</b></col>. <cd>See under <er>Spirit</er>.</cd> -- <mcol><col><b>To have drunk wine of ape</b></col> <it>or</it> <col><b>To have drunk wine ape</b></col></mcol>, <cd>to be so drunk as to be foolish.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col><b>Wine acid</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Tartaric acid</cref>, under <er>Tartaric</er>.</cd> <mark>[Colloq.]</mark> -- <col><b>Wine apple</b></col> <fld>(Bot.)</fld>, <cd>a large red apple, with firm flesh and a rich, vinous flavor.</cd><!-- winesap? --> -- <col><b>Wine bag</b></col>, <cd>a wine skin.</cd> -- <col><b>Wine biscuit</b></col>, <cd>a kind of sweet biscuit served with wine.</cd> -- <col><b>Wine cask</b></col>, <cd>a cask for holding wine, or which holds, or has held, wine.</cd> -- <col><b>Wine cellar</b></col>, <cd>a cellar adapted or used for storing wine.</cd> -- <col><b>Wine cooler</b></col>, <cd>a vessel of porous earthenware used to cool wine by the evaporation of water; also, a stand for wine bottles, containing ice.</cd><!-- (1980's) <cd>a drink composed of approximately equal parts of wine and some carbonated beverage (soda).</cd>  Also called <altname>California cooler</altname>. --> -- <col><b>Wine fly</b></col> <fld>(Zool.)</fld>, <cd>small two-winged fly of the genus <gen>Piophila</gen>, whose larva lives in wine, cider, and other fermented liquors.</cd> -- <col><b>Wine grower</b></col>, <cd>one who cultivates a vineyard and makes wine.</cd> -- <col><b>Wine measure</b></col>, <cd>the measure by which wines and other spirits are sold, smaller than beer measure.</cd> -- <col><b>Wine merchant</b></col>, <cd>a merchant who deals in wines.</cd> -- <col><b>Wine of opium</b></col> <fld>(Pharm.)</fld>, <cd>a solution of opium in aromatized sherry wine, having the same strength as ordinary laudanum; -- also <altname>Sydenham's laudanum</altname>.</cd> -- <col><b>Wine press</b></col>, <cd>a machine or apparatus in which grapes are pressed to extract their juice.</cd> -- <col><b>Wine skin</b></col>, <cd>a bottle or bag of skin, used, in various countries, for carrying wine.</cd> -- <col><b>Wine stone</b></col>, <cd>a kind of crust deposited in wine casks.  See 1st <er>Tartar</er>, 1.</cd> -- <col><b>Wine vault</b></col>. <sd>(a)</sd> <cd>A vault where wine is stored.</cd> <sd>(b)</sd> <cd>A place where wine is served at the bar, or at tables; a dramshop.</cd> <au>Dickens.</au> -- <col><b>Wine vinegar</b></col>, <cd>vinegar made from wine.</cd> -- <col><b>Wine whey</b></col>, <cd>whey made from milk coagulated by the use of wine.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wineberry</ent><br/
@@ -16909,7 +16909,7 @@ But fancy turns its point to him.</q> <rj><qau>Moore.</qau></rj><br/
 <p><q>Those <qex>wingy</qex> mysteries in divinity.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1657 --><br/
+<p><!-- p. 1657 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wink</ent><br/
@@ -17338,7 +17338,7 @@ Our <qex>wintry</qex> course do thou beguile.</q> <rj><qau>Keble.</qau></rj><br/
 <p><cs><mcol><col><b>Wire bed</b></col>, <col><b>Wire mattress</b></col></mcol>, <cd>an elastic bed bottom or mattress made of wires interwoven or looped together in various ways.</cd> -- <col><b>Wire bridge</b></col>, <cd>a bridge suspended from wires, or cables made of wire.</cd> -- <col><b>Wire cartridge</b></col>, <cd>a shot cartridge having the shot inclosed in a wire cage.</cd> -- <col><b>Wire cloth</b></col>, <cd>a coarse cloth made of woven metallic wire, -- used for strainers, and for various other purposes.</cd> -- <col><b>Wire edge</b></col>, <cd>the thin, wirelike thread of metal sometimes formed on the edge of a tool by the stone in sharpening it.</cd> -- <col><b>Wire fence</b></col>, <cd>a fence consisting of posts with strained horizontal wires, wire netting, or other wirework, between.</cd> -- <mcol><col><b>Wire gauge</b></col> <it>or</it> <col><b>Wire gage</b></col></mcol>. <sd>(a)</sd> <cd>A gauge for measuring the diameter of wire, thickness of sheet metal, etc., often consisting of a metal plate with a series of notches of various widths in its edge.</cd> <sd>(b)</sd> <cd>A standard series of sizes arbitrarily indicated, as by numbers, to which the diameter of wire or the thickness of sheet metal in usually made, and which is used in describing the size or thickness. There are many different standards for wire gauges, as in different countries, or for different kinds of metal, the Birmingham wire gauges and the American wire gauge being often used and designated by the abbreviations <it>B. W. G.</it> and <it>A. W. G.</it> respectively.</cd> -- <col><b>Wire gauze</b></col>, <cd>a texture of finely interwoven wire, resembling gauze.</cd> -- <col><b>Wire grass</b></col> <fld>(Bot.)</fld>, <cd>either of the two common grasses <spn>Eleusine Indica</spn>, valuable for hay and pasture, and <spn>Poa compressa</spn>, or blue grass.  See <er>Blue grass</er>.</cd> -- <col><b>Wire grub</b></col> <fld>(Zool.)</fld>, <cd>a wireworm.</cd> -- <col><b>Wire iron</b></col>, <cd>wire rods of iron.</cd> -- <col><b>Wire lathing</b></col>, <cd>wire cloth or wire netting applied in the place of wooden lathing for holding plastering.</cd> -- <col><b>Wire mattress</b></col>. <cd>See <cref>Wire bed</cref>, above.</cd> -- <col><b>Wire micrometer</b></col>, <cd>a micrometer having spider lines, or fine wires, across the field of the instrument.</cd> -- <col><b>Wire nail</b></col>, <cd>a nail formed of a piece of wire which is headed and pointed.</cd> -- <col><b>Wire netting</b></col>, <cd>a texture of woven wire coarser than ordinary wire gauze.</cd> -- <col><b>Wire rod</b></col>, <cd>a metal rod from which wire is formed by drawing.</cd> -- <col><b>Wire rope</b></col>, <cd>a rope formed wholly, or in great part, of wires.</cd> -- <col><b>down to the wire</b></col>, <cd>up to the last moment, as in a race or competition; <as>as, the two front runners were neck-and-neck <ex>down to the wire</ex></as>.  From <er>wire{6}</er>.</cd> -- <col><b>under the wire</b></col>, <cd>just in time; shortly before the deadline; <as>as, to file an application just <ex>under the wire</ex></as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1658 --><br/
+<p><!-- p. 1658 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wire</ent><br/
@@ -17886,7 +17886,7 @@ Will <qex>wistful</qex> linger on that hallowed spot.</q> <rj><qau>Byron.</qau><
 <hw>Wit</hw> <pr>(w<icr/t)</pr>, <pos>v. t. & i.</pos> <vmorph>[<pos>inf.</pos> (To) <conjf>Wit</conjf>; <pos>pres. sing.</pos> <conjf>Wot</conjf>; <pos>pl.</pos> <conjf>Wite</conjf>; <pos>imp.</pos> <conjf>Wist(e)</conjf>; <pos>p. p.</pos> <conjf>Wist</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Wit(t)ing</conjf>.  See the Note below.]</vmorph> <ety>[OE. <ets>witen</ets>, pres. <ets>ich wot</ets>, <ets>wat</ets>, I know (wot), imp. <ets>wiste</ets>, AS. <ets>witan</ets>, pres. <ets>w<amac/t</ets>, imp. <ets>wiste</ets>, <ets>wisse</ets>; akin to OFries. <ets>wita</ets>, OS. <ets>witan</ets>, D. <ets>weten</ets>, G. <ets>wissen</ets>, OHG. <ets>wizzan</ets>, Icel. <ets>vita</ets>, Sw. <ets>veta</ets>, Dan. <ets>vide</ets>, Goth. <ets>witan</ets> to observe, <ets>wait</ets> I know, Russ. <ets>vidiete</ets> to see, L. <ets>videre</ets>, Gr. <?/, Skr. <ets>vid</ets> to know, learn; cf. Skr. <ets>vid</ets> to find. <?/<?/<?/<?/.  Cf. <er>History</er>, <er>Idea</er>, <er>Idol</er>, <er>-oid</er>, <er>Twit</er>, <er>Veda</er>, <er>Vision</er>, <er>Wise</er>, <pos>a.</pos> & <pos>n.</pos>, <er>Wot</er>.]</ety> <def>To know; to learn.</def>  <ldquo/I <xex>wot</xex> and <xex>wist</xex> alway.<rdquo/  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1659 --><br/
+<p><!-- p. 1659 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The present tense was inflected as follows; sing. 1st pers. <xex>wot</xex>; 2d pers. <xex>wost</xex>, or <xex>wot(t)est</xex>; 3d pers. <xex>wot</xex>, or <xex>wot(t)eth</xex>; pl. <xex>witen</xex>, or <xex>wite</xex>. The following variant forms also occur; pres. sing. 1st & 3d pers. <xex>wat</xex>, <xex>woot</xex>; pres. pl. <xex>wyten</xex>, or <xex>wyte</xex>, <xex>weete</xex>, <xex>wote</xex>, <xex>wot</xex>; imp. <xex>wuste</xex> (Southern dialect); p. pr. <xex>wotting</xex>. Later, other variant or corrupt forms are found, as, in Shakespeare, 3d pers. sing. pres. <xex>wots</xex>.</note><br/
@@ -18381,10 +18381,10 @@ Among the accursed, that <qex>withered</qex> all their strength.</q> <rj><qau>Mi
 <hw>With"er*nam</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>wi<edh/ern<amac/m</ets>; <ets>wi<edh/er</ets> against + <ets>n<amac/m</ets> a seizure, fr. <ets>niman</ets> to take.]</ety> <fld>(Law)</fld> <def>A second or reciprocal distress of other goods in lieu of goods which were taken by a first distress and have been eloigned; a taking by way of reprisal; -- chiefly used in the expression <xex>capias in withernam</xex>, which is the name of a writ used in connection with the action of replevin (sometimes called a <xex>writ of reprisal</xex>), which issues to a defendant in replevin when he has obtained judgment for a return of the chattels replevied, and fails to obtain them on the <xex>writ of return</xex>.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1660 --><br/
+<p><!-- p. 1660 --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- final segment of the main dictionary !! --><br/
+<p><!-- final segment of the main dictionary !! --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Withe-rod</ent><br/
@@ -18964,7 +18964,7 @@ The star-led <qex>wizards</qex> [Magi] haste with odors sweet!</q> <rj><qau>Milt
 <hw>Wo"den</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>W<omac/den</ets>; akin to OS. <ets>W<omac/dan</ets>, OHG. <ets>Wuotan</ets>, Icel. <ets>O<edh/inn</ets>, and probably to E. <ets>wood</ets>, a.  Cf. <er>Wednesday</er>.]</ety> <fld>(Northern Myth.)</fld> <def>A deity corresponding to Odin, the supreme deity of the Scandinavians.  <xex>Wednesday</xex> is named for him.  See <er>Odin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1661 --><br/
+<p><!-- p. 1661 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Woe</ent><br/
@@ -19177,7 +19177,7 @@ More softly round the open <qex>wold</qex>.</q> <rj><qau>Tennyson.</qau></rj><br
 
 <p><ent>Wolframium</ent><br/
 <hw>Wol*fra"mi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.  See <er>Wolfram</er>.]</ety> <fld>(Chem.)</fld> <def>The technical name of the element tungsten.  See <er>Tungsten</er>.</def>
-<-- also, Wolfram. --><br/
+<!-- also, Wolfram. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wolfsbane</ent><br/
@@ -19503,7 +19503,7 @@ What you would ask me, that I should deny.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Won"der*ly</hw>, <pos>adv.</pos> <ety>[AS. <ets>wundorlice</ets>.]</ety> <def>Wonderfully; wondrously.</def>  <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1662 --><br/
+<p><!-- p. 1662 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wonderment</ent><br/
@@ -19731,7 +19731,7 @@ Makes wing to the rooky <qex>wood</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Wood</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Wooded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Wooding</conjf>.]</vmorph> <def>To supply with wood, or get supplies of wood for; <as>as, to <ex>wood</ex> a steamboat or a locomotive</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1663 --><br/
+<p><!-- p. 1663 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wood</ent><br/
@@ -20066,7 +20066,7 @@ Warble his native <qex>wood-notes</qex> wild.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Wood"work`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Work made of wood; that part of any structure which is wrought of wood.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Fig. the hidden parts of a building, as between the walls.<br/
+<p><!-- Fig. the hidden parts of a building, as between the walls.<br/
 [<source>1913 Webster</source>]</p>
 
 <p>  Out of the woodwork.  Appearing suddenly, as if from within the walls. --><br/
@@ -20153,7 +20153,7 @@ Of <qex>woody</qex> Ida's inmost grove.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Woold</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Woolded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Woolding</conjf>.]</vmorph> <ety>[D. <ets>woelen</ets>, be<ets>woelen</ets>; akin to G. <ets>wuhlen</ets>, be<ets>wuhlen</ets>. <root/146.]</ety> <fld>(Naut.)</fld> <def>To wind, or wrap; especially, to wind a rope round, as a mast or yard made of two or more pieces, at the place where it has been fished or scarfed, in order to strengthen it.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1664 --><br/
+<p><!-- p. 1664 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Woolder</ent><br/
@@ -20649,7 +20649,7 @@ Proportioned to each kind.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Purges . . . <qex>work</qex> best, that is, cause the blood so to do, . . . in warm weather or in a warm room.</q> <rj><qau>Grew.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1665 --><br/
+<p><!-- p. 1665 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To work at</b></col>, <cd>to be engaged in or upon; to be employed in.</cd> -- <col><b>To work to windward</b></col> <fld>(Naut.)</fld>, <cd>to sail or ply against the wind; to tack to windward.</cd>  <rj><au>Mar. Dict.</au></rj>
@@ -20792,7 +20792,7 @@ Where they were wont to do.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Working-day</ent><br/
-<hw>Work"ing-day</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or characteristic of, working days, or workdays; everyday; hence, plodding; hard-working.</def><-- = workaday? --><br/
+<hw>Work"ing-day</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or characteristic of, working days, or workdays; everyday; hence, plodding; hard-working.</def><!-- = workaday? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O, how full of briers in this <qex>working-day</qex> world.</q> <rj><qau>Shak.</qau></rj><br/
@@ -21097,7 +21097,7 @@ His mouth he opened and displayed his tusks.</q> <rj><qau>Longfellow.</qau></rj>
 <p><cs><col><b>Worm abscess</b></col> <fld>(Med.)</fld>, <cd>an abscess produced by the irritation resulting from the lodgment of a worm in some part of the body.</cd> -- <col><b>Worm fence</b></col>. <cd>See under <er>Fence</er>.</cd> -- <col><b>Worm gear</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A worm wheel.</cd> <sd>(b)</sd> <cd>Worm gearing.</cd> -- <col><b>Worm gearing</b></col>, <cd>gearing consisting of a worm and worm wheel working together.</cd> -- <col><b>Worm grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>See <er>Pinkroot</er>, 2 <sd>(a)</sd>.</cd>  <sd>(b)</sd> <cd>The white stonecrop (<spn>Sedum album</spn>) reputed to have qualities as a vermifuge.</cd> <au>Dr. Prior.</au> -- <col><b>Worm oil</b></col> <fld>(Med.)</fld>, <cd>an anthelmintic consisting of oil obtained from the seeds of <spn>Chenopodium anthelminticum</spn>.</cd> -- <col><b>Worm powder</b></col> <fld>(Med.)</fld>, <cd>an anthelmintic powder.</cd> -- <col><b>Worm snake</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Thunder snake</cref> <sd>(b)</sd>, under <er>Thunder</er>.</cd> -- <col><b>Worm tea</b></col> <fld>(Med.)</fld>, <cd>an anthelmintic tea or tisane.</cd> -- <col><b>Worm tincture</b></col> <fld>(Med.)</fld>, <cd>a tincture prepared from dried earthworms, oil of tartar, spirit of wine, etc.</cd> <mark>[Obs.]</mark> -- <col><b>Worm wheel</b></col>, <cd>a cogwheel having teeth formed to fit into the spiral spaces of a screw called a <xex>worm</xex>, so that the wheel may be turned by, or may turn, the worm; -- called also <altname>worm gear</altname>, and sometimes <altname>tangent wheel</altname>.  See <xex>Illust.</xex> of <cref>Worm gearing</cref>, above.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1666 --><br/
+<p><!-- p. 1666 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Worm</ent><br/
@@ -21134,7 +21134,7 @@ Your color faded.</q> <rj><qau>Herbert.</qau></rj><br/
 <p><q>Ropes . . . are generally <qex>wormed</qex> before they are served.</q> <rj><qau>Totten.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 5. to treat [an animal] with a medicine to eliminate parasitic worms --><br/
+<p><!-- 5. to treat [an animal] with a medicine to eliminate parasitic worms --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To worm one's self into</b></col>, <cd>to enter into gradually by arts and insinuations; as, <xex>to worm one's self into</xex> favor.</cd></cs><br/
@@ -21615,7 +21615,7 @@ So long as we can say, This is the <qex>worst</qex>.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Worth while</b></col>, <it>or</it> <col><b>Worth the while</b></col></mcol>. <cd>See under <er>While</er>, <pos>n.</pos></cd></cs>
-<-- should add separate "worthwhile".  See below. --><br/
+<!-- should add separate "worthwhile".  See below. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Worth</ent><br/
@@ -21645,7 +21645,7 @@ Could know such worth, or worth describe so well.</q> <rj><qau>Waller.</qau></rj
 <p><syn><b>Syn.</b> -- Desert; merit; excellence; price; rate.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1667 --><br/
+<p><!-- p. 1667 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Worthful</ent><br/
@@ -21687,7 +21687,7 @@ It see, and judge, and follow <qex>worthiness</qex>?</q> <rj><qau>Donne.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>worthwhile</ent><br/
-<-- <hw>worthwhile</hw>, <pos>adj.</pos> <def>Worth the time or effort spent.</def>  See worth while.<br/
+<!-- <hw>worthwhile</hw>, <pos>adj.</pos> <def>Worth the time or effort spent.</def>  See worth while.<br/
 [<source>1913 Webster</source>]</p>
 
 <p> worthy. -- worthwhileness. --><br/
@@ -21793,7 +21793,7 @@ More happiness.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Would-be</ent><br/
-<hw>Would"-be`</hw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Desiring or professing to be; vainly pretending to be; <as>as, a <ex>would-be</ex> poet<-- wannabe--></as>.</def><br/
+<hw>Would"-be`</hw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Desiring or professing to be; vainly pretending to be; <as>as, a <ex>would-be</ex> poet<!-- wannabe--></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Woulding</ent><br/
@@ -21947,7 +21947,7 @@ And hit the woundless air.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>1.</sn> <def>Wreck; ruin; destruction.</def>  <mark>[Obs.]</mark> <au>Chaucer.</au>  <ldquo/A world devote to universal <xex>wrack</xex>.<rdquo/ <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- used now mainly in the phrase <xex>wrack and ruin</xex> --><br/
+<p><!-- used now mainly in the phrase <xex>wrack and ruin</xex> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any marine vegetation cast up on the shore, especially plants of the genera <gen>Fucus</gen>, <gen>Laminaria</gen>, and <gen>Zostera</gen>, which are most abundant on northern shores.</def><br/
@@ -22190,7 +22190,7 @@ Its tumult and <qex>wrath</qex> in.</q> <rj><qau>Southey.</qau></rj><br/
 <hw>Wrawl</hw> <pr>(r<add/l)</pr>, <pos>v. i.</pos> <ety>[Cf. Dan. <ets>vraale</ets>, Sw. <ets>vr<aring/la</ets> to brawl, to roar, Dan. <ets>vraal</ets> a bawling, roaring, <ets>vr<ae/le</ets> to cry, weep, whine.]</ety> <def>To cry, as a cat; to waul.</def>  <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1668 --><br/
+<p><!-- p. 1668 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wrawness</ent><br/
@@ -22660,7 +22660,7 @@ That drew our swords, now secret <qex>wrests</qex> them from our hand.</q> <rj><
 Than to the <qex>wretched</qex> mortals left behind.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- <q>The <qex>wretched</qex> refuse of your teeming shore . . . </q>
+<p><!-- <q>The <qex>wretched</qex> refuse of your teeming shore . . . </q>
  --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -22738,7 +22738,7 @@ His seat, and cast his right leg over.</q> <rj><qau>Hudibras.</qau></rj><br/
 <hw>Wrig"gle</hw>, <pos>n.</pos> <def>Act of wriggling; a short or quick writhing motion or contortion.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><-- p. 1669 --><br/
+<p><!-- p. 1669 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wriggler</ent><br/
@@ -23086,7 +23086,7 @@ And <qex>writhed</qex> him to and fro.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The reason which he yieldeth showeth the least part of his meaning to be that whereunto his words are <qex>writhed</qex>.</q> <rj><qau>Hooker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To extort; to wring; to wrest.</def>  <mark>[R.]</mark><-- ; extract --><br/
+<p><sn>3.</sn> <def>To extort; to wring; to wrest.</def>  <mark>[R.]</mark><!-- ; extract --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The nobility hesitated not to follow the example of their sovereign in <qex>writhing</qex> money from them by every species of oppression.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
@@ -23200,7 +23200,7 @@ And <qex>writhed</qex> him to and fro.</q> <rj><qau>Milton.</qau></rj><br/
 </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1670 --><br/
+<p><!-- p. 1670 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wrong</ent><br/

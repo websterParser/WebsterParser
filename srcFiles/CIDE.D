@@ -1,4 +1,4 @@
-<-- This file is part 4 of the GNU version of
+<!-- This file is part 4 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -17,7 +17,7 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 364 --></p>
+<p><!-- p. 364 --></p>
 
 <p><centered><point26>D.</point26></centered></p>
 
@@ -350,7 +350,7 @@ Out of her fruitful, abundant flowers.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Daff</hw>, <pos>n.</pos> <ety>[See <er>Daft</er>.]</ety> <def>A stupid, blockish fellow; a numskull.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 365 --></p>
+<p><!-- p. 365 --></p>
 
 <p><ent>Daff</ent><br/
 <hw>Daff</hw> <pr>(d<adot/f)</pr>, <pos>v. i.</pos> <def>To act foolishly; to be foolish or sportive; to toy.</def> <mark>[Scot.]</mark>  <rj><au>Jamieson.</au></rj><br/
@@ -614,7 +614,7 @@ Within the visible <qex>diurnal</qex> sphere.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Daimio</ent><br/
-<hw>Dai"mi*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Daimios</plw> <pr>(#)</pr>.</plu> <ety>[Jap., fr. Chin. <ets>tai ming</ets> great name.]</ety> <def>The title of the feudal nobles of Japan.</def><-- usu. written <asp>daimyo</asp> --><br/
+<hw>Dai"mi*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Daimios</plw> <pr>(#)</pr>.</plu> <ety>[Jap., fr. Chin. <ets>tai ming</ets> great name.]</ety> <def>The title of the feudal nobles of Japan.</def><!-- usu. written <asp>daimyo</asp> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>daimios</qex>, or territorial nobles, resided in Yedo and were divided into four classes.</q> <rj><qau>Am. Cyc.</qau></rj><br/
@@ -894,7 +894,7 @@ The flattery and the strife!</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>3.</sn> <def>Entertaining discourse.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 366 --></p>
+<p><!-- p. 366 --></p>
 
 <p><ent>Dallier</ent><br/
 <hw>Dal"li*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who fondles; a trifler; <as>as, <ex>dalliers</ex> with pleasant words</as>.</def>  <rj><au>Asham.</au></rj><br/
@@ -1393,7 +1393,7 @@ Who doats, yet doubts, suspects, yet strongly loves.</q> <rj><qau>Shak.</qau></r
 \'d8<hw>dam"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(law)</fld> <def>Harm; detriment, either to character or property.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 367 --></p>
+<p><!-- p. 367 --></p>
 
 <p><ent>Damoiselle</ent><br/
 <ent>Damosella</ent><br/
@@ -1696,7 +1696,7 @@ For of that art she couth the olde <qex>dance</qex>.</q> <rj><qau>Chaucer.</qau>
 <hw>Dan"die</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of a breed of small terriers; -- called also <altname>Dandie Dinmont</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Illustr. of dandie dinmont --></p>
+<p><!-- Illustr. of dandie dinmont --></p>
 
 <p><ent>Dandie  Dinmont</ent><br/
 <ent>Dandie Dinmont</ent><br/
@@ -1898,7 +1898,7 @@ My lord to me is hard and <qex>dangerous</qex>.</q> <rj><qau>Chaucer.</qau></rj>
 <p>-- <wordforms><wf>Dan"ger*ous*ly</wf>, <pos>adv.</pos> -- <wf>Dan"ger*ous*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 368 --></p>
+<p><!-- p. 368 --></p>
 
 <p><ent>Dangle</ent><br/
 <hw>Dan"gle</hw> <pr>(d<acr/<nsm/"g'l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dangled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dangling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[Akin to Dan. <ets>dangle</ets>, dial. Sw. <ets>dangla</ets>, Dan.  <ets>dingle</ets>, Sw. <ets>dingla</ets>, Icel. <ets>dingla</ets>; perh. from E. <ets>ding</ets>.]</ety> <def>To hang loosely, or with a swinging or jerking motion.</def><br/
@@ -2527,7 +2527,7 @@ From all heaven's bounds.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>A day of clouds and of thick <qex>darkness</qex>.</q> <rj><qau>Joel. ii. 2.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 369 --></p>
+<p><!-- p. 369 --></p>
 
 <p><cs><col><b>Prince of darkness</b></col>, <cd>the Devil; Satan.</cd> <ldquo/In the power of the <xex>Prince of darkness</xex>.<rdquo/  <rj><au>Locke.</au></rj></cs></p>
 
@@ -2906,7 +2906,7 @@ And down the rough cascade all <qex>dashing</qex> fall.</q> <rj><qau>Thomson.</q
 <mhw><hw>dash"pot`</hw>, <hw>dash-pot</hw></mhw> <pr>(d<acr/sh"p<ocr/t`)</pr>, <pos>n.</pos> <fld>(Mach.)</fld> <def>a mechanical damping device containing a piston that moves in a fluid-filled chamber to serve as a pneumatic or hydraulic cushion for a falling weight, as in the valve gear of a steam engine, to prevent shock.</def><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
-<p><-- letters refer to illustration -->
+<p><!-- letters refer to illustration -->
 <note><hand/ It consists of a chamber, containing air or a liquid, in which a piston (<it>a</it>), attached to the weight, falls freely until it enters a space (as below the openings, <it>b</it>) from which the air or liquid can escape but slowly (as through cock <it>c</it>), when its fall is gradually checked.</note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -3052,7 +3052,7 @@ And down the rough cascade all <qex>dashing</qex> fall.</q> <rj><qau>Thomson.</q
 <p><cs><mcol><col><b>Date palm</b></col>, <it>or</it> <col><b>Date tree</b></col></mcol> <fld>(Bot.)</fld>, <cd>the genus of palms which bear dates, of which common species is <spn>Ph<oe/nix dactylifera</spn>. See <xex>Illust.</xex></cd> -- <col><b>Date plum</b></col> <fld>(Bot.)</fld>, <cd>the fruit of several species of <gen>Diospyros</gen>, including the American and Japanese persimmons, and the European lotus (<spn>Diospyros Lotus</spn>).</cd> -- <mcol><col><b>Date shell</b></col>, <it>or</it> <col><b>Date fish</b></col></mcol> <fld>(Zool.)</fld>, <cd>a bivalve shell, or its inhabitant, of the genus <gen>Pholas</gen>, and allied genera. See <er>Pholas</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 370 --></p>
+<p><!-- p. 370 --></p>
 
 <p><ent>Date</ent><br/
 <hw>Date</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>date</ets>, LL. <ets>data</ets>, fr. L. <ets>datus</ets> given, p. p. of <ets>dare</ets> to give; akin to Gr. <ets><?/</ets>, OSlaw. <ets>dati</ets>, Skr. <ets>d<amac/</ets>.  Cf. <er>Datum</er>, <ets>Dose</ets>, <er>Dato</er>, <er>Die</er>.]</ety> <sn>1.</sn> <def>That addition to a writing, inscription, coin, etc., which specifies the time (as day, month, and year) when the writing or inscription was given, or executed, or made; <as>as, the <ex>date</ex> of a letter, of a will, of a deed, of a coin</as>. etc.</def><br/
@@ -3460,7 +3460,7 @@ I am very sincerely your very affectionate, humble servant.</q> <rj><qau>Smollet
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Davyum</ent><br/
-<hw>Da"vy*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Named after <person>Sir Humphry <etsep>Davy</etsep></person>, the English chemist.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element found in platinum ore. It is a white malleable substance. Symbol Da. Atomic weight 154.</def><-- ? Europium is 152(the closest)? --><br/
+<hw>Da"vy*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Named after <person>Sir Humphry <etsep>Davy</etsep></person>, the English chemist.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element found in platinum ore. It is a white malleable substance. Symbol Da. Atomic weight 154.</def><!-- ? Europium is 152(the closest)? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Daw</ent><br/
@@ -3604,7 +3604,7 @@ Fought on the <qex>day</qex> of Crispin Crispianus.</q> <rj><qau>Shak.</qau></rj
 <p><note><hand/ <xex>Day</xex> is much used in self-explaining compounds; as, <xex>day</xex>break, <xex>day</xex>light, work<xex>day</xex>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 371 --></p>
+<p><!-- p. 371 --></p>
 
 <p><cs><col><b>Anniversary day</b></col>. <cd>See <er>Anniversary</er>, <pos>n.</pos></cd> -- <col><b>Astronomical day</b></col>, <cd>a period equal to the mean solar day, but beginning at noon instead of at midnight, its twenty-four hours being numbered from 1 to 24; also, the sidereal day, as that most used by astronomers.</cd> -- <col><b>Born days</b></col>. <cd>See under <er>Born</er>.</cd> -- <col><b>Canicular days</b></col>. <cd>See <er>Dog day</er>.</cd> -- <col><b>Civil day</b></col>, <cd>the mean solar day, used in the ordinary reckoning of time, and among most modern nations beginning at mean midnight; its hours are usually numbered in two series, each from 1 to 12. This is the period recognized by courts as constituting a day. The Babylonians and Hindoos began their day at sunrise, the Athenians and Jews at sunset, the ancient Egyptians and Romans at midnight.</cd> -- <col><b>Day blindness</b></col>. <fld>(Med.)</fld> <cd>See <er>Nyctalopia</er>.</cd> -- <mcol><col><b>Day by day</b></col>, <it>or</it> <col><b>Day after day</b></col></mcol>, <cd>daily; every day; continually; without intermission of a day. See under <er>By</er>.</cd> <ldquo/<xex>Day by day</xex> we magnify thee.<rdquo/ <au>Book of Common Prayer.</au> -- <col><b>Days in bank</b></col> <fld>(Eng. Law)</fld>, <cd>certain stated days for the return of writs and the appearance of parties; -- so called because originally peculiar to the Court of Common Bench, or Bench (<xex>bank</xex>) as it was formerly termed.</cd> <au>Burrill.</au> -- <col><b>Day in court</b></col>, <cd>a day for the appearance of parties in a suit.</cd> -- <col><b>Days of devotion</b></col> <fld>(R. C. Ch.)</fld>, <cd>certain festivals on which devotion leads the faithful to attend mass.</cd> <au>Shipley.</au> -- <col><b>Days of grace</b></col>. <cd>See <er>Grace</er>.</cd> -- <col><b>Days of obligation</b></col> <fld>(R. C. Ch.)</fld>, <cd>festival days when it is obligatory on the faithful to attend Mass.</cd> <au>Shipley.</au> -- <col><b>Day owl</b></col>, <fld>(Zool.)</fld>, <cd>an owl that flies by day. See <er>Hawk owl</er>.</cd> -- <col><b>Day rule</b></col> <fld>(Eng. Law)</fld>, <cd>an order of court (now abolished) allowing a prisoner, under certain circumstances, to go beyond the prison limits for a single day.</cd> -- <col><b>Day school</b></col>, <cd>one which the pupils attend only in daytime, in distinction from a boarding school.</cd> -- <col><b>Day sight</b></col>. <fld>(Med.)</fld> <cd>See <er>Hemeralopia</er>.</cd> -- <col><b>Day's work</b></col> <fld>(Naut.)</fld>, <cd>the account or reckoning of a ship's course for twenty-four hours, from noon to noon.</cd> -- <col><b>From day to day</b></col>, <cd>as time passes; in the course of time; <as>as, he improves <ex>from day to day</ex></as>.</cd> -- <col><b>Jewish day</b></col>, <cd>the time between sunset and sunset.</cd> -- <col><b>Mean solar day</b></col> <fld>(Astron.)</fld>, <cd>the mean or average of all the apparent solar days of the year.</cd> -- <mcol><col><b>One day</b></col>, <col><b>One of these days</b></col></mcol>, <cd>at an uncertain time, usually of the future, rarely of the past; sooner or later.</cd> <ldquo/Well, niece, I hope to see you <xex>one day</xex> fitted with a husband.<rdquo/ <au>Shak.</au> -- <col><b>Only from day to day</b></col>, <cd>without certainty of continuance; temporarily.</cd> <au>Bacon.</au> -- <col><b>Sidereal day</b></col>, <cd>the interval between two successive transits of the first point of Aries over the same meridian. The <ex>Sidereal day</ex> is 23 h. 56 m. 4.09 s. of mean solar time.</cd> -- <col><b>To win the day</b></col>, <cd>to gain the victory, to be successful.</cd> <au>S. Butler.</au> -- <col><b>Week day</b></col>, <cd>any day of the week except Sunday; a working day.</cd> -- <col><b>Working day</b></col>. <sd>(a)</sd> <cd>A day when work may be legally done, in distinction from Sundays and legal holidays.</cd> <sd>(b)</sd> <cd>The number of hours, determined by law or custom, during which a workman, hired at a stated price per day, must work to be entitled to a day's pay.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -3663,7 +3663,7 @@ Fought on the <qex>day</qex> of Crispin Crispianus.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dayfly</ent><br/
-<hw>Day"fly`</hw> <pr>(d<amac/"fl<imac/`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A neuropterous insect of the genus <gen>Ephemera</gen> and related genera, of many species, and inhabiting fresh water in the larval state; the ephemeral fly; -- so called because it commonly lives but one day in the winged or adult state. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def><-- = the Mayfly? mayfly is ephemerid of order <ord>ephemeroptera</ord> [MW10]. "Mayfly" not in 1913 W. --><br/
+<hw>Day"fly`</hw> <pr>(d<amac/"fl<imac/`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A neuropterous insect of the genus <gen>Ephemera</gen> and related genera, of many species, and inhabiting fresh water in the larval state; the ephemeral fly; -- so called because it commonly lives but one day in the winged or adult state. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def><!-- = the Mayfly? mayfly is ephemerid of order <ord>ephemeroptera</ord> [MW10]. "Mayfly" not in 1913 W. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Day-labor</ent><br/
@@ -3680,7 +3680,7 @@ Fought on the <qex>day</qex> of Crispin Crispianus.</q> <rj><qau>Shak.</qau></rj
 
 <p><sn>2.</sn> <pluf>pl.</pluf> <def>The eyes.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Wright.</au></rj></p>
 
-<p><-- 3. any opening in a surrounding enclosure, esp. one affording escape; -- used in the phrase <ldquo/head for daylight<rdquo/. --><br/
+<p><!-- 3. any opening in a surrounding enclosure, esp. one affording escape; -- used in the phrase <ldquo/head for daylight<rdquo/. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>daylily</ent><br/
@@ -3956,7 +3956,7 @@ They dance in mists, and <qex>dazzle</qex> with surprise.</q> <rj><qau>Dryden.</
 <p><q>[In golf], a ball is said to lie <qex>dead</qex> when it lies so near the hole that the player is certain to hole it in the next stroke.</q>  <rj><qau>Encyc. of Sport.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Dead ahead</b></col> <fld>(Naut.)</fld>, <cd>directly ahead; -- said of a ship or any object, esp. of the wind when blowing from that point toward which a vessel would go.</cd> -- <col><b>Dead angle</b></col> <fld>(Mil.)</fld>, <cd>an angle or space which can not be seen or defended from behind the parapet.</cd> -- <col><b>Dead block</b></col>, <cd>either of two wooden or iron blocks intended to serve instead of buffers at the end of a freight car.</cd> -- <col><b>Dead calm</b></col> <fld>(Naut.)</fld>, <cd>no wind at all.</cd> -- <mcol><col><b>Dead center</b></col>, <it>or</it> <col><b>Dead point</b></col></mcol> <fld>(Mach.)</fld>, <cd>either of two points in the orbit of a crank, at which the crank and connecting rod lie a straight line. It corresponds to the end of a stroke; as, <it>A</it> and <it>B</it> are <xex>dead centers</xex> of the crank mechanism in which the crank <it>C</it> drives, or is driven by, the lever <it>L</it>.</cd> -- <col><b>Dead color</b></col> <fld>(Paint.)</fld>, <cd>a color which has no gloss upon it.</cd> -- <col><b>Dead coloring</b></col> <fld>(Oil paint.)</fld>, <cd>the layer of colors, the preparation for what is to follow. In modern painting this is usually in monochrome.</cd> -- <col><b>Dead door</b></col> <fld>(Shipbuilding)</fld>, <cd>a storm shutter fitted to the outside of the quarter-gallery door.</cd> -- <col><b>Dead flat</b></col> <fld>(Naut.)</fld>, <cd>the widest or midship frame.</cd> -- <col><b>Dead freight</b></col> <fld>(Mar. Law)</fld>, <cd>a sum of money paid by a person who charters a whole vessel but fails to make out a full cargo. The payment is made for the unoccupied capacity.</cd> <au>Abbott.</au> -- <col><b>Dead ground</b></col> <fld>(Mining)</fld>, <cd>the portion of a vein in which there is no ore.</cd> -- <col><b>Dead hand</b></col>, <cd>a hand that can not alienate, as of a person civilly dead.</cd> <ldquo/Serfs held in <xex>dead hand</xex>.<rdquo/ <au>Morley.</au> <see>See <er>Mortmain</er>.</see> -- <col><b>Dead head</b></col> <fld>(Naut.)</fld>, <cd>a rough block of wood used as an anchor buoy.</cd> -- <col><b>Dead heat</b></col>, <cd>a heat or course between two or more race horses, boats, etc., in which they come out exactly equal, so that neither wins.</cd> -- <col><b>Dead horse</b></col>, <cd>an expression applied to a debt for wages paid in advance.</cd> <mark>[Law]</mark> -- <col><b>Dead language</b></col>, <cd>a language which is no longer spoken or in common use by a people, and is known only in writings, as the Hebrew, Greek, and Latin.</cd><-- Hebrew was revived in modern Israel --> -- <col><b>Dead letter</b></col>. <sd>(a)</sd> <cd>A letter which, after lying for a certain fixed time uncalled for at the post office to which it was directed, is then sent to the general post office to be opened.</cd> <sd>(b)</sd> <cd>That which has lost its force or authority; as, the law has become a <xex>dead letter</xex>.</cd> -- <col><b>Dead-letter office</b></col>, <cd>a department of the general post office where dead letters are examined and disposed of.</cd> -- <col><b>Dead level</b></col>, <cd>a term applied to a flat country.</cd> -- <col><b>Dead lift</b></col>, <sd>(a)</sd> <cd>a direct lift, without assistance from mechanical advantage, as from levers, pulleys, etc.; hence, an extreme emergency.</cd> <ldquo/(As we say) at a <xex>dead lift</xex>.<rdquo/ <au>Robynson (More's Utopia).</au> <sd>(b)</sd> <fld>(Weighlifting)</fld> <cd>The lifting of a weight from the ground, without raising it to the shoulders.</cd> -- <col><b>Dead line</b></col> <fld>(Mil.)</fld>, <cd>a line drawn within or around a military prison, to cross which involves for a prisoner the penalty of being instantly shot.</cd> -- <col><b>Dead load</b></col> <fld>(Civil Engin.)</fld>, <cd>a constant, motionless load, as the weight of a structure, in distinction from a moving load, as a train of cars, or a variable pressure, as of wind.</cd> -- <col><b>Dead march</b></col> <fld>(Mus.)</fld>, <cd>a piece of solemn music intended to be played as an accompaniment to a funeral procession.</cd> -- <col><b>Dead nettle</b></col> <fld>(Bot.)</fld>, <cd>a harmless plant with leaves like a nettle (<spn>Lamium album</spn>).</cd> -- <col><b>Dead oil</b></col> <fld>(Chem.)</fld>, <cd>the heavy oil obtained in the distillation of coal tar, and containing phenol, naphthalus, etc.</cd><-- sic. naphthalins? --> -- <col><b>Dead plate</b></col> <fld>(Mach.)</fld>, <cd>a solid covering over a part of a fire grate, to prevent the entrance of air through that part.</cd> -- <col><b>Dead pledge</b></col>, <cd>a mortgage. See <er>Mortgage</er>.</cd> -- <col><b>Dead point</b></col>. <fld>(Mach.)</fld> <cd>See <cref>Dead center</cref>.</cd> -- <col><b>Dead reckoning</b></col> <fld>(Naut.)</fld>, <cd>the method of determining the place of a ship from a record kept of the courses sailed as given by compass, and the distance made on each course as found by log, with allowance for leeway, etc., without the aid of celestial observations.</cd> -- <col><b>Dead rise</b></col>, <cd>the transverse upward curvature of a vessel's floor.</cd> -- <col><b>Dead rising</b></col>, <cd>an elliptical line drawn on the sheer plan to determine the sweep of the floorheads throughout the ship's length.</cd> -- <col><b>Dead-Sea apple</b></col>. <cd>See under <er>Apple</er>.</cd> -- <col><b>Dead set</b></col>. <cd>See under <er>Set</er>.</cd> -- <col><b>Dead shot</b></col>. <sd>(a)</sd> <cd>An unerring marksman.</cd> <sd>(b)</sd> <cd>A shot certain to be made.</cd> -- <col><b>Dead smooth</b></col>, <cd>the finest cut made; -- said of files.</cd> -- <col><b>Dead wall</b></col> <fld>(Arch.)</fld>, <cd>a blank wall unbroken by windows or other openings.</cd> -- <col><b>Dead water</b></col> <fld>(Naut.)</fld>, <cd>the eddy water closing in under a ship's stern when sailing.</cd> -- <col><b>Dead weight</b></col>. <sd>(a)</sd> <cd>A heavy or oppressive burden.</cd> <au>Dryden.</au> <sd>(b)</sd> <fld>(Shipping)</fld> <cd>A ship's lading, when it consists of heavy goods; or, the heaviest part of a ship's cargo.</cd> <sd>(c)</sd> <fld>(Railroad)</fld> <cd>The weight of rolling stock, the live weight being the load.</cd> <au>Knight.</au> -- <col><b>Dead wind</b></col> <fld>(Naut.)</fld>, <cd>a wind directly ahead, or opposed to the ship's course.</cd> -- <col><b>To be dead</b></col>, <cd>to die.</cd> <mark>[Obs.]</mark><br/
+<p><cs><col><b>Dead ahead</b></col> <fld>(Naut.)</fld>, <cd>directly ahead; -- said of a ship or any object, esp. of the wind when blowing from that point toward which a vessel would go.</cd> -- <col><b>Dead angle</b></col> <fld>(Mil.)</fld>, <cd>an angle or space which can not be seen or defended from behind the parapet.</cd> -- <col><b>Dead block</b></col>, <cd>either of two wooden or iron blocks intended to serve instead of buffers at the end of a freight car.</cd> -- <col><b>Dead calm</b></col> <fld>(Naut.)</fld>, <cd>no wind at all.</cd> -- <mcol><col><b>Dead center</b></col>, <it>or</it> <col><b>Dead point</b></col></mcol> <fld>(Mach.)</fld>, <cd>either of two points in the orbit of a crank, at which the crank and connecting rod lie a straight line. It corresponds to the end of a stroke; as, <it>A</it> and <it>B</it> are <xex>dead centers</xex> of the crank mechanism in which the crank <it>C</it> drives, or is driven by, the lever <it>L</it>.</cd> -- <col><b>Dead color</b></col> <fld>(Paint.)</fld>, <cd>a color which has no gloss upon it.</cd> -- <col><b>Dead coloring</b></col> <fld>(Oil paint.)</fld>, <cd>the layer of colors, the preparation for what is to follow. In modern painting this is usually in monochrome.</cd> -- <col><b>Dead door</b></col> <fld>(Shipbuilding)</fld>, <cd>a storm shutter fitted to the outside of the quarter-gallery door.</cd> -- <col><b>Dead flat</b></col> <fld>(Naut.)</fld>, <cd>the widest or midship frame.</cd> -- <col><b>Dead freight</b></col> <fld>(Mar. Law)</fld>, <cd>a sum of money paid by a person who charters a whole vessel but fails to make out a full cargo. The payment is made for the unoccupied capacity.</cd> <au>Abbott.</au> -- <col><b>Dead ground</b></col> <fld>(Mining)</fld>, <cd>the portion of a vein in which there is no ore.</cd> -- <col><b>Dead hand</b></col>, <cd>a hand that can not alienate, as of a person civilly dead.</cd> <ldquo/Serfs held in <xex>dead hand</xex>.<rdquo/ <au>Morley.</au> <see>See <er>Mortmain</er>.</see> -- <col><b>Dead head</b></col> <fld>(Naut.)</fld>, <cd>a rough block of wood used as an anchor buoy.</cd> -- <col><b>Dead heat</b></col>, <cd>a heat or course between two or more race horses, boats, etc., in which they come out exactly equal, so that neither wins.</cd> -- <col><b>Dead horse</b></col>, <cd>an expression applied to a debt for wages paid in advance.</cd> <mark>[Law]</mark> -- <col><b>Dead language</b></col>, <cd>a language which is no longer spoken or in common use by a people, and is known only in writings, as the Hebrew, Greek, and Latin.</cd><!-- Hebrew was revived in modern Israel --> -- <col><b>Dead letter</b></col>. <sd>(a)</sd> <cd>A letter which, after lying for a certain fixed time uncalled for at the post office to which it was directed, is then sent to the general post office to be opened.</cd> <sd>(b)</sd> <cd>That which has lost its force or authority; as, the law has become a <xex>dead letter</xex>.</cd> -- <col><b>Dead-letter office</b></col>, <cd>a department of the general post office where dead letters are examined and disposed of.</cd> -- <col><b>Dead level</b></col>, <cd>a term applied to a flat country.</cd> -- <col><b>Dead lift</b></col>, <sd>(a)</sd> <cd>a direct lift, without assistance from mechanical advantage, as from levers, pulleys, etc.; hence, an extreme emergency.</cd> <ldquo/(As we say) at a <xex>dead lift</xex>.<rdquo/ <au>Robynson (More's Utopia).</au> <sd>(b)</sd> <fld>(Weighlifting)</fld> <cd>The lifting of a weight from the ground, without raising it to the shoulders.</cd> -- <col><b>Dead line</b></col> <fld>(Mil.)</fld>, <cd>a line drawn within or around a military prison, to cross which involves for a prisoner the penalty of being instantly shot.</cd> -- <col><b>Dead load</b></col> <fld>(Civil Engin.)</fld>, <cd>a constant, motionless load, as the weight of a structure, in distinction from a moving load, as a train of cars, or a variable pressure, as of wind.</cd> -- <col><b>Dead march</b></col> <fld>(Mus.)</fld>, <cd>a piece of solemn music intended to be played as an accompaniment to a funeral procession.</cd> -- <col><b>Dead nettle</b></col> <fld>(Bot.)</fld>, <cd>a harmless plant with leaves like a nettle (<spn>Lamium album</spn>).</cd> -- <col><b>Dead oil</b></col> <fld>(Chem.)</fld>, <cd>the heavy oil obtained in the distillation of coal tar, and containing phenol, naphthalus, etc.</cd><!-- sic. naphthalins? --> -- <col><b>Dead plate</b></col> <fld>(Mach.)</fld>, <cd>a solid covering over a part of a fire grate, to prevent the entrance of air through that part.</cd> -- <col><b>Dead pledge</b></col>, <cd>a mortgage. See <er>Mortgage</er>.</cd> -- <col><b>Dead point</b></col>. <fld>(Mach.)</fld> <cd>See <cref>Dead center</cref>.</cd> -- <col><b>Dead reckoning</b></col> <fld>(Naut.)</fld>, <cd>the method of determining the place of a ship from a record kept of the courses sailed as given by compass, and the distance made on each course as found by log, with allowance for leeway, etc., without the aid of celestial observations.</cd> -- <col><b>Dead rise</b></col>, <cd>the transverse upward curvature of a vessel's floor.</cd> -- <col><b>Dead rising</b></col>, <cd>an elliptical line drawn on the sheer plan to determine the sweep of the floorheads throughout the ship's length.</cd> -- <col><b>Dead-Sea apple</b></col>. <cd>See under <er>Apple</er>.</cd> -- <col><b>Dead set</b></col>. <cd>See under <er>Set</er>.</cd> -- <col><b>Dead shot</b></col>. <sd>(a)</sd> <cd>An unerring marksman.</cd> <sd>(b)</sd> <cd>A shot certain to be made.</cd> -- <col><b>Dead smooth</b></col>, <cd>the finest cut made; -- said of files.</cd> -- <col><b>Dead wall</b></col> <fld>(Arch.)</fld>, <cd>a blank wall unbroken by windows or other openings.</cd> -- <col><b>Dead water</b></col> <fld>(Naut.)</fld>, <cd>the eddy water closing in under a ship's stern when sailing.</cd> -- <col><b>Dead weight</b></col>. <sd>(a)</sd> <cd>A heavy or oppressive burden.</cd> <au>Dryden.</au> <sd>(b)</sd> <fld>(Shipping)</fld> <cd>A ship's lading, when it consists of heavy goods; or, the heaviest part of a ship's cargo.</cd> <sd>(c)</sd> <fld>(Railroad)</fld> <cd>The weight of rolling stock, the live weight being the load.</cd> <au>Knight.</au> -- <col><b>Dead wind</b></col> <fld>(Naut.)</fld>, <cd>a wind directly ahead, or opposed to the ship's course.</cd> -- <col><b>To be dead</b></col>, <cd>to die.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I deme thee, thou must algate be <qex>dead</qex>.</q> <rj><qau>Chaucer.</qau></rj></cs></p>
@@ -4022,7 +4022,7 @@ With many an ill, hath numbed and <qex>deaded</qex> me.</q> <rj><qau>Chapman.</q
 <hw>Dead"en</hw> <pr>(d<ecr/d"'n)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Deadened</conjf> <pr>(d<ecr/d"'nd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Deadening</conjf>.]</vmorph> <ety>[From <er>Dead</er>; cf. AS. <ets>d<?/dan</ets> to kill, put to death. See <er>Dead</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>To make as dead; to impair in vigor, force, activity, or sensation; to lessen the force or acuteness of; to blunt; <as>as, to <ex>deaden</ex> the natural powers or feelings; to <ex>deaden</ex> a sound.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 372 --></p>
+<p><!-- p. 372 --></p>
 
 <p><q>As harper lays his open palm<br/
 Upon his harp, to <qex>deaden</qex> its vibrations.</q> <rj><qau>Longfellow.</qau></rj><br/
@@ -4550,7 +4550,7 @@ Or ever I had seen that day.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Dear"-bought`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Bought at a high price; <as>as, <ex>dear-bought</ex> experience</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 373 --></p>
+<p><!-- p. 373 --></p>
 
 <p><ent>Deare</ent><br/
 <hw>Deare</hw> <pr>(?)</pr>, <def>variant of <er>Dere</er>, <pos>v. t. & n.</pos></def> <mark>[Obs.]</mark><br/
@@ -5073,7 +5073,7 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj><br/
 <hw>De*bauch"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who debauches or corrupts others; especially, a seducer to lewdness.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 374 --></p>
+<p><!-- p. 374 --></p>
 
 <p><ent>Debauchery</ent><br/
 <hw>De*bauch"er*y</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Debaucheries</plw> <pr>(<?/)</pr>.</plu> <sn>1.</sn> <def>Corruption of fidelity; seduction from virtue, duty, or allegiance.</def><br/
@@ -5575,7 +5575,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 <hw>Dec"a*pod</hw> <pr>(d<ecr/k"<adot/*p<ocr/d)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>d<eacute/capode</ets>.]</ety> <fld>(Zool.)</fld> <def>A crustacean with ten feet or legs, as a crab; one of the <ord>Decapoda</ord>. Also used adjectively, <as>as a <ex>decapod</ex> crustacean</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 375 --></p>
+<p><!-- p. 375 --></p>
 
 <p><ent>Decapoda</ent><br/
 \'d8<hw>De*cap"o*da</hw> <pr>(d<esl/*k<acr/p"<osl/*d<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>de`ka</grk>  ten + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The order of <class>Crustacea</class> which includes the shrimps, lobsters, crabs, etc.</def><br/
@@ -6102,7 +6102,7 @@ Over thy <qex>decent</qex> shoulders drawn.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Scots Law)</fld> <def>To decree; to adjudge.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 376 --></p>
+<p><!-- p. 376 --></p>
 
 <p><ent>Decerniture</ent><br/
 <hw>De*cern"i*ture</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <fld>(Scots Law)</fld> <def>A decree or sentence of a court.</def>  <rj><au>Stormonth.</au></rj><br/
@@ -6264,7 +6264,7 @@ Betwixt ourselves let us <qex>decide</qex> it then.</q> <rj><qau>Shak.</qau></rj
 <hw>Dec"i*mal</hw>, <pos>n.</pos> <def>A number expressed in the scale of tens; specifically, and almost exclusively, used as synonymous with a decimal fraction.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Circulating decimal</b></col>, <it>or</it>  <col><b>Circulatory decimal</b></col></mcol>, <cd>a decimal fraction in which the same figure, or set of figures, is constantly repeated; as, 0.354354354; -- called also <altname>recurring decimal</altname>, <altname>repeating decimal</altname>, and <altname>repetend</altname>.</cd></cs><-- see also repetend --><br/
+<p><cs><mcol><col><b>Circulating decimal</b></col>, <it>or</it>  <col><b>Circulatory decimal</b></col></mcol>, <cd>a decimal fraction in which the same figure, or set of figures, is constantly repeated; as, 0.354354354; -- called also <altname>recurring decimal</altname>, <altname>repeating decimal</altname>, and <altname>repetend</altname>.</cd></cs><!-- see also repetend --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>decimalisation</ent><br/
@@ -6540,7 +6540,7 @@ Ready in the <qex>deck</qex>.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><q>Grenville seized the opportunity to <qex>declaim</qex> on the repeal of the stamp act.</q> <rj><qau>Bancroft.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 377 --></p>
+<p><!-- p. 377 --></p>
 
 <p><ent>Declaim</ent><br/
 <hw>De*claim"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To utter in public; to deliver in a rhetorical or set manner.</def><br/
@@ -7155,7 +7155,7 @@ His weary wagon to the western vale.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>De*col"or*ate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To decolor.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 378 --></p>
+<p><!-- p. 378 --></p>
 
 <p><ent>Decoloration</ent><br/
 <hw>De*col`or*a"tion</hw> <pr>(d<esl/*k<ucr/l`<etil/r*<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>decoloratio</ets>: cf. F. <ets>d<eacute/coloration</ets>.]</ety> <def>The removal or absence of color.</def>  <rj><au>Ferrand.</au></rj><br/
@@ -7677,7 +7677,7 @@ Mine, both in heaven and earth to do thy will.</q> <rj><qau>Milton.</qau></rj><b
 <p><sn>2.</sn> <def>Serving to determine; critical.</def> <ldquo/The critical or <xex>decretory</xex> days.<rdquo/  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 379 --></p>
+<p><!-- p. 379 --></p>
 
 <p><ent>Decrew</ent><br/
 <hw>De*crew"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <ety>[F. <ets>d<eacute/crue</ets>, <ets>n.</ets>, decrease, and <ets>d<eacute/cru</ets>, p. p. of <ets>d<eacute/cro<icir/tre</ets>. See <er>Decrease</er>, and cf. <er>Accrue</er>.]</ety> <def>To decrease.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
@@ -8223,7 +8223,7 @@ With aged eyes, short way before?</q> <rj><qau>Emerson.</qau></rj><br/
 <hw>Deem</hw>, <pos>n.</pos> <def>Opinion; judgment.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 380 --></p>
+<p><!-- p. 380 --></p>
 
 <p><ent>Deemster</ent><br/
 <hw>Deem"ster</hw> <pr>(d<emac/m"st<etil/r)</pr>, <pos>n.</pos> <ety>[<ets>Deem</ets> + <ets>-ster</ets>; i. e., doomster. Cf. <er>Dempster</er>.]</ety> <def>A judge in the Isle of Man who decides controversies without process.</def> <rj><au>Cowell.</au></rj><br/
@@ -8798,7 +8798,7 @@ My blackness blotted thy unblemish'd name.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Law)</fld> <def>A condition, relating to a deed, which being performed, the deed is defeated or rendered void; or a collateral deed, made at the same time with a feoffment, or other conveyance, containing conditions, on the performance of which the estate then created may be defeated.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 381 --></p>
+<p><!-- p. 381 --></p>
 
 <p><note><hand/ Mortgages were usually made in this manner in former times, but the modern practice is to include the conveyance and the defeasance in the same deed.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -9342,7 +9342,7 @@ Begs a <qex>deferment</qex>.</q> <rj><qau>Suckling.</qau></rj><br/
 <p>-- <wordforms><wf>De*fi"ant*ly</wf>, <pos>adv.</pos> -- <wf>De*fi"ant*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 382 --></p>
+<p><!-- p. 382 --></p>
 
 <p><ent>Defiatory</ent><br/
 <hw>De*fi"a*to*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Defy</er>.]</ety> <def>Bidding or manifesting defiance.</def> <mark>[Obs.]</mark> <rj><au>Shelford.</au></rj><br/
@@ -9879,7 +9879,7 @@ Is no <qex>deficience</qex> found.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>De*for`ci*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Deforcement</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 383 --></p>
+<p><!-- p. 383 --></p>
 
 <p><ent>Deforest</ent><br/
 <hw>De*for"est</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To clear of forests; to disforest.</def> <rj><au>U. S. Agric. Reports.</au></rj><br/
@@ -10413,7 +10413,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 <p><sn>5.</sn> <def>Grade or rank to which scholars are admitted by a college or university, in recognition of their attainments; also, <mark>(informal)</mark> the diploma provided by an educational institution attesting to the achievement of that rank; <as>as, the <ex>degree</ex> of bachelor of arts, master, doctor, etc.; to hang one's <ex>degrees</ex> on the office wall</as>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><note><hand/ In the United States diplomas are usually given as the evidence of a degree conferred. In the humanities the first degree is that of <stype>bachelor of arts</stype> (B. A. or A. B.); the second that of <stype>master of arts</stype> (M. A. or A. M.). The degree of <xex>bachelor</xex> (<xex>of arts</xex>, <xex>science</xex>, <xex>divinity</xex>, <xex>law</xex>, etc.) is conferred upon those who complete a prescribed course of undergraduate study. The first degree in medicine is that of <stype>doctor of medicine</stype> (M. D.). The degrees of <xex>master</xex> and <xex>doctor</xex> are also conferred, in course, upon those who have completed certain prescribed postgraduate studies, as <stype>doctor of philosophy</stype> (Ph. D.); the degree of <xex>doctor</xex> is also conferred as a complimentary recognition of eminent services in science or letters, or for public services or distinction (as <stype>doctor of laws</stype> (LL. D.) or <stype>doctor of divinity</stype> (D. D.), when they are called <stype>honorary degrees</stype>.</note> <-- by 1960 the Ph. D. was more common than the honorary degree. --><br/
+<p><note><hand/ In the United States diplomas are usually given as the evidence of a degree conferred. In the humanities the first degree is that of <stype>bachelor of arts</stype> (B. A. or A. B.); the second that of <stype>master of arts</stype> (M. A. or A. M.). The degree of <xex>bachelor</xex> (<xex>of arts</xex>, <xex>science</xex>, <xex>divinity</xex>, <xex>law</xex>, etc.) is conferred upon those who complete a prescribed course of undergraduate study. The first degree in medicine is that of <stype>doctor of medicine</stype> (M. D.). The degrees of <xex>master</xex> and <xex>doctor</xex> are also conferred, in course, upon those who have completed certain prescribed postgraduate studies, as <stype>doctor of philosophy</stype> (Ph. D.); the degree of <xex>doctor</xex> is also conferred as a complimentary recognition of eminent services in science or letters, or for public services or distinction (as <stype>doctor of laws</stype> (LL. D.) or <stype>doctor of divinity</stype> (D. D.), when they are called <stype>honorary degrees</stype>.</note> <!-- by 1960 the Ph. D. was more common than the honorary degree. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The youth attained his bachelor's <qex>degree</qex>, and left the university.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -10425,7 +10425,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 <p><q>In the 11th century an opinion began to gain ground in Italy, that third cousins might marry, being in the seventh <qex>degree</qex> according to the civil law.</q> <rj><qau>Hallam.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 384 --></p>
+<p><!-- p. 384 --></p>
 
 <p><sn>7.</sn> <fld>(Arith.)</fld> <def>Three figures taken together in numeration; thus, 140 is one <xex>degree</xex>, 222,140 two <xex>degrees</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -11003,7 +11003,7 @@ Our frailty can sustain, thy tidings bring.</q> <rj><qau>Milton.</qau></rj><br/
 Of the <qex>delapsed</qex> crown from Philip.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 385 --></p>
+<p><!-- p. 385 --></p>
 
 <p><ent>Delapsion</ent><br/
 <hw>De*lap"sion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A falling down, or out of place; prolapsion.</def><br/
@@ -11495,7 +11495,7 @@ For gentle usage and soft <qex>delicacy</qex>?</q> <rj><qau>Milton.</qau></rj><b
 <p><q>With abstinence all <qex>delicates</qex> he sees.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 386 --></p>
+<p><!-- p. 386 --></p>
 
 <p><sn>2.</sn> <def>A delicate, luxurious, or effeminate person.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -11817,7 +11817,7 @@ Smiles with gay fruits or with <qex>delightful</qex> green.</q> <rj><qau>Addison
 <p><ent>Deliquesce</ent><br/
 <hw>Del`i*quesce"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Deliquesced</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Deliquescing</conjf>.]</vmorph> <ety>[L. <ets>deliquescere</ets> to melt, dissolve; <ets>de-</ets> + <ets>liquescere</ets> to become fluid, melt, fr. <ets>liquere</ets> to be fluid. See <er>Liquid</er>.]</ety> <fld>(Chem.)</fld> <def>To dissolve gradually and become liquid by attracting and absorbing moisture from the air, as certain salts, acids, and alkalies.</def></p>
 
-<-- Unexpected spelling of "alkalis", but not wrong. PCP -->
+<!-- Unexpected spelling of "alkalis", but not wrong. PCP -->
 <p><q>In very moist air crystals of strontites <qex>deliquesce</qex>.</q> <rj><qau>Black.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -11841,7 +11841,7 @@ Smiles with gay fruits or with <qex>delightful</qex> green.</q> <rj><qau>Addison
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Deliquium</ent><br/
-\'d8<hw>De*liq"ui*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Deliquiate</er>.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>A melting or dissolution in the air, or in a moist place; a liquid condition; <as>as, a salt falls into a <ex>deliquium</ex></as>.</def> <mark>[R.]</mark><-- the result of deliquescence --><br/
+\'d8<hw>De*liq"ui*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Deliquiate</er>.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>A melting or dissolution in the air, or in a moist place; a liquid condition; <as>as, a salt falls into a <ex>deliquium</ex></as>.</def> <mark>[R.]</mark><!-- the result of deliquescence --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A sinking away; a swooning.</def> <mark>[Obs.]</mark> <rj><au>Bacon.</au></rj><br/
@@ -11905,7 +11905,7 @@ Smiles with gay fruits or with <qex>delightful</qex> green.</q> <rj><qau>Addison
 <p><q>The <qex>delirium</qex> of the preceding session (of Parliament).</q> <rj><qau>Morley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Delirium tremens</b></col> <pr>(<?/)</pr>. <ety>[L., trembling delirium]</ety> <fld>(Med.)</fld>, <cd>a violent delirium induced by the excessive and prolonged use of intoxicating liquors.</cd><-- colloq. called <altname>DT's</altname>, <altname>d.t.'s</altname> or <altname>D&T</altname>--> -- <col><b>Traumatic delirium</b></col> <fld>(Med.)</fld>, <cd>a variety of delirium following injury.</cd></cs></p>
+<p><cs><col><b>Delirium tremens</b></col> <pr>(<?/)</pr>. <ety>[L., trembling delirium]</ety> <fld>(Med.)</fld>, <cd>a violent delirium induced by the excessive and prolonged use of intoxicating liquors.</cd><!-- colloq. called <altname>DT's</altname>, <altname>d.t.'s</altname> or <altname>D&T</altname>--> -- <col><b>Traumatic delirium</b></col> <fld>(Med.)</fld>, <cd>a variety of delirium following injury.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Insanity; frenzy; madness; derangement; aberration; mania; lunacy; fury. See <er>Insanity</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -12062,7 +12062,7 @@ Myself your loyal servant.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>One who relates or communicates.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 387 --></p>
+<p><!-- p. 387 --></p>
 
 <p><ent>Deliveress</ent><br/
 <hw>De*liv"er*ess</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A female deliverer.</def> <mark>[R.]</mark> <rj><au>Evelyn.</au></rj><br/
@@ -12595,7 +12595,7 @@ Like men born to renown by life or death.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>They answered . . . that they should <qex>demean</qex> themselves according to their instructions.</q> <rj><qau>Clarendon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 388 --></p>
+<p><!-- p. 388 --></p>
 
 <p><sn>3.</sn> <def>To debase; to lower; to degrade; -- followed by the reflexive pronoun.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -13129,11 +13129,11 @@ Aristocrat, <qex>democrat</qex>, autocrat.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]<br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 389 --></p>
+<p><!-- p. 389 --></p>
 
 <p><ent>Demogorgon</ent><br/
 <hw>De`mo*gor"gon</hw> <pr>(d<emac/"m<osl/*g<ocir/r*g<ocr/n <it>or</it> d<ecr/m"<osl/*g<ocir/r*g<ocr/n)</pr>, <pos>n.</pos> <ety>[First mentioned by <person>Lutatius</person>, or <person>Lactantius Placidus</person>, the scholiast on Statius, perh. fr. Gr. <grk>dai`mwn</grk> god, deity + <grk>gorgo`s</grk> fierce, terrible]</ety> <def>A mysterious, terrible, and evil divinity, regarded by some as the author of creation, by others as a great magician who was supposed to command the spirits of the lower world. See <er>Gorgon</er>.</def>
-<-- Demogorgon: etymology copied from later edition of Websters, due to page torn in 1913 ed.  PCP --><br/
+<!-- Demogorgon: etymology copied from later edition of Websters, due to page torn in 1913 ed.  PCP --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Orcus and Ades, and the dreaded name<br/
@@ -13637,7 +13637,7 @@ At last he whispers, <ldquo/Do; and we go snacks.<rdquo/</q> <rj><qau>Pope.</qau
 <p><q>They . . . looked as <qex>demurely</qex> as they could; for 't was a hanging matter to laugh unseasonably.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 390 --></p>
+<p><!-- p. 390 --></p>
 
 <p><ent>Demureness</ent><br/
 <hw>De*mure"ness</hw> <pr>(d<esl/*m<umac/r"n<ecr/s)</pr>, <pos>n.</pos> <def>The state of being demure; gravity; the show of gravity or modesty.</def><br/
@@ -14218,7 +14218,7 @@ Natives, or <qex>denizens</qex>, of blest abodes.</q> <rj><qau>Dryden.</qau></rj
 <p><sn>2.</sn> <def>The solution of a mystery; issue; outcome.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 391 --></p>
+<p><!-- p. 391 --></p>
 
 <p><ent>Denounce</ent><br/
 <hw>De*nounce"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Denounced</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Denouncing</conjf>.]</vmorph> <ety>[F.  <ets>d<eacute/noncer</ets>, OF. <ets>denoncier</ets>, fr. L. <ets>denuntiare</ets>, <ets>denunciare</ets>; <ets>de-</ets> + <ets>nunciare</ets>, <ets>nuntiare</ets>, to announce, report, <ets>nuntius</ets> a messenger, message. See <er>Nuncio</er>, and cf. <er>Denunciate</er>.]</ety> <sn>1.</sn> <def>To make known in a solemn or official manner; to declare; to proclaim (especially an evil).</def> <mark>[Obs.]</mark><br/
@@ -14729,7 +14729,7 @@ Alike in what it gives, and what <qex>denies</qex>?</q> <rj><qau>Pope.</qau></rj
 <hw>De*op`pi*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Removal of whatever stops up the passages.</def> <mark>[Obs.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 392 --></p>
+<p><!-- p. 392 --></p>
 
 <p><ent>Deoppilative</ent><br/
 <hw>De*op"pi*la*tive</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <fld>(Med.)</fld> <def>Deobstruent; aperient.</def> <mark>[Obs.]</mark>  <rj><au>Harvey.</au></rj><br/
@@ -15175,7 +15175,7 @@ And make a large <qex>dependence</qex> from the bough.</q> <rj><qau>Dryden.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><q>Any long series of action, the parts of which have very much <qex>dependency</qex> each on the other.</q> <rj><qau>Sir J. Reynolds.</qau></rj>
-<-- #sic. "action" is the singular.  Why? --><br/
+<!-- #sic. "action" is the singular.  Why? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>So that they may acknowledge their <qex>dependency</qex> on the crown of England.</q> <rj><qau>Bacon.</qau></rj><br/
@@ -15313,7 +15313,7 @@ And make a large <qex>dependence</qex> from the bough.</q> <rj><qau>Dryden.</qau
 <hw>De*pict"</hw> <pr>(d<esl/*p<icr/kt")</pr>, <pos>p. p.</pos> <ety>[L. <ets>depictus</ets>, p. p. of <ets>depingere</ets> to depict; <ets>de-</ets> + <ets>pingere</ets> to paint. See <er>Paint</er>, and cf. <er>Depaint</er>, <pos>p. p.</pos>]</ety> <def>Depicted.</def>  <rj><au>Lydgate.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 393 --></p>
+<p><!-- p. 393 --></p>
 
 <p><ent>Depict</ent><br/
 <hw>De*pict"</hw> <pr>(d<esl/*p<icr/kt")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Depicted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Depicting</conjf>.]</vmorph> <sn>1.</sn> <def>To form a colored likeness of; to represent by a picture; to paint; to portray.</def><br/
@@ -15794,7 +15794,7 @@ Your oath, my lord, is vain and frivolous.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The influence of princes upon the dispositions of their courts needs not the <qex>deposition</qex> of their examples, since it hath the authority of a known principle.</q> <rj><qau>W. Montagu.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 394 --></p>
+<p><!-- p. 394 --></p>
 
 <p><sn>3.</sn> <def>The act of setting aside a sovereign or a public officer; deprivation of authority and dignity; displacement; removal.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -16285,7 +16285,7 @@ Which knows no end in <qex>depth</qex> or height.</q> <rj><qau>Keble.</qau></rj>
 <p><sn>6.</sn> <fld>(Horology)</fld> <def>A pair of toothed wheels which work together.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 395 --></p>
+<p><!-- p. 395 --></p>
 
 <p><sn>7.</sn> <fld>(A<eum/ronautics)</fld> <def>The perpendicular distance from the chord to the farthest point of an arched surface.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -16804,7 +16804,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <p><sn>2.</sn> <def>To receive, as from a source or origin; to obtain by descent or by transmission; to draw; to deduce; -- followed by <xex>from</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 396 --></p>
+<p><!-- p. 396 --></p>
 
 <p><sn>3.</sn> <def>To trace the origin, descent, or derivation of; to recognize transmission of; <as>as, he <ex>derives</ex> this word from the Anglo-Saxon</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -16976,7 +16976,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dermoptera</ent><br/
-\'d8<hw>Der*mop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ skin + <?/ wing.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The division of insects which includes the earwigs (<fam>Forticulid<ae/</fam>).</def><-- now usu. <ord>Dermaptera</ord> --><br/
+\'d8<hw>Der*mop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ skin + <?/ wing.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>The division of insects which includes the earwigs (<fam>Forticulid<ae/</fam>).</def><!-- now usu. <ord>Dermaptera</ord> --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A group of lemuroid mammals having a parachutelike web of skin between the fore and hind legs, of which the colugo (<gen>Galeopithecus</gen>) is the type. See <er>Colugo</er>.</def><br/
@@ -17368,7 +17368,7 @@ Speaks thee <qex>descendent</qex> of ethereal race.</q> <rj><qau>Pope.</qau></rj
 <p><cs><col><b>Oblique descension</b></col> <fld>(Astron.)</fld>, <cd>the degree or arc of the equator which descends, with a celestial object, below the horizon of an oblique sphere.</cd> -- <col><b>Right descension</b></col>, <cd>the degree or arc of the equator which descends below the horizon of a right sphere at the same time with the object.</cd> <mark>[Obs.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 397 --></p>
+<p><!-- p. 397 --></p>
 
 <p><ent>Descensional</ent><br/
 <hw>De*scen"sion*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to descension.</def>  <rj><au>Johnson.</au></rj><br/
@@ -17924,7 +17924,7 @@ And this fraternity shall <qex>design</qex>.</q> <rj><qau>Beau. & Fl.</qau></rj>
 <p><cs><col><b>Design for</b></col>, <cd>to intend to go to.</cd> <mark>[Obs.]</mark> <ldquo/From this city she <xex>designed for</xex> Collin [Cologne].<rdquo/  <rj><au>Evelyn.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 398 --></p>
+<p><!-- p. 398 --></p>
 
 <p><ent>Design</ent><br/
 <hw>De*sign"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <ets>dessein</ets>, <ets>dessin</ets>.]</ety> <sn>1.</sn> <def>A preliminary sketch; an outline or pattern of the main features of something to be executed, as of a picture, a building, or a decoration; a delineation; a plan.</def><br/
@@ -18456,7 +18456,7 @@ Pine with regret, or sicken with <qex>despair</qex>.</q> <rj><qau>Keble.</qau></
 <p><q>Before he [Bunyan] was ten, his sports were interrupted by fits of remorse and <qex>despair</qex>.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 399 --></p>
+<p><!-- p. 399 --></p>
 
 <p><sn>2.</sn> <def>That which is despaired of.</def> <ldquo/The mere <xex>despair</xex> of surgery he cures.<rdquo/  <rj><au>Shak.</au></rj></p>
 
@@ -18983,7 +18983,7 @@ Coward or brave, can shun his <qex>destiny</qex>.</q> <rj><qau>Bryant.</qau></rj
 <p><q>Marked by <qex>the Destinies</qex> to be avoided.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 400 --></p>
+<p><!-- p. 400 --></p>
 
 <p><ent>Destituent</ent><br/
 <hw>De*stit"u*ent</hw> <pr>(?; 135)</pr>, <pos>a.</pos> <ety>[L. <ets>destituens</ets>, p. pr. of <ets>destituere</ets>.]</ety> <def>Deficient; wanting; <as>as, a <ex>destituent</ex> condition</as>.</def> <mark>[Obs.]</mark>  <rj><au>Jer. Taylor.</au></rj><br/
@@ -19534,7 +19534,7 @@ You lose it in the moment you <qex>detect</qex>.</q> <rj><qau>Pope.</qau></rj><b
 <p><q>The art of war . . . was greatly <qex>deteriorated</qex>.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 401  --></p>
+<p><!-- p. 401  --></p>
 
 <p><ent>deteriorate</ent><br/
 <hw>de*te"ri*o*rate</hw> <pr>(d<esl/*t<emac/"r<icr/*<osl/*r<amac/t)</pr>, <pos>v. i.</pos> <def>To grow worse; to be impaired in quality; to degenerate.</def><br/
@@ -20098,7 +20098,7 @@ My heart <qex>detests</qex> him as the gates of hell.</q> <rj><qau>Pope.</qau></
 <hw>detribalize</hw> <pos>v. t.</pos> <def>to cause (members of a tribe) to lose their cultural identity and adopt other customs.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 402 --></p>
+<p><!-- p. 402 --></p>
 
 <p><ent>Detriment</ent><br/
 <hw>Det"ri*ment</hw> <pr>(d<ecr/t"r<icr/*m<eit/nt)</pr>, <pos>n.</pos> <ety>[L. <ets>detrimentum</ets>, fr. <ets>deterere</ets>, <ets>detritum</ets>, to rub or wear away; <ets>de</ets> + <ets>terere</ets> to rub: cf. F. <ets>d<eacute/triment</ets>. See <er>Trite</er>.]</ety> <sn>1.</sn> <def>That which injures or causes damage; mischief; harm; diminution; loss; damage; -- used very generically; <as>as, <ex>detriments</ex> to property, religion, morals, etc.</as></def><br/
@@ -20591,7 +20591,7 @@ May boldly <qex>deviate</qex> from the common track.</q> <rj><qau>Pope.</qau></r
 <p><sn>2.</sn> <def>The state or result of having deviated; a transgression; an act of sin; an error; an offense.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 403 --></p>
+<p><!-- p. 403 --></p>
 
 <p><sn>3.</sn> <fld>(Com.)</fld> <def>The voluntary and unnecessary departure of a ship from, or delay in, the regular and usual course of the specific voyage insured, thus releasing the underwriters from their responsibility.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -21041,7 +21041,7 @@ They are which fortunes do by vows <qex>devise</qex>.</q> <rj><qau>Spenser.</qau
 <p><sn>3.</sn> <def>To give up wholly; to addict; to direct the attention of wholly or compound; to attach; -- often with a reflexive pronoun; <as>as, to <ex>devote</ex> one's self to science, to one's friends, to piety, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 404 --></p>
+<p><!-- p. 404 --></p>
 
 <p><q>Thy servant who is <qex>devoted</qex> to thy fear.</q> <rj><qau>Ps. cxix. 38.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -21569,7 +21569,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 \'d8<hw>Dho"ny</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Ceylonese boat. See <er>Doni</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 405 --></p>
+<p><!-- p. 405 --></p>
 
 <p><ent>Dhurra</ent><br/
 <ent>Dhourra</ent><br/
@@ -21972,7 +21972,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj><br
 <p><sn>2.</sn> <def>Pertaining to a dialect or to dialects.</def>  <rj><au>Earle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 406 --></p>
+<p><!-- p. 406 --></p>
 
 <p><ent>Dialectically</ent><br/
 <hw>Di`a*lec"tic*al*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In a dialectical manner.</def><br/
@@ -22386,7 +22386,7 @@ The <qex>diapason</qex> closing full in man.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Fine Arts)</fld> <def>Surface decoration of any sort which consists of the constant repetition of one or more simple figures or units of design evenly spaced.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 407 --></p>
+<p><!-- p. 407 --></p>
 
 <p><sn>3.</sn> <def>A towel or napkin for wiping the hands, etc.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -22826,7 +22826,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Di*bran"chi*ate</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Having two gills.</def> -- <def2><pos>n.</pos> <def>One of the Dibranchiata.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 408 --></p>
+<p><!-- p. 408 --></p>
 
 <p><ent>dibs</ent><br/
 <hw>dibs</hw> <pr>(d<icr/bz)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A sweet preparation or treacle of grape juice, much used in the East.</def>  <rj><au>Johnston.</au></rj><br/
@@ -22876,7 +22876,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><cs><col><b>dice coal</b></col>, <cd>a kind of coal easily splitting into cubical fragments.</cd>  <rj><au>Brande & C.</au></rj>
 </cs>
-<-- Illustr. of Dice. --><br/
+<!-- Illustr. of Dice. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>dice</ent><br/
@@ -23364,7 +23364,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Di`cy*e"mid</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Like or belonging to the Dicyemata.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Dicyemata</ord>.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 409 --></p>
+<p><!-- p. 409 --></p>
 
 <p><ent>Dicynodont</ent><br/
 <hw>Di*cyn"o*dont</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <?/ dog + <grk>'odoy`s</grk>, <grk>'odo`ntos</grk>, tooth.]</ety> <fld>(Paleon.)</fld> <def>One of a group of extinct reptiles having the jaws armed with a horny beak, as in turtles, and in the genus <gen>Dicynodon</gen>, supporting also a pair of powerful tusks. Their remains are found in triassic strata of South Africa and India.</def><br/
@@ -23969,7 +23969,7 @@ Amen.                         Amen.</tt></pre></note><br/
 <p><q>Away therefore went I with the constable, leaving the old warden and the young constable to compose their <qex>difference</qex> as they could.</q> <rj><qau>T. Ellwood.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 410 --></p>
+<p><!-- p. 410 --></p>
 
 <p><sn>3.</sn> <def>That by which one thing differs from another; that which distinguishes or causes to differ; mark of distinction; characteristic quality; specific attribute.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -24352,7 +24352,7 @@ His good to worlds and ages infinite.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Dif*fuse"ness</hw>, <pos>n.</pos> <def>The quality of being diffuse; especially, in writing, the use of a great or excessive number of word to express the meaning; copiousness; verbosity; prolixity.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 411 --></p>
+<p><!-- p. 411 --></p>
 
 <p><ent>Diffuser</ent><br/
 <hw>Dif*fus"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, diffuses.</def><br/
@@ -24869,7 +24869,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Dig*na"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>dignatio</ets>.]</ety> <def>The act of thinking worthy; honor.</def> <mark>[Obs.]</mark>  <rj><au>Jer. Taylor.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 412 --></p>
+<p><!-- p. 412 --></p>
 
 <p><ent>Digne</ent><br/
 <hw>Digne</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. L. <ets>dignus</ets>. See <er>Design</er>.]</ety> <sn>1.</sn> <def>Worthy; honorable; deserving.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -25378,7 +25378,7 @@ To act with infamy, or quit the place.</q> <rj><qau>Swift.</qau></rj><br/
 \'d8<hw>Dil`et*tan"te</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dilettanti</plw> <pr>(#)</pr>.</plu> <ety>[It., prop. p. pr. of <ets>dillettare</ets> to take delight in, fr. L. <ets>delectare</ets> to delight. See <er>Delight</er>, <pos>v. t.</pos>]</ety> <def>An admirer or lover of the fine arts; popularly, an amateur; especially, one who follows an art or a branch of knowledge, desultorily, or for amusement only.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 413 --></p>
+<p><!-- p. 413 --></p>
 
 <p><q>The true poet is not an eccentric creature, not a mere artist living only for art, not a dreamer or a <qex>dilettante</qex>, sipping the nectar of existence, while he keeps aloof from its deeper interests.</q> <rj><qau>J. C. Shairp.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -25462,7 +25462,7 @@ But for the end it works to.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dill</ent><br/
-<hw>Dill</hw> <pr>(d<icr/l)</pr>, <pos>n.</pos> <ety>[AS <ets>dile</ets>; akin to D. <ets>dille</ets>, OHG. <ets>tilli</ets>, G. <ets>dill</ets>, <ets>dille</ets>, Sw. <ets>dill</ets>, Dan. <ets>dild</ets>.]</ety> <fld>(Bot.)</fld> <def>An herb (<spn>Peucedanum graveolens</spn>), the seeds of which are moderately warming, pungent, and aromatic, and were formerly used as a soothing medicine for children; -- called also <altname>dillseed</altname>.</def><-- now <spn>Anethum graveolens</spn> -->  <rj><au>Dr. Prior.</au></rj><br/
+<hw>Dill</hw> <pr>(d<icr/l)</pr>, <pos>n.</pos> <ety>[AS <ets>dile</ets>; akin to D. <ets>dille</ets>, OHG. <ets>tilli</ets>, G. <ets>dill</ets>, <ets>dille</ets>, Sw. <ets>dill</ets>, Dan. <ets>dild</ets>.]</ety> <fld>(Bot.)</fld> <def>An herb (<spn>Peucedanum graveolens</spn>), the seeds of which are moderately warming, pungent, and aromatic, and were formerly used as a soothing medicine for children; -- called also <altname>dillseed</altname>.</def><!-- now <spn>Anethum graveolens</spn> -->  <rj><au>Dr. Prior.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dill</ent><br/
@@ -25855,7 +25855,7 @@ Hide their <qex>diminished</qex> heads.</q> <rj><qau>Milton.</qau></rj><br/
 In military honor next.</q> <rj><qau>Philips.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 414 --></p>
+<p><!-- p. 414 --></p>
 
 <p><sn>3.</sn> <fld>(Law)</fld> <def>Omission, inaccuracy, or defect in a record.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -26051,7 +26051,7 @@ Breaks into <qex>dimples</qex> small and bright.</q> <rj><qau>Wordsworth.</qau><
 <p><q>This hath been often <qex>dinned</qex> in my ears.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To din into</b></col>, <cd>to fix in the mind of another by frequent and noisy repetitions.</cd>  <rj><au>Sir W. Scott.</au></rj></cs><-- = to drum into? --><br/
+<p><cs><col><b>To din into</b></col>, <cd>to fix in the mind of another by frequent and noisy repetitions.</cd>  <rj><au>Sir W. Scott.</au></rj></cs><!-- = to drum into? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Din</ent><br/
@@ -26403,7 +26403,7 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 <hw>Di"o*dont</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Like or pertaining to the genus Diodon.</def> -- <def2><pos>n.</pos> <def>A fish of the genus Diodon, or an allied genus.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 415 --></p>
+<p><!-- p. 415 --></p>
 
 <p><ent>Dioecia</ent><br/
 \'d8<hw>Di*<oe/"ci*a</hw> <pr>(d<isl/*<emac/"sh<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>di</grk> = <grk>di`s</grk> twice + <grk>o'i^kos</grk> a house.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants having the stamens and pistils on different plants.</def><br/
@@ -26881,7 +26881,7 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <p><note><hand/ In <xex>crossed</xex> or <xex>heteronymous diplopia</xex> the image seen by the right eye is upon the left hand, and that seen by the left eye is upon the right hand. In <xex>homonymous diplopia</xex> the image seen by the right eye is on the right side, that by the left eye on the left side. In <xex>vertical diplopia</xex> one image stands above the other.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 416 --></p>
+<p><!-- p. 416 --></p>
 
 <p><ent>Diplopod</ent><br/
 <hw>Dip"lo*pod</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of the Diplopoda.</def><br/
@@ -27342,7 +27342,7 @@ Of the defendant.</q> <rj><qau>Shak.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Immediately; forthwith; straightway; instantly; instantaneously; soon; promptly; openly; expressly.</syn>  <usage>-- <er>Directly</er>, <er>Immediately</er>, <er>Instantly</er>, <er>Instantaneously</er>. <xex>Directly</xex> denotes, without any delay or diversion of attention; <xex>immediately</xex> implies, without any interposition of other occupation; <xex>instantly</xex> implies, without any intervention of time. Hence, <ldquo/I will do it <xex>directly</xex>,<rdquo/ means, <ldquo/I will go <xex>straightway</xex> about it.<rdquo/ <ldquo/I will do it <xex>immediately</xex>,<rdquo/ means, <ldquo/I will do it as the very <xex>next</xex> thing.<rdquo/ <ldquo/I will do it <xex>instantly</xex>,<rdquo/ allows not a particle of delay. <xex>Instantaneously</xex>, like <xex>instantly</xex>, marks an interval too small to be appreciable, but commonly relates to physical causes; <as>as, the powder touched by fire <ex>instantaneously</ex> exploded</as>.</usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 417 --></p>
+<p><!-- p. 417 --></p>
 
 <p><ent>Directness</ent><br/
 <hw>Di*rect"ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being direct; straightness; straightforwardness; immediateness.</def><br/
@@ -27402,7 +27402,7 @@ Of the defendant.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A book containing the names and residences of the inhabitants of any place, or of classes of them; an address book; <as>as, a business <ex>directory</ex></as>.</def>
-<-- as, a telephone directory. --><br/
+<!-- as, a telephone directory. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <ety>[Cf. F. <ets>directoire</ets>.]</ety> <def>A body of directors; board of management; especially, a committee which held executive power in France under the first republic.</def><br/
@@ -27881,7 +27881,7 @@ Is <qex>disacquainted</qex> never.</q> <rj><qau>Herrick.</qau></rj><br/
 <p><q>By charter 9 Henry III. many forests were <qex>disafforested</qex>.</q> <rj><qau>Blackstone.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 418 --></p>
+<p><!-- p. 418 --></p>
 
 <p><ent>Disaggregate</ent><br/
 <hw>Dis*ag"gre*gate</hw> <pr>(d<icr/s*<acr/g"gr<esl/*g<amac/t)</pr>, <pos>v. t.</pos> <def>To destroy the aggregation of; to separate into component parts, as an aggregate mass.</def><br/
@@ -28461,7 +28461,7 @@ Or <qex>disavow</qex> my blood Plantagenet's.</q> <rj><qau>Ford.</qau></rj><br/
 <hw>Dis*band"</hw>, <pos>v. i.</pos> <def>To become separated, broken up, dissolved, or scattered; especially, to quit military service by breaking up organization.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 419 --></p>
+<p><!-- p. 419 --></p>
 
 <p><q>When both rocks and all things shall <qex>disband</qex>.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -28704,7 +28704,7 @@ Or <qex>disavow</qex> my blood Plantagenet's.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>One dissertates, he is candid;<br/
-Two must <qex>discept</qex>, -- has distinguished.</q> <rj><qau>R. Browning.</qau></rj><-- ??sic. --><br/
+Two must <qex>discept</qex>, -- has distinguished.</q> <rj><qau>R. Browning.</qau></rj><!-- ??sic. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Disceptation</ent><br/
@@ -28957,7 +28957,7 @@ Hath paid his ransom now and full <qex>discharge</qex>.</q> <rj><qau>Milton.</qa
 <p><q>The hemorrhage being stopped, the next occurrence is a thin serous <qex>discharge</qex>.</q> <rj><qau>S. Sharp.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 420 --></p>
+<p><!-- p. 420 --></p>
 
 <p><sn>10.</sn>  <fld>(Elec.)</fld> <def>The equalization of a difference of electric potential between two points. The character of the discharge is mostly determined by the nature of the medium through which it takes place, the amount of the difference of potential, and the form of the terminal conductors on which the difference exists. The discharge may be alternating, continuous, brush, connective, disruptive, glow, oscillatory, stratified, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -29483,7 +29483,7 @@ Lest it <qex>discomfort</qex> us.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>By commending something in him that is good, and <qex>discommending</qex> the same fault in others.</q> <rj><qau>Jer. Taylor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 421 --></p>
+<p><!-- p. 421 --></p>
 
 <p><sn>2.</sn> <def>To expose to censure or ill favor; to put out of the good graces of any one.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -29995,7 +29995,7 @@ Above a twelvemonth.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Of the three opinions (I <qex>discount</qex> Brown's).</q> <rj><qau>Sir W. Hamilton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 422 --></p>
+<p><!-- p. 422 --></p>
 
 <p><ent>Discount</ent><br/
 <hw>Dis"count`</hw> <pr>(?; 277)</pr>, <pos>v. i.</pos> <def>To lend, or make a practice of lending, money, abating the discount; <as>as, the <ex>discount</ex> for sixty or ninety days</as>.</def><br/
@@ -30248,7 +30248,7 @@ The several caskets to this noble prince.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>3.</sn> <def>To obtain for the first time sight or knowledge of, as of a thing existing already, but not perceived or known; to find; to ascertain; to espy; to detect.</def> <wns>[wns=1,2,3,4,5,6,7,8]</wns><br/
 [<source>1913 Webster</source>]</p>
-<-- all 8 senses in WordNet seem to fit under this category. -->
+<!-- all 8 senses in WordNet seem to fit under this category. -->
 
 <p><q>Some to <qex>discover</qex> islands far away.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -30485,7 +30485,7 @@ To run amuck, and tilt at all I meet.</q> <rj><qau>Pope.</qau></rj><br/
 <p><cs><col><b>At discretion</b></col>, <cd>without conditions or stipulations.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 423 --></p>
+<p><!-- p. 423 --></p>
 
 <p><ent>Discretionary</ent><br/
 <ent>Discretional</ent><br/
@@ -30980,7 +30980,7 @@ The sharpness of that pain about her heart.</q> <rj><qau>Tennyson.</qau></rj><br
 <hw>Dis`em*bark"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Disembarked</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Disembarking</conjf>.]</vmorph> <ety>[Pref. <ets>dis-</ets> + <ets>embark</ets>: cf. F. <ets>d<eacute/sembarquer</ets>.]</ety> <def>To remove from on board a vessel; to put on shore; to land; to debark; <as>as, the general <ex>disembarked</ex> the troops</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 424 --></p>
+<p><!-- p. 424 --></p>
 
 <p><q>Go to the bay, and <qex>disembark</qex> my coffers.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -31583,7 +31583,7 @@ Antiquities searched, opinions <qex>disesteemed</qex>?</q> <rj><qau>B. Jonson.</
 <p><q>Sentenced first to dismission from the court, and then to <qex>disfranchisement</qex> and expulsion from the colony.</q> <rj><qau>Palfrey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 425 --></p>
+<p><!-- p. 425 --></p>
 
 <p><ent>Disfriar</ent><br/
 <hw>Dis*fri"ar</hw> <pr>(d<icr/s*fr<imac/"<etil/r)</pr>, <pos>v. t.</pos> <def>To depose or withdraw from the condition of a friar.</def> <mark>[Obs.]</mark><br/
@@ -32185,7 +32185,7 @@ Spoiled of his nose and shortened of his ears.</q> <rj><qau>Dryden.</qau></rj><b
 <p><sn>4.</sn> <def>Lewdness; unchastity.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 426 --></p>
+<p><!-- p. 426 --></p>
 
 <p><ent>dishpan</ent><br/
 <hw>dishpan</hw> <pos>n.</pos> <sn>1.</sn> <def>large pan for washing dishes.</def><br/
@@ -32764,7 +32764,7 @@ But mangle and <qex>disjoint</qex> the brittle frame?</q> <rj><qau>Prior.</qau><
 <hw>Dis*leal"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Disloyal</er>, <er>Leal</er>.]</ety> <def>Disloyal; perfidious.</def> <mark>[Obs.]</mark> <ldquo/<xex>Disleal</xex> knight.<rdquo/  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 427 --></p>
+<p><!-- p. 427 --></p>
 
 <p><ent>Disleave</ent><br/
 <hw>Dis*leave"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To deprive of leaves.</def> <mark>[R.]</mark><br/
@@ -33270,7 +33270,7 @@ And tear his helpless breast, o'erwhelmed with wild <qex>dismay</qex>.</q> <rj><
 <p><q>My plan has given offense to some gentlemen, whom it would not be very safe to <qex>disoblige</qex>.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 428 --></p>
+<p><!-- p. 428 --></p>
 
 <p><sn>2.</sn> <def>To release from obligation.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -33823,7 +33823,7 @@ Gild the brown horror, and <qex>dispel</qex> the night.</q> <rj><qau>Dryden.</qa
 <hw>Dis*pence"</hw> <pr>(?)</pr>, <pos>v. i. & n.</pos> <def>See <er>Dispense</er>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 429 --></p>
+<p><!-- p. 429 --></p>
 
 <p><ent>Dispend</ent><br/
 <hw>Dis*pend"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[OF. <ets>despendre</ets>, L. <ets>dispendere</ets> to weigh out, dispense; <ets>dis-</ets> + <ets>pendere</ets> to weigh. See <er>Pension</er>, <er>Spend</er>, and cf. <er>Dispense</er>.]</ety> <def>To spend; to lay out; to expend.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
@@ -34346,7 +34346,7 @@ From his <qex>displeasure</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 Do outrage and <qex>displeasure</qex> to himself?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 430 --></p>
+<p><!-- p. 430 --></p>
 
 <p><sn>3.</sn> <def>State of disgrace or disfavor; disfavor.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -34896,7 +34896,7 @@ To <qex>disproportion</qex> me in every part.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Dis*prov"al</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Act of disproving; disproof.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 431 --></p>
+<p><!-- p. 431 --></p>
 
 <p><ent>Disprove</ent><br/
 <hw>Dis*prove"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Disproved</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Disproving</conjf>.]</vmorph> <ety>[Pref. <ets>dis-</ets> + <ets>prove</ets>: cf. OF. <ets>desprover</ets>.]</ety> <sn>1.</sn> <def>To prove to be false or erroneous; to confute; to refute.</def><br/
@@ -35454,7 +35454,7 @@ To contemplation and profound <qex>dispute</qex>.</q> <rj><qau>Milton.</qau></rj
 <hw>Dis*sect"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dissected</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Dissecting</conjf>.]</vmorph> <ety>[L. <ets>dissectus</ets>, p. p. of <ets>dissecare</ets>; <ets>dis-</ets> + <ets>secare</ets> to cut. See <er>Section</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>To divide into separate parts; to cut in pieces; to separate and expose the parts of, as an animal or a plant, for examination and to show their structure and relations; to anatomize.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 432 --></p>
+<p><!-- p. 432 --></p>
 
 <p><sn>2.</sn> <def>To analyze, for the purposes of science or criticism; to divide and examine minutely.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -35961,7 +35961,7 @@ But -- why did you kick me down stairs?</q> <rj><qau>J. P. Kemble.</qau></rj><br
 <p><q>The heat of those plants is very <qex>dissipable</qex>.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 433 --></p>
+<p><!-- p. 433 --></p>
 
 <p><ent>dissipate</ent><br/
 <hw>dis"si*pate</hw> <pr>(d<icr/s"s<icr/*p<amac/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dissipated</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Dissipating</conjf>.]</vmorph> <ety>[L. <ets>dissipatus</ets>, p. p. of <ets>dissipare</ets>; <ets>dis-</ets> + an obsolete verb <ets>sipare</ets>, <ets>supare</ets>. to throw.]</ety> <sn>1.</sn> <def>To scatter completely; to disperse and cause to disappear; -- used esp. of the dispersion of things that can never again be collected or restored.</def><br/
@@ -36488,7 +36488,7 @@ My voice <qex>dissuades</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>[He] waits at <qex>distance</qex> till he hears from Cato.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 434 --></p>
+<p><!-- p. 434 --></p>
 
 <p><sn>3.</sn> <fld>(Racing)</fld> <def>A space marked out in the last part of a race course.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -36992,7 +36992,7 @@ Is yet <qex>distinct</qex> by name.</q> <rj><qau>Milton.</qau></rj><br/
 With divers flowers <qex>distinct</qex> with rare delight.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 435 --></p>
+<p><!-- p. 435 --></p>
 
 <p><sn>3.</sn> <def>Separate in place; not conjunct; not united by growth or otherwise; -- with <xex>from</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -37522,7 +37522,7 @@ Which are the most <qex>distraught</qex> and full of pain.</q> <rj><qau>Mrs. Bro
 <syn><b>Syn. --</b> seriousness.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p><-- p. 436 --></p>
+<p><!-- p. 436 --></p>
 
 <p><ent>distressing</ent><br/
 <hw>dis*tress"ing</hw> <pr>(d<icr/s*tr<ecr/s"<icr/ng)</pr>, <pos>a.</pos> <def>Causing distress; painful; unpleasant.</def><br/
@@ -38062,7 +38062,7 @@ His inmost counsels from their destined aim.</q> <rj><qau>Milton.</qau></rj></p>
 <mhw>{ <hw>Di`the*is"tic</hw> <pr>(?)</pr>, <hw>Di`the*is"tic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Pertaining to ditheism; dualistic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 437 --></p>
+<p><!-- p. 437 --></p>
 
 <p><ent>Dithionic</ent><br/
 <hw>Di`thi*on"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>di-</ets> + <ets>-thionic</ets>.]</ety> <fld>(Chem.)</fld> <def>Containing two equivalents of sulphur; <as>as, <ex>dithionic</ex> acid</as>.</def><br/
@@ -38524,7 +38524,7 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj><b
 <hw>Di*verse"</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In different directions; diversely.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 438 --></p>
+<p><!-- p. 438 --></p>
 
 <p><ent>Diverse</ent><br/
 <hw>Di*verse"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To turn aside.</def> <mark>[Obs.]</mark><br/
@@ -39065,7 +39065,7 @@ Misgave him.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Di*vin"er*ess</hw>, <pos>n.</pos> <def>A woman who divines.</def>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 439 --></p>
+<p><!-- p. 439 --></p>
 
 <p><ent>Diving</ent><br/
 <hw>Div"ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>That dives or is used or diving.</def><br/
@@ -39599,7 +39599,7 @@ That <qex>dizen</qex> Nature's carnival.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><sn>5.</sn> <def>To bring to an end by action; to perform completely; to finish; to accomplish; -- a sense conveyed by the construction, which is that of the past participle <xex>done</xex>.</def> <ldquo/Ere summer half be <xex>done</xex>.<rdquo/ <ldquo/I have <xex>done</xex> weeping.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 440 --></p>
+<p><!-- p. 440 --></p>
 
 <p><sn>6.</sn> <def>To make ready for an object, purpose, or use, as food by cooking; to cook completely or sufficiently; <as>as, the meat is <ex>done</ex> on one side only</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -40004,7 +40004,7 @@ Will seize the <qex>doctor</qex> too.</q> <rj><qau> Shak.</qau></rj><br/
 <hw>Doc"tor*al*ly</hw>, <pos>adv.</pos> <def>In the manner of a doctor.</def><mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 441 --></p>
+<p><!-- p. 441 --></p>
 
 <p><ent>Doctorate</ent><br/
 <hw>Doc"tor*ate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>doctorat</ets>.]</ety> <def>The degree, title, or rank, of a doctor.</def><br/
@@ -40410,7 +40410,7 @@ He dons a surcoat which he <qex>doffs</qex> at morn.</q> <rj><qau> Emerson.</qau
 <p><cs><col><b>A dead dog</b></col>, <cd>a thing of no use or value.</cd> <au>1 Sam. xxiv. 14.</au> -- <col><b>A dog in the manger</b></col>, <cd>an ugly-natured person who prevents others from enjoying what would be an advantage to them but is none to him.</cd> -- <col><b>Dog ape</b></col> <fld>(Zool.)</fld>, <cd>a male ape.</cd> -- <mcol><col><b>Dog cabbage</b></col>, <it>or</it> <col><b>Dog's cabbage</b></col></mcol> <fld>(Bot.)</fld>, <cd>a succulent herb, native to the Mediterranean region (<spn>Thelygonum Cynocrambe</spn>).</cd> -- <col><b>Dog cheap</b></col>, <cd>very cheap. See under <er>Cheap</er>.</cd> -- <col><b>Dog ear</b></col> <fld>(Arch.)</fld>, <cd>an acroterium.</cd> <mark>[Colloq.]</mark> -- <col><b>Dog flea</b></col> <fld>(Zool.)</fld>, <cd>a species of flea (<spn>Pulex canis</spn>) which infests dogs and cats, and is often troublesome to man. In America it is the common flea. See <er>Flea</er>, and <er>Aphaniptera</er>.</cd> -- <col><b>Dog grass</b></col> <fld>(Bot.)</fld>, <cd>a grass (<spn>Triticum caninum</spn>) of the same genus as wheat.</cd> -- <col><b>Dog Latin</b></col>, <cd>barbarous Latin; as, the <xex>dog Latin</xex> of pharmacy.</cd> -- <col><b>Dog lichen</b></col> <fld>(Bot.)</fld>, <cd>a kind of lichen (<spn>Peltigera canina</spn>) growing on earth, rocks, and tree trunks, -- a lobed expansion, dingy green above and whitish with fuscous veins beneath.</cd> -- <col><b>Dog louse</b></col> <fld>(Zool.)</fld>, <cd>a louse that infests the dog, esp. <spn>H<ae/matopinus piliferus</spn>; another species is <spn>Trichodectes latus</spn>.</cd> -- <col><b>Dog power</b></col>, <cd>a machine operated by the weight of a dog traveling in a drum, or on an endless track, as for churning.</cd> -- <col><b>Dog salmon</b></col> <fld>(Zool.)</fld>, <cd>a salmon of northwest America and northern Asia; -- the <altname>gorbuscha</altname>; -- called also <altname>holia</altname>, and <altname>hone</altname>.</cd> -- <col><b>Dog shark</b></col>. <fld>(Zool.)</fld> <cd>See <er>Dogfish</er>.</cd> -- <col><b>Dog's meat</b></col>, <cd>meat fit only for dogs; refuse; offal.</cd> -- <col><b>Dog Star</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>Dog wheat</b></col> <fld>(Bot.)</fld>, <cd>Dog grass.</cd> -- <col><b>Dog whelk</b></col> <fld>(Zool.)</fld>, <cd>any species of univalve shells of the family <fam>Nassid<ae/</fam>, esp. the <spn>Nassa reticulata</spn> of England.</cd> -- <mcol><col><b>To give to the dogs</b></col>, <it>or</it> <col><b>To throw to the dogs</b></col></mcol>, <cd>to throw away as useless.</cd> <ldquo/<xex>Throw</xex> physic <xex>to the dogs</xex>; I'll none of it.<rdquo/ <au>Shak.</au> -- <col><b>To go to the dogs</b></col>, <cd>to go to ruin; to be ruined.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 442 --></p>
+<p><!-- p. 442 --></p>
 
 <p><ent>Dog</ent><br/
 <hw>Dog</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dogged</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dogging</conjf>.]</vmorph> <def>To hunt or track like a hound; to follow insidiously or indefatigably; to chase with a dog or dogs; to worry, as if by dogs; to hound with importunity.</def><br/
@@ -40916,7 +40916,7 @@ Each receives his ancient soul.</q> <rj><qau> Cleveland.</qau></rj><br/
 <p><sn>2.</sn> <def>That which is dealt out; a part, share, or portion also, a scanty share or allowance.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 443 --></p>
+<p><!-- p. 443 --></p>
 
 <p><sn>3.</sn> <def>Alms; charitable gratuity or portion.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -41400,7 +41400,7 @@ I spake to you for your comfort.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <pluf>pl.</pluf> <fld>(Com.)</fld> <def>Articles of home manufacture, especially cotton goods.</def> <mark>[U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 444 --></p>
+<p><!-- p. 444 --></p>
 
 <p><ent>Domestical</ent><br/
 <hw>Do*mes"tic*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Domestic.</def> <mark>[Obs.]</mark><br/
@@ -41907,7 +41907,7 @@ On the bless'd lovers.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Do"ni</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Tamil <ets>t<?/n<imac/</ets>.]</ety> <fld>(Naut.)</fld> <def>A clumsy craft, having one mast with a long sail, used for trading purposes on the coasts of Coromandel and Ceylon.</def> <altsp>[Written also <asp>dhony</asp>, <asp>doney</asp>, and <asp>done</asp>.]</altsp> <rj><au>Balfour.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 445 --></p>
+<p><!-- p. 445 --></p>
 
 <p><ent>Doniferous</ent><br/
 <hw>Do*nif"er*ous</hw> <pr>(d<osl/*n<icr/f"<etil/r*<ucr/s)</pr>, <pos>a.</pos> <ety>[L. <ets>donum</ets> gift + <ets>-ferous</ets>.]</ety> <def>Bearing gifts.</def> <mark>[R.]</mark><br/
@@ -42526,7 +42526,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Dorn</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. G. <ets>dorn</ets> thorn, D. <ets>doorn</ets>, and G. <ets>dorn</ets>fisch stickleback.]</ety> <fld>(Zool.)</fld> <def>A British ray; the thornback.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 446 --></p>
+<p><!-- p. 446 --></p>
 
 <p><ent>Dornock</ent><br/
 <ent>Dornick</ent><br/
@@ -43064,7 +43064,7 @@ Float <qex>double</qex>, swan and shadow.</q> <rj><qau>Wordsworth.</qau></rj><br
 <p><cs><mcol><col><b>Double base</b></col>, <it>or</it> <col><b>Double bass</b></col></mcol> <fld>(Mus.)</fld>, <cd>the largest and lowest-toned instrument in the violin form; the contrabasso or violone.</cd> -- <col><b>Double convex</b></col>. <cd>See under <er>Convex</er>.</cd> -- <col><b>Double counterpoint</b></col> <fld>(Mus.)</fld>, <cd>that species of counterpoint or composition, in which two of the parts may be inverted, by setting one of them an octave higher or lower.</cd> -- <col><b>Double court</b></col> <fld>(Lawn Tennis)</fld>, <cd>a court laid out for four players, two on each side.</cd> -- <col><b>Double dagger</b></col> <fld>(Print.)</fld>, <cd>a reference mark (<Dagger/) next to the dagger (<dagger/) in order; a diesis.</cd> -- <col><b>Double drum</b></col> <fld>(Mus.)</fld>, <cd>a large drum that is beaten at both ends.</cd> -- <col><b>Double eagle</b></col>, <cd>a gold coin of the United States having the value of 20 dollars.</cd> -- <col><b>Double entry</b></col>. <cd>See under <er>Bookkeeping</er>.</cd> -- <col><b>Double floor</b></col> <fld>(Arch.)</fld>, <cd>a floor in which binding joists support flooring joists above and ceiling joists below. See <xex>Illust.</xex> of <xex>Double-framed floor</xex>.</cd> -- <col><b>Double flower</b></col>. <cd>See <er>Double</er>, <pos>a.</pos>, 4.</cd> -- <col><b>Double-framed floor</b></col> <fld>(Arch.)</fld>, <cd>a double floor having girders into which the binding joists are framed.</cd> -- <col><b>Double fugue</b></col> <fld>(Mus.)</fld>, <cd>a fugue on two subjects.</cd> -- <col><b>Double letter</b></col>. <sd>(a)</sd> <fld>(Print.)</fld> <cd>Two letters on one shank; a ligature</cd>. <sd>(b)</sd> <cd>A mail requiring double postage.</cd> -- <col><b>Double note</b></col> <fld>(Mus.)</fld>, <cd>a note of double the length of the semibreve; a breve. See <er>Breve</er>.</cd> -- <col><b>Double octave</b></col> <fld>(Mus.)</fld>, <cd>an interval composed of two octaves, or fifteen notes, in diatonic progression; a fifteenth.</cd> -- <col><b>Double pica</b></col>. <cd>See under <er>Pica</er>.</cd> -- <col><b>Double play</b></col> <fld>(Baseball)</fld>, <cd>a play by which two players are put out at the same time.</cd> -- <col><b>Double plea</b></col> <fld>(Law)</fld>, <cd>a plea alleging several matters in answer to the declaration, where either of such matters alone would be a sufficient bar to the action.</cd> <au>Stephen.</au> -- <col><b>Double point</b></col> <fld>(Geom.)</fld>, <cd>a point of a curve at which two branches cross each other. Conjugate or isolated points of a curve are called <ex>double points</ex>, since they possess most of the properties of <ex>double points</ex> (see <er>Conjugate</er>). They are also called <altname>acnodes</altname>, and those points where the branches of the curve really cross are called <stype>crunodes</stype>. The extremity of a cusp is also a <ex>double point</ex>.</cd> -- <col><b>Double quarrel</b></col>. <fld>(Eccl. Law)</fld> <cd>See <cref>Duplex querela</cref>, under <er>Duplex</er>.</cd> -- <col><b>Double refraction</b></col>. <fld>(Opt.)</fld> <cd>See <er>Refraction</er>.</cd> -- <col><b>Double salt</b></col>. <fld>(Chem.)</fld> <sd>(a)</sd> <cd>A mixed salt of any polybasic acid which has been saturated by different bases or basic radicals, as the double carbonate of sodium and potassium, <chform>NaKCO3.6H2O</chform></cd>. <sd>(b)</sd> <cd>A molecular combination of two distinct salts, as common alum, which consists of the sulphate of aluminium, and the sulphate of potassium or ammonium.</cd> -- <col><b>Double shuffle</b></col>, <cd>a low, noisy dance.</cd> -- <col><b>Double standard</b></col> <fld>(Polit. Econ.)</fld>, <cd>a double standard of monetary values; <it>i. e.</it>, a gold standard and a silver standard, both of which are made legal tender.</cd> -- <col><b>Double star</b></col> <fld>(Astron.)</fld>, <cd>two stars so near to each other as to be seen separate only by means of a telescope. Such stars may be only <xex>optically</xex> near to each other, or may be <xex>physically</xex> connected so that they revolve round their common center of gravity, and in the latter case are called also <xex>binary</xex> stars.</cd> -- <col><b>Double time</b></col> <fld>(Mil.)</fld>. <cd>Same as <er>Double-quick</er>.</cd> -- <col><b>Double window</b></col>, <cd>a window having two sets of glazed sashes with an air space between them.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 447 --></p>
+<p><!-- p. 447 --></p>
 
 <p><ent>Double</ent><br/
 <hw>Dou"ble</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>Twice; doubly.</def><br/
@@ -43080,7 +43080,7 @@ Float <qex>double</qex>, swan and shadow.</q> <rj><qau>Wordsworth.</qau></rj><br
 <p><q><qex>Double</qex> six thousand, and then treble that.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To make of two thicknesses or folds by turning or bending together in the middle; to fold one part upon another part of; <as>as, to <ex>double</ex> the leaf of a book, and the like</as>; to clinch, as the fist; -- often followed by <xex>up</xex>; <as>as, to <ex>double</ex> up a sheet of paper or cloth</as>.</def><-- also double over -->  <rj><au>Prior.</au></rj><br/
+<p><sn>2.</sn> <def>To make of two thicknesses or folds by turning or bending together in the middle; to fold one part upon another part of; <as>as, to <ex>double</ex> the leaf of a book, and the like</as>; to clinch, as the fist; -- often followed by <xex>up</xex>; <as>as, to <ex>double</ex> up a sheet of paper or cloth</as>.</def><!-- also double over -->  <rj><au>Prior.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Then the old man<br/
@@ -43623,7 +43623,7 @@ Yet I am <qex>doubtful</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>With <qex>doubtful</qex> feet and wavering resolution.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 448 --></p>
+<p><!-- p. 448 --></p>
 
 <p><sn>2.</sn> <def>Admitting of doubt; not obvious, clear, or certain; questionable; not decided; not easy to be defined, classed, or named; <as>as, a <ex>doubtful</ex> case, hue, claim, title, species, and the like</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -44115,7 +44115,7 @@ Sleep, Death's twin brother, times my breath.</q> <rj><qau>Tennyson.</qau></rj><
 <p><q>Thou bosom softness, <qex>down</qex> of all my cares!</q> <rj><qau>Southern.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 449 --></p>
+<p><!-- p. 449 --></p>
 
 <p><cs><col><b>Down tree</b></col> <fld>(Bot.)</fld>, <cd>a tree of Central America (<spn>Ochroma Lagopus</spn>), the seeds of which are enveloped in vegetable wool.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -44789,7 +44789,7 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Drab"ble</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Drabbled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Drabbling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[<?/<?/<?/.See <er>Drab</er>, <er>Draff</er>.]</ety> <def>To draggle; to wet and befoul by draggling; as, to <xex>drabble</xex> a gown or cloak.</def>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 450 pr=GH --></p>
+<p><!-- p. 450 pr=GH --></p>
 
 <p><ent>Drabble</ent><br/
 <hw>Drab"ble</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To fish with a long line and rod; <as>as, to <ex>drabble</ex> for barbels</as>.</def><br/
@@ -45263,7 +45263,7 @@ That, like a wounded snake, <qex>drags</qex> its slow length along.</q> <rj><qau
 <hw>Drag"on*like`</hw> <pr>(-l<imac/k`)</pr>, <pos>a.</pos> <def>Like a dragon.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 451 pr=GH --></p>
+<p><!-- p. 451 pr=GH --></p>
 
 <p><ent>Dragonnade</ent><br/
 <hw>Drag`on*nade"</hw> <pr>(dr<acr/g`<ocr/n*n<amac/d")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>dragon</ets> dragoon, because Louis XIV., in persecuting the Protestants of his kingdom, quartered dragoons upon them.]</ety> <def>The severe persecution of French Protestants under Louis XIV., by an armed force, usually of dragoons; hence, a rapid and devastating incursion; dragoonade.</def><br/
@@ -45792,7 +45792,7 @@ About him, and lies down to pleasant dreams.</q> <rj><qau>Bryant.</qau></rj><br/
 <p><cs><col><b>Draught box</b></col>. <cd>See <cref>Draught tube</cref>, below.</cd> -- <col><b>Draught engine</b></col> <fld>(Mining)</fld>, <cd>an engine used for pumping, raising heavy weights, and the like.</cd> -- <col><b>Draught hook</b></col> <fld>(Mil.)</fld>, <cd>one of the hooks on a cannon carriage, used in drawing the gun backward and forward.</cd> -- <col><b>Draught horse</b></col>, <cd>a horse employed in drawing loads, plowing, etc., as distinguished from a saddle horse or carriage horse.</cd> -- <col><b>Draught net</b></col>, <cd>a seine or hauling net.</cd> -- <col><b>Draught ox</b></col>, <cd>an ox employed in hauling loads, plowing, etc.</cd> -- <col><b>Draught tube</b></col> <fld>(Water Wheels)</fld>, <cd>an air-tight pipe extending downward into the tailrace from a turbine wheel located above it, to make the whole fall available; -- called also <altname>draught box</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 452 --></p>
+<p><!-- p. 452 --></p>
 
 <p><ent>Draught</ent><br/
 <hw>Draught</hw> <pr>(dr<adot/ft)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Draughted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Draughting</conjf>.]</vmorph> <sn>1.</sn> <def>To draw out; to call forth. See <er>Draft</er>.</def>  <rj><au>Addison.</au></rj><br/
@@ -46195,7 +46195,7 @@ Or thou <qex>draw</qex> beauty and not feel its power?</q> <rj><qau>Prior.</qau>
 <p><cs><col><b>A drawing of tea</b></col>, <cd>a small portion of tea for steeping.</cd> -- <col><b>Drawing knife</b></col>. <cd>See in the <er>Vocabulary</er>.</cd> -- <col><b>Drawing paper</b></col> <fld>(Fine Arts)</fld>, <cd>a thick, sized paper for draughtsman and for water-color painting.</cd> -- <col><b>Drawing slate</b></col>, <cd>a soft, slaty substance used in crayon drawing; -- called also <altname>black chalk</altname>, or <altname>drawing chalk</altname>.</cd> -- <col><b>Free-hand drawing</b></col>, <cd>a style of drawing made without the use of guiding or measuring instruments, as distinguished from mechanical or geometrical drawing; also, a drawing thus executed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 453 --></p>
+<p><!-- p. 453 --></p>
 
 <p><ent>Drawknife</ent><br/
 <ent>Drawing knife</ent><br/
@@ -46786,7 +46786,7 @@ Their moisture has already <qex>drenched</qex> the plain.</q> <rj><qau>Dryden.</
 <p><sn>4.</sn> <def>To adjust; to put in good order; to arrange; specifically: <sd>(a)</sd> To prepare for use; to fit for any use; to render suitable for an intended purpose; to get ready; <as>as, to <ex>dress</ex> a slain animal; to <ex>dress</ex> meat; to <ex>dress</ex> leather or cloth; to <ex>dress</ex> or trim a lamp; to <ex>dress</ex> a garden; to <ex>dress</ex> a horse, by currying and rubbing; to <ex>dress</ex> grain, by cleansing it; in mining and metallurgy, to <ex>dress</ex> ores, by sorting and separating them.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 454 --></p>
+<p><!-- p. 454 --></p>
 
 <p><q>And the Lord God took the man, and put him into the garden of Eden to <qex>dress</qex> it.</q> <rj><qau>Gen. ii. 15.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -47045,7 +47045,7 @@ Caught and reflected the flame, as shields of armies the sunshine.</q> <rj><qau>
 <p><q>Let the cook . . . <qex>dribble</qex> it all the way upstairs.</q> <rj><qau> Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>In basketball and various other games, to propel (the ball) by successive slight hits or kicks so as to keep it always in control.</def><-- also in basketball. double dribble --><br/
+<p><sn>2.</sn> <def>In basketball and various other games, to propel (the ball) by successive slight hits or kicks so as to keep it always in control.</def><!-- also in basketball. double dribble --><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Dribble</ent><br/
@@ -47324,7 +47324,7 @@ Caught and reflected the flame, as shields of armies the sunshine.</q> <rj><qau>
 <p><sn>2.</sn> <fld>(Agr.)</fld> <sd>(a)</sd> <def>An implement for making holes for sowing seed, and sometimes so formed as to contain seeds and drop them into the hole made.</def> <sd>(b)</sd> <def>A light furrow or channel made to put seed into sowing.</def> <sd>(c)</sd> <def>A row of seed sown in a furrow.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 455 --></p>
+<p><!-- p. 455 --></p>
 
 <p><note><hand/ <xex>Drill</xex> is used adjectively, or as the first part of a compound; as, <xex>drill</xex> barrow or <xex>drill</xex>-barrow; <xex>drill</xex> husbandry; <xex>drill</xex> plow or <xex>drill</xex>-plow.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -47858,7 +47858,7 @@ And in a little while our lips are dumb.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Dro"gher</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Drag</er>.]</ety> <def>A small craft used in the West India Islands to take off sugars, rum, etc., to the merchantmen; also, a vessel for transporting lumber, cotton, etc., coastwise; <as>as, a lumber <ex>drogher</ex></as>.</def> <altsp>[Written also <asp>droger</asp>.]</altsp>  <rj><au>Ham. Nar. Encyc.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 456 --></p>
+<p><!-- p. 456 --></p>
 
 <p><ent>Drogoman</ent><br/
 <ent>Drogman</ent><br/
@@ -48280,7 +48280,7 @@ And wets the little plants that lowly dwell.</q> <rj><qau>Spenser.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>drop-off</ent><br/
-<hw>drop-off</hw> <pos>n.</pos> <sn>1.</sn> <def>a noticeable decline in performance; <as>as, a <ex>drop-off</ex> in attendance</as>.</def> <wns>[wns=1]</wns> <-- WNOTE: = 3? --><br/
+<hw>drop-off</hw> <pos>n.</pos> <sn>1.</sn> <def>a noticeable decline in performance; <as>as, a <ex>drop-off</ex> in attendance</as>.</def> <wns>[wns=1]</wns> <!-- WNOTE: = 3? --><br/
 <syn><b>Syn. --</b> slump, falloff, falling off.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -48288,7 +48288,7 @@ And wets the little plants that lowly dwell.</q> <rj><qau>Spenser.</qau></rj><br
 <syn><b>Syn. --</b> cliff.</syn> <wns>[wns=2]</wns><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>3.</sn> <def>a change downward; <as>as, there was a sharp drop-off in sales</as>.</def> <wns>[wns=3]</wns>  <-- WNOTE: = 1? --><br/
+<p><sn>3.</sn> <def>a change downward; <as>as, there was a sharp drop-off in sales</as>.</def> <wns>[wns=3]</wns>  <!-- WNOTE: = 1? --><br/
 <syn><b>Syn. --</b> decrease, lessening.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -48359,7 +48359,7 @@ And wets the little plants that lowly dwell.</q> <rj><qau>Spenser.</qau></rj><br
 <p><q>Trickling <qex>dropwise</qex> from the cleft.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 457 --></p>
+<p><!-- p. 457 --></p>
 
 <p><ent>Dropworm</ent><br/
 <hw>Drop"worm`</hw> <pr>(dr<ocr/p"w<ucir/rm`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The larva of any geometrid moth, which drops from trees by means of a thread of silk, as the <stype>cankerworm</stype> or <stype>inchworm</stype>.  See <er>inchworm</er> and <er>geometrid</er>.</def><br/
@@ -48924,7 +48924,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 <hw>Drum"fish`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any fish of the family <fam>Sci<ae/nid<ae/</fam>, which makes a loud noise by means of its air bladder; -- called also <altname>drum</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 458 --></p>
+<p><!-- p. 458 --></p>
 
 <p><note><hand/ The common drumfish (<spn>Pogonias chromis</spn>) is a large species, common south of New Jersey. The southern red drum or red horse (<spn>Sci<ae/na ocellata</spn>), and the fresh-water drum or croaker (<spn>Aplodionotus grunniens</spn>), are related species.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -49374,7 +49374,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 <p><sn>4.</sn> <def>To strike, rub, or dress smooth; to dab;</def> <specif>as:</specif> <sd>(a)</sd> <def>To dress with an adz; <as>as, to <ex>dub</ex> a stick of timber smooth</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 459 --></p>
+<p><!-- p. 459 --></p>
 
 <p><sd>(b)</sd> <def>To strike cloth with teasels to raise a nap.</def> <au>Halliwell.</au> <sd>(c)</sd> <def>To rub or dress with grease, as leather in the process of cyrrying it.</def> <au>Tomlinson.</au> <sd>(d)</sd> <def>To prepare for fighting, as a gamecock, by trimming the hackles and cutting off the comb and wattles.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -49592,7 +49592,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 Other trippings to be trod.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bombay duck</b></col> <fld>(Zool.)</fld>, <cd>a fish. See <er>Bummalo</er>.</cd> -- <mcol><col><b>Buffel duck</b></col>, <col><b>Spirit duck</b></col></mcol>. <cd>See <er>Buffel duck</er>.</cd> -- <col><b>Duck ant</b></col> <fld>(Zool.)</fld>, <cd>a species of white ant in Jamaica which builds large nests in trees.</cd> -- <col><b>Duck barnacle</b></col>. <fld>(Zool.)</fld> <cd>See <er>Goose barnacle</er>.</cd> -- <col><b>Duck hawk</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>In the United States: The peregrine falcon.</cd> <sd>(b)</sd> <cd>In England: The marsh harrier or moor buzzard.</cd> -- <col><b>Duck mole</b></col> <fld>(Zool.)</fld>, <cd>a small aquatic mammal of Australia, having webbed feet and a bill resembling that of a duck (<spn>Ornithorhynchus anatinus</spn>). It belongs the subclass Monotremata and is remarkable for laying eggs like a bird or reptile; -- called also <altname>duckbill</altname>, <altname>platypus</altname>, <altname>mallangong</altname>, <altname>mullingong</altname>, <altname>tambreet</altname>, and <altname>water mole</altname>.</cd> -- <col><b>To make ducks and drakes</b></col>, <cd>to throw a flat stone obliquely, so as to make it rebound repeatedly from the surface of the water, raising a succession of jets<-- = skipping stones  --></cd>; hence: <col><b>To play at ducks and drakes</b></col>, with property, <cd>to throw it away heedlessly or squander it foolishly and unprofitably.</cd> -- <col><b>Lame duck</b></col>. <cd>See under <er>Lame</er>.</cd></cs><br/
+<p><cs><col><b>Bombay duck</b></col> <fld>(Zool.)</fld>, <cd>a fish. See <er>Bummalo</er>.</cd> -- <mcol><col><b>Buffel duck</b></col>, <col><b>Spirit duck</b></col></mcol>. <cd>See <er>Buffel duck</er>.</cd> -- <col><b>Duck ant</b></col> <fld>(Zool.)</fld>, <cd>a species of white ant in Jamaica which builds large nests in trees.</cd> -- <col><b>Duck barnacle</b></col>. <fld>(Zool.)</fld> <cd>See <er>Goose barnacle</er>.</cd> -- <col><b>Duck hawk</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>In the United States: The peregrine falcon.</cd> <sd>(b)</sd> <cd>In England: The marsh harrier or moor buzzard.</cd> -- <col><b>Duck mole</b></col> <fld>(Zool.)</fld>, <cd>a small aquatic mammal of Australia, having webbed feet and a bill resembling that of a duck (<spn>Ornithorhynchus anatinus</spn>). It belongs the subclass Monotremata and is remarkable for laying eggs like a bird or reptile; -- called also <altname>duckbill</altname>, <altname>platypus</altname>, <altname>mallangong</altname>, <altname>mullingong</altname>, <altname>tambreet</altname>, and <altname>water mole</altname>.</cd> -- <col><b>To make ducks and drakes</b></col>, <cd>to throw a flat stone obliquely, so as to make it rebound repeatedly from the surface of the water, raising a succession of jets<!-- = skipping stones  --></cd>; hence: <col><b>To play at ducks and drakes</b></col>, with property, <cd>to throw it away heedlessly or squander it foolishly and unprofitably.</cd> -- <col><b>Lame duck</b></col>. <cd>See under <er>Lame</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Duckbill</ent><br/
@@ -49867,7 +49867,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Trial by duel</b></col> <fld>(Old Law)</fld>, <cd>a combat between two persons for proving a cause; trial by battel.</cd></cs>
-<-- NOte: this is the correct spelling of "battel"! --><br/
+<!-- NOte: this is the correct spelling of "battel"! --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Duel</ent><br/
@@ -49897,7 +49897,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 \'d8<hw>Du*e"<ntil/a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>See <er>Do<ntil/a</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 460 --></p>
+<p><!-- p. 460 --></p>
 
 <p><ent>Dueness</ent><br/
 <hw>Due"ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Quality of being due; debt; what is due or becoming.</def>  <rj><au>T. Goodwin.</au></rj><br/
@@ -50516,7 +50516,7 @@ To blush like a banner bathed in slaughter.</q> <rj><qau>Percival.</qau></rj><br
 <p><q>I was musing in the midst of my <qex>dumps</qex>.</q> <rj><qau>Bunyan.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 461 --></p>
+<p><!-- p. 461 --></p>
 
 <p><note><hand/ The ludicrous associations now attached to this word did not originally belong to it. <ldquo/Holland's translation of Livy represents the Romans as being `in the <xex>dumps'</xex> after the battle of Cann<ae/.<rdquo/</note>  <rj><au>Trench.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -51088,7 +51088,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 <p><q>Far from the <qex>duplicity</qex> wickedly charged on him, he acted his part with alacrity and resolution.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 462 --></p>
+<p><!-- p. 462 --></p>
 
 <p><sn>3.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>The use of two or more distinct allegations or answers, where one is sufficient.</def> <au>Blackstone.</au> <sd>(b)</sd> <def>In indictments, the union of two incompatible offenses.</def>  <rj><au>Wharton.</au></rj></p>
 
@@ -51532,10 +51532,10 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dutch</ent><br/
-<hw>Dutch</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[D. <ets>duitsch</ets> German; or G. <ets>deutsch</ets>, orig., popular, national, OD. <ets>dietsc</ets>, MHG. <ets>diutsch</ets>, <ets>tiutsch</ets>, OHG. <ets>diutisk</ets>, fr. <ets>diot</ets>, <ets>diota</ets>, a people, a nation; akin to AS. <ets>pe<oacute/d</ets>, OS. <ets>thiod</ets>, <ets>thioda</ets>, Goth. <ets>piuda</ets>; cf. Lith. <ets>tauta</ets> land, OIr. <ets>tuath</ets> people, Oscan<-- ??sic --> <ets>touto</ets>. The English have applied the name especially to the Germanic people living nearest them, the Hollanders.  Cf. <er>Derrick</er>, <er>Teutonic</er>.]</ety> <def>Pertaining to Holland, or to its inhabitants.</def><br/
+<hw>Dutch</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[D. <ets>duitsch</ets> German; or G. <ets>deutsch</ets>, orig., popular, national, OD. <ets>dietsc</ets>, MHG. <ets>diutsch</ets>, <ets>tiutsch</ets>, OHG. <ets>diutisk</ets>, fr. <ets>diot</ets>, <ets>diota</ets>, a people, a nation; akin to AS. <ets>pe<oacute/d</ets>, OS. <ets>thiod</ets>, <ets>thioda</ets>, Goth. <ets>piuda</ets>; cf. Lith. <ets>tauta</ets> land, OIr. <ets>tuath</ets> people, Oscan<!-- ??sic --> <ets>touto</ets>. The English have applied the name especially to the Germanic people living nearest them, the Hollanders.  Cf. <er>Derrick</er>, <er>Teutonic</er>.]</ety> <def>Pertaining to Holland, or to its inhabitants.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Dutch auction</b></col>. <cd>See under <er>Auction</er>.</cd> -- <col><b>Dutch cheese</b></col>, <cd>a small, pound, hard cheese, made from skim milk.</cd> -- <col><b>Dutch clinker</b></col>, <cd>a kind of brick made in Holland. It is yellowish, very hard, and long and narrow in shape.</cd> -- <col><b>Dutch clover</b></col> <fld>(Bot.)</fld>, <cd>common white clover (<spn>Trifolium repens</spn>), the seed of which was largely imported into England from Holland.</cd> -- <col><b>Dutch concert</b></col>, <cd>a so-called concert in which all the singers sing at the same time different songs.</cd> <mark>[Slang]</mark> -- <col><b>Dutch courage</b></col>, <cd>the courage of partial intoxication.</cd> <mark>[Slang]</mark> <au>Marryat.</au> -- <col><b>Dutch door</b></col>, <cd>a door divided into two parts, horizontally, so arranged that the lower part can be shut and fastened, while the upper part remains open.</cd> -- <mcol><col><b>Dutch foil</b></col>, <col><b>Dutch leaf</b></col>, <it>or</it> <col><b>Dutch gold</b></col></mcol>, <cd>a kind of brass rich in copper, rolled or beaten into thin sheets, used in Holland to ornament toys and paper; -- called also <altname>Dutch mineral</altname>, <altname>Dutch metal</altname>, <altname>brass foil</altname>, and <altname>bronze leaf</altname>.</cd> -- <col><b>Dutch liquid</b></col> <fld>(Chem.)</fld>, <cd>a thin, colorless, volatile liquid, <chform>C2H4Cl2</chform>, of a sweetish taste and a pleasant ethereal odor, produced by the union of chlorine and ethylene or olefiant gas; -- called also <altname>Dutch oil</altname>. It is so called because discovered (in 1795) by an association of four Hollandish chemists. See <er>Ethylene</er>, and <er>Olefiant</er>.</cd><-- = ethylene chloride --> -- <col><b>Dutch oven</b></col>, <cd>a tin screen for baking before an open fire or kitchen range; also, in the United States, a shallow iron kettle for baking, with a cover to hold burning coals.</cd> -- <col><b>Dutch pink</b></col>, <cd>chalk, or whiting dyed yellow, and used in distemper, and for paper staining. etc.</cd> <au>Weale.</au> -- <col><b>Dutch rush</b></col> <fld>(Bot.)</fld>, <cd>a species of horsetail rush or <gen>Equisetum</gen> (<spn>Equisetum hyemale</spn>) having a rough, siliceous surface, and used for scouring and polishing; -- called also <altname>scouring rush</altname>, and <altname>shave grass</altname>. See <er>Equisetum</er>.</cd> -- <col><b>Dutch tile</b></col>, <cd>a glazed and painted ornamental tile, formerly much exported, and used in the jambs of chimneys and the like.</cd></cs><br/
+<p><cs><col><b>Dutch auction</b></col>. <cd>See under <er>Auction</er>.</cd> -- <col><b>Dutch cheese</b></col>, <cd>a small, pound, hard cheese, made from skim milk.</cd> -- <col><b>Dutch clinker</b></col>, <cd>a kind of brick made in Holland. It is yellowish, very hard, and long and narrow in shape.</cd> -- <col><b>Dutch clover</b></col> <fld>(Bot.)</fld>, <cd>common white clover (<spn>Trifolium repens</spn>), the seed of which was largely imported into England from Holland.</cd> -- <col><b>Dutch concert</b></col>, <cd>a so-called concert in which all the singers sing at the same time different songs.</cd> <mark>[Slang]</mark> -- <col><b>Dutch courage</b></col>, <cd>the courage of partial intoxication.</cd> <mark>[Slang]</mark> <au>Marryat.</au> -- <col><b>Dutch door</b></col>, <cd>a door divided into two parts, horizontally, so arranged that the lower part can be shut and fastened, while the upper part remains open.</cd> -- <mcol><col><b>Dutch foil</b></col>, <col><b>Dutch leaf</b></col>, <it>or</it> <col><b>Dutch gold</b></col></mcol>, <cd>a kind of brass rich in copper, rolled or beaten into thin sheets, used in Holland to ornament toys and paper; -- called also <altname>Dutch mineral</altname>, <altname>Dutch metal</altname>, <altname>brass foil</altname>, and <altname>bronze leaf</altname>.</cd> -- <col><b>Dutch liquid</b></col> <fld>(Chem.)</fld>, <cd>a thin, colorless, volatile liquid, <chform>C2H4Cl2</chform>, of a sweetish taste and a pleasant ethereal odor, produced by the union of chlorine and ethylene or olefiant gas; -- called also <altname>Dutch oil</altname>. It is so called because discovered (in 1795) by an association of four Hollandish chemists. See <er>Ethylene</er>, and <er>Olefiant</er>.</cd><!-- = ethylene chloride --> -- <col><b>Dutch oven</b></col>, <cd>a tin screen for baking before an open fire or kitchen range; also, in the United States, a shallow iron kettle for baking, with a cover to hold burning coals.</cd> -- <col><b>Dutch pink</b></col>, <cd>chalk, or whiting dyed yellow, and used in distemper, and for paper staining. etc.</cd> <au>Weale.</au> -- <col><b>Dutch rush</b></col> <fld>(Bot.)</fld>, <cd>a species of horsetail rush or <gen>Equisetum</gen> (<spn>Equisetum hyemale</spn>) having a rough, siliceous surface, and used for scouring and polishing; -- called also <altname>scouring rush</altname>, and <altname>shave grass</altname>. See <er>Equisetum</er>.</cd> -- <col><b>Dutch tile</b></col>, <cd>a glazed and painted ornamental tile, formerly much exported, and used in the jambs of chimneys and the like.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Dutch</xex> was formerly used for <xex>German</xex>.</note><br/
@@ -51610,7 +51610,7 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>When thou receivest money for thy labor or ware, thou receivest thy <qex>duty</qex>.</q> <rj><qau>Tyndale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 463 --></p>
+<p><!-- p. 463 --></p>
 
 <p><sn>2.</sn> <def>That which a person is bound by moral obligation to do, or refrain from doing; that which one ought to do; service morally obligatory.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -52146,7 +52146,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <hw>Dy*nas"ti*dan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/, fem. of <?/. See <er>Dynast</er>. The name alludes to the immense size of some species.]</ety> <fld>(Zool.)</fld> <def>One of a group of gigantic, horned beetles, including <spn>Dynastus Neptunus</spn>, and the <stype>Hercules beetle</stype> (<spn>Dynastus Hercules</spn>) of tropical America, which grow to be six inches in length.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 464 --></p>
+<p><!-- p. 464 --></p>
 
 <p><ent>Dynasty</ent><br/
 <hw>Dy"nas*ty</hw> <pr>(d<imac/"n<ait/s*t<ycr/ <it>or</it> d<icr/n"<ait/s*t<ycr/; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dynasties</plw> <pr>(-t<icr/z)</pr>.</plu> <ety>[Gr. <grk>dynastei`a</grk> lordship, fr. <grk>dynastey`ein</grk> to hold power or lordship, fr. <grk>dyna`sths</grk>: cf. F. <ets>dynastie</ets> dynasty. See <er>Dynast</er>.]</ety> <sn>1.</sn> <def>Sovereignty; lordship; dominion.</def>  <rj><au>Johnson.</au></rj><br/
@@ -52349,5 +52349,5 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 
 <p><note><hand/ The name is sometimes applied also to the koulan or onager. See <er>Koulan</er>.</note></p>
 
-<p><-- D ends and E begins in the middle of page 464 --></p>
+<p><!-- D ends and E begins in the middle of page 464 --></p>
 

@@ -1,4 +1,4 @@
-<-- This file is part 14 of the GNU version of
+<!-- This file is part 14 of the GNU version of
     The Collaborative International Dictionary of English (GCIDE)
 
     Copyright (C) 1992-2012 Patrick J. Cassidy
@@ -427,7 +427,7 @@ Have left me <xex>naked</xex> to mine enemies.</q> <rj><qau>King Henry VIII., Ac
 <p><sn>6.</sn> <fld>(Bot.)</fld> <def>Without pubescence; <as>as, a <ex>naked</ex> leaf or stem</as>; bare, or not covered by the customary parts, as a flower without a perianth, a stem without leaves, seeds without a pericarp, buds without bud scales.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <fld>(Mus.)</fld> <def>Not having the full complement of tones; -- said of a chord of only two tones, which requires a third tone to be sounded with them to make the combination pleasing to the ear; <as>as, a <ex>naked</ex> fourth or fifth</as>.</def><-- = open fourth, fifth? --><br/
+<p><sn>7.</sn> <fld>(Mus.)</fld> <def>Not having the full complement of tones; -- said of a chord of only two tones, which requires a third tone to be sounded with them to make the combination pleasing to the ear; <as>as, a <ex>naked</ex> fourth or fifth</as>.</def><!-- = open fourth, fifth? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Naked bed</b></col>, <cd>a bed the occupant of which is naked, no night linen being worn in ancient times.</cd> <au>Shak.</au> -- <col><b>Naked eye</b></col>, <cd>the eye alone, unaided by eyeglasses, or by telescope, microscope, or other magnifying device.</cd> -- <col><b>Naked-eyed medusa</b></col>. <fld>(Zool.)</fld> <cd>See <er>Hydromedusa</er>.</cd> -- <col><b>Naked flooring</b></col> <fld>(Carp.)</fld>, <cd>the timberwork which supports a floor.</cd> <au>Gwilt.</au> -- <col><b>Naked mollusk</b></col> <fld>(Zool.)</fld>, <cd>a nudibranch.</cd> -- <col><b>Naked wood</b></col> <fld>(Bot.)</fld>, <cd>a large rhamnaceous tree (<spn>Colibrina reclinata</spn>) of Southern Florida and the West Indies, having a hard and heavy heartwood, which takes a fine polish.</cd>   <au>C. S. Sargent.</au></cs><br/
@@ -507,7 +507,7 @@ Have left me <xex>naked</xex> to mine enemies.</q> <rj><qau>King Henry VIII., Ac
 <p><sn>2.</sn> <def>Indecisive or weak; lacking firmness or resolve; -- of actions and policies.</def><br/
 [<source>PJC</source>]</p>
 
-<p><-- p. 962 --></p>
+<p><!-- p. 962 --></p>
 
 <p><ent>Name</ent><br/
 <hw>Name</hw> <pr>(n<amac/m)</pr>, <pos>n.</pos> <ety>[AS. <ets>nama</ets>; akin to D. <ets>naam</ets>, OS. & OHG. <ets>namo</ets>, G. <ets>name</ets>, Icel. <ets>nafn</ets>, for <ets>namn</ets>, Dan. <ets>navn</ets>, Sw. <ets>namn</ets>, Goth. <ets>nam<omac/</ets>, L. <ets>nomen</ets> (perh. influenced by <ets>noscere</ets>, <ets>gnoscere</ets>, to learn to know), Gr. <grk>'o`mona</grk>, Scr. <ets>n<amac/man</ets>. <root/267.  Cf. <er>Anonymous</er>, <er>Ignominy</er>, <er>Misnomer</er>, <er>Nominal</er>, <er>Noun</er>.]</ety> <sn>1.</sn> <def>The title by which any person or thing is known or designated; a distinctive specific appellation, whether of an individual or a class.</def><br/
@@ -1097,7 +1097,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 <p>-- <wordforms><wf>Nar*cot"ic*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 963 --></p>
+<p><!-- p. 963 --></p>
 
 <p><ent>Narcotic</ent><br/
 <hw>Nar*cot"ic</hw> <pr>(n<aum/r*k<ocr/t"<icr/k)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A drug which, in medicinal doses, generally allays morbid susceptibility, relieves pain, and produces sleep; but which, in poisonous doses, produces stupor, coma, or convulsions, and, when given in sufficient quantity, causes death. The best examples are opium (with morphine), belladonna (with atropine), and conium.</def><br/
@@ -1565,7 +1565,7 @@ This garden, and no corner leave unspied.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Any plant of the genus <gen>Tropaeolum</gen>, geraniaceous herbs, having mostly climbing stems, peltate leaves, and spurred flowers, and including the common Indian cress (<spn>Tropaeolum majus</spn>), the canary-bird flower (<spn>Tropaeolum peregrinum</spn>), and about thirty more species, all natives of <geog>South America</geog>.  The whole plant has a warm pungent flavor, and the fleshy fruits are used as a substitute for capers, while the leaves and flowers are sometimes used in salads.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 964 --></p>
+<p><!-- p. 964 --></p>
 
 <p><ent>Nasty</ent><br/
 <hw>Nas"ty</hw> <pr>(n<adot/s"t<ycr/)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Nastier</adjf> <pr>(n<adot/s"t<icr/*<etil/r)</pr>; <pos>superl.</pos> <adjf>Nastiest</adjf>.]</amorph> <ety>[For older <ets>nasky</ets>; cf. dial. Sw. <ets>naskug</ets>, <ets>nasket</ets>.]</ety> <sn>1.</sn> <def>Offensively filthy; very dirty, foul, or defiled; disgusting; nauseous.</def><br/
@@ -2031,7 +2031,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>9.</sn> <fld>(Math.)</fld> <def>Belonging to, to be taken in, or referred to, some system, in which the base is 1; -- said of certain functions or numbers; <as>as, <ex>natural</ex> numbers, those commencing at 1; <ex>natural</ex> sines, cosines, etc., those taken in arcs whose radii are 1.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 965 --></p>
+<p><!-- p. 965 --></p>
 
 <p><sn>10.</sn> <fld>(Mus.)</fld> <sd>(a)</sd> <def>Produced by natural organs, as those of the human throat, in distinction from instrumental music.</def> <sd>(b)</sd> <def>Of or pertaining to a key which has neither a flat nor a sharp for its signature, as the key of C major.</def> <sd>(c)</sd> <def>Applied to an air or modulation of harmony which moves by easy and smooth transitions, digressing but little from the original key.</def>  <sd>(d)</sd> <def>Neither flat nor sharp; -- of a tone.</def> <sd>(e)</sd> <def>Changed to the pitch which is neither flat nor sharp, by appending the sign <natural/; <as>as, A <ex>natural</ex></as>.</def> <rj><au>Moore (Encyc. of Music).</au></rj><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
@@ -2049,7 +2049,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 <br/
 <q>It should be borne in mind that the <qex>natural system</qex> of botany is natural only in the constitution of its genera, tribes, orders, etc., and in its grand divisions.</q> <rj><qau>Gray.</qau></rj><br/
 <br/
-  -- <mcol><col><b>Natural theology</b></col>, <it>or</it> <col><b>Natural religion</b></col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, 3. -- <col><b>Natural vowel</b></col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd> <-- ##?? wrong examples!!?? an earlier def? cup, alone, --></cs><br/
+  -- <mcol><col><b>Natural theology</b></col>, <it>or</it> <col><b>Natural religion</b></col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, 3. -- <col><b>Natural vowel</b></col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd> <!-- ##?? wrong examples!!?? an earlier def? cup, alone, --></cs><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- See <er>Native</er>.</syn><br/
@@ -2511,7 +2511,7 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Na"val</hw> <pr>(n<amac/"v<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>navalis</ets>, fr. <ets>navis</ets> ship: cf. F. <ets>naval</ets>. See <er>Nave</er> of a church.]</ety> <def>Having to do with shipping; of or pertaining to ships or a navy; consisting of ships; <as>as, <ex>naval</ex> forces, successes, stores, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 966 --></p>
+<p><!-- p. 966 --></p>
 
 <p><cs><col><b>Naval brigade</b></col>, <cd>a body of seamen or marines organized for military service on land.</cd> -- <col><b>Naval officer</b></col>. <sd>(a)</sd> <cd>An officer in the navy.</cd> <sd>(b)</sd> <cd>A high officer in some United States customhouses.</cd> -- <col><b>Naval tactics</b></col>, <cd>the science of managing or maneuvering vessels sailing in squadrons or fleets.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -3084,7 +3084,7 @@ Are all called <qex>neat</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Neb</hw> <pr>(n<ecr/b)</pr>, <pos>n.</pos> <ety>[AS. <ets>nebb</ets> head, face; akin to D. <ets>neb</ets>, Icel. <ets>nef</ets>, beak of a bird, nose, Dan. <ets>naeb</ets> beak, bill, Sw. <ets>n<aum/bb</ets>, <ets>n<aum/f</ets>, and prob. also to D. <ets>sneb</ets>, <ets>snavel</ets>, bill, beak, G. <ets>schnabel</ets>, Dan. & Sw. <ets>snabel</ets>, and E. <ets>snap</ets>.  Cf. <er>Nib</er>, <er>Snap</er>, <er>Snaffle</er>.]</ety> <def>The nose; the snout; the mouth; the beak of a bird; a nib, as of a pen.</def> <altsp>[Also written <asp>nib</asp>.]</altsp>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 967 --></p>
+<p><!-- p. 967 --></p>
 
 <p><ent>Nebalia</ent><br/
 \'d8<hw>Ne*ba"li*a</hw> <pr>(n<esl/*b<amac/"l<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., of uncertain origin.]</ety> <fld>(Zool.)</fld> <def>A genus of small marine Crustacea, considered the type of a distinct order (<ord>Nebaloidea</ord>, or <ord>Phyllocarida</ord>.)</def><br/
@@ -3530,7 +3530,7 @@ By <qex>necromancy</qex> plac<egrave/d there.</q> <rj><qau>Drayton.</qau></rj><b
 <hw>Ne*crosed"</hw> <pr>(n<esl/*kr<omac/st")</pr>, <pos>a.</pos> <fld>(Med.)</fld> <def>Affected by necrosis; dead; <as>as, a <ex>necrosed</ex> bone</as>.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 968 --></p>
+<p><!-- p. 968 --></p>
 
 <p><ent>Necrosis</ent><br/
 \'d8<hw>Ne*cro"sis</hw> <pr>(n<esl/*kr<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ne`krwsis</grk>, fr. <grk>nekroy^n</grk> to make dead, to mortify, <grk>nekro`s</grk> a dead body.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The pathologic death of part of a tissue due to irreversible damage.    Contrast to <contr>necrobiosis</contr>, which is a normal death of cells in a tissue.  Formerly, applied primarily to death of bone tissue.</def><br/
@@ -4009,7 +4009,7 @@ Or else be impudently <qex>negative</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col><b>Negative crystal</b></col>. <sd>(a)</sd> <cd>A cavity in a mineral mass, having the form of a crystal.</cd> <sd>(b)</sd> <cd>A crystal which has the power of negative double refraction. See <er>refraction</er>.</cd> -- <col><b>negative electricity</b></col> <fld>(Elec.)</fld>, <cd>the kind of electricity which is developed upon resin or ebonite when rubbed, or which appears at that pole of a voltaic battery which is connected with the plate most attacked by the exciting liquid; -- formerly called <altname>resinous electricity</altname>.  Opposed to <ant>positive electricity</ant>. Formerly, according to Franklin's theory of a single electric fluid, negative electricity was supposed to be electricity in a degree below saturation, or the natural amount for a given body.  See <er>Electricity</er>.</cd> -- <col><b>Negative eyepiece</b></col>. <fld>(Opt.)</fld> <cd>see under <er>Eyepiece</er>.</cd> -- <col><b>Negative quantity</b></col> <fld>(Alg.)</fld>, <cd>a quantity preceded by the negative sign, or which stands in the relation indicated by this sign to some other quantity. See <cref>Negative sign</cref> (below).</cd> -- <col><b>Negative rotation</b></col>, <cd>right-handed rotation. See <er>Right-handed</er>, 3.</cd> -- <col><b>Negative sign</b></col>, <cd>the sign -, or <altname>minus</altname> (opposed in signification to +, or <ant>plus</ant>), indicating that the quantity to which it is prefixed is to be subtracted from the preceding quantity, or is to be reckoned from zero or cipher in the opposite direction to that of quanties having the sign <xex>plus</xex> either expressed or understood; thus, in <mathex>a - b</mathex>, <it>b</it> is to be substracted from <it>a</it>, or regarded as opposite to it in value; and -10<deg/ on a thermometer means 10<deg/ <xex>below</xex> the zero of the scale.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 969 --></p>
+<p><!-- p. 969 --></p>
 
 <p><ent>Negative</ent><br/
 <hw>Neg"a*tive</hw> <pr>(n<ecr/g"<adot/*t<icr/v)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>n<eacute/gative</ets>.]</ety> <sn>1.</sn> <def>A proposition by which something is denied or forbidden; a conception or term formed by prefixing the negative particle to one which is positive; an opposite or contradictory term or conception.</def><br/
@@ -4537,7 +4537,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 \'d8<hw>Ne*lum"bo</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Ceylonese word.]</ety> <fld>(Bot.)</fld> <def>A genus of great water lilies.  The North American species is <spn>Nelumbo lutea</spn>, the Asiatic is the sacred lotus, <spn>Nelumbo speciosa</spn>.</def> <altsp>[Written also <asp>Nelumbium</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 970 --></p>
+<p><!-- p. 970 --></p>
 
 <p><ent>Nemaline</ent><br/
 <hw>Nem"a*line</hw> <pr>(n<ecr/m"<adot/*l<imac/n)</pr>, <pos>a.</pos> <ety>[L. <ets>nema</ets> thread, Gr. <grk>nh^ma</grk>, fr. <grk>ne`ein</grk> to spin.]</ety> <fld>(Min.)</fld> <def>Having the form of threads; fibrous.</def><br/
@@ -5151,7 +5151,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <hw>Neph"a*lism</hw> <pr>(n<ecr/f"<adot/*l<icr/z'm)</pr>, <pos>n.</pos> <ety>[Gr. <?/ soberness, fr. <?/ sober, <?/ to drink no wine: cf. F. <ets>n<eacute/phalisme</ets>.]</ety> <def>Total abstinence from spirituous liquor.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 971 --></p>
+<p><!-- p. 971 --></p>
 
 <p><ent>Nephalist</ent><br/
 <hw>Neph"a*list</hw> <pr>(n<ecr/f"<adot/*l<icr/st)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>n<eacute/phaliste</ets>.]</ety> <def>One who advocates or practices nephalism.</def><br/
@@ -5356,7 +5356,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus, including numerous species, of marine chaetopod annelids, having a well-formed head, with two pairs of eyes, antennae, four pairs of tentacles, and a protrusile pharynx, armed with a pair of hooked jaws.</def>
-<-- Illustr. of Nereis (Nereis Pelagica) --><br/
+<!-- Illustr. of Nereis (Nereis Pelagica) --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nereites</ent><br/
@@ -5479,7 +5479,7 @@ Above the <qex>nerve</qex> of mortal arm.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>7.</sn> <fld>(Zool.)</fld> <def>One of the nervures, or veins, in the wings of insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Nerve cell</b></col> <fld>(Anat.)</fld>, <cd>a neuron, one of the nucleated cells with which nerve fibers are connected; a <stype>ganglion cell</stype> is one type of nerve cell.</cd> -- <col><b>Nerve fiber</b></col> <fld>(Anat.)</fld>, <cd>one of the fibers of which nerves are made up.  These fibers are either <stype>medullated</stype> or <stype>nonmedullated</stype>.  In both kinds the essential part is the translucent threadlike <part>axis cylinder</part> which is continuous the whole length of the fiber.</cd> -- <col><b>Nerve stretching</b></col> <fld>(Med.)</fld>, <cd>the operation of stretching a nerve in order to remedy diseases such as tetanus, which are supposed to be influenced by the condition of the nerve or its connections.</cd></cs><-- #!? --><br/
+<p><cs><col><b>Nerve cell</b></col> <fld>(Anat.)</fld>, <cd>a neuron, one of the nucleated cells with which nerve fibers are connected; a <stype>ganglion cell</stype> is one type of nerve cell.</cd> -- <col><b>Nerve fiber</b></col> <fld>(Anat.)</fld>, <cd>one of the fibers of which nerves are made up.  These fibers are either <stype>medullated</stype> or <stype>nonmedullated</stype>.  In both kinds the essential part is the translucent threadlike <part>axis cylinder</part> which is continuous the whole length of the fiber.</cd> -- <col><b>Nerve stretching</b></col> <fld>(Med.)</fld>, <cd>the operation of stretching a nerve in order to remedy diseases such as tetanus, which are supposed to be influenced by the condition of the nerve or its connections.</cd></cs><!-- #!? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nerve</ent><br/
@@ -5639,7 +5639,7 @@ Above the <qex>nerve</qex> of mortal arm.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ness"ler*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[From <ets>Nessler</ets>, the chemist.]</ety> <fld>(Chem.)</fld> <def>To treat or test, as a liquid, with a solution of mercuric iodide in potassium iodide and potassium hydroxide, which is called <xex>Nessler's solution</xex> or <xex>Nessler's test</xex>, and is used to detect the presence of ammonia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 972 --></p>
+<p><!-- p. 972 --></p>
 
 <p><ent>Nest</ent><br/
 <hw>Nest</hw> <pr>(n<ecr/st)</pr>, <pos>n.</pos> <ety>[AS. <ets>nest</ets>; akin to D. & G. <ets>nest</ets>, Sw. <ets>n<aum/ste</ets>, L. <ets>nidus</ets>, for <ets>nisdus</ets>, Skr. <ets>n<imac/<dsdot/a</ets> resting place, nest; cf. Lith. <ets>lizdas</ets>, Arm. <ets>neiz</ets>, Gael. & Ir. <ets>nead</ets>. Prob. from the particle <ets>ni</ets> down, Skr. <ets>ni</ets> + the root of E. <ets>sit</ets>, and thus orig., a place to sit down in. <root/ 264. See <er>Nether</er>, and <er>Sit</er>, and cf. <er>Eyas</er>, <er>Nidification</er>, <er>Nye</er>.]</ety> <sn>1.</sn> <def>The bed or receptacle prepared by a fowl for holding her eggs and for hatching and rearing her young.</def><br/
@@ -6090,7 +6090,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Neurokeratin</ent><br/
-<hw>Neu`ro*ker"a*tin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>keratin</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A substance, resembling keratin, present in nerve tissue, as in the sheath of the axis cylinder of medullated nerve fibers. Like keratin it resists the action of most chemical agents, and by decomposition with sulphuric acid yields leucin and tyrosin.</def><-- myelin ?? --><br/
+<hw>Neu`ro*ker"a*tin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>keratin</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A substance, resembling keratin, present in nerve tissue, as in the sheath of the axis cylinder of medullated nerve fibers. Like keratin it resists the action of most chemical agents, and by decomposition with sulphuric acid yields leucin and tyrosin.</def><!-- myelin ?? --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Neurological</ent><br/
@@ -6168,7 +6168,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 \'d8<hw>Neu*rop"te*ra</hw> <pr>(n<usl/*r<ocr/p"t<esl/*r<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> nerve + <grk>ptero`n</grk> a wing, fr. <grk>pte`sqai</grk> to fly.]</ety> <fld>(Zool.)</fld> <def>An order of hexapod insects having two pairs of large, membranous, net-veined wings.  The mouth organs are adapted for chewing.  They feed upon other insects, and undergo a complete metamorphosis.  The ant-lion, hellgamite, and lacewing fly are examples. Formerly, the name was given to a much more extensive group, including the true <ord>Neuroptera</ord> and the Pseudoneuroptera.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 973 --></p>
+<p><!-- p. 973 --></p>
 
 <p><ent>Neuropteral</ent><br/
 <hw>Neu*rop"ter*al</hw> <pr>(n<usl/*r<ocr/p"t<etil/r*<ait/l)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Of or pertaining to the <ord>Neuroptera</ord>.</def><br/
@@ -6675,7 +6675,7 @@ Into a fairer form.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>New"ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality or state of being new; <as>as, the <ex>newness</ex> of a system; the <ex>newness</ex> of a scene; <ex>newness</ex> of life.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 974 --></p>
+<p><!-- p. 974 --></p>
 
 <p><ent>News</ent><br/
 <hw>News</hw> <pr>(n<umac/z)</pr>, <pos>n</pos> <ety>[From New; cf. F. <ets>nounelles</ets>. <ets>News</ets> is plural in form, but is commonly used with a singular verb.]</ety> <sn>1.</sn> <def>A report of recent occurrences; information of something that has lately taken place, or of something before unknown; fresh tidings; recent intelligence.</def><br/
@@ -7298,7 +7298,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>I altogether disclaim what has been <qex>nicknamed</qex> the doctrine of finality.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 975 --></p>
+<p><!-- p. 975 --></p>
 
 <p><ent>Nicolaitan</ent><br/
 <hw>Ni`co*la"i*tan</hw> <pr>(n<icr/k`<osl/*l<amac/"<icr/*t<ait/n)</pr>, <pos>n.</pos> <ety>[So called from <ets>Nicolas</ets> of Antioch, mentioned in Acts vi. 5.]</ety> <fld>(Eccl. Hist.)</fld> <def>One of certain corrupt persons in the early church at Ephesus, who are censured in Rev. ii. 6, 15.</def><br/
@@ -7940,7 +7940,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <hw>Night"man</hw> <pr>(n<imac/t"m<acr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nightmen</plw> <pr>(n<imac/t"m<ecr/n)</pr>.</plu> <def>One whose business is emptying privies by night.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 976 --></p>
+<p><!-- p. 976 --></p>
 
 <p><ent>Nightmare</ent><br/
 <hw>Night"mare`</hw> <pr>(n<imac/t"m<acir/r`)</pr>, <pos>n.</pos> <ety>[<ets>Night</ets> + <ets>mare</ets> incubus. See <er>Mare</er> incubus.]</ety> <sn>1.</sn> <def>A fiend or incubus formerly supposed to cause trouble in sleep.</def> <mark>[archaic]</mark> <br/
@@ -8608,7 +8608,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><cs><col><b>Solder nipple</b></col>, <cd>a short pipe, usually of brass, one end of which is tapered and adapted for attachment to the end of a lead pipe by soldering.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 977 --></p>
+<p><!-- p. 977 --></p>
 
 <p><ent>Nipplewort</ent><br/
 <hw>Nip"ple*wort`</hw> <pr>(n<icr/p"p'l*w<ucir/rt`)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A yellow-flowered composite herb (<spn>Lampsana communis</spn>), formerly used as an external application to the nipples of women; -- called also <altname>dock-cress</altname>.</def><br/
@@ -9072,7 +9072,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><note><hand/ In Old England before a vowel the form <xex>non</xex> or <xex>noon</xex> was used. <ldquo/<xex>No</xex> man.<rdquo/ <ldquo/<xex>Noon</xex> apothercary.<rdquo/</note>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 978 --></p>
+<p><!-- p. 978 --></p>
 
 <p><ent>No</ent><br/
 <hw>No</hw>, <pos>adv.</pos> <ety>[OE. <ets>no</ets>, <ets>na</ets>, AS. <ets>n<amac/</ets>; <ets>ne</ets> not + <ets><amac/</ets> ever. AS. <ets>ne</ets> is akin to OHG. <ets>ni</ets>, Goth. <ets>ni</ets>, Russ. <ets>ne</ets>, Ir., Gael. & W. <ets>ni</ets>, L. <ets>ne</ets>, Gr. <grk>nh</grk> (in comp.), Skr. <ets>na</ets>, and also to E. prefix <ets>un-</ets>. <root/ 193. See <er>Aye</er>, and cf. <er>Nay</er>, <er>Not</er>, <er>Nice</er>, <er>Nefarious</er>.]</ety> <def>Nay; not; not at all; not in any respect or degree; -- a word expressing negation, denial, or refusal. Before or after another negative, <xex>no</xex> is emphatic.</def><br/
@@ -9613,7 +9613,7 @@ Ready with every <qex>nod</qex> to tumble down.</q> <rj><qau>Shak.</qau></rj><br
 <hw>Nod"ule</hw> <pr>(n<ocr/d"<usl/l)</pr>, <pos>n.</pos> <ety>[L. <ets>nodulus</ets>, dim. of <ets>nodus</ets> knot: cf. F. <ets>nodule</ets>.]</ety> <def>A rounded mass or irregular shape; a little knot or lump.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 979 --></p>
+<p><!-- p. 979 --></p>
 
 <p><ent>Noduled</ent><br/
 <hw>Nod"uled</hw> <pr>(n<ocr/d"<usl/ld)</pr>, <pos>a.</pos> <def>Having little knots or lumps.</def><br/
@@ -10218,7 +10218,7 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 <hw>Non`ac*cept"ance</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A neglect or refusal to accept.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 980 --></p>
+<p><!-- p. 980 --></p>
 
 <p><ent>Nonacid</ent><br/
 <hw>Non*ac"id</hw> <pr>(n<ocr/n*<acr/s"<icr/d)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Destitute of acid properties; hence, basic; metallic; positive; -- said of certain atoms and radicals.</def><br/
@@ -11168,7 +11168,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Non`ob*serv"ance</hw> <pr>(n<ocr/n`<ocr/b*z<etil/rv"<ait/ns)</pr>, <pos>n.</pos> <def>Neglect or failure to observe or fulfill.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 981 --></p>
+<p><!-- p. 981 --></p>
 
 <p><ent>Non obstante</ent><br/
 \'d8<hw>Non` ob*stan"te</hw> <pr>(n<ocr/n` <ocr/b*st<acr/n"t<esl/)</pr>. <ety>[L.]</ety> <sn>1.</sn> <def>Notwithstanding; in opposition to, or in spite of, what has been stated, or is to be stated or admitted.</def><br/
@@ -12112,7 +12112,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><cs><col><b>Normal equations</b></col> <fld>(Method of Least Squares)</fld>, <cd>a set of equations of the first degree equal in number to the number of unknown quantities, and derived from the observations by a specified process.  The solution of the normal equations gives the most probable values of the unknown quantities.</cd> -- <col><b>Normal group</b></col> <fld>(Geol.)</fld>, <cd>a group of rocks taken as a standard.</cd> <au>Lyell.</au> -- <col><b>Normal place</b></col> (of a planet or comet) <fld>(Astron.)</fld>, <cd>the apparent place in the heavens of a planet or comet at a specified time, the place having been determined by a considerable number of observations, extending perhaps over many days, and so combined that the accidental errors of observation have largely balanced each other.</cd> -- <col><b>Normal school</b></col>, <cd>a school whose methods of instruction are to serve as a model for imitation; an institution for the training of teachers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 982 --></p>
+<p><!-- p. 982 --></p>
 
 <p><syn><b>Syn.</b> -- <er>Normal</er>, <er>Regular</er>, <er>Ordinary</er>.</syn> <usage> <xex>Regular</xex> and <xex>ordinary</xex> are popular terms of well-known signification; <xex>normal</xex> has now a more specific sense, arising out of its use in science.  A thing is <xex>normal</xex>, or in its <xex>normal</xex> state, when strictly conformed to those principles of its constitution which mark its species or to the standard of a healthy and natural condition.  It is <contr>abnormal</contr> when it departs from those principles.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -12780,7 +12780,7 @@ Have made another choice.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>1.</sn> <def>Capable of being noted; noticeable; plain; evident.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 983 --></p>
+<p><!-- p. 983 --></p>
 
 <p><sn>2.</sn> <def>Worthy of notice; remarkable; memorable; noted or distinguished; <as>as, a <ex>notable</ex> event, person</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -13370,7 +13370,7 @@ This <qex>nothing</qex>, sir, will bring you to your end.</q> <rj><qau>Dryden.</
 <hw>No`to*rhi"zal</hw> <pr>(n<omac/`t<osl/*r<imac/"z<ait/l)</pr>, <pos>a.</pos> <ety>[Gr. <grk>nw^ton</grk> the back + <grk>"ri`za</grk> a root.]</ety> <fld>(Bot.)</fld> <def>Having the radicle of the embryo lying against the back of one of the cotyledons; incumbent.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 984 --></p>
+<p><!-- p. 984 --></p>
 
 <p><ent>Notoriety</ent><br/
 <hw>No`to*ri"e*ty</hw> <pr>(n<omac/`t<osl/*r<imac/"<esl/*t<ycr/)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>notori<eacute/t<eacute/</ets>. See <er>Notorious</er>.]</ety> <def>The quality or condition of being notorious; the state of being generally or publicly known; -- commonly used in an unfavorable sense; <as>as, the <ex>notoriety</ex> of a crime</as>.</def><br/
@@ -13899,7 +13899,7 @@ Made the sea blush with blood, resign their hate.</q> <rj><qau>Waller.</qau></rj
 But an eternal <qex>now</qex> does ever last.</q> <rj><qau>Cowley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 985 --></p>
+<p><!-- p. 985 --></p>
 
 <p><ent>Nowadays</ent><br/
 <hw>Now"a*days`</hw> <pr>(nou"<adot/*d<amac/z`)</pr>, <pos>adv.</pos> <ety>[For <ets>now on</ets> (OE. <ets>an</ets>) <ets>days</ets>. See <er>A-</er>, 1.]</ety> <def>In these days; at the present time.</def><br/
@@ -14593,7 +14593,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Nul"li*pore</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nullus</ets> none + <ets>porus</ets> pope.]</ety> <fld>(Bot.)</fld> <def>A name for certain crustaceous marine algae which secrete carbonate of lime on their surface, and were formerly thought to be of animal nature.  They are now considered corallines of the genera <gen>Melobesia</gen> and <gen>Lithothamnion</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 986 --></p>
+<p><!-- p. 986 --></p>
 
 <p><ent>Nullity</ent><br/
 <hw>Nul"li*ty</hw> <pr>(n<ucr/l"l<icr/*t<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nullities</plw>.</plu> <ety>[LL. <ets>nullitias</ets>, fr. L. <ets>nullus</ets> none: cf. F. <ets>nullit<eacute/</ets> . See <er>Null</er>.]</ety><br/
@@ -15118,7 +15118,7 @@ Breathless with adoration.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <syn><b>Syn. --</b> ibuprofen, isobutylphenyl propionic acid, Advil, Motrin.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 987 --></p>
+<p><!-- p. 987 --></p>
 
 <p><ent>Nupson</ent><br/
 <hw>Nup"son</hw> <pr>(n<ucr/p"s'n)</pr>, <pos>n.</pos> <ety>[Of doubtful origin.]</ety> <def>A simpleton; a fool.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
@@ -15317,7 +15317,7 @@ And <qex>nursed</qex> his youth along the marshy shore.</q> <rj><qau>Dryden.</qa
 <p><sn>5.</sn> <pluf>pl.</pluf> <def>Testicles.</def> <mark>[vulgar slang]</mark><br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>Check nut</b></col>, <col><b>Jam nut</b></col>, <col><b>Lock nut</b></col></mcol>, <cd>a nut which is screwed up tightly against another nut on the same bolt or screw, in order to prevent accidental unscrewing of the first nut.</cd> -- <col><b>Nut buoy</b></col>. <cd>See under <er>Buoy</er>.</cd> -- <col><b>Nut coal</b></col>, <cd>screened coal of a size smaller than stove coal and larger than pea coal; -- called also <altname>chestnut coal</altname>.</cd> -- <col><b>Nut crab</b></col> <fld>(Zool.)</fld>, <cd>any leucosoid crab of the genus <gen>Ebalia</gen> as, <spn>Ebalia tuberosa</spn> of Europe.</cd> -- <col><b>Nut grass</b></col> <fld>(Bot.)</fld>, <cd>See <er>nut grass</er> in the vocabulary.</cd> -- <col><b>Nut lock</b></col>, <cd>a device, as a metal plate bent up at the corners, to prevent a nut from becoming unscrewed, as by jarring.</cd><-- = lock nut --> -- <col><b>Nut pine</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Pine</er>.</cd> -- <col><b>Nut rush</b></col> <fld>(Bot.)</fld>, <cd>a genus of cyperaceous plants (<gen>Scleria</gen>) having a hard bony achene.  Several species are found in the United States and many more in tropical regions.</cd> -- <col><b>Nut tree</b></col>, <cd>a tree that bears nuts.</cd> -- <col><b>Nut weevil</b></col> <fld>(Zool.)</fld>, <cd>any species of weevils of the genus <gen>Balaninus</gen> and other allied genera, which in the larval state live in nuts.</cd></cs><br/
+<p><cs><mcol><col><b>Check nut</b></col>, <col><b>Jam nut</b></col>, <col><b>Lock nut</b></col></mcol>, <cd>a nut which is screwed up tightly against another nut on the same bolt or screw, in order to prevent accidental unscrewing of the first nut.</cd> -- <col><b>Nut buoy</b></col>. <cd>See under <er>Buoy</er>.</cd> -- <col><b>Nut coal</b></col>, <cd>screened coal of a size smaller than stove coal and larger than pea coal; -- called also <altname>chestnut coal</altname>.</cd> -- <col><b>Nut crab</b></col> <fld>(Zool.)</fld>, <cd>any leucosoid crab of the genus <gen>Ebalia</gen> as, <spn>Ebalia tuberosa</spn> of Europe.</cd> -- <col><b>Nut grass</b></col> <fld>(Bot.)</fld>, <cd>See <er>nut grass</er> in the vocabulary.</cd> -- <col><b>Nut lock</b></col>, <cd>a device, as a metal plate bent up at the corners, to prevent a nut from becoming unscrewed, as by jarring.</cd><!-- = lock nut --> -- <col><b>Nut pine</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Pine</er>.</cd> -- <col><b>Nut rush</b></col> <fld>(Bot.)</fld>, <cd>a genus of cyperaceous plants (<gen>Scleria</gen>) having a hard bony achene.  Several species are found in the United States and many more in tropical regions.</cd> -- <col><b>Nut tree</b></col>, <cd>a tree that bears nuts.</cd> -- <col><b>Nut weevil</b></col> <fld>(Zool.)</fld>, <cd>any species of weevils of the genus <gen>Balaninus</gen> and other allied genera, which in the larval state live in nuts.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nut</ent><br/
@@ -15568,7 +15568,7 @@ To draw <qex>nutrition</qex>, propagate, and rot.</q> <rj><qau>Pope.</qau></rj><
 <p><sn>2.</sn> <ety>[Perh. a corruption of <ets>nestle</ets>.  Cf. <er>Nustle</er>.]</ety> <def>To nestle; to house, as in a nest.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 988 --></p>
+<p><!-- p. 988 --></p>
 
 <p><ent>Nuzzle</ent><br/
 <hw>Nuz"zle</hw> <pr>(n<ucr/z"z'l)</pr>, <pos>v. i.</pos> <ety>[Dim. fr. <ets>nose</ets>. See <er>Nozzle</er>.]</ety>  <sn>1.</sn> <def>To work with the nose, like a swine in the mud.</def><br/
