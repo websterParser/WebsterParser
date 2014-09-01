@@ -10,6 +10,7 @@ var puid = require('puid');
 var dictionary = {};
 var index = {};
 var files = [];
+var unknown = [];
 
 
 var entities = {
@@ -25,6 +26,7 @@ var entities = {
   "sect":   "§",
   "sharp":  "♯",
   "flat":   "♭",
+  "natural":"♮",
   "th":     "th",
   "OE":     "Œ",
   "oe":     "œ",
@@ -32,14 +34,25 @@ var entities = {
   "AE":     "Æ",
   "aemac":  "ǣ",
   "edh":    "ð",
-  "Eth":    "Ð",
+  "EDH":    "Ð",
   "thorn":  "þ",
   "yogh":   "ȝ",
   "deg":    "°",
+  "min":    "′",
   "middot": "•",
   "root":   "√",
+  "cuberoot": "∛",
+
   // Asper (see wiki/rough breathing)
-  'asper': 'ʽ',
+  'asper':  'ʽ',
+  'cre':    '˘',
+  'iques':  '¿',
+  'nabla':  '∇',
+  'bar':    '|',
+  'times':  '×',
+  'divide': '÷',
+  'umlaut': '¨',
+  'dele':   '₰',
 
  /* Greek alphabet */
   "alpha":    "α",
@@ -97,10 +110,10 @@ var entities = {
   "prime":    "´",
   "bprime":   "˝",
   "mdash":    "—",
-  "divide":   "÷",
 
  /* Quotes */
   "lsquo":    "‘",
+  "rsquo":    "’",
   "ldquo":    "“",
   "rdquo":    "”",
 
@@ -116,7 +129,32 @@ var entities = {
   "schwa":    "ə",
   "pause":    "𝄐",
 
+
+  "Mercury": "☿",
+  "Female": "♀",
+  "Earth": "♁",
+  "Male": "♂",
+  "Jupiter": "♃",
+  "Saturn": "♄",
+  "Uranus": "♅",
+  "Neptune": "♆",
+  "Pluto": "♇",
+  "Aries": "♈",
+  "Taurus": "♉",
+  "Gemini": "♊",
+  "Cancer": "♋",
+  "Leo": "♌",
+  "Virgo": "♍",
+  "Libra": "♎",
+  "Scorpio": "♏",
+  "Sagittarius": "♐",
+  "Capricorn": "♑",
+  "Aquarius": "♒",
+  "Pisces": "♓",
+  "Sun": "☉",
+
   "br":       "\n",
+  "nbsp":     "&nbsp;",
   "and":      "and",
   "or":       "or",
   "sec":      "˝"
@@ -441,9 +479,10 @@ function unique(value, index, self) {
   return self.indexOf(value) === index;
 }
 
-// Search the text for entities
+/*
+* Replace custom entities in the form <NAME/
+*/
 function replaceEntities(string) {
-
   var pattern = /<([\?\w]+?)\//g;
 
   var unknown = [];
@@ -469,23 +508,50 @@ function replaceEntities(string) {
   return string;
 }
 
+/*
+* Transcribe the greek (grk) tags
+*/
 
- /*
- * Removes the introduction and tag references
- */
-function stripComments(file) {
-  var fileParts;
+function greekToUTF8(input) {
+  var result = '', curPos = 0, curLength, frag = '';
 
-  // The actual content starts after the end of the first comment
-  fileParts = file.split('!>');
-  fileParts.shift();
-  fileParts = fileParts.join('!>');
-  return fileParts;
+  while (curPos < input.length) {
+    // Longest combination is three
+    curLength = 3 + 1;
+    while (curLength--) {
+      frag = input.substring(curPos, curPos + curLength);
+
+      if (greek.hasOwnProperty(frag)) {
+        // Fix trailing sigma
+        if (frag === 's' && curPos + 1 == input.length) {
+          result += "ς";
+        } else {
+          result += greek[frag];
+        }
+
+        curPos += frag.length;
+        break;
+      }
+
+      // We couln't find anything
+      // Add one glyph to the string and try again
+      if (curLength === 0) {
+        //console.log('Problem when transcribing the greek', input);
+        result += input[curPos];
+        curPos++;
+        break;
+      }
+    }
+  }
+
+  return result;
 }
+
+
 
 function processFiles() {
   dir.readFiles('srcFiles', {
-    match: /TEST$/
+    match: /CIDE/
     }, function(err, content, next) {
         if (err) throw err;
         files.push(content);
@@ -505,6 +571,8 @@ function processFiles() {
 }
 
 function writeOut() {
+  console.log("Done; starting to build XML");
+
   var xml = buildXML();
   var output = JSON.stringify(dictionary, null, 4);
 
@@ -586,18 +654,22 @@ function parseFile(file) {
     }
 
     var hw = $(this).find('hw');
-    if (hw.length) {
-      hw.each(function () {
-        var text = $(this).html();
-        text = text.replace(/\*/g, '&#x002d;');
-        text = text.replace(/\"/g, '&#8242;');
-        text = text.replace(/&quot;/g, '&#8242;');
-        text = text.replace(/`/g, '&#x02CA;');
-        text = text.replace(/'/g, '’');
-        text = text.replace(/\|\|/g, '');
-        $(this).html(text);
-      });
-    }
+    hw.each(function () {
+      var text = $(this).text();
+      text = text.replace(/\*/g, '&#x002d;');
+      text = text.replace(/\"/g, '&#8242;');
+      text = text.replace(/`/g, '&#x02CA;');
+      text = text.replace(/'/g, '’');
+      text = text.replace(/\|\|/g, '');
+      $(this).text(text);
+    });
+
+    var grk = $(this).find('grk');
+    grk.each(function () {
+      var text = $(this).text();
+      text = greekToUTF8(text);
+      $(this).text(text);
+    });
 
     if (!dictionary[curEntryName]) {
       dictionary[curEntryName] = '';
@@ -607,8 +679,8 @@ function parseFile(file) {
 
     dictionary[curEntryName] += text;
 
-    if (i%1000 === 0) {
-      console.log('Parsed', i);
+    if (i%5000 === 0) {
+      console.log('Parsed', i, curEntryName);
     }
   });
 }
@@ -701,8 +773,9 @@ function postProcessDictionary() {
     dictionary[entry] = $.root().html();
 
     if (i%1000 === 0) {
-      console.log('Postprocessing entry', i);
+      console.log('Postprocessing entry', i, entry);
     }
+
     i++;
   }
 
@@ -742,6 +815,4 @@ function buildXML() {
   }
 }
 
-//jsonToXML();
-//prelim();
 processFiles();
