@@ -10887,7 +10887,7 @@ With thief or his <qex>marrow</qex>, for fear of ill end.</q> <rj><qau>Tusser.</
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>One of the planets of the solar system, the fourth in order from the sun, or the next beyond the earth, having a diameter of about 4,200 miles, a period of 687 days, and a mean distance of 141,000,000 miles. It is conspicuous for the redness of its light.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Alchemy)</fld> <def>The metallic element iron, the symbol of which <male/ was the same as that of the planet Mars.</def> <mark>[Archaic]</mark>  <rj><au>Chaucer.</au></rj><br/
+<p><sn>3.</sn> <fld>(Alchemy)</fld> <def>The metallic element iron, the symbol of which <Male/ was the same as that of the planet Mars.</def> <mark>[Archaic]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Mars brown</b></col>, <cd>a bright, somewhat yellowish, brown.</cd></cs><br/
@@ -19191,7 +19191,7 @@ Who fluttered over all things like a fan.</q> <rj><qau>Byron.</qau></rj><br/
 <hw>Mer"cu*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Mercurius</ets>; akin to <ets>merx</ets> wares.]</ety> <sn>1.</sn> <fld>(Rom. Myth.)</fld> <def>A Latin god of commerce and gain; -- treated by the poets as identical with the Greek <persfn>Hermes</persfn>, messenger of the gods, conductor of souls to the lower world, and god of eloquence.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Chem.)</fld> <def>A metallic element mostly obtained by reduction from cinnabar, one of its ores.  It is a heavy, opaque, glistening liquid (commonly called <altname>quicksilver</altname>), and is used in barometers, thermometers, etc.  Specific gravity 13.6.  Symbol Hg (<it>Hydrargyrum</it>).  Atomic weight 199.8.  Mercury has a molecule which consists of only one atom.  It was named by the alchemists after the god Mercury, and designated by his symbol, <mercury/.</def><br/
+<p><sn>2.</sn> <fld>(Chem.)</fld> <def>A metallic element mostly obtained by reduction from cinnabar, one of its ores.  It is a heavy, opaque, glistening liquid (commonly called <altname>quicksilver</altname>), and is used in barometers, thermometers, etc.  Specific gravity 13.6.  Symbol Hg (<it>Hydrargyrum</it>).  Atomic weight 199.8.  Mercury has a molecule which consists of only one atom.  It was named by the alchemists after the god Mercury, and designated by his symbol, <Mercury/.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Mercury forms alloys, called <xex>amalgams</xex>, with many metals, and is thus used in applying tin foil to the backs of mirrors, and in extracting gold and silver from their ores.  It is poisonous, and is used in medicine in the free state as in blue pill, and in its compounds as calomel, corrosive sublimate, etc.  It is the only metal which is liquid at ordinary temperatures, and it solidifies at about -39<deg/ Centigrade to a soft, malleable, ductile metal.</note><br/
@@ -31540,7 +31540,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moho</ent><br/
-<hw>Mo"ho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Short for <ets>Mohorovicic discontinuity</ets>, from <person>Andrija <etsep>Mohorovi<ccaron/i<cacute/</etsep></person>, a Yugoslavian geologist.]</ety> <fld>(Geol.)</fld> <def>The boundary between the earth's crust and the semiliquid mantle beneath.  It varies in depth from 3 miles beneath the surface at certain points in the ocean to over 25 miles under certain parts of continents.</def><br/
+<hw>Mo"ho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Short for <ets>Mohorovicic discontinuity</ets>, from <person>Andrija <etsep>Mohorovi<ccr/i<cacute/</etsep></person>, a Yugoslavian geologist.]</ety> <fld>(Geol.)</fld> <def>The boundary between the earth's crust and the semiliquid mantle beneath.  It varies in depth from 3 miles beneath the surface at certain points in the ocean to over 25 miles under certain parts of continents.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mohock</ent><br/

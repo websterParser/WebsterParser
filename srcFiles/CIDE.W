@@ -17,7 +17,7 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 1621 --><br/
+<p><-- p. 1621 --></p><br/
 
 <p><centered><point26>W.</point26></centered><br/
 [<source>1913 Webster</source>]</p>

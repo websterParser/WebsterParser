@@ -4905,7 +4905,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tat</ent><br/
-<hw>Tat</hw> <pr>(t<acr/t)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdo/<amac/<tsdo/</ets>.]</ety> <def>Gunny cloth made from the fiber of the <spn>Corchorus olitorius</spn>, or jute.</def> <mark>[India]</mark><br/
+<hw>Tat</hw> <pr>(t<acr/t)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdot/<amac/<tsdot/</ets>.]</ety> <def>Gunny cloth made from the fiber of the <spn>Corchorus olitorius</spn>, or jute.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tat</ent><br/
@@ -5170,7 +5170,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taurus</ent><br/
-\'d8<hw>Tau"rus</hw> <pr>(t<add/"r<ucr/s)</pr>, <pos>n.</pos> <ety>[L., akin to Gr. <grk>tay^ros</grk>, and E. <ets>steer</ets>. See <er>Steer</er> a young ox.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Bull; the second in order of the twelve signs of the zodiac, which the sun enters about the 20th of April; -- marked thus [<taurus/] in almanacs.</def> <sd>(b)</sd> <def>A zodiacal constellation, containing the well-known clusters called the Pleiades and the Hyades, in the latter of which is situated the remarkably bright Aldebaran.</def><br/
+\'d8<hw>Tau"rus</hw> <pr>(t<add/"r<ucr/s)</pr>, <pos>n.</pos> <ety>[L., akin to Gr. <grk>tay^ros</grk>, and E. <ets>steer</ets>. See <er>Steer</er> a young ox.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The Bull; the second in order of the twelve signs of the zodiac, which the sun enters about the 20th of April; -- marked thus [<Taurus/] in almanacs.</def> <sd>(b)</sd> <def>A zodiacal constellation, containing the well-known clusters called the Pleiades and the Hyades, in the latter of which is situated the remarkably bright Aldebaran.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of ruminants comprising the common domestic cattle.</def><br/
@@ -11186,7 +11186,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tether</ent><br/
-<hw>Teth"er</hw> <pr>(t<ect/<th/"<etil/r)</pr>, <pos>n.</pos> <ety>[Formerly <ets>tedder</ets>, OE. <ets>tedir</ets>; akin to LG. <ets>tider</ets>, <ets>tier</ets>, Icel. <ets>tj<omac/<edh/r</ets>, Sw. <ets>tj<umac/der</ets>, Dan. <ets>t<oum/ir</ets>. <root/64.]</ety> <def>A long rope or chain by which an animal is fastened, as to a stake, so that it can range or feed only within certain limits.</def><br/
+<hw>Teth"er</hw> <pr>(t<ecir/<th/"<etil/r)</pr>, <pos>n.</pos> <ety>[Formerly <ets>tedder</ets>, OE. <ets>tedir</ets>; akin to LG. <ets>tider</ets>, <ets>tier</ets>, Icel. <ets>tj<omac/<edh/r</ets>, Sw. <ets>tj<umac/der</ets>, Dan. <ets>t<oum/ir</ets>. <root/64.]</ety> <def>A long rope or chain by which an animal is fastened, as to a stake, so that it can range or feed only within certain limits.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tether</ent><br/
@@ -21680,7 +21680,7 @@ Not merely <qex>titular</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>TLC</ent><br/
-<hw>TLC</hw> <pr>(t<emac/`<ecrl/l*s<emac/")</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Chem.)</fld> <def>Thin Layer Chromatography.  An initialism.</def> <mark>[initialism]</mark><br/
+<hw>TLC</hw> <pr>(t<emac/`<ecr/l*s<emac/")</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Chem.)</fld> <def>Thin Layer Chromatography.  An initialism.</def> <mark>[initialism]</mark><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Tender Loving Care; careful nurturing and sympathetic attention.  Usually used as applied to people, but also used metaphorically in reference to the need of machines or activities for sustained attention in order to function or proceed as desired.</def> <mark>[initialism]</mark><br/
@@ -41293,7 +41293,7 @@ Struck up with Soldier-laddie.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Twelfth-second</ent><br/
-<hw>Twelfth"-sec`ond</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Physics)</fld> <def>A unit for the measurement of small intervals of time, such that 10<exp>12</exp> (ten trillion) of these units make one second.</def><-- now picosecond.  But-- should be thousand trillion, no???  --><br/
+<hw>Twelfth"-sec`ond</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Physics)</fld> <def>A unit for the measurement of small intervals of time, such that 10<exp>12</exp> (ten trillion) of these units make one second.</def><-- now picosecond.  But should be thousand trillion, no???  --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Twelfthtide</ent><br/

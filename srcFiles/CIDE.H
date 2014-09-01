@@ -29224,7 +29224,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Hyperbolical</ent><br/
 <ent>Hyperbolic</ent><br/
-<mhw>{ <hw>Hy`per*bol"ic</hw> <pr>(h<imac/`p<etil/r*b<ocrl/"<icr/k)</pr>, <hw>Hy`per*bol"ic*al</hw> <pr>(h<imac/`p<etil/r*b<ocrl/"<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>hyperbolicus</ets>, Gr. <grk>"yperboliko`s</grk>: cf. F. <ets>hyperbolique</ets>.]</ety> <sn>1.</sn> <fld>(Math.)</fld> <def>Belonging to the hyperbola; having the nature of the hyperbola.</def><br/
+<mhw>{ <hw>Hy`per*bol"ic</hw> <pr>(h<imac/`p<etil/r*b<ocr/"<icr/k)</pr>, <hw>Hy`per*bol"ic*al</hw> <pr>(h<imac/`p<etil/r*b<ocr/"<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>hyperbolicus</ets>, Gr. <grk>"yperboliko`s</grk>: cf. F. <ets>hyperbolique</ets>.]</ety> <sn>1.</sn> <fld>(Math.)</fld> <def>Belonging to the hyperbola; having the nature of the hyperbola.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Rhet.)</fld> <def>Relating to, containing, or of the nature of, hyperbole; exaggerating or diminishing beyond the fact; exceeding the truth; <as>as, an <ex>hyperbolical</ex> expression</as>.</def> <ldquo/This <xex>hyperbolical</xex> epitaph.<rdquo/  <rj><au>Fuller.</au></rj><br/
@@ -29362,11 +29362,11 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hyperegol</ent><br/
-<hw>Hy"per*gol</hw> <pr>(h<imac/"p<etil/r*g<ocrl/)</pr>, <pos>a.</pos> <fld>(Rocketry)</fld> <def>A substance which can form one of a pair of hypergolic substances.  See <er>hypergolic</er>.</def><br/
+<hw>Hy"per*gol</hw> <pr>(h<imac/"p<etil/r*g<ocr/)</pr>, <pos>a.</pos> <fld>(Rocketry)</fld> <def>A substance which can form one of a pair of hypergolic substances.  See <er>hypergolic</er>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>hyperegolic</ent><br/
-<hw>Hy`per*gol"ic</hw> <pr>(h<imac/`p<etil/r*g<ocrl/"<icr/k)</pr>, <pos>a.</pos> <fld>(Rocketry)</fld> <def>Igniting spontaneously when mixed together; -- used of pairs of substances which react violently with evolution of heat when mixed, as for example hydrazine and nitrogen tetroxide.  Such combinations of substances are convenient for use in liquid-fueled rockets, as they do not require a source of ignition.</def><br/
+<hw>Hy`per*gol"ic</hw> <pr>(h<imac/`p<etil/r*g<ocr/"<icr/k)</pr>, <pos>a.</pos> <fld>(Rocketry)</fld> <def>Igniting spontaneously when mixed together; -- used of pairs of substances which react violently with evolution of heat when mixed, as for example hydrazine and nitrogen tetroxide.  Such combinations of substances are convenient for use in liquid-fueled rockets, as they do not require a source of ignition.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hypericum</ent><br/
