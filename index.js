@@ -12,6 +12,9 @@ var index = {};
 var files = [];
 var unknown = [];
 
+var VERBOSE = false;
+var FILEGREP = /CIDE/;
+var ONLYWEBSTER = true;
 
 var entities = {
   "pound":  "£",
@@ -42,6 +45,8 @@ var entities = {
   "middot": "•",
   "root":   "√",
   "cuberoot": "∛",
+  "breve":   "˘",
+  "ounceap": "℥",
 
   // Asper (see wiki/rough breathing)
   'asper':  'ʽ',
@@ -128,30 +133,31 @@ var entities = {
   "larr":     "←",
   "schwa":    "ə",
   "pause":    "𝄐",
+  "Crev":     "Ↄ",
 
 
-  "Mercury": "☿",
-  "Female": "♀",
-  "Earth": "♁",
-  "Male": "♂",
-  "Jupiter": "♃",
-  "Saturn": "♄",
-  "Uranus": "♅",
-  "Neptune": "♆",
-  "Pluto": "♇",
-  "Aries": "♈",
-  "Taurus": "♉",
-  "Gemini": "♊",
-  "Cancer": "♋",
-  "Leo": "♌",
-  "Virgo": "♍",
-  "Libra": "♎",
-  "Scorpio": "♏",
+  "Mercury":  "☿",
+  "Female":   "♀",
+  "Earth":    "♁",
+  "Male":     "♂",
+  "Jupiter":  "♃",
+  "Saturn":   "♄",
+  "Uranus":   "♅",
+  "Neptune":  "♆",
+  "Pluto":    "♇",
+  "Aries":    "♈",
+  "Taurus":   "♉",
+  "Gemini":   "♊",
+  "Cancer":   "♋",
+  "Leo":      "♌",
+  "Virgo":    "♍",
+  "Libra":    "♎",
+  "Scorpio":  "♏",
   "Sagittarius": "♐",
   "Capricorn": "♑",
   "Aquarius": "♒",
-  "Pisces": "♓",
-  "Sun": "☉",
+  "Pisces":   "♓",
+  "Sun":      "☉",
 
   "br":       "\n",
   "nbsp":     "&nbsp;",
@@ -497,7 +503,7 @@ function replaceEntities(string) {
       return text.substring(0,2) + accents[text.substring(2)];
     } else {
       unknown.push(text);
-      return match;
+      return '[' + text + ']';
     }
   });
 
@@ -551,7 +557,7 @@ function greekToUTF8(input) {
 
 function processFiles() {
   dir.readFiles('srcFiles', {
-    match: /CIDE/
+    match: FILEGREP
     }, function(err, content, next) {
         if (err) throw err;
         files.push(content);
@@ -632,12 +638,29 @@ function parseFile(file) {
 
   var $ = cheerio.load(file, {
     normalizeWhitespace: true,
-    xmlMode: false
+    xmlMode: true,
+    decodeEntities: false
   });
 
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
   $('p').each(function (i) {
+
+    if (ONLYWEBSTER) {
+      var src = $(this).find('source');
+
+      if (src.text() !== '1913 Webster') {
+        return true;
+      }
+
+      var next = $(src[0].next);
+      var prev = $(src[0].prev);
+
+      src.remove();
+      prev.remove();
+      next.remove();
+    }
+
     var ent = $(this).find('ent');
     if (ent.length) {
       curEntryName = ent.first().text();
@@ -653,6 +676,7 @@ function parseFile(file) {
       ent.remove();
     }
 
+
     var hw = $(this).find('hw');
     hw.each(function () {
       var text = $(this).text();
@@ -661,7 +685,7 @@ function parseFile(file) {
       text = text.replace(/`/g, '&#x02CA;');
       text = text.replace(/'/g, '’');
       text = text.replace(/\|\|/g, '');
-      $(this).text(text);
+      $(this).html(text);
     });
 
     var grk = $(this).find('grk');
@@ -772,7 +796,7 @@ function postProcessDictionary() {
 
     dictionary[entry] = $.root().html();
 
-    if (i%1000 === 0) {
+    if (i%1000 === 0 || VERBOSE) {
       console.log('Postprocessing entry', i, entry);
     }
 

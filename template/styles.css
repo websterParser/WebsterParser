@@ -24,11 +24,11 @@ div {
 	color: maroon;
 }
 
-.colo {
+.col {
 	color: maroon;
 }
 
-.colo:before, .sn:before {
+.col:before, .sn:before {
 	content:"\A"; white-space:pre;
 }
 
