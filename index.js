@@ -14,7 +14,7 @@ var files = [];
 var unknown = [];
 
 var VERBOSE = false;
-var FILEGREP = /CIDE.V/;
+var FILEGREP = /CIDE/;
 var ONLYWEBSTER = true;
 
 
@@ -64,18 +64,24 @@ function replaceEntities(string) {
 
 
 function replaceVarious(string) {
+  // Remove comments
+  string = string.replace(/<\!--.*?-->/g, '');
 
+  // Nicer long dashes
+  string = string.replace(/--/g, '–');
+  string = string.replace(/---/g, '–');
+
+  //Double bar
   string = string.replace(/\|\|/g, '‖');
   string = string.replace(/\\'d8/g, '‖');
+
+  //Empty prounounciation tags
   string = string.replace(/\s*<pr>\(\?\)<\/pr>/g, '');
   string = string.replace(/\s*<pr>\(�\)<\/pr>/g, '');
 
-  // Move whitespace inside tags
-  // Twice
+  // Move whitespace inside tags, twice
   string = string.replace(/<\/(\w+?)>(\s+)/g, '$2</$1>');
   string = string.replace(/<\/(\w+?)>(\s+)/g, '$2</$1>');
-  //string = string.replace(/<br\/>\s*<hw>/g, '<hw>');
-
 
   return string;
 }
@@ -119,7 +125,6 @@ function greekToUTF8(input) {
 
   return result;
 }
-
 
 
 function processFiles() {
@@ -176,19 +181,6 @@ function prelim() {
 
 }
 
-function jsonToXML() {
-  fs.readFile('output/dict.json', 'utf8', function (err, data) {
-    if (err) throw err;
-    dictionary = JSON.parse(data);
-
-    var xml = buildXML();
-    fs.writeFile('template/dict.xml', xml, 'utf8', function (err) {
-      if (err) throw err;
-      console.log('Wrote file');
-    });
-  });
-
-}
 
 function parseFiles(cb) {
   var q = async.queue(function (task, callback) {
@@ -235,7 +227,6 @@ function parseFile(file) {
       next.remove();
     }
 
-
     var ent = $(this).find('ent');
     if (ent.length) {
       curEntryName = ent.first().text();
@@ -246,6 +237,7 @@ function parseFile(file) {
 
       ent.each(function () {
         index[curEntryName].push($(this).text());
+        if ($(this).next().is('br')) $(this).next().remove();
       });
 
       ent.remove();
@@ -257,9 +249,12 @@ function parseFile(file) {
     if (children.last().is('br')) children.last().remove();
 
 
-    var hw = $(this).find('hw, wf');
+    var hw = $(this).find('hw, wf, pr');
     hw.each(function () {
       var text = $(this).text();
+      text = text.replace(/\*/g, '&#x002d;');
+      text = text.replace(/\"/g, '&#8242;');
+      text = text.replace(/`/g, '&#x02CA;');
       text = text.replace(/'/g, '’');
       $(this).html(text);
     });
@@ -294,40 +289,28 @@ function wrapAll(elements, structure, $) {
 }
 
 function postProcessDictionary() {
-  var dashes = new RegExp('\\s+[-]{2,3}\\s+','g');
   var i = 0;
 
   delete dictionary.NOTHING;
 
   for (var entry in dictionary) {
-    var text = dictionary[entry];
-    text = text.replace(dashes, ' — ');
+    var text = dictionary[entry].trim();
+    text = text.replace(/\s+[-]{2,3}\s+/, ' — ');
+    text = text.replace(/\'/, '’');
 
     // Wrap loose sentencens
     var $ = cheerio.load(text, {
       xmlMode: true
     });
 
-    $('hw').each(function() {
-      var intro = $(this).nextUntil('def, sn');
-      wrapAll(intro, '<intro>', $);
-
-      var block = $(this).nextUntil('hw');
-      wrapAll(block, '<block>', $);
-    });
-
-    $('def').each(function () {
-      var extra = $(this).nextUntil('hw, sn');
-      wrapAll(extra, '<extra>', $);
-    });
-
-    $('q+rj').each(function () {
-      var quote = $(this).prev();
-      var author = $(this).find('qau');
+    $('q').each(function () {
+      var quote = $(this);
+      var next = quote.next();
+      var author = next.find('qau');
       if (author.length) {
         quote.append(author);
+        next.remove();
       }
-      $(this).remove();
     });
 
     // Change tag types
