@@ -91,12 +91,12 @@ div {
   line-height: 0;
 }
 
-.sn:before, .sd:before, .note:before {
+.sn:before, .sd:before, .note:before, .def + .cs:before {
   content: "\A";
   white-space:pre;
 }
 
-.q + .sn:before, .cs .sd:before, .q + .sd:before  {
+.q + .sn:before, .cs .sd:before, .q + .sd:before, .def .sn:before, .def .sd:before  {
   content:"";
   white-space:initial;
 }
@@ -123,26 +123,19 @@ div {
   display: block;
 }
 
-.u, .plw, .er {
-  underline: none;
-  text-decoration: none;
+.sn {
+  font-weight:bold;
+  font-size: 105%
 }
 
-.u, .plw, .er {
+.adjf, .conj, .decf, .er, .plw, .singw, .u, .plw {
   font-family: 'GentiumSMCP';
 }
 
 @supports(font-feature-settings: 'smcp') {
-    .u, .plw, .er {
+    .adjf, .conj, .decf, .er, .plw, .singw, .u, .plw {
         font-family: inherit
         font-variant: normal;
         font-feature-settings: 'smcp';
     }
-}
-
-
-
-.sn {
-  font-weight:bold;
-  font-size: 105%
 }

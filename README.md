@@ -10,6 +10,8 @@ The text of the 1913 version has been digitized and [can be found on Project Gut
 
 This project parses these original text files and creates a reasonably clean UTF-8 XML version which can be converted into a mac dictionary file with Apple’s Dictionary Kit.
 
+![Screenshot of the dictionary](https://cloud.githubusercontent.com/assets/183302/4118412/ee98674e-32a0-11e4-99ad-062c0e54a138.png)
+
 #### How to build
 
 With NodeJS installed, run 

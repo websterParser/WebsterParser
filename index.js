@@ -246,7 +246,10 @@ function parseFile(file) {
     // Remove leading and trailing br
     var children = $(this).children();
     if (children.first().is('br')) children.first().remove();
-    if (children.last().is('br')) children.last().remove();
+    if (children.last().is('br')) {
+      children.last().prev().append(' ');
+      children.last().remove();
+    }
 
 
     var hw = $(this).find('hw, wf, pr');
