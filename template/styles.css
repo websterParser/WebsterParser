@@ -1,54 +1,132 @@
 @charset "UTF-8";
 @namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
 
-@font-face { font-family: "Gentium"; font-style: normal; font-weight: normal;
-            src: url(GenBasR.ttf) }
+@font-face {
+  font-family: "Gentium";
+  font-style: normal;
+  font-weight: normal;
+  src: url(GenBasR.ttf)
+}
 
-@font-face { font-family: "Gentium"; font-style: italic; font-weight: normal;
-            src: url(GenBasI.ttf) }
+@font-face {
+  font-family: "Gentium";
+  font-style: italic;
+  font-weight: normal;
+  src: url(GenBasI.ttf)
+}
 
-@font-face { font-family: "Gentium"; font-style: normal; font-weight: bold;
-            src: url(GenBasB.ttf) }
+@font-face {
+  font-family: "Gentium";
+  font-style: normal;
+  font-weight: bold;
+  src: url(GenBasB.ttf)
+}
+
+body {
+  line-height: 1.3;
+}
 
 body, .block {
-	font-family: Gentium;
+  font-family: Gentium;
 }
 
 div {
-	display: inline;
+  display: inline;
 }
 
 .hw {
-	font-size: 144%;
-	font-weight: bold;
-	color: maroon;
+  font-size: 134%;
+  font-weight: bold;
+  color: maroon;
+  margin-bottom: -3px;
+  display: inline;
+  line-height: 0.85;
 }
 
 .col {
-	color: maroon;
+  font-size: 90%;
+  font-weight: 600;
 }
 
-.col:before, .sn:before {
-	content:"\A"; white-space:pre;
+.cd {
+  font-size: 95%;
+  word-spacing: -0.5px;
 }
 
-.block+.hw:before {
-	content:"\A\A"; white-space:pre;
+.rj {
+  text-align: right;
 }
 
-.blockquote {
-  font-size: 78%;
-	line-height: 1.6;
-	margin: 5px 15px;
-	display: block;
+.q + .rj {
+  display: block;
+
+}
+
+.qau:before, .au:before {
+  content: "–";
+}
+
+*+.hw:before {
+  content: "\A\A";
+  white-space:pre;
+}
+
+.q+.hw:before {
+  content: "\A";
+  white-space:pre;
+  line-height: 0;
+}
+
+.sn:before, .sd:before, .note:before {
+  content: "\A";
+  white-space:pre;
+}
+
+.q+.sn:before, .cs .sd:before {
+  content:"";
+  white-space:initial;
 }
 
 .au {
-	margin-left: 20%;
+  font-size: 90%;
 }
 
-.u {
-	font-variant: small-caps;
-	underline: none;
-	text-decoration: none;
+.qau {
+  font-size: 79%;
+}
+
+.xex, .it, .title, .stype, .part, .parts, .membof, .member,
+.members, .corr, .qperson, .prod, .prodmac, .stage, .stageof,
+.inv, .methodfor, .examp, .stage, .unit, .uses, .usedby, .perf,
+.recipr, .sig, .wns, .w16ns, .abbr, .altname, .altnpluf, .ets,
+.etsep, .ex, .pos, .qau, .qex, .sd, .ship, .source, .pluf,
+.uex, .isa, .mathex, .ratio, .singf, .xlati, .tran, .tr,
+.iref, .figref, .ptcl, .mark, .fld  {
+  font-style: italic;
+}
+
+.col:before, .sn:before {
+  content:"\A"; white-space:pre;
+}
+
+.block+.hw:before {
+  content:"\A\A"; white-space:pre;
+}
+
+.q {
+  font-size: 86%;
+  line-height: 1.3;
+  margin: 5px 15px 5px 35px;
+  display: block;
+}
+
+.u, .plw, .er {
+  font-variant: small-caps;
+  underline: none;
+  text-decoration: none;
+}
+
+.sn {
+  font-weight:bold;
+  font-size: 105%
 }
