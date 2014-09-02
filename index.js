@@ -14,7 +14,7 @@ var files = [];
 var unknown = [];
 
 var VERBOSE = false;
-var FILEGREP = /CIDE/;
+var FILEGREP = /CIDE.V/;
 var ONLYWEBSTER = true;
 
 
@@ -61,6 +61,25 @@ function replaceEntities(string) {
 
   return string;
 }
+
+
+function replaceVarious(string) {
+
+  string = string.replace(/\|\|/g, '‖');
+  string = string.replace(/\\'d8/g, '‖');
+  string = string.replace(/\s*<pr>\(\?\)<\/pr>/g, '');
+  string = string.replace(/\s*<pr>\(�\)<\/pr>/g, '');
+
+  // Move whitespace inside tags
+  // Twice
+  string = string.replace(/<\/(\w+?)>(\s+)/g, '$2</$1>');
+  string = string.replace(/<\/(\w+?)>(\s+)/g, '$2</$1>');
+  //string = string.replace(/<br\/>\s*<hw>/g, '<hw>');
+
+
+  return string;
+}
+
 
 /*
 * Transcribe the greek (grk) tags
@@ -187,6 +206,7 @@ function parseFiles(cb) {
 
 function parseFile(file) {
   file = replaceEntities(file);
+  file = replaceVarious(file);
 
   var curEntryName = 'NOTHING';
 
@@ -215,6 +235,7 @@ function parseFile(file) {
       next.remove();
     }
 
+
     var ent = $(this).find('ent');
     if (ent.length) {
       curEntryName = ent.first().text();
@@ -230,15 +251,16 @@ function parseFile(file) {
       ent.remove();
     }
 
+    // Remove leading and trailing br
+    var children = $(this).children();
+    if (children.first().is('br')) children.first().remove();
+    if (children.last().is('br')) children.last().remove();
 
-    var hw = $(this).find('hw');
+
+    var hw = $(this).find('hw, wf');
     hw.each(function () {
       var text = $(this).text();
-      text = text.replace(/\*/g, '&#x002d;');
-      text = text.replace(/\"/g, '&#8242;');
-      text = text.replace(/`/g, '&#x02CA;');
       text = text.replace(/'/g, '’');
-      text = text.replace(/\|\|/g, '');
       $(this).html(text);
     });
 
@@ -279,9 +301,12 @@ function postProcessDictionary() {
 
   for (var entry in dictionary) {
     var text = dictionary[entry];
-        text = text.replace(dashes, ' — ');
+    text = text.replace(dashes, ' — ');
+
     // Wrap loose sentencens
-    var $ = cheerio.load(text);
+    var $ = cheerio.load(text, {
+      xmlMode: true
+    });
 
     $('hw').each(function() {
       var intro = $(this).nextUntil('def, sn');
@@ -296,18 +321,13 @@ function postProcessDictionary() {
       wrapAll(extra, '<extra>', $);
     });
 
-    $('blockquote').each(function () {
-      var author = $(this).next();
-      if (!author.is('i')) {
-        author = $(this).children().last();
+    $('q+rj').each(function () {
+      var quote = $(this).prev();
+      var author = $(this).find('qau');
+      if (author.length) {
+        quote.append(author);
       }
-      if (author.is('i')) {
-        author.prepend('— ');
-        var wrap = $('<au>');
-        wrap.append(author);
-        $(this).append(wrap);
-      }
-      var children = $(this).children();
+      $(this).remove();
     });
 
     // Change tag types
@@ -344,15 +364,6 @@ function postProcessDictionary() {
       }
     });
 
-    $('i div, h2 div').each(function () {
-      $(this)[0].name = 'span';
-    });
-
-    $('i h2').each(function () {
-      $(this).parent()[0].name = 'h2'
-      $(this)[0].name = 'i';
-    });
-
     dictionary[entry] = $.root().html();
 
     if (i%1000 === 0 || VERBOSE) {
@@ -376,8 +387,7 @@ function buildXML() {
     xml += '\n<d:entry id="A' + ids.generate() + '" d:title="' + entry + '">\n';
     xml += buildIndex(entry);
 
-    // Cheerio mangles our <br> tags, fix them here
-    xml += '<div>' + dictionary[entry].replace(/<br>/ig, '<br/>') + '</div>';
+    xml += '<div>' + dictionary[entry] + '</div>';
     xml += '\n</d:entry>\n';
   }
 

@@ -141,7 +141,7 @@ module.exports.entities = {
   "Pisces":   "♓",
   "Sun":      "☉",
 
-  "br":       "\n",
+  "br":       "<br/>\n",
   "nbsp":     "&nbsp;",
   "and":      "and",
   "or":       "or",
