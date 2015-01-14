@@ -24,3 +24,11 @@ Building the dictionary might take a while (around three minutes on my machine)
 
 #### Just want the .dictionay file?
 Download it in the [releases section](https://github.com/DieBuche/WebsterParser/releases) of this project.
+
+
+#### Using it on iOS?
+You can use the dictionary file on your iDevice if it is jailbroken. SSH into your device and navigate to `/private/var/mobile/Library/Assets/com_apple_MobileAsset_DictionaryServices_dictionary2`. 
+On your iDevice dowload any new stock dictionary (Select a word -> Define -> Manage -> Download) that you don't need.
+In your SSH browser find out which folder was just added. Navigate to folderwithcrypticnumber/AssetData. Replace the .dictionary folder with the webster.dictionary folder, but keeping the name. You should now be able to lookup words. 
+
+I don't know how to change the name of the dictionary in the list, pointers are welcome.
