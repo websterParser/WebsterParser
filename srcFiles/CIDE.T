@@ -29167,7 +29167,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transept</ent><br/
-<hw>Tran"sept</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>trans-</ets> + L. <ets>septum</ets> an inclosure. See <er>Septum</er>.]</ety> <fld>(Arch.)</fld> <def>The transversal part of a church, which crosses at right angles to the greatest length, and between the nave and choir. In the basilicas, this had often no projection at its two ends. In Gothic churches these project these project greatly, and should be called the <xex>arms</xex> of the transept. It is common, however, to speak of the arms themselves as the <xex>transepts</xex>.</def><br/
+<hw>Tran"sept</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>trans-</ets> + L. <ets>septum</ets> an inclosure. See <er>Septum</er>.]</ety> <fld>(Arch.)</fld> <def>The transversal part of a church, which crosses at right angles to the greatest length, and between the nave and choir. In the basilicas, this had often no projection at its two ends. In Gothic churches these project greatly, and should be called the <xex>arms</xex> of the transept. It is common, however, to speak of the arms themselves as the <xex>transepts</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transexion</ent><br/
