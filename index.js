@@ -191,9 +191,14 @@ function parseFile (file) {
   // Add a new entry.
   $('p').each(function (i) {
     if (ONLYWEBSTER) {
-      var src = $(this).find('source');
+      var src;
+      var p = $(this);
+      while (!src) {
+        src = p.find('source');
+        p = p.next();
+      }
 
-      if (src.text() !== '1913 Webster') {
+      if (src.text().trim() !== '1913 Webster') {
         return true;
       }
 
