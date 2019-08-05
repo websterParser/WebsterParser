@@ -1,10 +1,6 @@
 {
-  "name": "websterParser",
-  "version": "1.0.2",
-  "description": "Parses the Webster Unabridged Dictionary from Project Guttenberg into a more usable format",
+  "private": true,
   "main": "index.js",
-  "author": "Leo Koppelkamm",
-  "license": "GPL",
   "scripts": {
     "start": "node index.js",
     "lint": "eslint .",
