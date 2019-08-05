@@ -273,6 +273,8 @@ function postProcessDictionary () {
 
   delete dictionary.NOTHING;
 
+  console.log(`Postprocessing ${Object.keys(dictionary).length} entries...`)
+
   for (var entry in dictionary) {
     var text = dictionary[entry].trim();
     text = text.replace(/\s+[-]{2,3}\s+/, ' — ');
