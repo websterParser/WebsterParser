@@ -175,7 +175,11 @@ module.exports.entities = {
   br:   '<br/>\n',
   nbsp: '&nbsp;',
   and:  'and',
-  or:   'or'
+  or:   'or',
+
+  astascending:  '☊',
+  astdescending: '☋',
+  '8star':       '✳'
 };
 
 module.exports.accents = {
