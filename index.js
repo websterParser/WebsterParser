@@ -8,6 +8,7 @@ var C = require('./codeTables');
 var dictionary = {};
 var index = {};
 var files = [];
+var unknown = new Set();
 
 var VERBOSE = false;
 var FILEGREP = /CIDE\.[A-Z]/;
@@ -24,8 +25,6 @@ function unique (value, index, self) {
 function replaceEntities (string) {
   var pattern = /<([?\w]+?)\//g;
 
-  var unknown = [];
-
   string = string.replace(pattern, function (match, text) {
     // Check our dictionary objects
     if (C.entities.hasOwnProperty(text)) {
@@ -41,15 +40,10 @@ function replaceEntities (string) {
       });
       return text;
     } else {
-      unknown.push(text);
+      unknown.add(text);
       return '[' + text + ']';
     }
   });
-
-  unknown = unknown.filter(unique);
-  if (unknown.length) {
-    console.log('Unknown entities:', unknown);
-  }
 
   return string;
 }
@@ -136,6 +130,10 @@ function processFiles () {
         dictionary: dictionary,
         index:      index
       }, null, 4);
+
+      if (unknown.length) {
+        console.log('Unknown entities:', [...unknown].join(', '));
+      }
 
       fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
       postProcessDictionary();
