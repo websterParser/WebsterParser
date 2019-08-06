@@ -17,18 +17,23 @@ var VERBOSE = false;
 var FILEGREP = /CIDE\.[A-Z]/;
 var ONLYWEBSTER = true;
 
-// Filter unique
+/**
+ * Filter unique. Pass to Array#filter
+ * @template T
+ * @param {T} value
+ * @param {number} index
+ * @param {T[]} self
+ */
 function unique (value, index, self) {
   return self.indexOf(value) === index;
 }
 
-/*
-* Replace custom entities in the form <NAME/
-*/
+/**
+ * Replace custom entities in the form <NAME/
+ * @param {string} string
+ */
 function replaceEntities (string) {
-  var pattern = /<([?\w]+?)\//g;
-
-  string = string.replace(pattern, function (match, text) {
+  return string.replace(/<([?\w]+?)\//g, (match, text) => {
     // Check our dictionary objects
     if (C.entities.hasOwnProperty(text)) {
       return C.entities[text];
@@ -38,43 +43,45 @@ function replaceEntities (string) {
       return text.slice(0, 2) + C.accents[text.slice(2)];
     } else if (text.indexOf('frac') === 0) {
       // There are two forms frac1x5000 and frac34
-      text = text.replace(/frac(\d+)x?(\d+)/g, function (v, a, b) {
+      text = text.replace(/frac(\d+?)x?(\d+)/g, function (v, a, b) {
         return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
       });
       return text;
+    } else if (text.endsWith('it') || text.endsWith('IT')) {
+      return `<i>${text.slice(0, -2)}</i>`;
     } else {
       unknown.add(text);
       return '[' + text + ']';
     }
   });
-
-  return string;
 }
 
+/**
+ * @param {string} string
+ */
 function replaceVarious (string) {
-  // Remove comments
-  string = string.replace(/<!--[.\s\S]*?-->/g, '');
-  string = string.replace(/<--[.\s\S]*?-->/g, '');
-  string = string.replace(/<!--/g, '');
-  string = string.replace(/<--/g, '');
+  return (
+    string
+      // Remove comments
+      .replace(/<!?--[\s\S]*?-->/g, '')
+      .replace(/<!?--/g, '')
 
-  // Nicer long dashes
-  string = string.replace(/--/g, '–');
-  string = string.replace(/---/g, '–');
+      // Nicer long dashes
+      .replace(/--/g, '–')
+      .replace(/---/g, '–')
 
-  // Double bar
-  string = string.replace(/\|\|/g, '‖');
-  string = string.replace(/\\'d8/g, '‖');
+      // Double bar
+      .replace(/\|\|/g, '‖')
+      .replace(/\\'d8/g, '‖')
 
-  // Empty prounounciation tags
-  string = string.replace(/\s*<pr>\(\?\)<\/pr>/g, '');
-  string = string.replace(/\s*<pr>\(�\)<\/pr>/g, '');
+      // Empty prounounciation tags
+      .replace(/\s*<pr>\(\?\)<\/pr>/g, '')
+      .replace(/\s*<pr>\(�\)<\/pr>/g, '')
 
-  // Move whitespace inside tags, twice
-  string = string.replace(/<\/(\w+?)>(\s+)/g, '$2</$1>');
-  string = string.replace(/<\/(\w+?)>(\s+)/g, '$2</$1>');
-
-  return string;
+      // Move whitespace inside tags, twice
+      .replace(/<\/(\w+?)>(\s+)/g, '$2</$1>')
+      .replace(/<\/(\w+?)>(\s+)/g, '$2</$1>')
+  );
 }
 
 /*
@@ -148,31 +155,28 @@ function processFiles () {
 function writeOut () {
   console.log('Done; starting to build XML');
 
-  var xml = buildXML();
-  var output = JSON.stringify(dictionary, null, 4);
+  const xml = buildXML();
+  const output = JSON.stringify(dictionary, null, 4);
 
-  fs.writeFile('output/dict.json', output, 'utf8', function (err) {
+  fs.writeFile('output/dict.json', output, 'utf8', err => {
     if (err) throw err;
     console.log('Wrote file');
   });
-  fs.writeFile('template/dict.xml', xml, 'utf8', function (err) {
+  fs.writeFile('template/dict.xml', xml, 'utf8', err => {
     if (err) throw err;
     console.log('Wrote file');
   });
 }
 
 function parseFiles (cb) {
-  var q = async.queue(function (task, callback) {
-    callback();
-  }, 5);
-  q.drain(function () {
+  const q = async.queue((task, callback) => callback(), 5);
+  q.drain(() => {
     console.log('Everything was parsed');
     cb();
   });
 
-  files.forEach(function (item) {
-    q.push({ name: 'Task' }, function (err) {
-      if (err) throw err;
+  files.forEach(item => {
+    q.push({ name: 'Task' }, () => {
       parseFile(item);
     });
   });
@@ -193,9 +197,9 @@ function parseFile (file) {
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
   $('p').each(function (i) {
+    var p = $(this);
     if (ONLYWEBSTER) {
       var src;
-      var p = $(this);
       while (!src) {
         src = p.find('source');
         p = p.next();
@@ -230,16 +234,18 @@ function parseFile (file) {
     }
 
     // Remove leading and trailing br
-    var children = $(this).children();
-    if (children.first().is('br')) children.first().remove();
-    if (children.last().is('br')) {
-      children.last().prev().append(' ');
-      children.last().remove();
+    const children = p.children();
+    const first = children.first();
+    const last = children.last();
+    if (first.is('br')) first.remove();
+    if (last.is('br')) {
+      last.prev().append(' ');
+      last.remove();
     }
 
-    var hw = $(this).find('hw, wf, pr');
+    const hw = p.find('hw, wf, pr');
     hw.each(function () {
-      var text = $(this).text();
+      let text = $(this).text();
       text = text.replace(/\*/g, '&#x002d;');
       text = text.replace(/"/g, '&#8242;');
       text = text.replace(/`/g, '&#x02CA;');
@@ -247,9 +253,9 @@ function parseFile (file) {
       $(this).html(text);
     });
 
-    var grk = $(this).find('grk');
+    const grk = p.find('grk');
     grk.each(function () {
-      var text = $(this).text();
+      let text = $(this).text();
       text = greekToUTF8(text);
       $(this).text(text);
     });
@@ -258,7 +264,7 @@ function parseFile (file) {
       dictionary[curEntryName] = '';
     }
 
-    var text = $(this).html();
+    const text = p.html();
 
     dictionary[curEntryName] += text;
 
@@ -269,7 +275,7 @@ function parseFile (file) {
 }
 
 function postProcessDictionary () {
-  var i = 0;
+  let i = 0;
 
   delete dictionary.NOTHING;
 
@@ -346,9 +352,12 @@ function buildXML () {
             '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" ' +
             'xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n';
 
-  for (var entry in dictionary) {
-    xml += '\n<d:entry id="A' + ids.generate() + '" d:title="' + entry + '">\n';
-    xml += buildIndex(entry);
+  for (const entry in dictionary) {
+    xml += `\n<d:entry id="A${ids.generate()}" d:title="${entry}">\n`;
+    xml += index[entry]
+      .filter(unique)
+      .map(index => `<d:index d:value="${index}" d:title="${index}"/>`)
+      .join('\n');
 
     xml += '<div>' + dictionary[entry] + '</div>';
     xml += '\n</d:entry>\n';
@@ -357,18 +366,6 @@ function buildXML () {
   xml += '</d:dictionary>';
 
   return xml;
-
-  function buildIndex (entry) {
-    var result = '';
-
-    index[entry] = index[entry].filter(unique);
-
-    index[entry].forEach(function (index) {
-      result += '<d:index d:value="' + index + '" d:title="' + index + '"/>\n';
-    });
-
-    return result;
-  }
 }
 
 processFiles();
