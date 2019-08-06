@@ -169,15 +169,12 @@ module.exports.entities = {
 
   astascending:  '☊',
   astdescending: '☋',
+  '8star':       '✳',
 
   br:   '<br/>\n',
   nbsp: '&nbsp;',
   and:  'and',
-  or:   'or',
-
-  astascending:  '☊',
-  astdescending: '☋',
-  '8star':       '✳'
+  or:   'or'
 };
 
 module.exports.accents = {
@@ -199,11 +196,7 @@ module.exports.accents = {
   ced:   '&#x0327;',
 
   // Semilong (macron with vertical bar on top)
-  sl: '&#x0304;&#x030d;',
-
-  // Italic
-  it: '',
-  IT: ''
+  sl: '&#x0304;&#x030d;'
 };
 
 module.exports.doubleAccents = {
