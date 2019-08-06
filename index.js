@@ -29,10 +29,10 @@ function replaceEntities (string) {
     // Check our dictionary objects
     if (C.entities.hasOwnProperty(text)) {
       return C.entities[text];
-    } else if (C.accents.hasOwnProperty(text.substring(1))) {
-      return text.substring(0, 1) + C.accents[text.substring(1)];
-    } else if (C.doubleAccents.hasOwnProperty(text.substring(2))) {
-      return text.substring(0, 2) + C.accents[text.substring(2)];
+    } else if (C.accents.hasOwnProperty(text.slice(1))) {
+      return text.slice(0, 1) + C.accents[text.slice(1)];
+    } else if (C.doubleAccents.hasOwnProperty(text.slice(2))) {
+      return text.slice(0, 2) + C.accents[text.slice(2)];
     } else if (text.indexOf('frac') === 0) {
       // There are two forms frac1x5000 and frac34
       text = text.replace(/frac(\d+)x?(\d+)/g, function (v, a, b) {
@@ -79,13 +79,13 @@ function replaceVarious (string) {
 */
 
 function greekToUTF8 (input) {
-  var result = ''; var curPos = 0; var curLength; var frag = '';
+  var result = ''; var curPos = 0; var curLength;
 
   while (curPos < input.length) {
     // Longest combination is three
     curLength = 3 + 1;
     while (curLength--) {
-      frag = input.substring(curPos, curPos + curLength);
+      const frag = input.slice(curPos, curPos + curLength);
 
       if (C.greek.hasOwnProperty(frag)) {
         // Fix trailing sigma
@@ -270,7 +270,7 @@ function postProcessDictionary () {
 
   delete dictionary.NOTHING;
 
-  console.log(`Postprocessing ${Object.keys(dictionary).length} entries...`)
+  console.log(`Postprocessing ${Object.keys(dictionary).length} entries...`);
 
   for (var entry in dictionary) {
     var text = dictionary[entry].trim();
