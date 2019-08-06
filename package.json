@@ -13,6 +13,7 @@
     "puid": "^1.0.7"
   },
   "devDependencies": {
+    "@types/node": "^12.6.9",
     "eslint": "^7.0.0",
     "eslint-config-semistandard": "^15.0.0",
     "eslint-config-standard": "^14.1.1",
