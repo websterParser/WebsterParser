@@ -11,6 +11,7 @@
   },
   "private": true,
   "scripts": {
+    "build": "npm start; cd template; make",
     "start": "node index.js",
     "lint": "eslint .",
     "fix": "npm run lint -- --fix"
