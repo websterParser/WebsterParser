@@ -8,11 +8,18 @@ var C = require('./codeTables');
 var dictionary = {};
 var index = {};
 var files = [];
+/** @type {Set<string>} */
 var unknown = new Set();
 
 var VERBOSE = false;
 var FILEGREP = /CIDE\.[A-Z]/;
 var ONLYWEBSTER = true;
+
+function monkeyPatch ($) {
+  $.prototype.forEach = function (cb) {
+    this.each((i, el) => cb($(el), i, el));
+  };
+}
 
 /**
  * Filter unique. Pass to Array#filter
@@ -190,13 +197,14 @@ function parseFile (file) {
     xmlMode:             true,
     decodeEntities:      false
   });
+  monkeyPatch($);
 
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
-  $('p').each(function (i) {
-    var p = $(this);
+  $('p').forEach((el, i) => {
     if (ONLYWEBSTER) {
-      var src;
+      let src;
+      let p = el;
       while (!src) {
         src = p.find('source');
         p = p.next();
@@ -214,7 +222,7 @@ function parseFile (file) {
       next.remove();
     }
 
-    var ent = $(this).find('ent');
+    const ent = el.find('ent');
     if (ent.length) {
       curEntryName = ent.first().text();
 
@@ -222,16 +230,17 @@ function parseFile (file) {
         index[curEntryName] = [];
       }
 
-      ent.each(function () {
-        index[curEntryName].push($(this).text());
-        if ($(this).next().is('br')) $(this).next().remove();
+      ent.forEach(ent => {
+        index[curEntryName].push(ent.text());
+        const br = ent.next();
+        if (br.is('br')) br.remove();
       });
 
       ent.remove();
     }
 
     // Remove leading and trailing br
-    const children = p.children();
+    const children = el.children();
     const first = children.first();
     const last = children.last();
     if (first.is('br')) first.remove();
@@ -240,30 +249,26 @@ function parseFile (file) {
       last.remove();
     }
 
-    const hw = p.find('hw, wf, pr');
-    hw.each(function () {
-      let text = $(this).text();
-      text = text.replace(/\*/g, '&#x002d;');
-      text = text.replace(/"/g, '&#8242;');
-      text = text.replace(/`/g, '&#x02CA;');
-      text = text.replace(/'/g, '’');
-      $(this).html(text);
-    });
+    const hw = el.find('hw, wf, pr');
+    hw.forEach(hw =>
+      hw.html(
+        hw
+          .text()
+          .replace(/\*/g, '&#x002d;')
+          .replace(/"/g, '&#8242;')
+          .replace(/`/g, '&#x02CA;')
+          .replace(/'/g, '’')
+      )
+    );
 
-    const grk = p.find('grk');
-    grk.each(function () {
-      let text = $(this).text();
-      text = greekToUTF8(text);
-      $(this).text(text);
-    });
+    const grk = el.find('grk');
+    grk.forEach(grk => grk.text(greekToUTF8(grk.text())));
 
     if (!dictionary[curEntryName]) {
       dictionary[curEntryName] = '';
     }
 
-    const text = p.html();
-
-    dictionary[curEntryName] += text;
+    dictionary[curEntryName] += el.html();
 
     if (i % 1000 === 0) {
       console.log('Parsed', i, curEntryName);
@@ -284,14 +289,12 @@ function postProcessDictionary () {
     text = text.replace(/'/, '’');
 
     // Wrap loose sentencens
-    var $ = cheerio.load(text, {
-      xmlMode: true
-    });
+    const $ = cheerio.load(text, { xmlMode: true });
+    monkeyPatch($);
 
-    $('q').each(function () {
-      var quote = $(this);
-      var next = quote.next();
-      var author = next.find('qau');
+    $('q').forEach(quote => {
+      const next = quote.next();
+      const author = next.find('qau');
       if (author.length) {
         quote.append(author);
         next.remove();
@@ -299,9 +302,9 @@ function postProcessDictionary () {
     });
 
     // Change tag types
-    $('*').each(function () {
-      var that = $(this);
-      var tagName = that[0].name; var newTagName;
+    $('*').forEach(el => {
+      const tagName = el[0].name;
+      let newTagName;
       switch (tagName) {
         case 'hw':
           newTagName = 'h2';
@@ -327,8 +330,8 @@ function postProcessDictionary () {
           break;
       }
       if (newTagName !== tagName) {
-        that[0].name = newTagName;
-        that.addClass(tagName);
+        el[0].name = newTagName;
+        el.addClass(tagName);
       }
     });
 
@@ -353,8 +356,9 @@ function buildXML () {
     xml += `\n<d:entry id="A${ids.generate()}" d:title="${entry}">\n`;
     xml += index[entry]
       .filter(unique)
-      .map(index => `<d:index d:value="${index}" d:title="${index}"/>`)
+      .map(index => `<d:index d:value="${index}"/>`)
       .join('\n');
+    xml += '\n';
 
     xml += '<div>' + dictionary[entry] + '</div>';
     xml += '\n</d:entry>\n';
