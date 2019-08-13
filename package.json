@@ -2,7 +2,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "build": "npm start; cd template; make",
+    "build": "npm start && cd template && make",
     "start": "node index.js",
     "lint": "eslint .",
     "fix": "npm run lint -- --fix"
