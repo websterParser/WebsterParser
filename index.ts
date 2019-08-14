@@ -6,11 +6,13 @@ import async from 'async';
 import Puid from 'puid';
 import { hasProp, unique, forEach } from './util';
 import * as C from './codeTables';
+import parsePartOfSpeech from './partOfSpeech';
 
 const dictionary: Record<string, string> = {};
 const index: Record<string, Array<string>> = {};
 const files: Array<string> = [];
 const unknown = new Set<string>();
+const unknownPOS = new Map<string, string[]>();
 
 const VERBOSE = false;
 const FILEGREP = /CIDE\.[A-Z]/;
@@ -131,6 +133,22 @@ function processFiles () {
         if (unknown.size) {
           console.log('Unknown entities:', [...unknown].join(', '));
         }
+        if (parsePartOfSpeech.set.size) {
+          console.log('Parts of speech:', parsePartOfSpeech.set.size);
+          fs.writeFileSync(
+            'output/pos.json',
+            JSON.stringify([...parsePartOfSpeech.set]),
+            'utf8'
+          );
+        }
+        if (unknownPOS.size) {
+          console.log('Unknown parts of speech:', unknownPOS.size);
+          fs.writeFileSync(
+            'output/unknownPOS.json',
+            JSON.stringify([...unknownPOS]),
+            'utf8'
+          );
+        }
 
         fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
         postProcessDictionary();
@@ -243,6 +261,16 @@ function parseFile (file: string) {
           .replace(/'/g, '’')
       )
     );
+
+    forEach(el.find('pos'), el => {
+      const parsed = parsePartOfSpeech(el.text());
+      if (!parsed) {
+        const arr = unknownPOS.get(el.text().trim()) || [];
+        unknownPOS.set(el.text().trim(), arr.concat(curEntryName));
+      } else {
+        el.text(parsed);
+      }
+    });
 
     const grk = el.find('grk');
     forEach(grk, grk => grk.text(greekToUTF8(grk.text())));
