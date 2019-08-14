@@ -1,6 +1,6 @@
 /* eslint-disable key-spacing */
 
-module.exports.entities = {
+export const entities  = {
   pound:    '£',
   frac23:   '⅔',
   frac13:   '⅓',
@@ -171,7 +171,6 @@ module.exports.entities = {
 
   astascending:  '☊',
   astdescending: '☋',
-  '8star':       '✳',
 
   br:   '<br/>\n',
   nbsp: '&nbsp;',
@@ -179,7 +178,7 @@ module.exports.entities = {
   or:   'or'
 };
 
-module.exports.accents = {
+export const accents = {
   // Proper
   cir:   '&#x0302;',
   circ:  '&#x0302;',
@@ -201,13 +200,13 @@ module.exports.accents = {
   sl: '&#x0304;&#x030d;'
 };
 
-module.exports.doubleAccents = {
+export const doubleAccents = {
   // Double length marks
   cr:  '&#x035D;',
   mac: '&#x035E;'
 };
 
-module.exports.greek = {
+export const greek = {
   "'A":   'Ἀ',
   "'A:":  'ᾈ',
   "'A^":  'Ἆ',
