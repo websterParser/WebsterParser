@@ -20,6 +20,46 @@ const ONLYWEBSTER = true;
 const frontBackMatter = 'Front/Back Matter';
 
 /**
+ * Replace matrices in the from <lbrace2/<matrixAxB><row>1, 2,...</row>...</matrixAxB><rbrace2/
+ */
+function replaceMatrices (string: string) {
+  return string.replace(
+    /<lbrace2\/(<matrix(\d+x\d+)>.+?<\/matrix\2>)<rbrace2\//g,
+    (_, content: string) => {
+      const $ = cheerio.load(content, { xmlMode: true });
+      const result = $('<div>')
+        .append(
+          $('<math>')
+            .attr('display', 'inline')
+            .append(
+              $('<mrow>')
+                .append($('<mo>['))
+                .append(
+                  $('<mtable>').append(
+                    ...($('row')
+                      .map((_, row) =>
+                        $('<mtr>').append(
+                          ...($(row)
+                            .text()
+                            .split(/,\s*/)
+                            .map(val =>
+                              $('<mtd>').append($('<mtext>').text(val))
+                            ) as [any])
+                        )
+                      )
+                      .toArray() as [any])
+                  )
+                )
+                .append($('<mo>]'))
+            )
+        )
+        .html();
+      return result!;
+    }
+  );
+}
+
+/**
  * Replace custom entities in the form <NAME/
  */
 function replaceEntities (string: string) {
@@ -190,6 +230,7 @@ function parseFiles (cb: () => void) {
 }
 
 function parseFile (file: string) {
+  file = replaceMatrices(file);
   file = replaceEntities(file);
   file = replaceVarious(file);
 
@@ -262,7 +303,7 @@ function parseFile (file: string) {
     );
 
     // hide in the popup dictionary panel
-    forEach(el.find('ety, hw'), ety => ety.attr('d:priority', '2'))
+    forEach(el.find('ety, hw'), ety => ety.attr('d:priority', '2'));
 
     forEach(el.find('pos'), el => {
       const parsed = parsePartOfSpeech(el.text());
@@ -314,6 +355,8 @@ function postProcessDictionary () {
     // Change tag types
     forEach($('*'), el => {
       const tagName = el[0].name;
+      if (tagName === 'math' || el.parents('math').length) return;
+
       let newTagName;
       switch (tagName) {
         case 'hw':
