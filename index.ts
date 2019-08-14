@@ -20,6 +20,7 @@ const unknownPOS = new Map<string, string[]>();
 const VERBOSE = false;
 const FILEGREP = /CIDE\.[A-Z]/;
 const ONLYWEBSTER = true;
+const frontBackMatter = 'Front/Back Matter';
 
 
 /**
@@ -196,7 +197,7 @@ function parseFile (file: string) {
   file = replaceEntities(file);
   file = replaceVarious(file);
 
-  let curEntryName = 'NOTHING';
+  let curEntryName = frontBackMatter;
 
   const $ = cheerio.load(file, {
     normalizeWhitespace: true,
@@ -292,8 +293,6 @@ function parseFile (file: string) {
 function postProcessDictionary () {
   let i = 0;
 
-  delete dictionary.NOTHING;
-
   console.log(`Postprocessing ${Object.keys(dictionary).length} entries...`);
 
   for (const entry in dictionary) {
@@ -365,8 +364,10 @@ function buildXML () {
             'xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n';
 
   for (const entry in dictionary) {
-    xml += `\n<d:entry id="A${ids.generate()}" d:title="${entry}">\n`;
-    xml += index[entry]
+    const id =
+      entry === frontBackMatter ? 'front_back_matter' : `A${ids.generate()}`;
+    xml += `\n<d:entry id="${id}" d:title="${entry}">\n`;
+    xml += (index[entry] || [])
       .filter(unique)
       .map(index => `<d:index d:value="${index}"/>`)
       .join('\n');
