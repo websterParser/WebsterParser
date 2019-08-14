@@ -5,8 +5,9 @@
 import cheerio from 'cheerio';
 import dir from 'node-dir';
 import fs from 'fs';
-import Puid from 'puid';
 import async from 'async';
+import Puid from 'puid';
+import { hasProp, unique, forEach } from './util';
 import * as C from './codeTables';
 
 const dictionary: Record<string, string> = {};
@@ -18,27 +19,6 @@ const VERBOSE = false;
 const FILEGREP = /CIDE\.[A-Z]/;
 const ONLYWEBSTER = true;
 
-function hasProp<T extends object> (
-  obj: T,
-  key: string | number | symbol
-): key is keyof T {
-  return {}.hasOwnProperty.call(obj, key);
-}
-
-function forEach (
-  sel: Cheerio,
-  cb: ($el: Cheerio, i: number, el: CheerioElement) => void
-) {
-  // eslint-disable-next-line no-void
-  sel.each((i, el) => void cb(sel.constructor(el), i, el));
-}
-
-/**
- * Filter unique. Pass to Array#filter
- */
-function unique<T> (value: T, index: number, self: T[]) {
-  return self.indexOf(value) === index;
-}
 
 /**
  * Replace custom entities in the form <NAME/
@@ -95,9 +75,8 @@ function replaceVarious (string: string) {
 }
 
 /**
-* Transcribe the greek (grk) tags
-*/
-
+ * Transcribe the greek (grk) tags
+ */
 function greekToUTF8 (input: string) {
   let result = '';
   let curPos = 0;
@@ -139,28 +118,28 @@ function processFiles () {
     'srcFiles',
     { match: FILEGREP },
     (err, content, next) => {
-    if (err) throw err;
+      if (err) throw err;
       files.push(content.toString());
-    next();
-  },
+      next();
+    },
     (err, files) => {
-    if (err) throw err;
-    console.log('Finished reading files:', files);
+      if (err) throw err;
+      console.log('Finished reading files:', files);
 
       parseFiles(() => {
         const output = JSON.stringify({
-        dictionary: dictionary,
-        index:      index
-      }, null, 4);
+          dictionary: dictionary,
+          index:      index
+        }, null, 4);
 
         if (unknown.size) {
-        console.log('Unknown entities:', [...unknown].join(', '));
-      }
+          console.log('Unknown entities:', [...unknown].join(', '));
+        }
 
-      fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
-      postProcessDictionary();
-      writeOut();
-    });
+        fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
+        postProcessDictionary();
+        writeOut();
+      });
     }
   );
 }
