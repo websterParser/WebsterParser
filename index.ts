@@ -1,53 +1,59 @@
-var cheerio = require('cheerio');
-var dir = require('node-dir');
-var fs = require('fs');
-var async = require('async');
-var Puid = require('puid');
-var C = require('./codeTables');
+///<reference path='./types.d.ts' />
+import cheerio from 'cheerio';
+import dir from 'node-dir';
+import fs from 'fs';
+import Puid from 'puid';
+import async from 'async';
+import * as C from './codeTables';
 
-var dictionary = {};
-var index = {};
-var files = [];
-/** @type {Set<string>} */
-var unknown = new Set();
+const dictionary: Record<string, string> = {};
+const index: Record<string, Array<string>> = {};
+const files: Array<string> = [];
+const unknown = new Set<string>();
 
-var VERBOSE = false;
-var FILEGREP = /CIDE\.[A-Z]/;
-var ONLYWEBSTER = true;
+const VERBOSE = false;
+const FILEGREP = /CIDE\.[A-Z]/;
+const ONLYWEBSTER = true;
 
-function monkeyPatch ($) {
-  $.prototype.forEach = function (cb) {
-    this.each((i, el) => cb($(el), i, el));
-  };
+function hasProp<T extends object> (
+  obj: T,
+  key: string | number | symbol
+): key is keyof T {
+  return {}.hasOwnProperty.call(obj, key);
+}
+
+function forEach (
+  sel: Cheerio,
+  cb: ($el: Cheerio, i: number, el: CheerioElement) => void
+) {
+  // eslint-disable-next-line no-void
+  sel.each((i, el) => void cb(sel.constructor(el), i, el));
 }
 
 /**
  * Filter unique. Pass to Array#filter
- * @template T
- * @param {T} value
- * @param {number} index
- * @param {T[]} self
  */
-function unique (value, index, self) {
+function unique<T> (value: T, index: number, self: T[]) {
   return self.indexOf(value) === index;
 }
 
 /**
  * Replace custom entities in the form <NAME/
- * @param {string} string
  */
-function replaceEntities (string) {
-  return string.replace(/<([?\w]+?)\//g, (match, text) => {
+function replaceEntities (string: string) {
+  return string.replace(/<([?\w]+?)\//g, (_, text: string) => {
     // Check our dictionary objects
-    if (C.entities.hasOwnProperty(text)) {
+    const skipFirstChar = text.slice(1);
+    const skipFirstTwoChars = text.slice(2);
+    if (hasProp(C.entities, text)) {
       return C.entities[text];
-    } else if (C.accents.hasOwnProperty(text.slice(1))) {
-      return text.slice(0, 1) + C.accents[text.slice(1)];
-    } else if (C.doubleAccents.hasOwnProperty(text.slice(2))) {
-      return text.slice(0, 2) + C.accents[text.slice(2)];
+    } else if (hasProp(C.accents, skipFirstChar)) {
+      return text.slice(0, 1) + C.accents[skipFirstChar];
+    } else if (hasProp(C.doubleAccents, skipFirstTwoChars)) {
+      return text.slice(0, 2) + C.doubleAccents[skipFirstTwoChars];
     } else if (text.indexOf('frac') === 0) {
       // There are two forms frac1x5000 and frac34
-      text = text.replace(/frac(\d+?)x?(\d+)/g, function (v, a, b) {
+      text = text.replace(/frac(\d+?)x?(\d+)/g, function (_, a, b) {
         return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
       });
       return text;
@@ -55,15 +61,12 @@ function replaceEntities (string) {
       return `<i>${text.slice(0, -2)}</i>`;
     } else {
       unknown.add(text);
-      return '[' + text + ']';
+      return `[${text}]`;
     }
   });
 }
 
-/**
- * @param {string} string
- */
-function replaceVarious (string) {
+function replaceVarious (string: string) {
   return (
     string
       // Remove comments
@@ -88,20 +91,20 @@ function replaceVarious (string) {
   );
 }
 
-/*
-* Transcribe the greek (grk) tags
-*/
-
-function greekToUTF8 (input) {
-  var result = ''; var curPos = 0; var curLength;
+/**
+ * Transcribe the greek (grk) tags
+ */
+function greekToUTF8 (input: string) {
+  let result = '';
+  let curPos = 0;
 
   while (curPos < input.length) {
     // Longest combination is three
-    curLength = 3 + 1;
+    let curLength = 3 + 1;
     while (curLength--) {
       const frag = input.slice(curPos, curPos + curLength);
 
-      if (C.greek.hasOwnProperty(frag)) {
+      if (hasProp(C.greek, frag)) {
         // Fix trailing sigma
         if (frag === 's' && curPos + 1 === input.length) {
           result += 'ς';
@@ -128,32 +131,34 @@ function greekToUTF8 (input) {
 }
 
 function processFiles () {
-  dir.readFiles('srcFiles', {
-    match: FILEGREP
-  }, function (err, content, next) {
-    if (err) throw err;
-    files.push(content);
-    next();
-  },
-  function (err, files) {
-    if (err) throw err;
-    console.log('Finished reading files:', files);
+  dir.readFiles(
+    'srcFiles',
+    { match: FILEGREP },
+    (err, content, next) => {
+      if (err) throw err;
+      files.push(content.toString());
+      next();
+    },
+    (err, files) => {
+      if (err) throw err;
+      console.log('Finished reading files:', files);
 
-    parseFiles(function () {
-      var output = JSON.stringify({
-        dictionary: dictionary,
-        index:      index
-      }, null, 4);
+      parseFiles(() => {
+        const output = JSON.stringify({
+          dictionary: dictionary,
+          index:      index
+        }, null, 4);
 
-      if (unknown.length) {
-        console.log('Unknown entities:', [...unknown].join(', '));
-      }
+        if (unknown.size) {
+          console.log('Unknown entities:', [...unknown].join(', '));
+        }
 
-      fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
-      postProcessDictionary();
-      writeOut();
-    });
-  });
+        fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
+        postProcessDictionary();
+        writeOut();
+      });
+    }
+  );
 }
 
 function writeOut () {
@@ -172,8 +177,8 @@ function writeOut () {
   });
 }
 
-function parseFiles (cb) {
-  const q = async.queue((task, callback) => callback(), 5);
+function parseFiles (cb: () => void) {
+  const q = async.queue((_task, callback) => callback(), 5);
   q.drain(() => {
     console.log('Everything was parsed');
     cb();
@@ -186,22 +191,21 @@ function parseFiles (cb) {
   });
 }
 
-function parseFile (file) {
+function parseFile (file: string) {
   file = replaceEntities(file);
   file = replaceVarious(file);
 
-  var curEntryName = 'NOTHING';
+  let curEntryName = 'NOTHING';
 
-  var $ = cheerio.load(file, {
+  const $ = cheerio.load(file, {
     normalizeWhitespace: true,
     xmlMode:             true,
     decodeEntities:      false
   });
-  monkeyPatch($);
 
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
-  $('p').forEach((el, i) => {
+  forEach($('p'), (el, i) => {
     if (ONLYWEBSTER) {
       let src;
       let p = el;
@@ -214,8 +218,8 @@ function parseFile (file) {
         return true;
       }
 
-      var next = $(src[0].next);
-      var prev = $(src[0].prev);
+      const next = $(src[0].next);
+      const prev = $(src[0].prev);
 
       src.remove();
       prev.remove();
@@ -230,7 +234,7 @@ function parseFile (file) {
         index[curEntryName] = [];
       }
 
-      ent.forEach(ent => {
+      forEach(ent, ent => {
         index[curEntryName].push(ent.text());
         const br = ent.next();
         if (br.is('br')) br.remove();
@@ -250,7 +254,7 @@ function parseFile (file) {
     }
 
     const hw = el.find('hw, wf, pr');
-    hw.forEach(hw =>
+    forEach(hw, hw =>
       hw.html(
         hw
           .text()
@@ -262,7 +266,7 @@ function parseFile (file) {
     );
 
     const grk = el.find('grk');
-    grk.forEach(grk => grk.text(greekToUTF8(grk.text())));
+    forEach(grk, grk => grk.text(greekToUTF8(grk.text())));
 
     if (!dictionary[curEntryName]) {
       dictionary[curEntryName] = '';
@@ -283,16 +287,15 @@ function postProcessDictionary () {
 
   console.log(`Postprocessing ${Object.keys(dictionary).length} entries...`);
 
-  for (var entry in dictionary) {
-    var text = dictionary[entry].trim();
+  for (const entry in dictionary) {
+    let text = dictionary[entry].trim();
     text = text.replace(/\s+[-]{2,3}\s+/, ' — ');
     text = text.replace(/'/, '’');
 
     // Wrap loose sentencens
     const $ = cheerio.load(text, { xmlMode: true });
-    monkeyPatch($);
 
-    $('q').forEach(quote => {
+    forEach($('q'), quote => {
       const next = quote.next();
       const author = next.find('qau');
       if (author.length) {
@@ -302,7 +305,7 @@ function postProcessDictionary () {
     });
 
     // Change tag types
-    $('*').forEach(el => {
+    forEach($('*'), el => {
       const tagName = el[0].name;
       let newTagName;
       switch (tagName) {
@@ -335,7 +338,7 @@ function postProcessDictionary () {
       }
     });
 
-    dictionary[entry] = $.root().html();
+    dictionary[entry] = $.root().html()!;
 
     if (i % 1000 === 0 || VERBOSE) {
       console.log('Postprocessing entry', i, entry);
@@ -346,9 +349,9 @@ function postProcessDictionary () {
 }
 
 function buildXML () {
-  var ids = new Puid(true);
+  const ids = new Puid(true);
   console.log('Building xml');
-  var xml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  let xml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
             '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" ' +
             'xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n';
 
@@ -360,7 +363,7 @@ function buildXML () {
       .join('\n');
     xml += '\n';
 
-    xml += '<div>' + dictionary[entry] + '</div>';
+    xml += `<div>${dictionary[entry]}</div>`;
     xml += '\n</d:entry>\n';
   }
 
