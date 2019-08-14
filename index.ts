@@ -227,7 +227,7 @@ function parseFile (file: string) {
       next.remove();
     }
 
-    const ent = el.find('ent');
+    const ent = el.find('ent').remove();
     if (ent.length) {
       curEntryName = ent.first().text();
 
@@ -240,8 +240,6 @@ function parseFile (file: string) {
         const br = ent.next();
         if (br.is('br')) br.remove();
       });
-
-      ent.remove();
     }
 
     // Remove leading and trailing br
