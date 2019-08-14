@@ -261,6 +261,9 @@ function parseFile (file: string) {
       )
     );
 
+    // hide in the popup dictionary panel
+    forEach(el.find('ety, hw'), ety => ety.attr('d:priority', '2'))
+
     forEach(el.find('pos'), el => {
       const parsed = parsePartOfSpeech(el.text());
       if (!parsed) {
