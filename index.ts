@@ -287,8 +287,8 @@ function parseFile (file: string) {
 
     dictionary[curEntryName] += el.html();
 
-    if (i % 1000 === 0) {
-      console.log('Parsed', i, curEntryName);
+    if (i % 1000 === 1) {
+      console.log('Parsed', i - 1, curEntryName);
     }
   });
 }
