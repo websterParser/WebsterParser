@@ -12,18 +12,24 @@
   "private": true,
   "scripts": {
     "build": "npm start && cd template && make",
-    "start": "node index.js",
+    "start": "ts-node index.ts",
     "lint": "eslint .",
     "fix": "npm run lint -- --fix"
   },
   "dependencies": {
+    "async": "^3.2.0",
     "cheerio": "^1.0.0-rc.3",
     "node-dir": "^0.1.5",
-    "async": "^3.2.0",
-    "puid": "^1.0.7"
+    "puid": "^1.0.7",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
   },
   "devDependencies": {
-    "@types/node": "^12.6.9",
+    "@types/async": "^3.0.1",
+    "@types/cheerio": "^0.22.13",
+    "@types/node": "^12.7.1",
+    "@types/node-dir": "0.0.33",
+    "@typescript-eslint/parser": "^2.0.0",
     "eslint": "^7.0.0",
     "eslint-config-semistandard": "^15.0.0",
     "eslint-config-standard": "^14.1.1",

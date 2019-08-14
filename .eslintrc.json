@@ -10,8 +10,10 @@
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
     },
+    "parser": "@typescript-eslint/parser",
     "parserOptions": {
-        "ecmaVersion": 2018
+        "ecmaVersion": 2019,
+        "sourceType": "module"
     },
     "root": true,
     "rules": {
@@ -21,6 +23,11 @@
             "align": "value"
           }
         ],
-        "no-prototype-builtins": 0
+        "no-prototype-builtins": 0,
+        "prefer-template": "error",
+        "no-var": "error",
+        "one-var": ["error", "never"],
+        "prefer-const": "error",
+        "prefer-arrow-callback": "error"
     }
 }
