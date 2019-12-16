@@ -139,3 +139,18 @@ div {
         font-feature-settings: 'smcp';
     }
 }
+
+html {
+  /* There is a style="background: white" on the html element we have to beat */
+  background: none !important;
+}
+
+@media (prefers-dark-interface) {
+  .hw {
+    /* blue is more readable on the dark background than maroon */
+    color: -webkit-link;
+  }
+  img {
+    filter: invert(100%);
+  }
+}
