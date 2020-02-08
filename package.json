@@ -6,7 +6,7 @@
   "author": "Leo Koppelkamm",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "DieBuche/cheerio",
+    "cheerio": "^1.0.0-rc.3",
     "commander": "^2.2.0",
     "node-dir": "^0.1.5",
     "ent": "^2.0.0",
