@@ -30,6 +30,9 @@ With Node.JS installed, run
 ````bash
 npm install
 node index.js
+cd template
+make all
+make install
 ````
 
 Building the dictionary might take a while (around three minutes on my machine)
