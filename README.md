@@ -1,7 +1,6 @@
-WebsterParser
-=============
+# WebsterParser
 
-### A better dictionary for your mac
+## A better dictionary for your mac
 
 In the a blog post named [_You’re probably using the wrong dictionary_](http://jsomers.net/blog/dictionary), James Somers proposes using Webster’s Unabridged Dictionary as it provides more evocative and accurate definitions than most modern dictionaries.
 
@@ -11,21 +10,25 @@ This project parses these original text files and creates a reasonably clean UTF
 
 ![Screenshot of the dictionary](https://cloud.githubusercontent.com/assets/183302/4118412/ee98674e-32a0-11e4-99ad-062c0e54a138.png)
 
-#### How to build
+## How to build
 
-With NodeJS installed, run 
-````
+With Node.JS installed, run 
+
+````bash
 npm install
 node index.js
 ````
+
 Building the dictionary might take a while (around three minutes on my machine)
 
 
-#### Just want the .dictionary file?
+## Just want the .dictionary file?
+
 Download it in the [releases section](https://github.com/DieBuche/WebsterParser/releases) of this project.
 
 
-#### Using it on iOS?
+## Using it on iOS?
+
 You can use the dictionary file on your iDevice if it is jailbroken. SSH into your device and navigate to `/private/var/mobile/Library/Assets/com_apple_MobileAsset_DictionaryServices_dictionary2`. 
 On your iDevice dowload any new stock dictionary (Select a word -> Define -> Manage -> Download) that you don't need.
 In your SSH browser find out which folder was just added. Navigate to folderwithcrypticnumber/AssetData. Replace the .dictionary folder with the webster.dictionary folder, but keeping the name. You should now be able to lookup words. 
