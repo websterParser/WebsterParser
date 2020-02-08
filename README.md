@@ -12,6 +12,19 @@ This project parses these original text files and creates a reasonably clean UTF
 
 ## How to build
 
+### Requirements
+
+* Node.js
+* Xcode
+* Apple’s Dictionary Developer Kit
+    - Install instructions (as of 2020-02-08):
+        1. Visit [More Downloads for Apple Developers](https://developer.apple.com/download/more/) and log in
+        2. Search for “dictionary”
+        3. Download the “Additional Tools for Xcode” that corresponds to the version you have installed
+        4. Open the DMG
+        5. Drag the “Dictionary Developer Kit” to `/Applications/Utilities`
+            * Recent versions of macOS will require you do this via the GUI to properly authenticate
+
 With Node.JS installed, run 
 
 ````bash
