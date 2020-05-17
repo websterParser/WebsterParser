@@ -1,0 +1,24 @@
+---
+name: Build
+
+on:
+  - push
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download Dictionary Development Kit
+        uses: carlosperate/download-file-action@v1.0.3
+        id: download-poetry
+        with:
+          file-url: https://jbyrnes.s3.us-east-1.amazonaws.com/dictionary-development-kit.zip
+      - name: Install Dictionary Development Kit
+        run: unzip ${{ steps.download-poetry.outputs.file-path }} &&
+          sudo mv -v 'Dictionary Development Kit' '/Applications/Utilities/Dictionary Development Kit'
+      - run: npm install
+      - name: Convert dictionary format
+        run: node index.js
+      - name: Package dictionary
+        run: cd template && make
