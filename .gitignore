@@ -4,4 +4,3 @@ template/objects/**
 template/dict.xml
 output/dict*
 node_modules
-package-lock.json

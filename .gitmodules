@@ -1,0 +1,3 @@
+[submodule "srcFiles"]
+	path = srcFiles
+	url = https://git.savannah.gnu.org/git/gcide.git
