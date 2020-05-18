@@ -41,7 +41,6 @@ module.exports.entities = {
   cuberoot: '∛',
   breve:    '˘',
   ounceap:  '℥',
-  integral2l: '∫',
   filig:    'ﬁ',
   fllig:    'ﬂ',
   ffllig:   'ﬄ',
@@ -140,6 +139,11 @@ module.exports.entities = {
   pause:  '𝄐',
   Crev:   'Ↄ',
 
+  '8star':    '∗',
+  lbrace2:    '{',
+  rbrace2:    '}',
+  integral2l: '∫',
+
   Mercury:     '☿',
   Female:      '♀',
   Earth:       '♁',
@@ -162,6 +166,9 @@ module.exports.entities = {
   Aquarius:    '♒',
   Pisces:      '♓',
   Sun:         '☉',
+
+  astascending:  '☊',
+  astdescending: '☋',
 
   br:   '<br/>\n',
   nbsp: '&nbsp;',
