@@ -1,6 +1,6 @@
 # WebsterParser
 
-![Build](https://github.com/jeffbyrnes/WebsterParser/workflows/Build/badge.svg)
+![Build](https://github.com/ponychicken/WebsterParser/workflows/Build/badge.svg)
 
 ## A better dictionary for your mac
 
