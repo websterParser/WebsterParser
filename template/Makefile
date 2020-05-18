@@ -8,8 +8,8 @@
 
 # You need to edit these values.
 
-DICT_NAME		=	"Webster’s 1913"
-DICT_SRC_PATH		=	dict.xml
+DICT_NAME		=	"websters-1913"
+DICT_SRC_PATH	=	dict.xml
 CSS_PATH		=	styles.css
 PLIST_PATH		=	info.plist
 
