@@ -10,7 +10,7 @@ var index = {};
 var files = [];
 
 var VERBOSE = false;
-var FILEGREP = /CIDE/;
+var FILEGREP = /CIDE\.[A-Z]/;
 var ONLYWEBSTER = true;
 
 // Filter unique
@@ -164,7 +164,10 @@ function parseFiles (cb) {
   var q = async.queue(function (task, callback) {
     callback();
   }, 5);
-  q.drain = cb;
+  q.drain(function() {
+    console.log('Everything was parsed');
+    cb();
+  });
 
   files.forEach(function (item) {
     q.push({ name: 'Task' }, function (err) {
