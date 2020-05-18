@@ -29,6 +29,12 @@ module.exports.entities = {
   cuberoot: '∛',
   breve:    '˘',
   ounceap:  '℥',
+  integral2l: '∫',
+  filig:    'ﬁ',
+  fllig:    'ﬂ',
+  ffllig:   'ﬄ',
+  upslur:   '⏜',
+  downslur: '⏝',
 
   // Asper (see wiki/rough breathing)
   asper:  'ʽ',
@@ -93,9 +99,11 @@ module.exports.entities = {
   PSI:     'Ψ',
   OMEGA:   'Ω',
 
-  /* Accents */
+  /* Primes */
   prime:  '´',
   bprime: '˝',
+  Prime:  '′',
+  sec:    '˝',
   mdash:  '—',
 
   /* Quotes */
@@ -143,8 +151,7 @@ module.exports.entities = {
   br:   '<br/>\n',
   nbsp: '&nbsp;',
   and:  'and',
-  or:   'or',
-  sec:  '˝'
+  or:   'or'
 };
 
 module.exports.accents = {
