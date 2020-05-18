@@ -48,6 +48,9 @@ module.exports.entities = {
   upslur:   '⏜',
   downslur: '⏝',
 
+  // A column break. Unnecessary in the Dictionary app.
+  colbreak: '',
+
   // Asper (see wiki/rough breathing)
   asper:  'ʽ',
   cre:    '˘',
