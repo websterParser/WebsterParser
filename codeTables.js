@@ -4,6 +4,18 @@ module.exports.entities = {
   frac13:   '⅓',
   frac12:   '½',
   frac14:   '¼',
+  frac15:   '⅕',
+  frac25:   '⅖',
+  frac35:   '⅗',
+  frac45:   '⅘',
+  frac16:   '⅙',
+  frac56:   '⅚',
+  frac17:   '⅐',
+  frac18:   '⅛',
+  frac38:   '⅜',
+  frac58:   '⅝',
+  frac19:   '⅑',
+  frac1x10: '⅒',
   '?':      '�', /* Place-holder for unknown or illegible character. */
   hand:     '☞', /* pointing hand (printer's "fist") */
   fist:     '☞', /* pointing hand (printer's "fist") */
