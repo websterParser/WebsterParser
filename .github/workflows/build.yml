@@ -16,6 +16,8 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodules: true
       - name: Download Dictionary Development Kit
         uses: carlosperate/download-file-action@v1.0.3
         id: download-poetry
