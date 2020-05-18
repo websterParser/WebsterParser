@@ -59,6 +59,7 @@ function replaceVarious (string) {
   string = string.replace(/<!--[.\s\S]*?-->/g, '');
   string = string.replace(/<--[.\s\S]*?-->/g, '');
   string = string.replace(/<!--/g, '');
+  string = string.replace(/<--/g, '');
 
   // Nicer long dashes
   string = string.replace(/--/g, '–');
