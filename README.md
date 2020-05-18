@@ -6,7 +6,7 @@
 
 In the a blog post named [“You’re probably using the wrong dictionary”](http://jsomers.net/blog/dictionary), James Somers proposes using Webster’s Unabridged Dictionary as it provides more evocative and accurate definitions than most modern dictionaries.
 
-The text of the 1913 version has been digitized and [can be found on Project Gutenberg](ftp://ibiblio.org/pub/docs/books/gutenberg/etext96/). Unfortunately the text files are in a very arcane format. Being created before UTF-8 was commonly used, it specifies a lot of non-standard entities to encode the all the various accents and special symbols.
+The text of the 1913 version has been digitized and [can be found on Project GNU CIDE](https://puszcza.gnu.org.ua/git/?group=gcide). Unfortunately the text files are in a very arcane format. Being created before UTF-8 was commonly used, it specifies a lot of non-standard entities to encode the all the various accents and special symbols.
 
 This project parses these original text files and creates a reasonably clean UTF-8 XML version which can be converted into a mac dictionary file with Apple’s Dictionary Kit.
 
