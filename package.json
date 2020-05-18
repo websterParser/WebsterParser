@@ -6,7 +6,9 @@
   "author": "Leo Koppelkamm",
   "license": "GPL",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "lint": "eslint .",
+    "fix": "npm run lint -- --fix"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",

@@ -164,7 +164,7 @@ function parseFiles (cb) {
   var q = async.queue(function (task, callback) {
     callback();
   }, 5);
-  q.drain(function() {
+  q.drain(function () {
     console.log('Everything was parsed');
     cb();
   });
