@@ -65,7 +65,8 @@ function replaceEntities(string) {
 
 function replaceVarious(string) {
   // Remove comments
-  string = string.replace(/<\!--.*?-->/g, '');
+  string = string.replace(/<!--.*?-->/g, '');
+  string = string.replace(/<!--/g, '');
 
   // Nicer long dashes
   string = string.replace(/--/g, '–');
