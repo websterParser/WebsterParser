@@ -1,51 +1,46 @@
 var cheerio = require('cheerio');
 var dir = require('node-dir');
-var commander = require('commander');
 var fs = require('fs');
-var ent = require('ent');
-var unorm = require('unorm');
 var async = require('async');
-var puid = require('puid');
+var Puid = require('puid');
 var C = require('./codeTables');
 
 var dictionary = {};
 var index = {};
 var files = [];
-var unknown = [];
 
 var VERBOSE = false;
 var FILEGREP = /CIDE/;
 var ONLYWEBSTER = true;
 
-
 // Filter unique
-function unique(value, index, self) {
+function unique (value, index, self) {
   return self.indexOf(value) === index;
 }
 
 /*
 * Replace custom entities in the form <NAME/
 */
-function replaceEntities(string) {
-  var pattern = /<([\?\w]+?)\//g;
+function replaceEntities (string) {
+  var pattern = /<([?\w]+?)\//g;
 
   var unknown = [];
 
-  string = string.replace(pattern, function(match, text){
+  string = string.replace(pattern, function (match, text) {
     // Check our dictionary objects
     if (C.entities.hasOwnProperty(text)) {
       return C.entities[text];
     } else if (C.accents.hasOwnProperty(text.substring(1))) {
-      return text.substring(0,1) + C.accents[text.substring(1)];
+      return text.substring(0, 1) + C.accents[text.substring(1)];
     } else if (C.doubleAccents.hasOwnProperty(text.substring(2))) {
-      return text.substring(0,2) + C.accents[text.substring(2)];
-    } else if (text.indexOf('frac') == 0) {
+      return text.substring(0, 2) + C.accents[text.substring(2)];
+    } else if (text.indexOf('frac') === 0) {
       // There are two forms frac1x5000 and frac34
       text = text.replace(/frac(\d+?)x(\d+)/g, function (v, a, b) {
-        return '<sup>' + a + '</sup>' + '&frasl;' + '<sub>' + b + '</sub>';
+        return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
       });
       text = text.replace(/frac(\d)(\d+)/g, function (v, a, b) {
-        return '<sup>' + a + '</sup>' + '&frasl;' + '<sub>' + b + '</sub>';
+        return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
       });
       return text;
     } else {
@@ -56,14 +51,13 @@ function replaceEntities(string) {
 
   unknown = unknown.filter(unique);
   if (unknown.length) {
-    console.log("Unknown entities:", unknown);
+    console.log('Unknown entities:', unknown);
   }
 
   return string;
 }
 
-
-function replaceVarious(string) {
+function replaceVarious (string) {
   // Remove comments
   string = string.replace(/<!--.*?-->/g, '');
   string = string.replace(/<!--/g, '');
@@ -72,11 +66,11 @@ function replaceVarious(string) {
   string = string.replace(/--/g, '–');
   string = string.replace(/---/g, '–');
 
-  //Double bar
+  // Double bar
   string = string.replace(/\|\|/g, '‖');
   string = string.replace(/\\'d8/g, '‖');
 
-  //Empty prounounciation tags
+  // Empty prounounciation tags
   string = string.replace(/\s*<pr>\(\?\)<\/pr>/g, '');
   string = string.replace(/\s*<pr>\(�\)<\/pr>/g, '');
 
@@ -87,13 +81,12 @@ function replaceVarious(string) {
   return string;
 }
 
-
 /*
 * Transcribe the greek (grk) tags
 */
 
-function greekToUTF8(input) {
-  var result = '', curPos = 0, curLength, frag = '';
+function greekToUTF8 (input) {
+  var result = ''; var curPos = 0; var curLength; var frag = '';
 
   while (curPos < input.length) {
     // Longest combination is three
@@ -103,8 +96,8 @@ function greekToUTF8(input) {
 
       if (C.greek.hasOwnProperty(frag)) {
         // Fix trailing sigma
-        if (frag === 's' && curPos + 1 == input.length) {
-          result += "ς";
+        if (frag === 's' && curPos + 1 === input.length) {
+          result += 'ς';
         } else {
           result += C.greek[frag];
         }
@@ -116,7 +109,7 @@ function greekToUTF8(input) {
       // We couln't find anything
       // Add one glyph to the string and try again
       if (curLength === 0) {
-        //console.log('Problem when transcribing the greek', input);
+        // console.log('Problem when transcribing the greek', input);
         result += input[curPos];
         curPos++;
         break;
@@ -127,34 +120,33 @@ function greekToUTF8(input) {
   return result;
 }
 
-
-function processFiles() {
+function processFiles () {
   dir.readFiles('srcFiles', {
     match: FILEGREP
-    }, function(err, content, next) {
-        if (err) throw err;
-        files.push(content);
-        next();
-    },
-    function(err, files){
-        if (err) throw err;
-        console.log('Finished reading files:', files);
+  }, function (err, content, next) {
+    if (err) throw err;
+    files.push(content);
+    next();
+  },
+  function (err, files) {
+    if (err) throw err;
+    console.log('Finished reading files:', files);
 
-        parseFiles(function () {
-          var output = JSON.stringify({
-              dictionary: dictionary,
-              index: index
-            }, null, 4);
+    parseFiles(function () {
+      var output = JSON.stringify({
+        dictionary: dictionary,
+        index:      index
+      }, null, 4);
 
-          fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
-          postProcessDictionary();
-          writeOut();
-        });
+      fs.writeFileSync('output/dictPrelim.json', output, 'utf8');
+      postProcessDictionary();
+      writeOut();
     });
+  });
 }
 
-function writeOut() {
-  console.log("Done; starting to build XML");
+function writeOut () {
+  console.log('Done; starting to build XML');
 
   var xml = buildXML();
   var output = JSON.stringify(dictionary, null, 4);
@@ -169,35 +161,21 @@ function writeOut() {
   });
 }
 
-function prelim() {
-  fs.readFile('output/dictPrelim.json', 'utf8', function (err, data) {
-    if (err) throw err;
-    var data = JSON.parse(data);
-    dictionary = data.dictionary;
-    index = data.index;
-
-    postProcessDictionary();
-    writeOut();
-  });
-
-}
-
-
-function parseFiles(cb) {
+function parseFiles (cb) {
   var q = async.queue(function (task, callback) {
     callback();
   }, 5);
   q.drain = cb;
 
   files.forEach(function (item) {
-    q.push({name: 'Task'}, function (err) {
+    q.push({ name: 'Task' }, function (err) {
+      if (err) throw err;
       parseFile(item);
     });
   });
 }
 
-
-function parseFile(file) {
+function parseFile (file) {
   file = replaceEntities(file);
   file = replaceVarious(file);
 
@@ -205,14 +183,13 @@ function parseFile(file) {
 
   var $ = cheerio.load(file, {
     normalizeWhitespace: true,
-    xmlMode: true,
-    decodeEntities: false
+    xmlMode:             true,
+    decodeEntities:      false
   });
 
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
   $('p').each(function (i) {
-
     if (ONLYWEBSTER) {
       var src = $(this).find('source');
 
@@ -252,12 +229,11 @@ function parseFile(file) {
       children.last().remove();
     }
 
-
     var hw = $(this).find('hw, wf, pr');
     hw.each(function () {
       var text = $(this).text();
       text = text.replace(/\*/g, '&#x002d;');
-      text = text.replace(/\"/g, '&#8242;');
+      text = text.replace(/"/g, '&#8242;');
       text = text.replace(/`/g, '&#x02CA;');
       text = text.replace(/'/g, '’');
       $(this).html(text);
@@ -278,21 +254,13 @@ function parseFile(file) {
 
     dictionary[curEntryName] += text;
 
-    if (i%1000 === 0) {
+    if (i % 1000 === 0) {
       console.log('Parsed', i, curEntryName);
     }
   });
 }
 
-function wrapAll(elements, structure, $) {
-  var intro = $(structure);
-  elements.first().before(intro);
-  elements.each(function () {
-    intro.append($(this));
-  });
-}
-
-function postProcessDictionary() {
+function postProcessDictionary () {
   var i = 0;
 
   delete dictionary.NOTHING;
@@ -300,7 +268,7 @@ function postProcessDictionary() {
   for (var entry in dictionary) {
     var text = dictionary[entry].trim();
     text = text.replace(/\s+[-]{2,3}\s+/, ' — ');
-    text = text.replace(/\'/, '’');
+    text = text.replace(/'/, '’');
 
     // Wrap loose sentencens
     var $ = cheerio.load(text, {
@@ -320,7 +288,7 @@ function postProcessDictionary() {
     // Change tag types
     $('*').each(function () {
       var that = $(this);
-      var tagName = that[0].name, newTagName;
+      var tagName = that[0].name; var newTagName;
       switch (tagName) {
         case 'hw':
           newTagName = 'h2';
@@ -345,7 +313,7 @@ function postProcessDictionary() {
           newTagName = 'div';
           break;
       }
-      if (newTagName != tagName) {
+      if (newTagName !== tagName) {
         that[0].name = newTagName;
         that.addClass(tagName);
       }
@@ -353,18 +321,16 @@ function postProcessDictionary() {
 
     dictionary[entry] = $.root().html();
 
-    if (i%1000 === 0 || VERBOSE) {
+    if (i % 1000 === 0 || VERBOSE) {
       console.log('Postprocessing entry', i, entry);
     }
 
     i++;
   }
-
 }
 
-
-function buildXML() {
-  var ids = new puid(true);
+function buildXML () {
+  var ids = new Puid(true);
   console.log('Building xml');
   var xml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
             '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" ' +
@@ -382,7 +348,7 @@ function buildXML() {
 
   return xml;
 
-  function buildIndex(entry) {
+  function buildIndex (entry) {
     var result = '';
 
     index[entry] = index[entry].filter(unique);
@@ -396,4 +362,3 @@ function buildXML() {
 }
 
 processFiles();
-//prelim();

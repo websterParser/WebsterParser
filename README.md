@@ -1,5 +1,7 @@
 # WebsterParser
 
+![Build](https://github.com/jeffbyrnes/WebsterParser/workflows/Build/badge.svg)
+
 ## A better dictionary for your mac
 
 In the a blog post named [“You’re probably using the wrong dictionary”](http://jsomers.net/blog/dictionary), James Somers proposes using Webster’s Unabridged Dictionary as it provides more evocative and accurate definitions than most modern dictionaries.
