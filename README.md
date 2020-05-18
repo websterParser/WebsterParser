@@ -31,7 +31,7 @@ With Node.JS installed, run
 
 ````bash
 npm install
-node index.js
+npm start
 cd template
 make all
 make install

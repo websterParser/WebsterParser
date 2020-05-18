@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Leo Koppelkamm",
   "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "node-dir": "^0.1.5",
