@@ -12,7 +12,7 @@ import * as C from './codeTables';
 import parsePartOfSpeech from './partOfSpeech';
 
 const dictionary: Record<string, string> = {};
-const index: Record<string, Array<string>> = {};
+const index: Record<string, Array<{ name: string; id: string }>> = {}
 const files: Array<string> = [];
 const unknown = new Set<string>();
 const unknownPOS = new Map<string, string[]>();
@@ -277,11 +277,14 @@ function parseFile (file: string) {
         index[curEntryName] = [];
       }
 
-      forEach(ent, ent => {
-        index[curEntryName].push(ent.text());
-        const br = ent.next();
-        if (br.is('br')) br.remove();
-      });
+      forEach(ent.add(el.find('col b')), ent => {
+        const name = ent.text().replace(/[`"]/g, '')
+        const id = name.replace(/ /g, '_')
+        index[curEntryName].push({ name, id })
+        ent.attr('id', id)
+        const br = ent.next()
+        if (br.is('br')) br.remove()
+      })
     }
 
     // Remove leading and trailing br
@@ -409,15 +412,26 @@ function buildXML () {
             '<d:dictionary xmlns="http://www.w3.org/1999/xhtml" ' +
             'xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">\n';
 
+  const attEscape = (s: string) =>
+    s
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&apos;')
   for (const entry in dictionary) {
     const id =
-      entry === frontBackMatter ? 'front_back_matter' : `A${ids.generate()}`;
-    xml += `\n<d:entry id="${id}" d:title="${entry}">\n`;
+      entry === frontBackMatter ? 'front_back_matter' : `A${ids.generate()}`
+    xml += `\n<d:entry id="${attEscape(id)}" d:title="${attEscape(entry)}">\n`
     xml += (index[entry] || [])
       .filter(unique)
-      .map(index => `<d:index d:value="${index}"/>`)
-      .join('\n');
-    xml += '\n';
+      .map(
+        index =>
+          `<d:index d:value="${attEscape(
+            index.name
+          )}" d:anchor="xpointer(//*[@id='${attEscape(index.id)}'])" />`
+      )
+      .join('\n')
+    xml += '\n'
 
     xml += `<div>${dictionary[entry]}</div>`;
     xml += '\n</d:entry>\n';
