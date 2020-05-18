@@ -50,6 +50,8 @@ jobs:
         with:
           name: dictionary
           path: websters-1913-dictionary.zip
+      - name: Debug context
+        run: echo ${{ github.ref }} && echo ${{ startsWith(github.ref, '1.') }}
   release:
     name: Create Release
     if:  ${{ startsWith(github.ref, '1.') }}
