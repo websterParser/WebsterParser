@@ -1,0 +1,26 @@
+{
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "extends": [
+        "semistandard"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018
+    },
+    "root": true,
+    "rules": {
+        "key-spacing": [
+          1,
+          {
+            "align": "value"
+          }
+        ],
+        "no-prototype-builtins": 0
+    }
+}
