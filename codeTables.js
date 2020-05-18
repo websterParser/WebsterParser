@@ -4,6 +4,18 @@ module.exports.entities = {
   frac13:   '⅓',
   frac12:   '½',
   frac14:   '¼',
+  frac15:   '⅕',
+  frac25:   '⅖',
+  frac35:   '⅗',
+  frac45:   '⅘',
+  frac16:   '⅙',
+  frac56:   '⅚',
+  frac17:   '⅐',
+  frac18:   '⅛',
+  frac38:   '⅜',
+  frac58:   '⅝',
+  frac19:   '⅑',
+  frac1x10: '⅒',
   '?':      '�', /* Place-holder for unknown or illegible character. */
   hand:     '☞', /* pointing hand (printer's "fist") */
   fist:     '☞', /* pointing hand (printer's "fist") */
@@ -29,12 +41,14 @@ module.exports.entities = {
   cuberoot: '∛',
   breve:    '˘',
   ounceap:  '℥',
-  integral2l: '∫',
   filig:    'ﬁ',
   fllig:    'ﬂ',
   ffllig:   'ﬄ',
   upslur:   '⏜',
   downslur: '⏝',
+
+  // A column break. Unnecessary in the Dictionary app.
+  colbreak: '',
 
   // Asper (see wiki/rough breathing)
   asper:  'ʽ',
@@ -125,6 +139,11 @@ module.exports.entities = {
   pause:  '𝄐',
   Crev:   'Ↄ',
 
+  '8star':    '∗',
+  lbrace2:    '{',
+  rbrace2:    '}',
+  integral2l: '∫',
+
   Mercury:     '☿',
   Female:      '♀',
   Earth:       '♁',
@@ -147,6 +166,9 @@ module.exports.entities = {
   Aquarius:    '♒',
   Pisces:      '♓',
   Sun:         '☉',
+
+  astascending:  '☊',
+  astdescending: '☋',
 
   br:   '<br/>\n',
   nbsp: '&nbsp;',

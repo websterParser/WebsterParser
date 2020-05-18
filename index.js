@@ -36,10 +36,7 @@ function replaceEntities (string) {
       return text.substring(0, 2) + C.accents[text.substring(2)];
     } else if (text.indexOf('frac') === 0) {
       // There are two forms frac1x5000 and frac34
-      text = text.replace(/frac(\d+?)x(\d+)/g, function (v, a, b) {
-        return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
-      });
-      text = text.replace(/frac(\d)(\d+)/g, function (v, a, b) {
+      text = text.replace(/frac(\d+)x?(\d+)/g, function (v, a, b) {
         return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
       });
       return text;
@@ -62,6 +59,7 @@ function replaceVarious (string) {
   string = string.replace(/<!--[.\s\S]*?-->/g, '');
   string = string.replace(/<--[.\s\S]*?-->/g, '');
   string = string.replace(/<!--/g, '');
+  string = string.replace(/<--/g, '');
 
   // Nicer long dashes
   string = string.replace(/--/g, '–');
