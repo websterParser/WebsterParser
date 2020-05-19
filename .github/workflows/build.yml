@@ -10,12 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: hallee/eslint-action@master
+      - uses: hallee/eslint-action@1.0
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
   build:
     runs-on: macos-latest
     steps:
+      - name: Debug context
+        run: echo ${{ github.ref }} && echo ${{ startsWith(github.ref, 'refs/tags') }}
       - uses: actions/checkout@v2
         with:
           submodules: true
@@ -52,7 +54,7 @@ jobs:
           path: websters-1913-dictionary.zip
   release:
     name: Create Release
-    if:  ${{ startsWith(github.ref, '1.') }}
+    if:  ${{ startsWith(github.ref, 'refs/tags') }}
     needs: build
     runs-on: macos-latest
     steps:
@@ -83,7 +85,7 @@ jobs:
           # See this blog post for more info:
           # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./dictionary/websters-1913-dictionary.zip
+          asset_path: websters-1913-dictionary.zip
           asset_name: websters-1913-dictionary.zip
           asset_content_type: application/zip   
 
