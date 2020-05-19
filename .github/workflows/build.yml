@@ -85,7 +85,7 @@ jobs:
           # See this blog post for more info:
           # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./dictionary/websters-1913-dictionary.zip
+          asset_path: websters-1913-dictionary.zip
           asset_name: websters-1913-dictionary.zip
           asset_content_type: application/zip   
 
