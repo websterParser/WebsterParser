@@ -17,14 +17,14 @@ const clauses = {
   'v. i.': 'intransitive verb',
   'v. t.': 'transitive verb',
 
-  'imp.':       'imperfect (simple past tense)', // could also be imperative
-  'imp. sing.': 'singular imperfect (simple past tense)', // could also be imperative
-  'imp. pl.':   'plural imperfect (simple past tense)', // could also be imperative
+  'imp.':       'imperfect', // could also be imperative
+  'imp. sing.': 'singular imperfect', // could also be imperative
+  'imp. pl.':   'plural imperfect', // could also be imperative
 
   'p. p.':              'past participle',
   'past part.':         'past participle',
   'p. p':               'past participle',
-  'imp. p. p.':         'imperfect past participle', // ?? ?? ??
+  'imp. p. p.':         'imperfect & past participle', // ?? ?? ??
   'present participle': 'present participle',
   'p. pr.':             'present participle',
   'p. pr':              'present participle', // <3
@@ -46,18 +46,18 @@ const clauses = {
   'pron. pl.': 'plural pronoun',
   'conj.':     'conjunction',
 
-  'third pers. sing. pres.': 'third-person singular present tense',
-  '3d. pers. sing. pres.':   'third-person singular present tense',
-  '3d pers. sing. pres.':    'third-person singular present tense',
-  '3d sing. pres.':          'third-person singular present tense',
-  '3d pers. sing. pr.':      'third-person singular present tense',
-  '3d sing. pr.':            'third-person singular present tense',
-  '3d pers. sing. present':  'third-person singular present tense',
-  '3d pers. pres.':          'third-person present tense',
+  'third pers. sing. pres.': 'third-person singular present',
+  '3d. pers. sing. pres.':   'third-person singular present',
+  '3d pers. sing. pres.':    'third-person singular present',
+  '3d sing. pres.':          'third-person singular present',
+  '3d pers. sing. pr.':      'third-person singular present',
+  '3d sing. pr.':            'third-person singular present',
+  '3d pers. sing. present':  'third-person singular present',
+  '3d pers. pres.':          'third-person present',
   '3d pers. sing.':          'third-person singular',
   'imperative sing.':        'imperative singuar',
   '2d pers. sing. imp.':     'second-person singular imperfect',
-  '2d pers. sing. pres.':    'second-person singular present tense',
+  '2d pers. sing. pres.':    'second-person singular present',
   'infinitive.':             'infinitive',
   'inf.':                    'infinitive',
 
@@ -66,11 +66,11 @@ const clauses = {
   'suff.':   'suffix',
   'suffix.': 'suffix',
 
-  'possess.': 'possessive case',
-  'poss.':    'possessive case',
-  'obj.':     'objective case',
-  'object.':  'objective case',
-  'dat.':     'dative case',
+  'possess.': 'possessive',
+  'poss.':    'possessive',
+  'obj.':     'objective',
+  'object.':  'objective',
+  'dat.':     'dative',
 
   'pret.': 'preterit',
 
@@ -102,13 +102,13 @@ const clauses = {
   'indef. pron.':         'indefinite pronoun',
   'possessive pron.':     'possessive pronoun',
   'pr. n. pl.':           'plural proper noun',
-  'pl. pres.':            'plural present tense',
+  'pl. pres.':            'plural present',
   'a. pron.':             'adjective pronoun',
   '2d person':            'second-person',
   'a. compar.':           'comparative adjective',
   'n.sing.':              'singular noun',
-  'plural pres.':         'plural present tense',
-  'sing. pres.':          'singular present tense',
+  'plural pres.':         'plural present',
+  'sing. pres.':          'singular present',
   'poss. pron.':          'possessive pronoun',
   'contrac.':             'contraction',
   'pers. pron.':          'personal pronoun',
@@ -156,19 +156,19 @@ const whole = {
   'p. & a.':                            '????',
   'p. p. or a.':                        'past participle or predicative adjective',
   'pres. indic. sing., 1st & 3d pers.':
-    'present tense indicative singular; first or third person',
+    'present indicative singular; first or third person',
 
   'pres. indic., 1st & 3d pers. sing.':
-    'present tense indicative; first or third person singular',
+    'present indicative; first or third person singular',
   'pres. indic. 1st & 3d pers. sing.':
-    'present tense indicative; first or third person singular',
+    'present indicative; first or third person singular',
   'n. collect & pl.':           'collective or plural noun',
   'n. collect. & pl.':          'collective or plural noun',
   'n. sing. & pl.':             'singular or plural noun',
   'pres. & imp. sing. & pl.':   'present, imperative singular or plural',
   'imp. (and rare p. p.)':      `${clauses['imp.']} (and rarely ${clauses['p. p.']})`,
   'a.; also adv.':              `${clauses.a}; also ${clauses.adv}`,
-  '1st & 3d pers. sing. pres.': 'first- or third-person singular present tense',
+  '1st & 3d pers. sing. pres.': 'first- or third-person singular present',
   'p, pr. & vb. n.':            'present participle or verbal noun' // ?? ?? ??
 };
 
