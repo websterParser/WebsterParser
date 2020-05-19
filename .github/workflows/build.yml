@@ -16,6 +16,8 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
+      - name: Debug context
+        run: echo ${{ github.ref }} && echo ${{ startsWith(github.ref, 'refs/tags') }}
       - uses: actions/checkout@v2
         with:
           submodules: true
@@ -50,11 +52,9 @@ jobs:
         with:
           name: dictionary
           path: websters-1913-dictionary.zip
-      - name: Debug context
-        run: echo ${{ github.ref }} && echo ${{ startsWith(github.ref, '1.') }}
   release:
     name: Create Release
-    if:  ${{ startsWith(github.ref, '1.') }}
+    if:  ${{ startsWith(github.ref, 'refs/tags') }}
     needs: build
     runs-on: macos-latest
     steps:
