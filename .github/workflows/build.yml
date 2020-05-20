@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: hallee/eslint-action@1.0
+      - uses: hallee/eslint-action@1.0.2
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
   build:
@@ -87,5 +87,5 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: websters-1913-dictionary.zip
           asset_name: websters-1913-dictionary.zip
-          asset_content_type: application/zip   
+          asset_content_type: application/zip
 
