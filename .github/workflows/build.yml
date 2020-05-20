@@ -50,7 +50,8 @@ jobs:
       - name: Package dictionary
         run: cd template && make
       - name: Zip up dictionary
-        run: zip -r9 websters-1913-dictionary.zip 'template/objects/websters-1913.dictionary'
+        run: cd template/objects/ &&
+          zip -r9 websters-1913-dictionary.zip websters-1913.dictionary
       - name: Upload dictionary archive
         uses: actions/upload-artifact@v2
         with:
