@@ -1,3 +1,5 @@
+/* eslint-disable key-spacing */
+
 module.exports.entities = {
   pound:    '£',
   frac23:   '⅔',

@@ -1,3 +1,6 @@
+/* eslint-disable key-spacing */
+/* eslint-disable no-prototype-builtins */
+
 var cheerio = require('cheerio');
 var dir = require('node-dir');
 var fs = require('fs');
