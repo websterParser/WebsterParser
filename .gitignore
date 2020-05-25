@@ -2,5 +2,5 @@
 template/objects/
 template/objects/**
 template/dict.xml
-output/dict*
+output/*
 node_modules
