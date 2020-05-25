@@ -50,10 +50,8 @@ jobs:
         run: unzip ${{ steps.download-poetry.outputs.file-path }} &&
           sudo mv -v 'Dictionary Development Kit' '/Applications/Utilities/Dictionary Development Kit'
       - run: npm install
-      - name: Convert dictionary format
-        run: npm start
-      - name: Package dictionary
-        run: cd template && make
+      - name: Create dictionary package
+        run: npm run build
       - name: Zip up dictionary
         run: zip -r9 -j websters-1913-dictionary.zip 'template/objects/websters-1913.dictionary'
       - name: Upload dictionary archive
