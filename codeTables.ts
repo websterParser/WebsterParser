@@ -1,6 +1,6 @@
 /* eslint-disable key-spacing */
 
-export const entities  = {
+export const entities = {
   pound:    '£',
   frac23:   '⅔',
   frac13:   '⅓',
@@ -51,6 +51,15 @@ export const entities  = {
 
   // A column break. Unnecessary in the Dictionary app.
   colbreak: '',
+
+  // Misspelling of the <tsdot/ entity in the entry for 'Tat'
+  tsdo: 'ṭ',
+
+  // Entities/symbols from volunteer-supplied info in GCIDE
+  // Discarding them, we do not keep these entries
+  sb:   '',
+  ccar: '',
+  ecrl: '',
 
   // Asper (see wiki/rough breathing)
   asper:  'ʽ',
