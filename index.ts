@@ -257,7 +257,9 @@ function parseFile (file: string) {
         p = p.next();
       }
 
-      if (src.text().trim() !== '1913 Webster') {
+      if (src.text().trim() !== '1913 Webster' &&
+        src.text().trim() !== 'Webster 1913 Suppl.'
+      ) {
         return true;
       }
 
