@@ -260,7 +260,9 @@ function parseFile (file: string) {
         }
       }
 
-      if (!src.text().includes('1913')) {
+      if (src.text().trim() !== '1913 Webster' &&
+        src.text().trim() !== 'Webster 1913 Suppl.'
+      ) {
         return true;
       }
 
