@@ -252,9 +252,12 @@ function parseFile (file: string) {
     if (ONLYWEBSTER) {
       let src;
       let p = el;
-      while (!src) {
+      while (!src || src.length == 0) {
         src = p.find('source');
         p = p.next();
+        if (p.length == 0) {
+          break;
+        }
       }
 
       if (src.text().trim() !== '1913 Webster' &&
