@@ -5,44 +5,44 @@ const clauses = {
   'n.':  'noun',
   n:     'noun',
 
+  'adj.':   'adjective',
   'a. .':   'adjective',
   'a.':     'adjective',
   a:        'adjective',
-  'p. a.':  'past adjective', // ?? ?? ??
-  'p.a.':   'past adjective', //  ?? ?? ??
-  'pr. a.': 'proper adjective',
-  'adj.':   'adjective', // but why also just 'a.'?
+  'p. a.':  'participial adjective',
+  'p.a.':   'participial adjective',
+  'pr. a.': 'proper adjective', // ? not listed in abbrevn.lst
 
   'v.':    'verb',
   'v. i.': 'intransitive verb',
   'v. t.': 'transitive verb',
 
-  'imp.':       'imperfect', // could also be imperative
-  'imp. sing.': 'singular imperfect', // could also be imperative
-  'imp. pl.':   'plural imperfect', // could also be imperative
+  'imp.':       'imperfect',
+  'imp. sing.': 'singular imperfect',
+  'imp. pl.':   'plural imperfect',
 
   'p. p.':              'past participle',
   'past part.':         'past participle',
   'p. p':               'past participle',
-  'imp. p. p.':         'imperfect & past participle', // ?? ?? ??
+  'imp. p. p.':         'imperfect & past participle', // ? or is it 'imperfect past participle' - not listed in abbrevn.lst
   'present participle': 'present participle',
   'p. pr.':             'present participle',
-  'p. pr':              'present participle', // <3
-  'p, pr':              'present participle', // ?? ?? ??
-  'p pr.':              'present participle', // <3
+  'p. pr':              'present participle',
+  'p, pr':              'present participle',
+  'p pr.':              'present participle',
 
   'adv.': 'adverb',
   adv:    'adverb',
-  'ads.': 'adverb', // ?
+  'ads.': 'adverb', // ? not listed in abbrevn.lst
 
   'superl.':   'superlative',
   superl:      'superlative',
-  'comp.':     'comparative',
+  'comp.':     'comparative', // ? abbrevn.lst says it’s 'compound' but that doesn't always make sense
   compar:      'comparative',
   'compar.':   'comparative',
   'prep.':     'preposition',
   'interj.':   'interjection',
-  'pron.':     'pronoun',
+  'pron.':     'pronoun', // can also be pronounciation/pronounced
   'pron. pl.': 'plural pronoun',
   'conj.':     'conjunction',
 
@@ -66,18 +66,18 @@ const clauses = {
   'suff.':   'suffix',
   'suffix.': 'suffix',
 
-  'possess.': 'possessive',
-  'poss.':    'possessive',
-  'obj.':     'objective',
-  'object.':  'objective',
+  'possess.': 'possessive', // ? not listed in abbrevn.lst
+  'poss.':    'possessive', // ? not listed in abbrevn.lst
+  'obj.':     'objective',  // ? not listed in abbrevn.lst 
+  'object.':  'objective',  // ? not listed in abbrevn.lst
   'dat.':     'dative',
 
   'pret.': 'preterit',
 
   'v. inf':        'infinitive verb',
   'v. inf.':       'infinitive verb',
-  'v. impers.':    'impersonal verb', // ??
-  'v. impersonal': 'impersonal verb',
+  'v. impers.':    'impersonal verb', // ? not listed in abbrevn.lst
+  'v. impersonal': 'impersonal verb', // ? not listed in abbrevn.lst
 
   'a. superl.':           'superlative adjective',
   'prep. phr.':           'preposition phrase',
@@ -86,8 +86,8 @@ const clauses = {
   participle:             'participle',
   auxiliary:              'auxiliary verb',
   'auxiliary.':           'auxiliary verb',
-  'part. adj':            'participle adjective', // ?? ?? ??
-  'part. adj.':           'participle adjective', // ?? ?? ??
+  'part. adj':            'participal adjective', // ? not listed in abbrevn.lst but lsted under 'p. a.'
+  'part. adj.':           'participal adjective',
   'masc. a.':             'masculine adjective',
   'fem. a.':              'feminine adjective',
   'a. m.':                'masculine adjective',
@@ -96,13 +96,13 @@ const clauses = {
   'nom.':                 'nominative',
   'pl. nom.':             'plural nominative',
   'n.pl.':                'plural noun',
-  'peop. n.':             'peop. noun', // ?? ?? ??
+  'peop. n.':             'peop. noun', // ? not listed in abbrevn.lst
   'p. pr. vb. n.':        'present participle verbal noun',
   'pres. sing.':          'present-tense singular',
   'indef. pron.':         'indefinite pronoun',
   'possessive pron.':     'possessive pronoun',
-  'pr. n. pl.':           'plural proper noun',
-  'pl. pres.':            'plural present',
+  'pr. n. pl.':           'plural proper noun', // ? not listed in abbrevn.lst
+  'pl. pres.':            'plural present', // ? not listed in abbrevn.lst
   'a. pron.':             'adjective pronoun',
   '2d person':            'second-person',
   'a. compar.':           'comparative adjective',
@@ -111,10 +111,10 @@ const clauses = {
   'sing. pres.':          'singular present',
   'poss. pron.':          'possessive pronoun',
   'contrac.':             'contraction',
-  'pers. pron.':          'personal pronoun',
+  'pers. pron.':          'personal pronoun', // ? 'pers.' Is listed as 'person'
   'sing. pres. ind.':     'singular present-tense indicative',
   'pres. subj.':          'present subjunctive',
-  'pres.':                'present',
+  'pres.':                'present', // ? not listed in abbrevn.lst
   'v. imperative.':       'imperative verb',
   '2d pers. pl.':         'second-person plural',
   '2d pers. sing.':       'second-person singular',
@@ -149,7 +149,7 @@ const nouns = {
 
 const whole = {
   'n. & v. t. & i.':                    'noun, transitive verb, or intransitive verb',
-  'v. i. & i.':                         'transitive or intransitive verb', // ?? ?? ??
+  'v. i. & i.':                         'transitive or intransitive verb', // ?
   'v. t. & i.':                         'transitive or intransitive verb',
   'v. i. & t.':                         'intransitive or transitive verb',
   'p. p. & a.':                         'past participle or predicative adjective',
@@ -169,7 +169,7 @@ const whole = {
   'imp. (and rare p. p.)':      `${clauses['imp.']} (and rarely ${clauses['p. p.']})`,
   'a.; also adv.':              `${clauses.a}; also ${clauses.adv}`,
   '1st & 3d pers. sing. pres.': 'first- or third-person singular present',
-  'p, pr. & vb. n.':            'present participle or verbal noun' // ?? ?? ??
+  'p, pr. & vb. n.':            'present participle or verbal noun' // ?
 };
 
 const set = new Set();
