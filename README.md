@@ -27,9 +27,10 @@ This project parses these original text files and creates a reasonably clean UTF
         5. Drag the “Dictionary Developer Kit” to `/Applications/Utilities`
             * Recent versions of macOS will require you do this via the GUI to properly authenticate
 
-With Node.JS installed, run 
+Once you have the above installed, clone the project & its submodules, then install & build the dictionary:
 
 ````bash
+git clone --recurse-submodules git@github.com:ponychicken/WebsterParser
 npm install
 npm start
 cd template
