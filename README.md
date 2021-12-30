@@ -31,6 +31,7 @@ Once you have the above installed, clone the project & its submodules, then inst
 
 ````bash
 git clone --recurse-submodules git@github.com:ponychicken/WebsterParser
+cd WebsterParser
 npm install
 npm start
 cd template
