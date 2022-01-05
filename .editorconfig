@@ -8,6 +8,10 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
+[/srcFiles/**]
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+
 [*.md]
 trim_trailing_whitespace = false
 indent_size = 4

@@ -249,29 +249,26 @@ function parseFile (file: string) {
   // Walk through each paragraph. If the paragraph contains a hw tag,
   // Add a new entry.
   forEach($('p'), (el, i) => {
+    let skipDefEntry = false
+
     if (ONLYWEBSTER) {
       let src;
       let p = el;
       while (!src || src.length == 0) {
         src = p.find('source');
-        p = p.next();
+        p = p.prev();
         if (p.length == 0) {
           break;
         }
       }
 
-      if (src.text().trim() !== '1913 Webster' &&
-        src.text().trim() !== 'Webster 1913 Suppl.'
-      ) {
-        return true;
+      // Skip if not a Webster def but keep if empty
+      if (! src.text().includes('Webster') && src.text() !== "") {
+        if (VERBOSE) {
+          console.log(`    skipping ${curEntryName} def with source ${src.text()}`)
+        }
+        skipDefEntry = true
       }
-
-      const next = $(src[0].next);
-      const prev = $(src[0].prev);
-
-      src.remove();
-      prev.remove();
-      next.remove();
     }
 
     const ent = el.find('ent').remove();
@@ -334,9 +331,11 @@ function parseFile (file: string) {
       dictionary[curEntryName] = '';
     }
 
-    dictionary[curEntryName] += el.html();
+    if (skipDefEntry === false) {
+      dictionary[curEntryName] += el.html();
+    }
 
-    if (i % 1000 === 1) {
+    if (i % 1000 === 1 || VERBOSE) {
       console.log('Parsed', i - 1, curEntryName);
     }
   });
@@ -348,62 +347,76 @@ function postProcessDictionary () {
   console.log(`Postprocessing ${Object.keys(dictionary).length} entries...`);
 
   for (const entry in dictionary) {
+
+    if (i % 1000 === 0 || VERBOSE) {
+      console.log('Postprocessing entry', i, entry);
+    }
+
     let text = dictionary[entry].trim();
     text = text.replace(/\s+[-]{2,3}\s+/, ' — ');
     text = text.replace(/'/, '’');
 
-    // Wrap loose sentencens
-    const $ = cheerio.load(text, { xmlMode: true });
+    if (ONLYWEBSTER) {
+      text = text.replace(/\[<source>.+?<\/source>\]/g, '');
+    }
 
-    forEach($('q'), quote => {
-      const next = quote.next();
-      const author = next.find('qau');
-      if (author.length) {
-        quote.append(author);
-        next.remove();
+    // if there's text for the entry, continue processing
+    if (text) {
+      // Wrap loose sentencens
+      const $ = cheerio.load(text, { xmlMode: true });
+
+      forEach($('q'), quote => {
+        const next = quote.next();
+        const author = next.find('qau');
+        if (author.length) {
+          quote.append(author);
+          next.remove();
+        }
+      });
+
+      // Change tag types
+      forEach($('*'), el => {
+        const tagName = el[0].name;
+        if (tagName === 'math' || el.parents('math').length) return;
+
+        let newTagName;
+        switch (tagName) {
+          case 'hw':
+            newTagName = 'h2';
+            break;
+          case 'plain':
+            newTagName = 'span';
+            break;
+          case 'xex':
+          case 'it':
+            newTagName = 'i';
+            break;
+          case 'br':
+          case 'i':
+          case 'b':
+          case 'p':
+          case 'sup':
+          case 'sub':
+          case 'a':
+            newTagName = tagName;
+            break;
+          default:
+            newTagName = 'div';
+            break;
+        }
+        if (newTagName !== tagName) {
+          el[0].name = newTagName;
+          el.addClass(tagName);
+        }
+      });
+
+      dictionary[entry] = $.root().html()!;
+
+    } else {
+      if (VERBOSE) {
+        console.log(`    removing empty entry for ${entry}`)
       }
-    });
-
-    // Change tag types
-    forEach($('*'), el => {
-      const tagName = el[0].name;
-      if (tagName === 'math' || el.parents('math').length) return;
-
-      let newTagName;
-      switch (tagName) {
-        case 'hw':
-          newTagName = 'h2';
-          break;
-        case 'plain':
-          newTagName = 'span';
-          break;
-        case 'xex':
-        case 'it':
-          newTagName = 'i';
-          break;
-        case 'br':
-        case 'i':
-        case 'b':
-        case 'p':
-        case 'sup':
-        case 'sub':
-        case 'a':
-          newTagName = tagName;
-          break;
-        default:
-          newTagName = 'div';
-          break;
-      }
-      if (newTagName !== tagName) {
-        el[0].name = newTagName;
-        el.addClass(tagName);
-      }
-    });
-
-    dictionary[entry] = $.root().html()!;
-
-    if (i % 1000 === 0 || VERBOSE) {
-      console.log('Postprocessing entry', i, entry);
+      delete dictionary[entry]
     }
 
     i++;
