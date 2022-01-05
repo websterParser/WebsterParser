@@ -51,12 +51,12 @@ jobs:
       - name: Create dictionary package
         run: npm run build
       - name: Zip up dictionary
-        run: cd template/objects && zip -r9 websters-1913.dictionary.zip websters-1913.dictionary
+        run: cd template/objects && zip -r9 Webster's Unabridged Dictionary (1913).dictionary.zip Webster's Unabridged Dictionary (1913).dictionary
       - name: Upload dictionary archive
         uses: actions/upload-artifact@v2
         with:
           name: dictionary
-          path: template/objects/websters-1913.dictionary.zip
+          path: template/objects/Webster's Unabridged Dictionary (1913).dictionary.zip
 
   release:
     name: Create Release
@@ -91,6 +91,6 @@ jobs:
           # See this blog post for more info:
           # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: websters-1913.dictionary.zip
-          asset_name: websters-1913.dictionary.zip
+          asset_path: Webster's Unabridged Dictionary (1913).dictionary.zip
+          asset_name: Webster's Unabridged Dictionary (1913).dictionary.zip
           asset_content_type: application/zip
