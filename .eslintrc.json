@@ -4,7 +4,8 @@
     "node": true
   },
   "extends": [
-    "semistandard"
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
   ],
   "globals": {
     "Atomics": "readonly",
@@ -14,6 +15,9 @@
   "parserOptions": {
     "sourceType": "module"
   },
+  "plugins": [
+    "@typescript-eslint"
+  ],
   "root": true,
   "rules": {
     "key-spacing": [
