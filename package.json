@@ -13,7 +13,7 @@
   "scripts": {
     "build": "npm start && cd template && make",
     "start": "ts-node index.ts",
-    "lint": "eslint .",
+    "lint": "eslint",
     "fix": "npm run lint -- --fix"
   },
   "dependencies": {
