@@ -1,7 +1,7 @@
 {
   "name": "websterParser",
   "version": "1.3.2",
-  "description": "Parses the Webster Unabridged Dictionary from Project Guttenberg into a more usable format",
+  "description": "Parses the Webster Unabridged Dictionary from GCIDE into a more usable format",
   "main": "index.js",
   "author": "Leo Koppelkamm",
   "license": "GPL-3.0-or-later",
