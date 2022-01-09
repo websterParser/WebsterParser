@@ -1,33 +1,36 @@
 {
-    "env": {
-        "es6": true,
-        "node": true
-    },
-    "extends": [
-        "semistandard"
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "extends": [
+    "semistandard"
+  ],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2019,
+    "sourceType": "module"
+  },
+  "root": true,
+  "rules": {
+    "key-spacing": [
+      1,
+      {
+        "align": "value"
+      }
     ],
-    "globals": {
-        "Atomics": "readonly",
-        "SharedArrayBuffer": "readonly"
-    },
-    "parser": "@typescript-eslint/parser",
-    "parserOptions": {
-        "ecmaVersion": 2019,
-        "sourceType": "module"
-    },
-    "root": true,
-    "rules": {
-        "key-spacing": [
-          1,
-          {
-            "align": "value"
-          }
-        ],
-        "no-prototype-builtins": 0,
-        "prefer-template": "error",
-        "no-var": "error",
-        "one-var": ["error", "never"],
-        "prefer-const": "error",
-        "prefer-arrow-callback": "error"
-    }
+    "no-prototype-builtins": 0,
+    "prefer-template": "error",
+    "no-var": "error",
+    "one-var": [
+      "error",
+      "never"
+    ],
+    "prefer-const": "error",
+    "prefer-arrow-callback": "error"
+  }
 }
