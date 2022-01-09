@@ -12,6 +12,7 @@
   "private": true,
   "scripts": {
     "build": "npm start && cd template && make",
+    "build_and_install": "npm start && cd template && make && make install",
     "start": "ts-node index.ts",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "fix": "npm run lint -- --fix"
