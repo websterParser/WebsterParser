@@ -202,8 +202,8 @@ export default Object.assign((pos: string) => {
     }
     return segments.map(parse).join(' or ');
   }
-  const prefix = pos.match(/^\s*/)![0];
-  const suffix = pos.match(/[,\s]*$/)![0];
+  const prefix = pos.match(/^\s*/)![0];  // eslint-disable-line
+  const suffix = pos.match(/[,\s]*$/)![0];  // eslint-disable-line
   pos = pos
     .slice(prefix.length, suffix ? -suffix.length : undefined)
     .toLowerCase();
