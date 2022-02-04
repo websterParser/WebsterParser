@@ -1,6 +1,7 @@
 /* eslint-disable key-spacing */
 /* eslint-disable no-prototype-builtins */
 
+// eslint-disable-next-line
 ///<reference path='./types.d.ts' />
 import cheerio from 'cheerio';
 import dir from 'node-dir';
@@ -48,17 +49,17 @@ function replaceMatrices (string: string) {
                             .split(/,\s*/)
                             .map(val =>
                               $('<mtd>').append($('<mtext>').text(val))
-                            ) as [any])
+                            ) as [any]) // eslint-disable-line
                         )
                       )
-                      .toArray() as [any])
+                      .toArray() as [any])  // eslint-disable-line
                   )
                 )
                 .append($('<mo>]'))
             )
         )
         .html();
-      return result!;
+      return result!;  // eslint-disable-line
     }
   );
 }
@@ -79,8 +80,8 @@ function replaceEntities (string: string) {
       return text.slice(0, 2) + C.doubleAccents[skipFirstTwoChars];
     } else if (text.indexOf('frac') === 0) {
       // There are two forms frac1x5000 and frac34
-      text = text.replace(/frac(\d+?)x?(\d+)/g, function (_, a, b) {
-        return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';
+      text = text.replace(/frac(\d+?)x?(\d+)/g, function (_, a, b) {  // eslint-disable-line
+        return '<sup>' + a + '</sup>' + '⁄' + '<sub>' + b + '</sub>';  // eslint-disable-line
       });
       return text;
     } else if (text.endsWith('it') || text.endsWith('IT')) {
@@ -410,7 +411,7 @@ function postProcessDictionary () {
         }
       });
 
-      dictionary[entry] = $.root().html()!;
+      dictionary[entry] = $.root().html()!;  // eslint-disable-line
 
     } else {
       if (VERBOSE) {
