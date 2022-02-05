@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "async": "^3.2.3",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.10",
     "node-dir": "^0.1.5",
     "puid": "^1.0.7",
     "ts-node": "^10.4.0",
