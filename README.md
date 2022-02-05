@@ -12,7 +12,7 @@ This project parses these original text files and creates a reasonably clean UTF
 
 ![Screenshot of the dictionary](https://cloud.githubusercontent.com/assets/183302/4118412/ee98674e-32a0-11e4-99ad-062c0e54a138.png)
 
-## How to build
+## How to build. 
 
 ### Requirements
 
