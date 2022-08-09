@@ -118,6 +118,27 @@ function replaceVarious (string: string) {
   );
 }
 
+function fixWordTags (string: string) {
+  return (
+    string
+      //@TODO: remove these word-specific fixes as upstream changes are made
+      //fix missing closing p on Lese majesty
+      // GCIDE.L:12947
+      .replace(/(<p><sn>2.<\/sn> <def>Any affront to the dignity of an eminent or respected person.)/g, '</p>$1')
+
+      //fix extra opening p on Condorcet's method
+      // GCIDE.C:50718
+      .replace(/<p>(<hw>Condorcet's method<\/hw> <def>)/g, '$1')
+
+      //Fix extra tag in roller
+      // GCIDE.R:33326
+      .replace(/<p>(<sn>10.<\/sn> <fld>\(Zool.\)<\/fld> <def>Any species of small ground snakes of the family <fam>Tortricidae<\/fam>.<\/def><br\/)/g, '$1')
+
+      //fix missing closing p for stooge
+      // GCIDE.S:72154
+      .replace(/(<p><ent>Stook<\/ent><br\/)/g, '</p>$1')
+  );
+}
 /**
  * Transcribe the greek (grk) tags
  */
@@ -235,6 +256,7 @@ function parseFiles (cb: () => void) {
 }
 
 function parseFile (file: string) {
+  file = fixWordTags(file);
   file = replaceMatrices(file);
   file = replaceEntities(file);
   file = replaceVarious(file);
