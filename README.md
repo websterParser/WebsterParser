@@ -12,7 +12,11 @@ This project parses these original text files and creates a reasonably clean UTF
 
 ![Screenshot of the dictionary](https://cloud.githubusercontent.com/assets/183302/4118412/ee98674e-32a0-11e4-99ad-062c0e54a138.png)
 
-## How to build
+## Download the Dictionary
+
+[Download the latest release here](https://github.com/ponychicken/WebsterParser/releases/latest/download/websters-1913.dictionary.zip), or find older versions in the [Releases section](https://github.com/ponychicken/WebsterParser/releases) of this project.
+
+## Build from Source
 
 ### Requirements
 
@@ -38,14 +42,10 @@ npm run build_and_install
 
 Building the dictionary might take a while (around three minutes on my machine)
 
-
-## Just want the .dictionary file?
-
-Download it in the [releases section](https://github.com/DieBuche/WebsterParser/releases) of this project.
-
-
 ## Using it on iOS?
 
-You can use the dictionary file on your iDevice if it is jailbroken. SSH into your device and navigate to `/private/var/mobile/Library/Assets/com_apple_MobileAsset_DictionaryServices_dictionary2`. 
-On your iDevice dowload any new stock dictionary (Select a word -> Define -> Manage -> Download) that you don't need.
-In your SSH browser find out which folder was just added. Navigate to folderwithcrypticnumber/AssetData. Replace the .dictionary folder with the webster.dictionary folder, but keeping the name. You should now be able to lookup words. 
+You can use the dictionary file on your iDevice if it is jailbroken. SSH into your device and navigate to `/private/var/mobile/Library/Assets/com_apple_MobileAsset_DictionaryServices_dictionary2`.
+
+On your iDevice dowload any new stock dictionary (Select a word → Define → Manage → Download) that you don't need.
+
+In your SSH browser find out which folder was just added. Navigate to folderwithcrypticnumber/AssetData. Replace the `.dictionary` folder with the `webster.dictionary` folder, using the same name as the existing folder. You should now be able to look up words.
