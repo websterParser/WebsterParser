@@ -4,3 +4,4 @@ template/objects/**
 template/dict.xml
 output/*
 node_modules
+/.vscode
