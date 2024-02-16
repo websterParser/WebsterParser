@@ -6,7 +6,7 @@
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ponychicken/WebsterParser.git"
+    "url": "git@github.com:websterParser/WebsterParser.git"
   },
   "private": true,
   "scripts": {

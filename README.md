@@ -1,6 +1,6 @@
 # WebsterParser
 
-![Build](https://github.com/ponychicken/WebsterParser/workflows/Build/badge.svg)
+![Build](https://github.com/websterParser/WebsterParser/workflows/Build/badge.svg)
 
 ## A better dictionary for your mac
 
@@ -14,7 +14,7 @@ This project parses these original text files and creates a reasonably clean UTF
 
 ## Download the Dictionary
 
-[Download the latest release here](https://github.com/ponychicken/WebsterParser/releases/latest/download/websters-1913.dictionary.zip), or find older versions in the [Releases section](https://github.com/ponychicken/WebsterParser/releases) of this project.
+[Download the latest release here](https://github.com/websterParser/WebsterParser/releases/latest/download/websters-1913.dictionary.zip), or find older versions in the [Releases section](https://github.com/websterParser/WebsterParser/releases) of this project.
 
 ## Build from Source
 
@@ -33,12 +33,12 @@ This project parses these original text files and creates a reasonably clean UTF
 
 Once you have the above installed, clone the project & its submodules, then install & build the dictionary:
 
-````bash
-git clone --recurse-submodules git@github.com:ponychicken/WebsterParser
+```bash
+git clone --recurse-submodules git@github.com:websterParser/WebsterParser
 cd WebsterParser
 npm install
 npm run build_and_install
-````
+```
 
 Building the dictionary might take a while (around three minutes on my machine)
 
