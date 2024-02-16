@@ -68,7 +68,7 @@ const clauses = {
 
   'possess.': 'possessive', // ? not listed in abbrevn.lst
   'poss.':    'possessive', // ? not listed in abbrevn.lst
-  'obj.':     'objective',  // ? not listed in abbrevn.lst 
+  'obj.':     'objective',  // ? not listed in abbrevn.lst
   'object.':  'objective',  // ? not listed in abbrevn.lst
   'dat.':     'dative',
 
@@ -155,8 +155,7 @@ const whole = {
   'p. p. & a.':                         'past participle or predicative adjective',
   'p. & a.':                            '????',
   'p. p. or a.':                        'past participle or predicative adjective',
-  'pres. indic. sing., 1st & 3d pers.':
-    'present indicative singular; first or third person',
+  'pres. indic. sing., 1st & 3d pers.': 'present indicative singular; first or third person',
 
   'pres. indic., 1st & 3d pers. sing.':
     'present indicative; first or third person singular',
