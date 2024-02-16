@@ -43,12 +43,12 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - name: Download Dictionary Development Kit
-        uses: carlosperate/download-file-action@v1.0.3
-        id: download-poetry
+        uses: carlosperate/download-file-action@v2
+        id: download-ddk
         with:
           file-url: https://jbyrnes.s3.us-east-1.amazonaws.com/dictionary-development-kit.zip
       - name: Install Dictionary Development Kit
-        run: unzip ${{ steps.download-poetry.outputs.file-path }} &&
+        run: unzip ${{ steps.download-ddk.outputs.file-path }} &&
           sudo mv -v 'Dictionary Development Kit' '/Applications/Utilities/Dictionary Development Kit'
       - run: npm install
       - name: Create dictionary package
