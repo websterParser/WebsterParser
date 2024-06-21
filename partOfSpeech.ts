@@ -140,8 +140,8 @@ const nouns = {
   'pr.':   'proper',
   'fem.':  'feminine',
   'f.':    'feminine',
-  'masc.': 'feminine',
-  'm.':    'feminine',
+  'masc.': 'masculine',
+  'm.':    'masculine',
   'sing.': 'singular',
   'pl.':   'plural',
   pl:      'plural'
