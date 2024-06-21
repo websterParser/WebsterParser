@@ -55,7 +55,7 @@ const clauses = {
   '3d pers. sing. present':  'third-person singular present',
   '3d pers. pres.':          'third-person present',
   '3d pers. sing.':          'third-person singular',
-  'imperative sing.':        'imperative singuar',
+  'imperative sing.':        'imperative singular',
   '2d pers. sing. imp.':     'second-person singular imperfect',
   '2d pers. sing. pres.':    'second-person singular present',
   'infinitive.':             'infinitive',
