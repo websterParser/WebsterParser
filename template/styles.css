@@ -134,7 +134,7 @@ div {
 
 @supports(font-feature-settings: 'smcp') {
     .adjf, .conj, .decf, .er, .plw, .singw, .u, .plw {
-        font-family: inherit
+        font-family: inherit;
         font-variant: normal;
         font-feature-settings: 'smcp';
     }
