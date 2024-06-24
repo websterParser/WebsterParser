@@ -1,6 +1,6 @@
 {
   "name": "websterparser",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Parses the Webster Unabridged Dictionary from GCIDE into a more usable format",
   "main": "index.js",
   "license": "GPL-3.0-or-later",
