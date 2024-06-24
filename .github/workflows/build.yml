@@ -43,7 +43,7 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - name: Download Dictionary Development Kit
-        uses: carlosperate/download-file-action@v2
+        uses: jeffbyrnes/download-file-action@nodejsv20
         id: download-ddk
         with:
           file-url: https://jbyrnes.s3.us-east-1.amazonaws.com/dictionary-development-kit.zip
